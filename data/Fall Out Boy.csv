@@ -1,0 +1,113 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+Believers Never Die (Volume Two),11,6ulUsbo0byNEgHHloz55Rp,I've Been Waiting,spotify:track:6ulUsbo0byNEgHHloz55Rp,0.156,0.743,0.85,0.0,0.163,-3.568,0.0399,129.926,0.942,0
+Believers Never Die (Volume Two),12,1tm4Bl2E5RwTevOiBs4gtH,Dear Future Self (Hands Up),spotify:track:1tm4Bl2E5RwTevOiBs4gtH,0.0032,0.535,0.925,0.000359,0.0316,-3.012,0.239,169.901,0.949,60
+Believers Never Die (Volume Two),13,3liDoBAc3NGI8tmWUTOAed,Bob Dylan,spotify:track:3liDoBAc3NGI8tmWUTOAed,0.000353,0.494,0.915,0.0491,0.352,-3.623,0.0484,100.08,0.522,58
+MANIA,1,0hfByzDRgR10HDLqm89lA9,Stay Frosty Royal Milk Tea,spotify:track:0hfByzDRgR10HDLqm89lA9,0.000616,0.461,0.869,8.19e-06,0.25,-4.672,0.0731,145.919,0.649,58
+MANIA,3,0Q9vbV7G2Q6lts13nY9YGP,HOLD ME TIGHT OR DON’T,spotify:track:0Q9vbV7G2Q6lts13nY9YGP,0.00699,0.582,0.925,2.9e-06,0.108,-4.366,0.0523,95.987,0.788,61
+MANIA,4,2W6kVW3UZ3hwr4qbfCDp6B,Wilson (Expensive Mistakes),spotify:track:2W6kVW3UZ3hwr4qbfCDp6B,0.0241,0.492,0.805,0.0,0.107,-4.372,0.0603,152.035,0.66,59
+MANIA,5,0OUQhRKgGSb0PPrLUuEQka,Church,spotify:track:0OUQhRKgGSb0PPrLUuEQka,0.0014,0.37,0.901,0.0,0.25,-3.393,0.05,167.995,0.401,58
+MANIA,6,4lN5YgMQNBANIKWSl6G54k,Heaven’s Gate,spotify:track:4lN5YgMQNBANIKWSl6G54k,0.0166,0.398,0.586,0.0,0.334,-4.975,0.0344,176.043,0.214,53
+MANIA,7,1DRUwJSt2YOUUEz965OJ66,Champion,spotify:track:1DRUwJSt2YOUUEz965OJ66,0.000927,0.31,0.905,3.1e-05,0.431,-4.109,0.253,187.796,0.309,60
+MANIA,8,0ZqqrBHeSeyZahfcyw9N8O,Sunshine Riptide,spotify:track:0ZqqrBHeSeyZahfcyw9N8O,0.00163,0.585,0.731,0.0,0.0462,-5.186,0.0376,133.981,0.804,54
+MANIA,10,5lKI9qLSJkWWJ6USwMu6jF,Bishops Knife Trick,spotify:track:5lKI9qLSJkWWJ6USwMu6jF,0.0134,0.443,0.755,0.0,0.0903,-4.818,0.0357,139.852,0.383,51
+MANIA,2,6e13443Ve7RGcAUScTgYtl,The Last Of The Real Ones,spotify:track:6e13443Ve7RGcAUScTgYtl,0.00599,0.576,0.872,0.0,0.188,-5.293,0.0471,115.042,0.559,63
+MANIA,9,6XEPmHllDGDaO4w84Xjtgi,Young And Menace,spotify:track:6XEPmHllDGDaO4w84Xjtgi,0.112,0.646,0.833,0.000462,0.121,-5.134,0.057,108.003,0.278,55
+Make America Psycho Again,12,63uj7uLdCmhuMtTb1A7hY2,Uma Thurman - Fall Out Boy vs. Didrick,spotify:track:63uj7uLdCmhuMtTb1A7hY2,0.0142,0.621,0.915,0.0167,0.1,-4.632,0.0519,150.006,0.715,5
+Make America Psycho Again,13,3yDCYMW6MbN9Z22Kk02QfF,Irresistible - Revised Audio,spotify:track:3yDCYMW6MbN9Z22Kk02QfF,0.0461,0.504,0.893,0.0,0.186,-4.508,0.0767,165.046,0.377,13
+Make America Psycho Again,1,7q6UVd7B02FlcLc7d13M3q,Irresistible - Remix,spotify:track:7q6UVd7B02FlcLc7d13M3q,0.00223,0.636,0.84,0.0,0.669,-5.218,0.0964,82.525,0.502,40
+Make America Psycho Again,2,27LdcKt7akmHzSW4d2vpwI,American Beauty/American Psycho - Remix,spotify:track:27LdcKt7akmHzSW4d2vpwI,0.00588,0.598,0.829,0.000401,0.308,-7.23,0.132,150.963,0.647,38
+Make America Psycho Again,3,4LutIwQfcpXjVs7mIySYCD,Centuries - Remix,spotify:track:4LutIwQfcpXjVs7mIySYCD,0.0758,0.603,0.839,0.0,0.342,-3.617,0.102,176.109,0.613,45
+Make America Psycho Again,4,3MZaCGdiJmxpvdNpSCS63p,The Kids Aren't Alright - Remix,spotify:track:3MZaCGdiJmxpvdNpSCS63p,0.00753,0.725,0.798,0.000166,0.15,-5.84,0.0313,115.993,0.513,36
+Make America Psycho Again,5,6hVCCmziVhcCz7K5Uq1tqq,Uma Thurman - Remix,spotify:track:6hVCCmziVhcCz7K5Uq1tqq,0.00133,0.642,0.864,8.1e-05,0.203,-5.614,0.0868,146.943,0.329,41
+Make America Psycho Again,6,4z3kBx5gG2Cc48xQ0yy7eX,Jet Pack Blues - Remix,spotify:track:4z3kBx5gG2Cc48xQ0yy7eX,0.0453,0.641,0.691,0.0,0.353,-5.503,0.161,94.15,0.348,39
+Make America Psycho Again,7,3boDNzgRvOKrKG2jhJohs1,Novocaine - Remix,spotify:track:3boDNzgRvOKrKG2jhJohs1,0.0113,0.673,0.853,0.00278,0.202,-5.988,0.0459,135.97,0.337,37
+Make America Psycho Again,8,100sCINfy627goqupakk1R,Fourth Of July - Remix,spotify:track:100sCINfy627goqupakk1R,0.00232,0.483,0.852,4.15e-05,0.285,-5.671,0.0498,159.986,0.327,37
+Make America Psycho Again,9,5gfzBDXhZgGBmfEDRAbbvi,Favorite Record - Remix,spotify:track:5gfzBDXhZgGBmfEDRAbbvi,0.002,0.751,0.832,0.595,0.703,-6.593,0.0535,126.939,0.432,36
+Make America Psycho Again,10,298iDRyDz6nscweqxCvXbJ,Immortals - Remix,spotify:track:298iDRyDz6nscweqxCvXbJ,0.0567,0.66,0.777,0.0,0.119,-5.131,0.0506,108.136,0.481,39
+Make America Psycho Again,11,6ev6drm6SmNHoTEi2WXwcl,Twin Skeleton's (Hotel In NYC) - Remix,spotify:track:6ev6drm6SmNHoTEi2WXwcl,0.00194,0.594,0.879,0.000672,0.324,-5.123,0.0651,160.01,0.677,36
+American Beauty/American Psycho,1,3znPiywA0q1VK2jgAZFDoI,Irresistible,spotify:track:3znPiywA0q1VK2jgAZFDoI,0.071,0.487,0.937,0.0,0.236,-3.123,0.11,164.996,0.445,63
+American Beauty/American Psycho,2,3D4Xkcir5YEhk8Xidkd1dL,American Beauty/American Psycho,spotify:track:3D4Xkcir5YEhk8Xidkd1dL,0.00711,0.492,0.932,0.0,0.177,-2.401,0.204,151.169,0.635,56
+American Beauty/American Psycho,3,04aAxqtGp5pv12UXAg4pkq,Centuries,spotify:track:04aAxqtGp5pv12UXAg4pkq,0.00359,0.394,0.858,0.0,0.102,-2.868,0.0729,176.044,0.56,79
+American Beauty/American Psycho,4,3x7NGlfDKQYN2wnwEnL7r9,The Kids Aren't Alright,spotify:track:3x7NGlfDKQYN2wnwEnL7r9,0.000246,0.615,0.763,0.134,0.298,-4.189,0.0322,115.99,0.333,61
+American Beauty/American Psycho,5,5PUawWFG1oIS2NwEcyHaCr,Uma Thurman,spotify:track:5PUawWFG1oIS2NwEcyHaCr,0.102,0.622,0.961,0.00016,0.264,-2.616,0.0669,149.962,0.687,69
+American Beauty/American Psycho,6,7d0R90VzB45UWf3Aey0X22,Jet Pack Blues,spotify:track:7d0R90VzB45UWf3Aey0X22,0.00784,0.548,0.889,0.00884,0.341,-4.52,0.128,156.05,0.365,57
+American Beauty/American Psycho,7,5F0bmCjKUufNz1bHXfgRwe,Novocaine,spotify:track:5F0bmCjKUufNz1bHXfgRwe,0.00654,0.535,0.974,0.00101,0.357,-2.838,0.0959,136.005,0.47,59
+American Beauty/American Psycho,8,1vrjcPplEuenckUzGGp2UR,Fourth Of July,spotify:track:1vrjcPplEuenckUzGGp2UR,0.139,0.437,0.974,0.01,0.406,-3.388,0.139,79.956,0.515,59
+American Beauty/American Psycho,9,4vC4nKK6bk9pYEVOU4EIbA,Favorite Record,spotify:track:4vC4nKK6bk9pYEVOU4EIbA,0.00621,0.66,0.944,0.271,0.823,-3.692,0.0537,127.02,0.683,54
+American Beauty/American Psycho,10,3Te8uLyit6X3ncNW8Fp3K2,Immortals,spotify:track:3Te8uLyit6X3ncNW8Fp3K2,0.00131,0.615,0.868,1.54e-06,0.671,-3.606,0.07,108.017,0.475,73
+American Beauty/American Psycho,11,2WWP0IPX9xFjAMraNHX390,Twin Skeleton's (Hotel In NYC),spotify:track:2WWP0IPX9xFjAMraNHX390,0.00219,0.413,0.939,0.00225,0.366,-2.549,0.131,160.085,0.187,56
+Save Rock And Roll,12,2KtaXE4j8kRH8u1Rs9ZAIw,My Songs Know What You Did In The Dark (Light Em Up) - 2 Chainz Remix,spotify:track:2KtaXE4j8kRH8u1Rs9ZAIw,0.311,0.64,0.883,6.48e-06,0.32,-3.851,0.0729,152.0,0.564,11
+Save Rock And Roll,1,7jwDuO7UZvWs77KNj9HbvF,The Phoenix,spotify:track:7jwDuO7UZvWs77KNj9HbvF,0.000539,0.562,0.964,1.57e-06,0.579,-2.991,0.072,138.063,0.41,68
+Save Rock And Roll,2,2E43WFS4rRc09za2r2GmZl,My Songs Know What You Did In The Dark (Light Em Up),spotify:track:2E43WFS4rRc09za2r2GmZl,0.0271,0.558,0.924,3.32e-06,0.537,-4.341,0.064,151.99,0.567,69
+Save Rock And Roll,3,75SixhsPWyRRmtqHeffiXr,Alone Together,spotify:track:75SixhsPWyRRmtqHeffiXr,0.0013,0.552,0.915,3.74e-05,0.206,-3.713,0.0559,90.013,0.606,60
+Save Rock And Roll,4,3Q7jFW6nxqhwbUctqqthSa,Where Did The Party Go,spotify:track:3Q7jFW6nxqhwbUctqqthSa,0.00368,0.631,0.891,0.00124,0.157,-4.202,0.0998,119.96,0.677,54
+Save Rock And Roll,5,5OMCffelD9cnJCgG3xnHzU,Just One Yesterday,spotify:track:5OMCffelD9cnJCgG3xnHzU,0.0423,0.508,0.907,6.83e-05,0.221,-3.443,0.0565,104.997,0.587,60
+Save Rock And Roll,6,4rNOFJdwQq0ulVDKOF447L,The Mighty Fall,spotify:track:4rNOFJdwQq0ulVDKOF447L,0.0612,0.511,0.95,0.0,0.203,-3.833,0.184,151.943,0.539,52
+Save Rock And Roll,7,4pXqUELqAFyjlU2vx3BHRR,Miss Missing You,spotify:track:4pXqUELqAFyjlU2vx3BHRR,4.46e-05,0.556,0.851,1.97e-05,0.211,-2.981,0.0443,114.948,0.271,52
+Save Rock And Roll,8,339ClrzKvO3L5GHld8RFBO,Death Valley,spotify:track:339ClrzKvO3L5GHld8RFBO,0.000217,0.571,0.926,0.00376,0.0522,-3.576,0.0479,133.903,0.576,52
+Save Rock And Roll,9,4yXNMbZrsFJbPTH0WfhwEB,Young Volcanoes,spotify:track:4yXNMbZrsFJbPTH0WfhwEB,0.00123,0.599,0.853,0.000504,0.37,-3.878,0.0365,94.997,0.676,57
+Save Rock And Roll,10,4msiwW31mowpBoEU9htPDU,Rat A Tat,spotify:track:4msiwW31mowpBoEU9htPDU,0.000172,0.474,0.853,0.00121,0.109,-3.775,0.12,170.076,0.559,50
+Save Rock And Roll,11,6SFTYQSczxhBNKR5bYjGMD,Save Rock And Roll,spotify:track:6SFTYQSczxhBNKR5bYjGMD,0.0756,0.557,0.777,4.29e-05,0.1,-6.286,0.0635,144.968,0.449,56
+Live In Tokyo,1,3HIN2WMbQf8Hcd8uWnch9O,Thriller - Live In Tokyo / 2013,spotify:track:3HIN2WMbQf8Hcd8uWnch9O,0.000351,0.349,0.684,9.98e-05,0.375,-13.542,0.0501,92.552,0.182,3
+Live In Tokyo,2,0oIxIt90cmzBF6pakFw080,"This Ain't A Scene, It's An Arms Race - Live In Tokyo / 2013",spotify:track:0oIxIt90cmzBF6pakFw080,3.06e-05,0.476,0.818,0.0,0.927,-12.285,0.0557,104.132,0.24,3
+Live In Tokyo,3,7j8fe5k3EX1wtMIKNwgFtm,Grand Theft Autumn / Where Is Your Boy - Live In Tokyo / 2013,spotify:track:7j8fe5k3EX1wtMIKNwgFtm,0.000185,0.405,0.836,0.0,0.658,-12.164,0.051,138.172,0.198,2
+Live In Tokyo,4,30ZZfEiIkoMzVq79Z1JHZM,"Dance, Dance - Live In Tokyo / 2013",spotify:track:30ZZfEiIkoMzVq79Z1JHZM,2.71e-05,0.531,0.791,9e-06,0.864,-12.391,0.0949,114.551,0.118,3
+Live In Tokyo,5,5AQBzO2tW7GgVfla5pzeMX,I Don't Care - Live In Tokyo / 2013,spotify:track:5AQBzO2tW7GgVfla5pzeMX,0.00018,0.427,0.825,1.4e-06,0.977,-11.102,0.0463,134.043,0.256,3
+Live In Tokyo,6,5aNzfZYnQCAEtRg3fg3uJT,My Songs Know What You Did In The Dark (Light Em Up) - Live In Tokyo / 2013,spotify:track:5aNzfZYnQCAEtRg3fg3uJT,0.0107,0.416,0.853,0.0,0.775,-11.706,0.0564,151.998,0.38,3
+Live In Tokyo,7,4ED9SzwEi3Ch4mHLC1ZawM,Beat It - Live In Tokyo / 2013,spotify:track:4ED9SzwEi3Ch4mHLC1ZawM,0.00199,0.444,0.764,2.7e-05,0.39,-12.378,0.0495,150.008,0.468,3
+Save Rock And Roll (Commentary),1,4Dp0H6tNuymmBNCVfFg0IJ,The Phoenix - Commentary,spotify:track:4Dp0H6tNuymmBNCVfFg0IJ,0.65,0.757,0.279,0.0,0.256,-18.433,0.327,47.262,0.605,24
+Save Rock And Roll (Commentary),2,5blRMrvo9dIAs6nKS0Z6V4,My Songs Know What You Did In The Dark (Light Em Up) - Commentary,spotify:track:5blRMrvo9dIAs6nKS0Z6V4,0.713,0.712,0.393,0.0,0.189,-16.658,0.374,127.68,0.538,23
+Save Rock And Roll (Commentary),3,0lpGgWNB8la669nENipFZU,Alone Together - Commentary,spotify:track:0lpGgWNB8la669nENipFZU,0.765,0.663,0.332,0.0,0.246,-15.087,0.451,97.001,0.62,21
+Save Rock And Roll (Commentary),4,5cIxFEXCzTZuL2MjA2dq9e,Where Did The Party Go - Commentary,spotify:track:5cIxFEXCzTZuL2MjA2dq9e,0.516,0.653,0.275,0.0,0.141,-19.247,0.327,82.476,0.767,21
+Save Rock And Roll (Commentary),5,0BozrTkc5NMxWlnYoMNQLv,Just One Yesterday - Commentary,spotify:track:0BozrTkc5NMxWlnYoMNQLv,0.818,0.755,0.23,0.0,0.444,-18.644,0.101,103.287,0.682,20
+Save Rock And Roll (Commentary),6,0XxjmvqNRuUon0JkFFX8pw,The Mighty Fall - Commentary,spotify:track:0XxjmvqNRuUon0JkFFX8pw,0.585,0.748,0.354,0.0,0.253,-15.816,0.461,61.971,0.599,20
+Save Rock And Roll (Commentary),7,013b4jvQg5PNBuG8urxcjc,Miss Missing You - Commentary,spotify:track:013b4jvQg5PNBuG8urxcjc,0.657,0.736,0.442,0.0,0.195,-15.89,0.344,102.817,0.511,20
+Save Rock And Roll (Commentary),8,5dKUzaGktsp52mUNL4RImi,Death Valley - Commentary,spotify:track:5dKUzaGktsp52mUNL4RImi,0.587,0.618,0.311,0.0,0.117,-16.406,0.472,72.616,0.454,19
+Save Rock And Roll (Commentary),9,2G11MU4SMMHlA8rme5N7kd,Young Volcanoes - Commentary,spotify:track:2G11MU4SMMHlA8rme5N7kd,0.757,0.716,0.302,0.0,0.195,-14.762,0.477,72.607,0.732,19
+Save Rock And Roll (Commentary),10,1hm9XkSg41mkHRwXqQkPT5,Rat A Tat - Commentary,spotify:track:1hm9XkSg41mkHRwXqQkPT5,0.543,0.76,0.316,0.0,0.224,-19.04,0.22,109.509,0.54,19
+Save Rock And Roll (Commentary),11,2ShOsgN7WwrUtEL7UmwqwS,Save Rock And Roll - Commentary,spotify:track:2ShOsgN7WwrUtEL7UmwqwS,0.408,0.716,0.277,0.0,0.318,-18.634,0.437,74.855,0.44,19
+**** Live In Phoenix,1,525Wc5pBnvEZmfr1mXWv4R,Thriller - Live At The Cricket Pavillion /2007,spotify:track:525Wc5pBnvEZmfr1mXWv4R,0.115,0.145,0.985,0.0555,0.348,-5.028,0.541,184.891,0.0609,24
+**** Live In Phoenix,2,5obII1Sa9rPpPGXkYT53RO,Grand Theft Autumn / Where Is Your Boy - Live At The Cricket Pavillion /2007,spotify:track:5obII1Sa9rPpPGXkYT53RO,0.00548,0.423,0.984,0.00411,0.937,-3.23,0.134,138.073,0.249,24
+**** Live In Phoenix,3,3af8j4E9x409xk2flBoHqD,"Sugar, We're Goin Down - Live At The Cricket Pavillion /2007",spotify:track:3af8j4E9x409xk2flBoHqD,0.0122,0.384,0.895,0.000114,0.38,-3.684,0.0738,168.127,0.463,26
+**** Live In Phoenix,4,30hgb9AYMMhf8STOa7kD3G,Our Lawyer Made Us Change The Name Of This Song So We Wouldn't Get Sued - Live At The Cricket Pavillion /2007,spotify:track:30hgb9AYMMhf8STOa7kD3G,0.00126,0.415,0.984,0.0559,0.969,-3.859,0.0804,76.995,0.348,23
+**** Live In Phoenix,5,1Pd7INu4sAq2IPCojKaQax,Hum Hallelujah - Live At The Cricket Pavillion /2007,spotify:track:1Pd7INu4sAq2IPCojKaQax,0.0222,0.391,0.957,0.0173,0.771,-4.069,0.0987,187.046,0.513,22
+**** Live In Phoenix,6,4bpEHkJuadYSKCOBxEYww2,Tell That Mick He Just Made My List Of Things To Do Today - Live At The Cricket Pavillion /2007,spotify:track:4bpEHkJuadYSKCOBxEYww2,0.00156,0.479,0.987,1.18e-05,0.737,-3.255,0.0995,99.505,0.235,22
+**** Live In Phoenix,7,1V8I9lCbXUkmhQqrZlt0VR,I'm Like A Lawyer With The Way I'm Always Trying To Get You Off (Me & You) - Live At The Cricket Pavillion /2007,spotify:track:1V8I9lCbXUkmhQqrZlt0VR,0.00409,0.343,0.835,0.000103,0.825,-3.488,0.0406,190.001,0.391,22
+**** Live In Phoenix,8,2hA6TtD1CAVPKY09dbOmPH,"A Little Less Sixteen Candles, A Little More ""Touch Me"" - Live At The Cricket Pavillion /2007",spotify:track:2hA6TtD1CAVPKY09dbOmPH,0.00503,0.506,0.956,1.97e-05,0.898,-3.526,0.0451,132.963,0.617,22
+**** Live In Phoenix,9,4BzJMmoljvNE16i9NN8nO1,Beat It - Live At The Cricket Pavillion /2007,spotify:track:4BzJMmoljvNE16i9NN8nO1,0.28,0.583,0.877,0.0018,0.824,-3.901,0.138,148.176,0.82,24
+**** Live In Phoenix,10,4io27hPj3XwN0GAI2d7YlN,Golden - Live At The Cricket Pavillion /2007,spotify:track:4io27hPj3XwN0GAI2d7YlN,0.571,0.385,0.398,0.0,0.695,-8.78,0.0317,102.593,0.193,22
+**** Live In Phoenix,11,7H6Db6IIHRmPd7R6qItd4x,"This Ain't A Scene, It's An Arms Race - Live At The Cricket Pavillion /2007",spotify:track:7H6Db6IIHRmPd7R6qItd4x,0.0132,0.536,0.957,3.67e-05,0.805,-3.371,0.0671,103.959,0.354,25
+**** Live In Phoenix,12,5omMBlLFlij7JODNabtVDV,Thnks fr th Mmrs - Live At The Cricket Pavillion /2007,spotify:track:5omMBlLFlij7JODNabtVDV,0.0517,0.429,0.933,2.8e-05,0.898,-4.196,0.146,160.112,0.315,25
+**** Live In Phoenix,13,0JHXrhEpPNEte9MxivbTOO,"""The Take Over, The Breaks Over"" - Live At The Cricket Pavillion /2007",spotify:track:0JHXrhEpPNEte9MxivbTOO,0.0569,0.521,0.904,0.0,0.707,-3.445,0.0611,153.002,0.716,23
+**** Live In Phoenix,14,28EarSm5DYodu3z8taz8cn,"Dance, Dance - Live At The Cricket Pavillion /2007",spotify:track:28EarSm5DYodu3z8taz8cn,0.00948,0.606,0.984,0.000274,0.804,-3.22,0.0789,114.538,0.445,24
+**** Live In Phoenix,15,7AeJBXsZzKaPeIH7mmqTqr,Saturday - Live At The Cricket Pavillion /2007,spotify:track:7AeJBXsZzKaPeIH7mmqTqr,0.00445,0.452,0.981,0.00491,0.793,-3.535,0.0849,102.549,0.348,21
+**** Live In Phoenix,16,3C65zQ69c8RMiJ3wqB1ogp,Beat It - Studio Version,spotify:track:3C65zQ69c8RMiJ3wqB1ogp,0.0378,0.56,0.93,2.37e-06,0.317,-4.492,0.0661,149.93,0.807,53
+Live In Phoenix,1,79EH9bYjaTvmsE1H2TFIcL,Thriller,spotify:track:79EH9bYjaTvmsE1H2TFIcL,0.0977,0.144,0.984,0.0389,0.36,-5.043,0.559,184.845,0.062,24
+Live In Phoenix,2,3FMS3X91AaCFUyUQCnAdZ6,Grand Theft Autumn / Where Is Your Boy,spotify:track:3FMS3X91AaCFUyUQCnAdZ6,0.00558,0.424,0.98,0.00426,0.935,-3.2,0.157,138.104,0.225,23
+Live In Phoenix,3,7GpFvT1qi8mkwdIjSbfiSh,"Sugar, We're Goin Down",spotify:track:7GpFvT1qi8mkwdIjSbfiSh,0.0107,0.384,0.907,9.32e-05,0.392,-3.685,0.0753,168.064,0.434,26
+Live In Phoenix,4,2Yy62OMoHAb5cfpmCO3Zxg,Our Lawyer Made Us Change The Name Of This Song So We Wouldn't Get Sued,spotify:track:2Yy62OMoHAb5cfpmCO3Zxg,0.00135,0.402,0.976,0.0321,0.978,-3.824,0.0761,153.959,0.369,23
+Live In Phoenix,5,4oLUW3uOjddpd974j1RKWr,Hum Hallelujah,spotify:track:4oLUW3uOjddpd974j1RKWr,0.0199,0.39,0.961,0.0106,0.811,-4.064,0.0967,187.011,0.497,22
+Live In Phoenix,6,0x5iCDgFVaVgCnHgDU0LSP,Tell That Mick He Just Made My List Of Things To Do Today,spotify:track:0x5iCDgFVaVgCnHgDU0LSP,0.00164,0.474,0.987,1.27e-05,0.728,-3.26,0.132,99.487,0.233,21
+Live In Phoenix,7,4vK8RqyxPfPNTmBaNcIPIx,I'm Like A Lawyer With The Way I'm Always Trying To Get You Off (Me & You),spotify:track:4vK8RqyxPfPNTmBaNcIPIx,0.00463,0.353,0.839,4.58e-05,0.829,-3.509,0.0401,189.941,0.384,22
+Live In Phoenix,8,6G88rdUvEwydWU0xnILXBh,"A Little Less Sixteen Candles, A Little More ""Touch Me""",spotify:track:6G88rdUvEwydWU0xnILXBh,0.00499,0.509,0.944,8.24e-06,0.38,-3.474,0.0396,132.984,0.699,22
+Live In Phoenix,9,0BrgzTEWfI0QZLRJqzJbPa,Beat It - Studio Version Featuring John Mayer,spotify:track:0BrgzTEWfI0QZLRJqzJbPa,0.0442,0.559,0.939,2.27e-06,0.315,-3.409,0.0679,149.979,0.824,47
+Live In Phoenix,10,76HLlU4iPwsTz4hj54a7AY,Golden,spotify:track:76HLlU4iPwsTz4hj54a7AY,0.545,0.548,0.382,0.0,0.954,-8.829,0.0305,102.765,0.175,22
+Live In Phoenix,11,1Aec2rbvd4fEP9iuDIVeOE,"This Ain't A Scene, It's An Arms Race",spotify:track:1Aec2rbvd4fEP9iuDIVeOE,0.0111,0.537,0.955,4.16e-05,0.762,-3.397,0.0743,104.046,0.379,25
+Live In Phoenix,12,1LA4zdhqeRAGqOlz1NcUyo,Thnks fr th Mmrs,spotify:track:1LA4zdhqeRAGqOlz1NcUyo,0.0411,0.431,0.925,2.16e-05,0.933,-4.207,0.145,160.132,0.33,25
+Live In Phoenix,13,1YZEzanlzYZHx6zd3EavhO,"""The Take Over, The Breaks Over""",spotify:track:1YZEzanlzYZHx6zd3EavhO,0.0652,0.523,0.899,0.0,0.715,-3.455,0.0587,152.998,0.732,22
+Live In Phoenix,14,0QojkRAhg54TGU68xMPYc6,"Dance, Dance",spotify:track:0QojkRAhg54TGU68xMPYc6,0.00982,0.61,0.987,0.000143,0.807,-3.196,0.0789,114.532,0.446,24
+Live In Phoenix,15,7kPcWZdejXq6xnfRxesvWn,Saturday,spotify:track:7kPcWZdejXq6xnfRxesvWn,0.00451,0.453,0.983,0.00555,0.799,-3.515,0.0918,102.5,0.328,21
+Folie à Deux,2,26VG1uCazw9xtVnq8A1vtd,I Don't Care,spotify:track:26VG1uCazw9xtVnq8A1vtd,0.00171,0.55,0.938,2.18e-05,0.555,-3.556,0.0522,133.99,0.433,60
+Folie à Deux,1,4qg2rXtE20scfPhGvG5tqq,Disloyal Order Of Water Buffaloes,spotify:track:4qg2rXtE20scfPhGvG5tqq,0.0108,0.453,0.906,0.0,0.657,-3.606,0.064,146.96,0.361,49
+Folie à Deux,2,7ewT0nLFkMD8ONbRibePr9,I Don't Care - Single Version,spotify:track:7ewT0nLFkMD8ONbRibePr9,0.00171,0.55,0.938,2.18e-05,0.555,-3.556,0.0522,133.99,0.433,59
+Folie à Deux,3,6Mk0xtgL6tZ7XQc9GAvobj,She's My Winona,spotify:track:6Mk0xtgL6tZ7XQc9GAvobj,0.000772,0.579,0.963,0.00103,0.495,-4.443,0.0762,136.061,0.613,48
+Folie à Deux,4,3Dg1BK3rHo6mCvzSO2b9Ct,America's Suitehearts,spotify:track:3Dg1BK3rHo6mCvzSO2b9Ct,0.00826,0.483,0.931,0.0,0.107,-3.439,0.044,160.05,0.645,50
+Folie à Deux,5,5qiG5FhrnE7dl0ZxhKc3My,Headfirst Slide Into Cooperstown On A Bad Bet,spotify:track:5qiG5FhrnE7dl0ZxhKc3My,0.00806,0.606,0.768,5.21e-06,0.378,-4.269,0.0326,120.054,0.541,47
+Folie à Deux,6,26TpDCzZwjrYUZkua2X6HF,The (Shipped) Gold Standard,spotify:track:26TpDCzZwjrYUZkua2X6HF,0.0054,0.441,0.75,0.0,0.187,-4.275,0.0377,172.089,0.76,45
+Folie à Deux,7,7iT7qkF9L06cYaIee0aY7B,(Coffee's For Closers),spotify:track:7iT7qkF9L06cYaIee0aY7B,0.00222,0.437,0.946,0.000222,0.405,-2.998,0.08,154.959,0.343,46
+Folie à Deux,8,62Vulfjc2qjCWim4LWBvvc,"What A Catch, Donnie",spotify:track:62Vulfjc2qjCWim4LWBvvc,0.0516,0.481,0.69,1.89e-06,0.173,-4.177,0.0363,128.003,0.459,49
+Folie à Deux,9,6gRgweWPiX1ii33coNlTt8,27,spotify:track:6gRgweWPiX1ii33coNlTt8,0.000928,0.484,0.936,1.05e-05,0.548,-3.547,0.0481,156.984,0.811,45
+Folie à Deux,10,0ogvSCswPsKY7MSMaojWk5,Tiffany Blews,spotify:track:0ogvSCswPsKY7MSMaojWk5,0.00869,0.599,0.886,2.37e-06,0.361,-4.419,0.0565,131.066,0.684,49
+Folie à Deux,11,5z2LeGnH19PuaOuA2Ksmp6,w.a.m.s.,spotify:track:5z2LeGnH19PuaOuA2Ksmp6,0.026,0.387,0.846,4.06e-05,0.146,-6.905,0.0945,127.057,0.37,43
+Folie à Deux,12,3RHZzTT1RhYV6zicKUc4FM,20 Dollar Nose Bleed,spotify:track:3RHZzTT1RhYV6zicKUc4FM,0.0381,0.667,0.871,0.0,0.327,-4.986,0.0487,98.919,0.867,54
+Folie à Deux,13,1Hj3wedxBoOoYPXwk3TzeY,West Coast Smoker,spotify:track:1Hj3wedxBoOoYPXwk3TzeY,0.00368,0.596,0.813,9.95e-06,0.304,-3.763,0.0339,119.984,0.509,43
