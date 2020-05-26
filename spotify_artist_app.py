@@ -146,7 +146,7 @@ final_df = df.sort_values('popularity', ascending=False).drop_duplicates('name')
 
 st.write(final_df.head())
 
-data_path = getcwd() + "Rainstorm_Spotify_App/data"
+data_path = getcwd() + "/Rainstorm_Spotify_App/data"
 
 final_df.to_csv(f"{data_path}/{name}.csv", index=False)
 
