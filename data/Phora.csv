@@ -1,0 +1,138 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+Bury Me With Dead Roses,1,3mpfAWh5pKa7uPesLdN9D8,On My Way,spotify:track:3mpfAWh5pKa7uPesLdN9D8,0.587,0.695,0.62,0.0,0.0923,-8.372,0.325,120.145,0.795,40
+Bury Me With Dead Roses,2,2PMyGYaZW5fnA8t2gsmxI0,Like A Drug,spotify:track:2PMyGYaZW5fnA8t2gsmxI0,0.311,0.465,0.546,0.0,0.105,-10.477,0.15,132.194,0.0356,40
+Bury Me With Dead Roses,3,2g3fVDOsqkpkNHQ2FOZePL,Anything You Need,spotify:track:2g3fVDOsqkpkNHQ2FOZePL,0.0619,0.758,0.442,0.0,0.0993,-11.173,0.0873,139.912,0.166,40
+Bury Me With Dead Roses,4,4N5BivhoFEZNWBSUYUpM5D,Love Yourself,spotify:track:4N5BivhoFEZNWBSUYUpM5D,0.634,0.569,0.484,2.86e-05,0.0937,-12.833,0.415,172.197,0.111,47
+Bury Me With Dead Roses,5,0Jcb7TsYax2x0csjiSkVqP,Blame On Me,spotify:track:0Jcb7TsYax2x0csjiSkVqP,0.222,0.574,0.563,0.000425,0.0956,-9.864,0.415,91.883,0.172,40
+Bury Me With Dead Roses,6,0DWMyA4KOdtjAY5xaWmWsa,All These Thoughts,spotify:track:0DWMyA4KOdtjAY5xaWmWsa,0.123,0.771,0.541,0.0,0.12,-8.735,0.146,145.113,0.51,39
+Bury Me With Dead Roses,7,0zwOJ5o0djYVri3sItfT3R,Te Necesito,spotify:track:0zwOJ5o0djYVri3sItfT3R,0.132,0.535,0.797,0.0,0.108,-7.182,0.298,86.239,0.49,48
+Bury Me With Dead Roses,8,2Y0H1jj7PmUemwU9PZpv5j,Just You,spotify:track:2Y0H1jj7PmUemwU9PZpv5j,0.0113,0.558,0.446,3.72e-05,0.152,-8.019,0.0515,152.065,0.0507,38
+Bury Me With Dead Roses,9,5BlFQQnYMEHhfgV8rF1HZn,Alive,spotify:track:5BlFQQnYMEHhfgV8rF1HZn,0.945,0.356,0.112,0.0,0.0992,-16.114,0.0441,70.769,0.0946,41
+Bury Me With Dead Roses,10,6qlaYq7sQfewQnqB75LHq2,Forgive Me,spotify:track:6qlaYq7sQfewQnqB75LHq2,0.0986,0.692,0.674,0.0,0.113,-11.087,0.566,79.891,0.0324,45
+Bury Me With Dead Roses,11,5j7puA77SgBv7GCKgEUlBM,Never Know,spotify:track:5j7puA77SgBv7GCKgEUlBM,0.263,0.522,0.366,6.85e-06,0.0888,-10.701,0.358,77.856,0.0492,37
+Bury Me With Dead Roses,12,3cDpCJFlQywLG8XTBaJTJM,Lost,spotify:track:3cDpCJFlQywLG8XTBaJTJM,0.631,0.582,0.627,0.0,0.0987,-10.055,0.444,125.952,0.23,41
+Bury Me With Dead Roses,13,6IGEM9bPowBTWOyKT7Ewyw,Back To You,spotify:track:6IGEM9bPowBTWOyKT7Ewyw,0.647,0.533,0.258,0.0,0.125,-15.971,0.409,75.654,0.0395,42
+Bury Me With Dead Roses,14,7wq2rftjwB1h7gYoHdyIwm,Where Did We Go Wrong,spotify:track:7wq2rftjwB1h7gYoHdyIwm,0.618,0.594,0.47,0.0,0.102,-11.033,0.276,147.889,0.118,45
+Bury Me With Dead Roses,15,3JN0LjlYbZ6aRld58zjUMA,How It Feels To Feel Nothing,spotify:track:3JN0LjlYbZ6aRld58zjUMA,0.754,0.612,0.534,0.0,0.103,-14.281,0.664,86.325,0.27,48
+Bury Me With Dead Roses,16,4zRoUDUv23Cq0N0Efgfn8Z,The Dream,spotify:track:4zRoUDUv23Cq0N0Efgfn8Z,0.707,0.537,0.63,0.0,0.0844,-11.484,0.879,80.015,0.42,39
+Love Is Hell,1,2Tn4XArLhjrZEhBKlAle0j,Love Is Hell (feat. Trippie Redd),spotify:track:2Tn4XArLhjrZEhBKlAle0j,0.0113,0.662,0.784,0.0,0.715,-7.164,0.052,98.729,0.107,53
+Love Is Hell,2,0cQcFWXj7QGX4I7GVqee3a,Buss It Down,spotify:track:0cQcFWXj7QGX4I7GVqee3a,0.751,0.716,0.516,6.26e-05,0.108,-9.366,0.0452,81.036,0.585,45
+Love Is Hell,3,0NlCW2NRTH6kwreOScnyfU,Done Playing Nice,spotify:track:0NlCW2NRTH6kwreOScnyfU,0.00754,0.885,0.777,0.0,0.0895,-6.408,0.357,140.046,0.486,34
+Love Is Hell,4,2SzWwq6WsJuIgyR8RrX3iL,For You (feat. Tory Lanez & G-Eazy),spotify:track:2SzWwq6WsJuIgyR8RrX3iL,0.148,0.408,0.724,4.07e-05,0.0786,-8.264,0.478,183.92,0.63,47
+Love Is Hell,5,0P2W7PZIqa47sIYMGAvfD5,Love Me Like,spotify:track:0P2W7PZIqa47sIYMGAvfD5,0.772,0.648,0.547,0.0,0.0792,-9.921,0.342,119.93,0.57,41
+Love Is Hell,6,0KRkgRkBa1fA4vJl8PMOTf,Stuck in My Ways (feat. 6LACK),spotify:track:0KRkgRkBa1fA4vJl8PMOTf,0.0503,0.6,0.484,0.0,0.0995,-8.838,0.145,121.209,0.108,60
+Love Is Hell,7,38Opd4SKonWLffsNDW9zK5,"Sinner, Pt. 3",spotify:track:38Opd4SKonWLffsNDW9zK5,0.391,0.467,0.591,0.0,0.205,-6.066,0.493,174.977,0.321,53
+Love Is Hell,8,5fj0MhZMuOxQ0zSNBYTLif,Romeo (feat. Brandon Vlad),spotify:track:5fj0MhZMuOxQ0zSNBYTLif,0.558,0.645,0.368,0.0,0.104,-13.264,0.24,101.858,0.236,36
+Love Is Hell,9,1JBfzJzm8SDsHm8OEHuVyp,No Scope,spotify:track:1JBfzJzm8SDsHm8OEHuVyp,0.0278,0.475,0.739,0.0,0.0827,-7.411,0.483,92.086,0.327,37
+Love Is Hell,10,5yat1LO9CPzp1SC67VhPpT,Direction,spotify:track:5yat1LO9CPzp1SC67VhPpT,0.607,0.507,0.374,2.86e-05,0.106,-14.27,0.246,110.717,0.0693,37
+Love Is Hell,11,3cSaK6t51ZCzyVzFqLOgOX,Space (feat. Breana Marin),spotify:track:3cSaK6t51ZCzyVzFqLOgOX,0.106,0.755,0.45,2.72e-06,0.181,-12.693,0.226,96.009,0.361,39
+Love Is Hell,12,5s6sPgr0vZS7PRQk49JQT6,Her,spotify:track:5s6sPgr0vZS7PRQk49JQT6,0.951,0.512,0.572,0.0,0.13,-10.573,0.424,84.129,0.256,43
+Love Is Hell,13,2Cmashi3O9I8my5NnbQgqe,Feel,spotify:track:2Cmashi3O9I8my5NnbQgqe,0.153,0.829,0.457,1.23e-05,0.0772,-10.91,0.0729,118.015,0.257,54
+Love Is Hell,14,5PXNWMf4HqRzIxpRKcwHfB,Back Then,spotify:track:5PXNWMf4HqRzIxpRKcwHfB,0.464,0.475,0.484,0.0141,0.0917,-8.442,0.176,93.322,0.392,34
+Love Is Hell,15,6FC1M8KMmAPQuMVXiuRY0B,Til Infinity,spotify:track:6FC1M8KMmAPQuMVXiuRY0B,0.0796,0.649,0.755,0.0,0.111,-9.838,0.502,184.156,0.0465,38
+Yours Truly Forever,1,6CC0mgoZgDGP7QwoAYoQkF,God,spotify:track:6CC0mgoZgDGP7QwoAYoQkF,0.873,0.484,0.625,0.0,0.372,-9.445,0.278,144.065,0.342,40
+Yours Truly Forever,2,1SvcQjpUz7g8hVKM7ClSWE,R U Still,spotify:track:1SvcQjpUz7g8hVKM7ClSWE,0.0899,0.71,0.44,0.0,0.0823,-10.771,0.318,117.438,0.119,45
+Yours Truly Forever,3,6Gw1Ke0vN571pOtnEoZyPh,Facts,spotify:track:6Gw1Ke0vN571pOtnEoZyPh,0.126,0.807,0.549,0.0,0.109,-7.987,0.3,120.035,0.475,34
+Yours Truly Forever,4,16WevJS18u6XmYdzARUHLj,Way 2 Much,spotify:track:16WevJS18u6XmYdzARUHLj,0.404,0.621,0.709,0.0,0.0996,-10.869,0.847,78.923,0.432,36
+Yours Truly Forever,5,0B3KOB7fkjOlCFe075aial,"Sinner, Pt. 2",spotify:track:0B3KOB7fkjOlCFe075aial,0.764,0.409,0.736,0.0,0.0837,-5.686,0.495,185.114,0.451,55
+Yours Truly Forever,6,6Umac95Mt46VcwAM9s9mOa,To the Moon,spotify:track:6Umac95Mt46VcwAM9s9mOa,0.624,0.54,0.572,0.0,0.14,-8.665,0.115,82.562,0.43,65
+Yours Truly Forever,7,0IN6IF8hEEiZFu6r74tZb5,Forever,spotify:track:0IN6IF8hEEiZFu6r74tZb5,0.061,0.774,0.493,0.0,0.072,-8.277,0.365,171.946,0.17,42
+Yours Truly Forever,8,5Rei765DQNLNzLBesnAQCP,Numb,spotify:track:5Rei765DQNLNzLBesnAQCP,0.15,0.425,0.55,0.0,0.0981,-9.942,0.404,173.363,0.138,51
+Yours Truly Forever,9,1ZvpyDnJOluAYY2k4hr4LN,Rider,spotify:track:1ZvpyDnJOluAYY2k4hr4LN,0.0598,0.394,0.709,0.0,0.144,-7.314,0.335,154.256,0.303,37
+Yours Truly Forever,10,74RMUkSaE5CQ3WRtcB6hk5,Loyalty,spotify:track:74RMUkSaE5CQ3WRtcB6hk5,0.0102,0.752,0.66,0.0,0.095,-4.424,0.233,116.079,0.2,46
+Yours Truly Forever,11,1CrWOnaCmUQZ855ZoAjoY5,No Looking Back,spotify:track:1CrWOnaCmUQZ855ZoAjoY5,0.742,0.517,0.644,0.0,0.134,-8.531,0.524,89.162,0.463,35
+Yours Truly Forever,12,4KB41ofJUh3jxhIhwnosLE,Everybody Knows,spotify:track:4KB41ofJUh3jxhIhwnosLE,0.00896,0.637,0.5,0.0,0.105,-10.582,0.301,114.088,0.332,35
+Yours Truly Forever,13,3xSJ1r1sf4Iw3EueaLVHdY,Run To,spotify:track:3xSJ1r1sf4Iw3EueaLVHdY,0.0172,0.753,0.45,0.0,0.102,-9.569,0.206,128.037,0.242,38
+Yours Truly Forever,14,4vRTJ0XWvOmPGqQuz4tKd9,I Come Apart,spotify:track:4vRTJ0XWvOmPGqQuz4tKd9,0.00716,0.6,0.673,0.0,0.108,-5.035,0.109,82.101,0.25,33
+Yours Truly Forever,15,5u1BT5X5SN2TgkD3CwT5fk,In My Eyez,spotify:track:5u1BT5X5SN2TgkD3CwT5fk,0.87,0.573,0.536,0.0,0.139,-8.729,0.278,82.429,0.79,35
+Yours Truly Forever,16,4SXtlCbDTlosL1vmDqlMYG,When It's Over (feat. Tiffany Evans),spotify:track:4SXtlCbDTlosL1vmDqlMYG,0.78,0.568,0.44,0.0,0.073,-13.159,0.44,81.425,0.448,45
+With Love,1,0xj7MDsRyGsAiW3qZAkCVM,So Far to Go,spotify:track:0xj7MDsRyGsAiW3qZAkCVM,0.71,0.596,0.781,3.25e-06,0.652,-9.184,0.911,79.433,0.265,33
+With Love,2,6yKhj4bz3LCpw9fsDbqgrQ,Sinner,spotify:track:6yKhj4bz3LCpw9fsDbqgrQ,0.0825,0.493,0.649,0.0,0.117,-5.586,0.191,127.29,0.136,53
+With Love,3,5EG7HKtnq3tcvSooeO02i0,Where Will You Be,spotify:track:5EG7HKtnq3tcvSooeO02i0,0.603,0.604,0.865,0.0,0.095,-7.957,0.655,74.342,0.218,35
+With Love,4,4YwH8ce2em7kL9uiQDaPLx,Distance,spotify:track:4YwH8ce2em7kL9uiQDaPLx,0.536,0.563,0.48,0.0,0.0746,-9.85,0.38,69.916,0.0889,37
+With Love,5,5KBStnOIOkFXZuy5e9LrlF,Nobody but You,spotify:track:5KBStnOIOkFXZuy5e9LrlF,0.337,0.566,0.611,3.81e-06,0.0967,-10.305,0.23,119.755,0.115,41
+With Love,6,4H6uJnjhyjxDw1F4jR8irF,Fake Smiles,spotify:track:4H6uJnjhyjxDw1F4jR8irF,0.15,0.461,0.612,0.0,0.086,-8.645,0.522,168.504,0.0374,64
+With Love,7,20MlnmfzYwuGTa3cDHpXKP,Came Up,spotify:track:20MlnmfzYwuGTa3cDHpXKP,0.184,0.708,0.844,0.0,0.422,-6.203,0.303,110.906,0.723,32
+With Love,8,6emAl9j6ZdBxd9T7kyExr8,What I Like,spotify:track:6emAl9j6ZdBxd9T7kyExr8,0.638,0.516,0.716,0.0,0.101,-8.618,0.232,86.477,0.247,37
+With Love,9,0T3Ve9aejoWz4KI1qru74X,Venice Waves / Changes,spotify:track:0T3Ve9aejoWz4KI1qru74X,0.543,0.472,0.659,0.0,0.129,-8.014,0.379,86.914,0.448,34
+With Love,10,4jtJ9KIyAZDuLQPrOMQN4n,Scars,spotify:track:4jtJ9KIyAZDuLQPrOMQN4n,0.73,0.551,0.677,0.0,0.151,-9.3,0.738,109.963,0.302,35
+With Love,11,6YyPm5Vp8dHSbdolzfC3QV,Like Me,spotify:track:6YyPm5Vp8dHSbdolzfC3QV,0.104,0.744,0.435,5.14e-05,0.112,-9.013,0.246,97.998,0.159,49
+With Love,12,39stgJx17gXBtxvPGlVJfl,I Think I Love You,spotify:track:39stgJx17gXBtxvPGlVJfl,0.607,0.544,0.446,0.0,0.0923,-11.735,0.536,115.192,0.469,64
+With Love,13,2QE13HaHGp58BcnRijrHh1,With Love,spotify:track:2QE13HaHGp58BcnRijrHh1,0.65,0.489,0.914,0.0,0.128,-4.592,0.396,80.59,0.379,34
+With Love,14,3WpWg2epmUb7zMTdVajcHL,In a Perfect World,spotify:track:3WpWg2epmUb7zMTdVajcHL,0.872,0.418,0.471,0.0,0.122,-12.021,0.454,68.669,0.154,43
+Angels With Broken Wings,1,4dgw8L3TaVa3i6mmAxZYXg,Unspoken,spotify:track:4dgw8L3TaVa3i6mmAxZYXg,0.947,0.418,0.443,0.0,0.141,-10.12,0.163,80.137,0.461,38
+Angels With Broken Wings,2,1uzW9GtQGaKLoXSWwUahyy,The World,spotify:track:1uzW9GtQGaKLoXSWwUahyy,0.841,0.531,0.827,0.0,0.155,-5.044,0.385,80.809,0.609,27
+Angels With Broken Wings,3,292lSJbpJ9vecCiARG0a4s,Unconditional,spotify:track:292lSJbpJ9vecCiARG0a4s,0.223,0.682,0.648,0.0,0.114,-9.408,0.414,171.935,0.711,25
+Angels With Broken Wings,4,0uEoZuhShhXiA6lZlaKsFK,The Pressure,spotify:track:0uEoZuhShhXiA6lZlaKsFK,0.532,0.606,0.66,2.76e-06,0.111,-7.069,0.263,145.551,0.585,26
+Angels With Broken Wings,5,0EttNXJoThBS9ZqmILNQA2,The One for You,spotify:track:0EttNXJoThBS9ZqmILNQA2,0.322,0.563,0.576,0.0,0.066,-8.053,0.231,82.035,0.517,39
+Angels With Broken Wings,6,36u1ptU6HPA9mFiDIyAI6d,Halos & Devil Horns,spotify:track:36u1ptU6HPA9mFiDIyAI6d,0.388,0.684,0.734,0.0,0.0752,-7.041,0.43,167.994,0.648,27
+Angels With Broken Wings,7,5XMuQ7W7BX3yHv30d7QVC2,People,spotify:track:5XMuQ7W7BX3yHv30d7QVC2,0.407,0.591,0.642,0.00248,0.109,-7.596,0.168,77.81,0.464,26
+Angels With Broken Wings,8,754ORulduFHLLVFqJ8Lb04,What If,spotify:track:754ORulduFHLLVFqJ8Lb04,0.0115,0.554,0.538,0.0162,0.0989,-10.424,0.112,99.697,0.203,30
+Angels With Broken Wings,9,6Q5b9HBBcNLv7upgsHGr5F,Wish You Knew (feat. Wolvang),spotify:track:6Q5b9HBBcNLv7upgsHGr5F,0.524,0.71,0.398,0.0,0.104,-11.647,0.184,86.67,0.546,28
+Angels With Broken Wings,10,2IjUxxt2cKgUAs8g0Knubg,Angels With Broken Wings,spotify:track:2IjUxxt2cKgUAs8g0Knubg,0.218,0.508,0.208,0.449,0.112,-11.746,0.0321,136.784,0.268,32
+Angels With Broken Wings,11,1uc30fN102JS1N2U9tkhvO,Deeper Than Blood,spotify:track:1uc30fN102JS1N2U9tkhvO,0.525,0.499,0.555,0.0,0.126,-8.315,0.287,81.746,0.184,42
+Angels With Broken Wings,12,2aTaAheBiwCJLiL9fAviKA,Grateful (feat. Cota),spotify:track:2aTaAheBiwCJLiL9fAviKA,0.524,0.673,0.415,0.0,0.118,-10.75,0.0469,91.207,0.345,26
+Angels With Broken Wings,13,01OhfLtH2o6YT5bSfws7yE,Foolish (feat. Wolvang),spotify:track:01OhfLtH2o6YT5bSfws7yE,0.948,0.358,0.18,0.0,0.0744,-14.69,0.0661,176.576,0.116,26
+Angels With Broken Wings,14,1nOAXIlvyM0M5dfj3810kU,The Beauty Inside,spotify:track:1nOAXIlvyM0M5dfj3810kU,0.635,0.564,0.812,0.0,0.324,-8.058,0.376,79.113,0.437,41
+Angels With Broken Wings,15,1TzKVqglTd5VkE7opv0QqE,Gods Plan,spotify:track:1TzKVqglTd5VkE7opv0QqE,0.488,0.495,0.7,0.0,0.689,-6.384,0.366,167.233,0.586,40
+Angels With Broken Wings,16,0ZWDw2cSAHgXCCoeiyicW7,Counting My Blessings,spotify:track:0ZWDw2cSAHgXCCoeiyicW7,0.685,0.583,0.688,0.0,0.0902,-8.826,0.283,90.763,0.225,25
+Nights Like These,1,45OCz602KTn3WzkUWRoJIZ,Late Nights in the City,spotify:track:45OCz602KTn3WzkUWRoJIZ,0.735,0.669,0.536,0.0,0.0869,-10.652,0.316,109.884,0.376,29
+Nights Like These,2,0wyhEJQSImMNtMTyf3d0Vk,Roll Witchu,spotify:track:0wyhEJQSImMNtMTyf3d0Vk,0.354,0.567,0.739,0.0,0.133,-6.028,0.214,60.2,0.226,31
+Nights Like These,3,2RQuKwrrCJRJTqKSAbGXjh,Breaking My Heart,spotify:track:2RQuKwrrCJRJTqKSAbGXjh,0.671,0.687,0.646,0.0,0.147,-4.629,0.198,92.04,0.663,25
+Nights Like These,4,05qsXxLbJ6kN82iavHxlbn,NightOwls,spotify:track:05qsXxLbJ6kN82iavHxlbn,0.241,0.729,0.832,0.0,0.345,-5.965,0.416,135.375,0.578,24
+Nights Like These,5,6WJ6wtPLbvS3syH0HJQfhT,Girl,spotify:track:6WJ6wtPLbvS3syH0HJQfhT,0.66,0.341,0.725,0.0,0.238,-6.034,0.384,81.332,0.535,30
+Nights Like These,6,7DvnoagscbagTHHV5fJLZy,The Way We Are,spotify:track:7DvnoagscbagTHHV5fJLZy,0.129,0.254,0.455,0.633,0.123,-11.736,0.071,61.351,0.0372,37
+Nights Like These,7,7IDXa4SDX8x8NRYTRpEQgm,Stay True,spotify:track:7IDXa4SDX8x8NRYTRpEQgm,0.171,0.354,0.702,0.0,0.104,-5.032,0.207,172.224,0.559,29
+Sincerely Yours,1,1nLYFYo8EqdPfvn7tBEY62,Sincerely Yours,spotify:track:1nLYFYo8EqdPfvn7tBEY62,0.472,0.535,0.743,0.0,0.197,-6.115,0.0776,89.881,0.552,27
+Sincerely Yours,2,4W8AfmjeTWy6pWE5bCBKnw,Summer Nights,spotify:track:4W8AfmjeTWy6pWE5bCBKnw,0.156,0.614,0.889,0.0,0.304,-3.186,0.244,82.578,0.731,23
+Sincerely Yours,3,10tfxKw8ryBaki4N0ap9F0,Forgive Me Mother,spotify:track:10tfxKw8ryBaki4N0ap9F0,0.173,0.575,0.596,0.0,0.106,-7.72,0.37,166.37,0.48,26
+Sincerely Yours,4,5N7mXiwMLhpKiNKG9jpMCv,Tell Me,spotify:track:5N7mXiwMLhpKiNKG9jpMCv,0.51,0.551,0.802,0.0,0.0655,-7.469,0.506,85.902,0.455,25
+Sincerely Yours,5,32oqvuEaw7fwYdK0GqqR5z,Catharsis,spotify:track:32oqvuEaw7fwYdK0GqqR5z,0.168,0.627,0.793,0.0,0.0976,-4.532,0.282,80.891,0.571,24
+Sincerely Yours,6,02bjbx45XP0qnxyKQgVowK,A Lil Liquor,spotify:track:02bjbx45XP0qnxyKQgVowK,0.194,0.614,0.646,0.0,0.093,-3.284,0.231,82.058,0.48,22
+Sincerely Yours,7,7Ggu7Giy3WpFwNajnjW8OU,Father,spotify:track:7Ggu7Giy3WpFwNajnjW8OU,0.753,0.416,0.666,0.0,0.0779,-7.129,0.0857,169.29,0.301,23
+Sincerely Yours,8,0xvYT6csDLbVRPVkjgKqR2,Motivated,spotify:track:0xvYT6csDLbVRPVkjgKqR2,0.412,0.509,0.381,1e-05,0.115,-10.533,0.372,85.369,0.605,21
+Sincerely Yours,9,25aKxmPPVJuLA49stjaLxU,Stick 'em Up,spotify:track:25aKxmPPVJuLA49stjaLxU,0.0224,0.578,0.843,0.0,0.104,-4.528,0.431,82.084,0.222,19
+Sincerely Yours,10,3qt3t8MJoIuzC2QTcasNvF,Stuart Little,spotify:track:3qt3t8MJoIuzC2QTcasNvF,0.454,0.663,0.761,0.0,0.105,-4.912,0.331,95.283,0.553,20
+Sincerely Yours,11,0POqN5VRTjBXunI7NfIh3i,The Root of All Evil,spotify:track:0POqN5VRTjBXunI7NfIh3i,0.529,0.599,0.882,0.0,0.372,-6.452,0.5,89.778,0.427,22
+Sincerely Yours,12,6jRTc8scZo7I2vbU9o1haP,Swapmeet Steelo,spotify:track:6jRTc8scZo7I2vbU9o1haP,0.242,0.516,0.802,0.0,0.943,-4.098,0.326,87.2,0.804,20
+Sincerely Yours,13,636RtHJ2RY1fzVb5KfeTmF,No Other Way,spotify:track:636RtHJ2RY1fzVb5KfeTmF,0.268,0.514,0.821,0.0,0.132,-5.283,0.436,172.681,0.738,25
+Sincerely Yours,14,497ascE9WCAq6pqS0ex00l,As Time Goes By,spotify:track:497ascE9WCAq6pqS0ex00l,0.84,0.331,0.65,0.00246,0.319,-8.407,0.272,83.954,0.299,30
+Sincerely Yours,15,0727dZRsqQwvcsNx3a3boa,"Father, Pt. 2 (If You're out There)",spotify:track:0727dZRsqQwvcsNx3a3boa,0.738,0.224,0.25,8.62e-06,0.38,-17.344,0.0427,121.159,0.169,20
+Sincerely Yours,16,7FzbrlK2aVGS0qvgtFHkSx,SoulStar,spotify:track:7FzbrlK2aVGS0qvgtFHkSx,0.896,0.444,0.742,0.0,0.248,-6.701,0.557,171.785,0.791,23
+Sincerely Yours,17,0zpXirfOLI97nOmTlz3cQX,Make You Feel,spotify:track:0zpXirfOLI97nOmTlz3cQX,0.491,0.633,0.479,0.0,0.143,-9.147,0.205,93.829,0.0798,29
+Sincerely Yours,18,3t8u0WWIcOeTZwO8NDU9Ol,Time Will Tell (We'll Find a Way),spotify:track:3t8u0WWIcOeTZwO8NDU9Ol,0.0427,0.677,0.844,0.0,0.122,-5.246,0.385,152.568,0.69,23
+Sincerely Yours,19,2PaNQBzMAqcC6PFpagiTgO,My Story,spotify:track:2PaNQBzMAqcC6PFpagiTgO,0.18,0.645,0.659,0.0,0.0703,-7.042,0.533,82.161,0.707,41
+One Life to Live,1,25pGykOXrCHlcuJhTuTZbE,Hope,spotify:track:25pGykOXrCHlcuJhTuTZbE,0.419,0.659,0.698,0.0,0.251,-4.986,0.259,83.992,0.745,29
+One Life to Live,2,7yfEucupY0oxbnae517m8G,Pain,spotify:track:7yfEucupY0oxbnae517m8G,0.0333,0.458,0.806,1.66e-06,0.626,-6.772,0.428,86.894,0.35,24
+One Life to Live,3,6zhyGm36ePMzYGuLw2wpF7,What It's Like,spotify:track:6zhyGm36ePMzYGuLw2wpF7,0.427,0.46,0.782,0.0,0.359,-4.775,0.337,91.064,0.516,27
+One Life to Live,4,3L89uEWxNaq5FJuWtDanCK,No Matter What,spotify:track:3L89uEWxNaq5FJuWtDanCK,0.552,0.647,0.814,0.0,0.0999,-8.04,0.408,84.989,0.251,26
+One Life to Live,5,2WQ7mvrPAk0zmsS5cD6DEC,The Old Days,spotify:track:2WQ7mvrPAk0zmsS5cD6DEC,0.277,0.695,0.921,0.0,0.0842,-2.659,0.281,86.0,0.799,26
+One Life to Live,6,7peRe0lBP3UbvafZV2YTnz,Tears of an Angel,spotify:track:7peRe0lBP3UbvafZV2YTnz,0.729,0.562,0.738,0.0,0.335,-7.774,0.284,87.651,0.484,24
+One Life to Live,7,2x02eo2NGoMgB7cT2ic7de,Home,spotify:track:2x02eo2NGoMgB7cT2ic7de,0.0853,0.517,0.749,0.0,0.118,-8.246,0.762,83.254,0.684,19
+One Life to Live,8,0COMDPt4zLy7hUNkWRD0Gh,Secrets,spotify:track:0COMDPt4zLy7hUNkWRD0Gh,0.0689,0.543,0.728,0.0,0.157,-6.761,0.397,90.071,0.623,29
+One Life to Live,9,6xdCXnMEmBLKRUv5y3YeGn,The Breeze,spotify:track:6xdCXnMEmBLKRUv5y3YeGn,0.0678,0.454,0.889,0.0,0.236,-3.506,0.371,174.349,0.67,19
+One Life to Live,10,7eiJdacEDNxaCddj1LsyXW,Make Some Way (feat. Gavlyn),spotify:track:7eiJdacEDNxaCddj1LsyXW,0.0427,0.664,0.767,0.0,0.318,-5.683,0.374,87.131,0.7,22
+One Life to Live,11,4GWP2n3oGLXhoz5bif8BDn,Mercy (feat. Illwerd),spotify:track:4GWP2n3oGLXhoz5bif8BDn,0.0397,0.554,0.855,0.0,0.0779,-2.393,0.523,175.538,0.562,19
+One Life to Live,12,5ZUBvJuz21Fhm0jaEx9972,Nothing Like,spotify:track:5ZUBvJuz21Fhm0jaEx9972,0.601,0.691,0.698,0.0,0.1,-4.49,0.247,84.824,0.681,22
+One Life to Live,13,0MCHAPqJX3hYsbTKoppt9I,The White Owl,spotify:track:0MCHAPqJX3hYsbTKoppt9I,0.437,0.478,0.635,0.0,0.102,-7.826,0.288,79.899,0.654,22
+One Life to Live,14,7laNCkFPVLxbcWzUZy18gx,Thankful,spotify:track:7laNCkFPVLxbcWzUZy18gx,0.00709,0.614,0.513,1.62e-06,0.113,-8.015,0.296,170.159,0.0518,21
+Still a Kid (Deluxe Edition),1,22zUVxX2ZkbVwdzcBdAMKr,Still a Kid,spotify:track:22zUVxX2ZkbVwdzcBdAMKr,0.0291,0.445,0.768,0.0,0.675,-5.625,0.366,172.301,0.448,26
+Still a Kid (Deluxe Edition),2,10wiCf9Vdk5BiMoRDLgM4s,Dragonflies,spotify:track:10wiCf9Vdk5BiMoRDLgM4s,0.111,0.539,0.717,0.0,0.399,-6.952,0.591,179.168,0.631,23
+Still a Kid (Deluxe Edition),3,6dT3e4jd3xgsJuMOQ7pKfr,Living Proof,spotify:track:6dT3e4jd3xgsJuMOQ7pKfr,0.283,0.523,0.67,0.0,0.0585,-5.24,0.2,87.351,0.855,25
+Still a Kid (Deluxe Edition),4,4aG6LgJth0Ee5S4RBEW6lR,Fuck You,spotify:track:4aG6LgJth0Ee5S4RBEW6lR,0.0881,0.634,0.582,0.0,0.667,-8.693,0.194,80.554,0.341,25
+Still a Kid (Deluxe Edition),5,0ptesjMxIKL3rAUkbdiNLD,Written Words,spotify:track:0ptesjMxIKL3rAUkbdiNLD,0.84,0.692,0.623,0.0,0.11,-9.036,0.444,92.989,0.571,23
+Still a Kid (Deluxe Edition),6,4mj9iZ31brNxvPlTSFkC3J,To Each Is Own,spotify:track:4mj9iZ31brNxvPlTSFkC3J,0.049,0.664,0.49,0.0,0.0815,-9.277,0.377,82.866,0.634,24
+Still a Kid (Deluxe Edition),7,3LtuRrQyr3ZmE8qnMDVXXr,Stay,spotify:track:3LtuRrQyr3ZmE8qnMDVXXr,0.333,0.572,0.687,0.0,0.18,-10.01,0.4,92.925,0.379,25
+Still a Kid (Deluxe Edition),8,1bVT6yYAcq89EtGVhRVZMr,Small Circle,spotify:track:1bVT6yYAcq89EtGVhRVZMr,0.452,0.586,0.925,0.0,0.316,-4.148,0.472,83.068,0.651,26
+Still a Kid (Deluxe Edition),9,1OFo2zQT7FfNhRTXWyQF1w,A Letter to Her,spotify:track:1OFo2zQT7FfNhRTXWyQF1w,0.884,0.642,0.519,0.0,0.111,-9.401,0.353,82.866,0.502,29
+Still a Kid (Deluxe Edition),10,1dNR8loUlYvEm6EASPNvB4,Breathing Room,spotify:track:1dNR8loUlYvEm6EASPNvB4,0.728,0.524,0.744,0.0,0.184,-8.059,0.406,174.453,0.931,21
+Still a Kid (Deluxe Edition),11,5PBMAYz0Wodkunan0fk0Lr,Before It's over (Thank You),spotify:track:5PBMAYz0Wodkunan0fk0Lr,0.818,0.447,0.73,0.0,0.144,-6.476,0.289,170.094,0.422,28
+Still a Kid (Deluxe Edition),12,2zMQDMkUWkWdz1UiPC7v15,Gotta Move On,spotify:track:2zMQDMkUWkWdz1UiPC7v15,0.00758,0.566,0.561,0.0,0.122,-9.51,0.47,176.244,0.516,24
+Still a Kid (Deluxe Edition),13,7fPiMK2dzIgsIVg96v1fxN,If I Gave You My Heart,spotify:track:7fPiMK2dzIgsIVg96v1fxN,0.574,0.597,0.526,0.0,0.322,-12.196,0.438,87.488,0.609,42
+Still a Kid (Deluxe Edition),14,2GFsAFUP1bfjcm6HGNUzQs,A Song for Her,spotify:track:2GFsAFUP1bfjcm6HGNUzQs,0.633,0.762,0.548,0.0,0.0961,-6.621,0.32,84.931,0.887,41
+Still a Kid (Deluxe Edition),15,0Sv3Y4mJ7nCku8UAPfKk3B,Sunny California,spotify:track:0Sv3Y4mJ7nCku8UAPfKk3B,0.136,0.768,0.68,2.44e-06,0.149,-8.066,0.293,95.002,0.583,24
+Still a Kid (Deluxe Edition),16,5y4phWt7vtJNC0Lj1B4N6P,Kid on the Block,spotify:track:5y4phWt7vtJNC0Lj1B4N6P,0.555,0.601,0.613,0.0,0.11,-12.151,0.333,60.761,0.624,23
+Still a Kid (Deluxe Edition),17,2Q5oTgkCsfphdNILURZEDT,Just Another Day,spotify:track:2Q5oTgkCsfphdNILURZEDT,0.369,0.72,0.492,0.0,0.0864,-12.119,0.422,85.861,0.803,22
+Still a Kid (Deluxe Edition),18,6c6Nn3A2aMpiEYbUqngEHC,When the Sun Goes Down,spotify:track:6c6Nn3A2aMpiEYbUqngEHC,0.513,0.627,0.672,1.62e-06,0.126,-8.52,0.416,86.39,0.389,23
+Still a Kid (Deluxe Edition),19,0Y4m3VVbyq8Ks8OZnL39AF,Real,spotify:track:0Y4m3VVbyq8Ks8OZnL39AF,0.127,0.664,0.642,0.0167,0.127,-5.387,0.0589,80.965,0.767,21
+Still a Kid (Deluxe Edition),20,5PJsR8K0lPnwfXwTOrghRL,Day by Day,spotify:track:5PJsR8K0lPnwfXwTOrghRL,0.0335,0.684,0.643,0.0,0.152,-4.18,0.0877,89.012,0.484,27

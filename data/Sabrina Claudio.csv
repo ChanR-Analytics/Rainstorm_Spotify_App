@@ -1,0 +1,39 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+Truth Is,1,5E1ACdOkVeCEt3BMcL67K8,Take One to the Head,spotify:track:5E1ACdOkVeCEt3BMcL67K8,0.282,0.604,0.549,0.0349,0.103,-6.741,0.0444,135.975,0.375,52
+Truth Is,2,2AAL4PF8WtOgHKHajUBbwh,Truth Is,spotify:track:2AAL4PF8WtOgHKHajUBbwh,0.585,0.645,0.726,0.000451,0.112,-3.402,0.0691,129.908,0.158,66
+Truth Is,3,6XjNLIoUiU2XKdbNp7PvHl,Rumors (feat. ZAYN),spotify:track:6XjNLIoUiU2XKdbNp7PvHl,0.178,0.602,0.707,8.79e-05,0.146,-5.372,0.126,172.034,0.483,66
+Truth Is,4,4QvzPle6U0d4NuiY4gD1SQ,Hurt People,spotify:track:4QvzPle6U0d4NuiY4gD1SQ,0.87,0.63,0.291,0.0151,0.0845,-9.931,0.0318,105.033,0.463,48
+Truth Is,5,3NZJBpz5OO8kYp1A2XvLDu,On My Shoulders,spotify:track:3NZJBpz5OO8kYp1A2XvLDu,0.495,0.672,0.384,0.0184,0.111,-6.945,0.0616,143.134,0.178,51
+Truth Is,6,2psuZQ8aJX0sEyjcfeP7rP,Me in Her,spotify:track:2psuZQ8aJX0sEyjcfeP7rP,0.292,0.761,0.516,0.0267,0.11,-5.562,0.0394,115.016,0.342,48
+Truth Is,7,21CAxlvGH09dzJZfzF44E8,I Don't Mean To,spotify:track:21CAxlvGH09dzJZfzF44E8,0.547,0.586,0.546,0.000163,0.165,-6.528,0.21,77.489,0.241,46
+Truth Is,8,14J8TjBnTLIH1GVa3XzuiE,As Long as You're Asleep,spotify:track:14J8TjBnTLIH1GVa3XzuiE,0.728,0.492,0.532,0.0,0.149,-5.569,0.204,120.121,0.51,47
+Truth Is,9,5c8lzZGPbmVu6sLQOA5WoU,Problem With You,spotify:track:5c8lzZGPbmVu6sLQOA5WoU,0.47,0.607,0.533,0.0136,0.12,-6.188,0.136,160.138,0.321,60
+Truth Is,10,4Hs7FS8jNNReipDe6SDpwz,Holding the Gun,spotify:track:4Hs7FS8jNNReipDe6SDpwz,0.159,0.665,0.563,0.000218,0.305,-6.042,0.0441,78.004,0.353,55
+Truth Is,11,4DkmvgEtrLZ9vzmDAHFzVZ,Truth Is (Spanish Version),spotify:track:4DkmvgEtrLZ9vzmDAHFzVZ,0.861,0.476,0.259,0.000176,0.148,-9.463,0.0412,138.111,0.151,52
+"No Rain, No Flowers",1,4BTMGOsnbzI76XYTxAn5K8,Come Here,spotify:track:4BTMGOsnbzI76XYTxAn5K8,0.826,0.551,0.517,0.00659,0.391,-8.605,0.0499,140.02,0.199,50
+"No Rain, No Flowers",2,7m6NKiP2uUoDzWS1GxBfFt,Naked,spotify:track:7m6NKiP2uUoDzWS1GxBfFt,0.723,0.504,0.34,0.234,0.511,-12.018,0.0881,146.131,0.33,50
+"No Rain, No Flowers",3,2XxV4ryxBQAxLv00rBAiYN,Cycle,spotify:track:2XxV4ryxBQAxLv00rBAiYN,0.373,0.548,0.466,0.00131,0.12,-4.39,0.0318,100.167,0.133,42
+"No Rain, No Flowers",4,4uqbiPAOX2a857xDoJejow,Creation,spotify:track:4uqbiPAOX2a857xDoJejow,0.766,0.79,0.416,0.000358,0.101,-2.909,0.0419,109.987,0.448,48
+"No Rain, No Flowers",5,5tQHlrTLQcn0KmN2uttWNC,Numb,spotify:track:5tQHlrTLQcn0KmN2uttWNC,0.565,0.503,0.614,0.000104,0.12,-5.896,0.06,82.496,0.288,45
+"No Rain, No Flowers",6,58VbElSOxvLsQBtetg0PcT,Did We Lose Our Minds,spotify:track:58VbElSOxvLsQBtetg0PcT,0.814,0.326,0.417,6.56e-05,0.305,-9.118,0.0276,80.013,0.0422,44
+"No Rain, No Flowers",7,1s2nqmOskKMNRODPn63Xo1,Control,spotify:track:1s2nqmOskKMNRODPn63Xo1,0.405,0.768,0.483,0.00221,0.121,-7.619,0.0907,133.056,0.174,48
+"No Rain, No Flowers",8,3NhEEC4oE5hX6u8RCx6Q9m,Messages From Her,spotify:track:3NhEEC4oE5hX6u8RCx6Q9m,0.801,0.377,0.426,0.0592,0.112,-6.64,0.0451,125.826,0.103,59
+About Time,1,5JfVj5cDISPGAUnWhrIMiQ,About Time (Intro),spotify:track:5JfVj5cDISPGAUnWhrIMiQ,0.753,0.504,0.21,0.0,0.124,-17.105,0.422,119.18,0.276,40
+About Time,2,67E5j5ZUGbN15Y7VvYNZtt,Natural,spotify:track:67E5j5ZUGbN15Y7VvYNZtt,0.383,0.616,0.688,0.000245,0.139,-6.078,0.0628,160.131,0.352,45
+About Time,3,45hShTewaqkS5aJpleZigq,Everlasting Love,spotify:track:45hShTewaqkS5aJpleZigq,0.0406,0.329,0.819,3.21e-06,0.098,-4.504,0.0698,77.568,0.38,44
+About Time,4,0MDYvPEc9CFp2vkth6eoOQ,Belong to You,spotify:track:0MDYvPEc9CFp2vkth6eoOQ,0.272,0.57,0.536,0.032,0.34,-10.317,0.0552,152.13,0.443,54
+About Time,5,5TVlcZRCVoJVi9OaDvGxEB,Unravel Me,spotify:track:5TVlcZRCVoJVi9OaDvGxEB,0.476,0.387,0.419,0.00179,0.122,-8.803,0.183,79.211,0.337,62
+About Time,6,66H06L8hktjhduwRDWntDT,Stand Still,spotify:track:66H06L8hktjhduwRDWntDT,0.732,0.476,0.44,0.023,0.0773,-8.198,0.0371,149.389,0.161,59
+About Time,7,27mBHDw4ojlGDnwRCao4le,Wanna Know,spotify:track:27mBHDw4ojlGDnwRCao4le,0.364,0.653,0.34,0.00092,0.0993,-7.251,0.03,107.951,0.149,52
+About Time,8,21oJ1K99GBJrE2GVQGVjA0,Frozen,spotify:track:21oJ1K99GBJrE2GVQGVjA0,0.741,0.486,0.419,6.59e-05,0.096,-6.415,0.0563,119.065,0.227,65
+About Time,9,7C8VVj1kpwPwyT4aMejIXp,We Have Time,spotify:track:7C8VVj1kpwPwyT4aMejIXp,0.726,0.611,0.355,0.0,0.104,-7.577,0.154,85.112,0.221,48
+About Time,10,7ox6jaj8vXaOrQWaBxxSeT,Used To,spotify:track:7ox6jaj8vXaOrQWaBxxSeT,0.523,0.899,0.658,0.149,0.0909,-7.031,0.265,115.016,0.489,45
+About Time,11,4UGoSCX1qqa1DX0e7QKU8O,Wait,spotify:track:4UGoSCX1qqa1DX0e7QKU8O,0.0614,0.647,0.741,0.00202,0.093,-6.712,0.201,176.013,0.413,45
+About Time,12,2I88NEWpKrAPZuapXNV5G6,Belong to You (feat. 6LACK),spotify:track:2I88NEWpKrAPZuapXNV5G6,0.274,0.605,0.553,0.0152,0.184,-10.845,0.101,152.076,0.62,68
+Confidently Lost,1,2d9hKKKQmGxcknyMIgLVmQ,Too Much Too Late,spotify:track:2d9hKKKQmGxcknyMIgLVmQ,0.216,0.62,0.447,6.19e-05,0.144,-8.609,0.104,92.072,0.324,51
+Confidently Lost,2,5PBGKdQ2fnMw1zlMP7XtVM,Tell Me,spotify:track:5PBGKdQ2fnMw1zlMP7XtVM,0.336,0.61,0.583,1.8e-05,0.0776,-6.461,0.0374,103.987,0.593,45
+Confidently Lost,3,4JLvbX8iq3q6Ow08vFLeHY,Runnin' Thru Lovers,spotify:track:4JLvbX8iq3q6Ow08vFLeHY,0.292,0.499,0.506,0.0,0.169,-10.047,0.0678,139.928,0.255,47
+Confidently Lost,4,3cQmqM0awej9iAESjhKrI9,Confidently Lost,spotify:track:3cQmqM0awej9iAESjhKrI9,0.272,0.666,0.39,9.39e-06,0.111,-8.575,0.0838,113.866,0.325,64
+Confidently Lost,5,0RTnMChwd0ARVY3zOyNdaP,Orion's Belt,spotify:track:0RTnMChwd0ARVY3zOyNdaP,0.856,0.531,0.352,9.73e-06,0.0871,-10.404,0.315,84.475,0.537,57
+Confidently Lost,6,617t7JMMmEkqS2n9h96DQa,I Don't,spotify:track:617t7JMMmEkqS2n9h96DQa,0.318,0.593,0.415,0.000325,0.146,-9.504,0.0407,75.999,0.393,49
+Confidently Lost,7,0an8pwAsISvMA9ZIbAmeW7,Tell Me - Acoustic,spotify:track:0an8pwAsISvMA9ZIbAmeW7,0.72,0.632,0.293,5.63e-06,0.326,-12.507,0.0284,103.869,0.586,54

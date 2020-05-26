@@ -1,0 +1,33 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+East Atlanta Love Letter,1,3Q33RhbyoFul9LdKKjticI,Unfair,spotify:track:3Q33RhbyoFul9LdKKjticI,0.79,0.397,0.257,0.00235,0.12,-11.134,0.0499,115.783,0.0382,57
+East Atlanta Love Letter,2,1wb7Mqon4o1ViLjaLV9f8U,Loaded Gun,spotify:track:1wb7Mqon4o1ViLjaLV9f8U,0.1,0.646,0.549,2.06e-05,0.12,-6.515,0.0704,127.994,0.241,58
+East Atlanta Love Letter,3,6rJmWa5DvQ3Nby3tdcX2L0,East Atlanta Love Letter (feat. Future),spotify:track:6rJmWa5DvQ3Nby3tdcX2L0,0.389,0.581,0.315,1.68e-05,0.0766,-11.947,0.0781,61.381,0.185,61
+East Atlanta Love Letter,4,0CIGZEXjZ8L52lOrqUljJt,Let Her Go,spotify:track:0CIGZEXjZ8L52lOrqUljJt,0.539,0.759,0.634,0.000228,0.183,-6.609,0.096,156.02,0.444,60
+East Atlanta Love Letter,5,2xRyZfWe9bnRfH1ZfhYO98,Sorry,spotify:track:2xRyZfWe9bnRfH1ZfhYO98,0.708,0.665,0.447,0.00188,0.13,-11.5,0.102,120.082,0.313,59
+East Atlanta Love Letter,6,4at3d5QWnlibMVN75ECDrp,Pretty Little Fears (feat. J. Cole),spotify:track:4at3d5QWnlibMVN75ECDrp,0.696,0.61,0.458,0.000103,0.0852,-11.336,0.36,192.099,0.246,76
+East Atlanta Love Letter,7,5dgkSJAuFXZnwz7OAFUnIk,Disconnect,spotify:track:5dgkSJAuFXZnwz7OAFUnIk,0.606,0.425,0.35,1.31e-05,0.185,-10.951,0.312,80.783,0.146,56
+East Atlanta Love Letter,8,29ZZAShKhwRUuKULSNtxX6,Switch,spotify:track:29ZZAShKhwRUuKULSNtxX6,0.0409,0.66,0.658,0.00595,0.102,-6.127,0.0387,176.701,0.153,66
+East Atlanta Love Letter,9,7FpP1wsVrrdrmZ5JTZQgDA,Thugger’s Interlude,spotify:track:7FpP1wsVrrdrmZ5JTZQgDA,0.896,0.458,0.109,2.1e-05,0.119,-18.918,0.0661,100.928,0.0655,52
+East Atlanta Love Letter,10,6Zisja44KqMZj4GM4UY6Yv,Balenciaga Challenge (feat. Offset),spotify:track:6Zisja44KqMZj4GM4UY6Yv,0.0895,0.744,0.394,6.66e-06,0.279,-9.828,0.419,142.961,0.658,56
+East Atlanta Love Letter,11,6kUZRNGYywoULRpI2QpI6t,Scripture,spotify:track:6kUZRNGYywoULRpI2QpI6t,0.772,0.542,0.592,6.95e-06,0.0816,-11.056,0.355,92.185,0.146,52
+East Atlanta Love Letter,12,7c3K8ifIoaVZ2MSUuGo0Co,Nonchalant,spotify:track:7c3K8ifIoaVZ2MSUuGo0Co,0.374,0.565,0.386,0.000189,0.131,-12.383,0.399,83.032,0.0598,64
+East Atlanta Love Letter,13,1AROE0XcC4ySCxXF65mutZ,Seasons (feat. Khalid),spotify:track:1AROE0XcC4ySCxXF65mutZ,0.692,0.6,0.319,0.00958,0.137,-10.272,0.294,141.96,0.507,72
+East Atlanta Love Letter,14,1mggAh6xgnKUT6ukw3AU9A,Stan,spotify:track:1mggAh6xgnKUT6ukw3AU9A,0.821,0.333,0.328,0.000173,0.127,-9.144,0.0401,92.889,0.152,59
+East Atlanta Love Letter,9,6FSaaVNnEe2Ffo3D5zImZV,Thugger's Interlude,spotify:track:6FSaaVNnEe2Ffo3D5zImZV,0.869,0.381,0.115,7.76e-05,0.114,-18.777,0.0901,83.322,0.0585,24
+FREE 6LACK,8,1zehjATih9feOGycb1Lvgp,Gettin’ Old,spotify:track:1zehjATih9feOGycb1Lvgp,0.376,0.735,0.4,0.000105,0.111,-12.455,0.0761,79.997,0.202,19
+FREE 6LACK,1,4bJX21zvsGJELwVNf902qk,Never Know,spotify:track:4bJX21zvsGJELwVNf902qk,0.0947,0.645,0.571,3.32e-06,0.185,-9.021,0.2,95.223,0.184,59
+FREE 6LACK,2,6HmWy7ttkeZGG2KEtt8AqX,Rules,spotify:track:6HmWy7ttkeZGG2KEtt8AqX,0.178,0.682,0.758,0.00158,0.0964,-6.13,0.155,147.045,0.638,53
+FREE 6LACK,3,4AtZRwSR8BOTTQg5ihSggt,PRBLMS,spotify:track:4AtZRwSR8BOTTQg5ihSggt,0.0307,0.417,0.58,1.45e-06,0.179,-4.574,0.207,68.58,0.139,73
+FREE 6LACK,4,4Sv7Fo4bSpK0tM1WBspz4J,Free,spotify:track:4Sv7Fo4bSpK0tM1WBspz4J,0.00292,0.755,0.535,4.99e-06,0.104,-5.088,0.0476,123.961,0.38,62
+FREE 6LACK,5,2V8OJ8i3WBh4Los9wG6OKQ,Learn Ya,spotify:track:2V8OJ8i3WBh4Los9wG6OKQ,0.509,0.416,0.527,0.00312,0.112,-8.692,0.331,81.576,0.202,56
+FREE 6LACK,6,4vIhvFLrnDD9fEjpjWs0Ky,MTFU,spotify:track:4vIhvFLrnDD9fEjpjWs0Ky,0.321,0.467,0.488,2.81e-05,0.148,-10.181,0.198,111.838,0.267,50
+FREE 6LACK,7,5irqvOUbWsUefjZ8KPSQ66,Luving U,spotify:track:5irqvOUbWsUefjZ8KPSQ66,0.0886,0.723,0.471,0.000881,0.112,-9.506,0.122,121.962,0.135,66
+FREE 6LACK,8,1S4sxNGmCASkyRI08YhLtT,Gettin' Old,spotify:track:1S4sxNGmCASkyRI08YhLtT,0.4,0.743,0.4,0.000311,0.111,-12.369,0.0625,80.01,0.229,56
+FREE 6LACK,9,2wc4wFgsQUDD79jItn4cHs,Worst Luck,spotify:track:2wc4wFgsQUDD79jItn4cHs,0.856,0.327,0.518,0.000795,0.116,-9.244,0.16,177.869,0.153,55
+FREE 6LACK,10,1MQ8ydvrTnn2QJgXFATJvD,Ex Calling,spotify:track:1MQ8ydvrTnn2QJgXFATJvD,0.00561,0.773,0.564,1.99e-05,0.213,-7.241,0.249,155.976,0.0588,69
+FREE 6LACK,11,4r8BzCnB6mDdPcJuSmSovv,Alone / EA6,spotify:track:4r8BzCnB6mDdPcJuSmSovv,0.709,0.448,0.66,0.000465,0.351,-7.642,0.276,124.767,0.119,51
+FREE 6LACK,12,2ntHUBYRHjQmmJDioSwsUg,Glock Six - Bonus,spotify:track:2ntHUBYRHjQmmJDioSwsUg,0.166,0.531,0.568,0.0,0.122,-8.707,0.0576,82.649,0.308,50
+FREE 6LACK,13,2dn1SdbwnCliatWZ8Ls3O5,In Between (feat. BANKS) - Bonus,spotify:track:2dn1SdbwnCliatWZ8Ls3O5,0.619,0.545,0.573,0.00408,0.104,-6.007,0.246,118.07,0.344,53
+FREE 6LACK,14,7HDpgbWMVzI8bEbdldw3cs,One Way (feat. T-Pain) - Bonus,spotify:track:7HDpgbWMVzI8bEbdldw3cs,0.73,0.425,0.406,3.59e-06,0.107,-8.911,0.176,184.061,0.124,63
+FREE 6LACK (Bonus Track Version),13,42OJm0pTXQdLYDpLJexnc8,In Between - Bonus,spotify:track:42OJm0pTXQdLYDpLJexnc8,0.623,0.557,0.573,0.00433,0.104,-6.005,0.286,160.215,0.328,0
+FREE 6LACK (Bonus Track Version),14,41E1yey0NYMRsBj8Zs1X5h,One Way - Bonus,spotify:track:41E1yey0NYMRsBj8Zs1X5h,0.832,0.686,0.416,4.01e-05,0.104,-8.337,0.148,91.984,0.182,4

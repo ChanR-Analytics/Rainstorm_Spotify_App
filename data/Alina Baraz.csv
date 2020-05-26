@@ -1,0 +1,47 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+It Was Divine,1,3WPK4vjLMa9ZxaYetkh47M,My Whole Life,spotify:track:3WPK4vjLMa9ZxaYetkh47M,0.754,0.358,0.457,0.000469,0.259,-11.281,0.0421,180.144,0.336,61
+It Was Divine,2,6cZCrWA68xFTljPmBHPlwJ,Morocco (feat. 6LACK),spotify:track:6cZCrWA68xFTljPmBHPlwJ,0.0686,0.615,0.713,0.00144,0.154,-3.539,0.0355,78.033,0.514,60
+It Was Divine,3,7fUbgLWI7UcYAyjtdKEvkL,Frank,spotify:track:7fUbgLWI7UcYAyjtdKEvkL,0.704,0.601,0.384,0.0454,0.0845,-9.866,0.0415,129.916,0.172,59
+It Was Divine,4,7cIPifhS3R4rF4sKi8466d,Endlessly,spotify:track:7cIPifhS3R4rF4sKi8466d,0.684,0.687,0.445,0.0237,0.11,-9.11,0.0635,117.981,0.435,59
+It Was Divine,5,3Slv3vJ64a4bW8yR0llk70,Gimme the Wheel (feat. Smino),spotify:track:3Slv3vJ64a4bW8yR0llk70,0.165,0.808,0.579,3.91e-05,0.106,-6.538,0.143,101.951,0.676,59
+It Was Divine,6,3U62bHMhP7bKAFYMkn3fNx,Off the Grid (feat. Khalid),spotify:track:3U62bHMhP7bKAFYMkn3fNx,0.313,0.679,0.533,0.0336,0.171,-8.454,0.0766,83.502,0.521,67
+It Was Divine,7,1tNK6PDCrJLEa2AQBCEfjP,More Than Enough,spotify:track:1tNK6PDCrJLEa2AQBCEfjP,0.26,0.648,0.531,0.000897,0.12,-5.886,0.0345,143.008,0.253,60
+It Was Divine,8,4lj1We6JrzxZRIBEQLrqLO,Night and Morning,spotify:track:4lj1We6JrzxZRIBEQLrqLO,0.265,0.426,0.484,0.00479,0.215,-9.416,0.0741,128.052,0.343,59
+It Was Divine,9,0MfMCBfIEDWroH9E09QoJu,To Me,spotify:track:0MfMCBfIEDWroH9E09QoJu,0.421,0.276,0.558,0.248,0.0885,-9.811,0.0439,78.021,0.04,62
+It Was Divine,10,5k9vTu8mzn8HcD3oApDv37,Memo Blue,spotify:track:5k9vTu8mzn8HcD3oApDv37,0.98,0.388,0.245,0.407,0.35,-17.634,0.0527,117.483,0.237,56
+It Was Divine,11,7wiSDisQKzOPXt5nSHHCv2,Who Got Me,spotify:track:7wiSDisQKzOPXt5nSHHCv2,0.753,0.696,0.43,0.014,0.102,-8.614,0.0315,105.977,0.254,57
+It Was Divine,12,60xjPM8ZvTv855pR8eXEaM,Say You Know,spotify:track:60xjPM8ZvTv855pR8eXEaM,0.687,0.475,0.33,1.45e-05,0.185,-10.836,0.0332,120.275,0.261,56
+It Was Divine,13,3jbsRIkAf3vr818MKAtftO,Take It Home,spotify:track:3jbsRIkAf3vr818MKAtftO,0.439,0.607,0.514,3.31e-06,0.356,-9.526,0.0483,97.985,0.405,56
+It Was Divine,14,5HPpYuHO4nFSE7F8rgf4E1,Be Good,spotify:track:5HPpYuHO4nFSE7F8rgf4E1,0.0547,0.751,0.599,0.00479,0.123,-6.6,0.0753,136.889,0.655,54
+It Was Divine,15,5tvOLMuCEJqn97twRmMhW9,Until I Met You (feat. Nas),spotify:track:5tvOLMuCEJqn97twRmMhW9,0.293,0.43,0.721,4.49e-05,0.139,-6.818,0.107,82.634,0.214,57
+It Was Divine,16,46BEdbS8fN3xTRxGtiLiZ6,The Beginning,spotify:track:46BEdbS8fN3xTRxGtiLiZ6,0.585,0.602,0.564,0.137,0.12,-12.497,0.0337,150.014,0.291,54
+The Color Of You,1,4jdmvZ64AR3IR9G59IFTKq,Fallin,spotify:track:4jdmvZ64AR3IR9G59IFTKq,0.339,0.589,0.466,2.91e-05,0.155,-9.049,0.215,87.117,0.343,52
+The Color Of You,2,2vLWF4yFhTHQZVwrPTjH1s,Floating (feat. Khalid),spotify:track:2vLWF4yFhTHQZVwrPTjH1s,0.81,0.66,0.447,2.15e-06,0.11,-9.026,0.0482,84.95,0.578,71
+The Color Of You,3,37IFgb5CFQap5WiPx1owPS,High,spotify:track:37IFgb5CFQap5WiPx1owPS,0.507,0.731,0.294,1.08e-05,0.0674,-11.607,0.225,109.922,0.259,53
+The Color Of You,4,0wNenHPLy8qwMfxHTqScoR,Coming To My Senses,spotify:track:0wNenHPLy8qwMfxHTqScoR,0.342,0.618,0.431,5.82e-05,0.169,-10.481,0.0483,80.062,0.21,49
+The Color Of You,5,3H2OWez1soN1GT4me4j53A,I Don't Even Know Why Though,spotify:track:3H2OWez1soN1GT4me4j53A,0.0174,0.605,0.505,0.00037,0.326,-5.842,0.0456,137.046,0.474,50
+The Color Of You,6,1u1VSSLBKzPWlbuwVqLGMl,Tainted,spotify:track:1u1VSSLBKzPWlbuwVqLGMl,0.0724,0.6,0.451,0.0,0.116,-10.234,0.0732,63.489,0.191,51
+The Color Of You,7,7hH0Gyd35BgcBLyWwY6yy9,The One (feat. Jada),spotify:track:7hH0Gyd35BgcBLyWwY6yy9,0.301,0.591,0.396,4.16e-05,0.109,-9.684,0.0973,78.011,0.516,47
+The Color Of You,8,3ggvoFaWTbh3ZfOg05vrh0,Yours,spotify:track:3ggvoFaWTbh3ZfOg05vrh0,0.843,0.476,0.363,0.0244,0.136,-10.331,0.0403,114.069,0.185,53
+The Color Of You,9,2mj7x99sNUsVHPBRK51zlG,Electric (feat. Khalid),spotify:track:2mj7x99sNUsVHPBRK51zlG,0.738,0.599,0.396,2.19e-05,0.102,-10.489,0.0392,111.072,0.134,71
+Urban Flora (Remixes),1,69zaTg1BjjH3JjDNWinPmA,Pretty Thoughts - FKJ Remix,spotify:track:69zaTg1BjjH3JjDNWinPmA,0.112,0.797,0.505,0.000622,0.108,-9.029,0.0828,141.001,0.505,44
+Urban Flora (Remixes),2,68qzmS62XAAmCIzCw01vg4,Fantasy - Felix Jaehn Remix,spotify:track:68qzmS62XAAmCIzCw01vg4,0.0118,0.638,0.781,0.00953,0.349,-6.848,0.0285,122.985,0.25,48
+Urban Flora (Remixes),3,2hem6r6GDGZx48JXgYHeaZ,Fantasy - Pomo Remix,spotify:track:2hem6r6GDGZx48JXgYHeaZ,0.126,0.761,0.698,0.0259,0.107,-6.294,0.0998,115.011,0.586,31
+Urban Flora (Remixes),4,3RleECq7tCFPEu6J77Sf7i,Fantasy - TEEMID Remix,spotify:track:3RleECq7tCFPEu6J77Sf7i,0.000511,0.695,0.883,0.00166,0.177,-5.193,0.0501,119.938,0.599,31
+Urban Flora (Remixes),5,5kZRMTGPlnEj38rGLvaha7,Fantasy - Mark Ralph Re-Work,spotify:track:5kZRMTGPlnEj38rGLvaha7,0.163,0.65,0.712,0.0,0.339,-6.581,0.0303,113.971,0.396,32
+Urban Flora (Remixes),6,4UWbbShoLWmK3Xs00O4cRP,Fantasy - Vices Remix,spotify:track:4UWbbShoLWmK3Xs00O4cRP,0.0245,0.669,0.571,0.000624,0.0852,-5.199,0.0621,144.043,0.204,36
+Urban Flora (Remixes),7,64KZXmYFqipp1jVP23bdip,Fantasy - BLU J Remix,spotify:track:64KZXmYFqipp1jVP23bdip,0.0405,0.587,0.601,0.0,0.14,-7.646,0.234,130.072,0.375,29
+Urban Flora (Remixes),8,0AmcmWk6P50ZY0ucwk0qBe,Make You Feel - Hotel Garuda Remix,spotify:track:0AmcmWk6P50ZY0ucwk0qBe,0.125,0.685,0.812,0.334,0.101,-6.024,0.034,110.014,0.194,36
+Urban Flora (Remixes),9,279l3n6mElAOr915ryxHFa,Make You Feel - Ark Patrol Remix,spotify:track:279l3n6mElAOr915ryxHFa,0.611,0.527,0.575,0.00712,0.18,-7.581,0.0452,93.989,0.328,30
+Urban Flora (Remixes),10,6FGHG0d5qokq4HfGtw3Sl4,Make You Feel - Le Youth Remix,spotify:track:6FGHG0d5qokq4HfGtw3Sl4,0.013,0.66,0.971,0.0387,0.314,-4.863,0.0746,120.965,0.963,25
+Urban Flora (Remixes),11,0Qx8jvheNuGmtdozRDrsNQ,Make You Feel - Kerala Remix,spotify:track:0Qx8jvheNuGmtdozRDrsNQ,0.0559,0.645,0.885,0.0309,0.0741,-5.351,0.0289,109.968,0.354,28
+Urban Flora (Remixes),12,5CWTDh8ieBnUdGqTIIKI4k,Can I - Tez Cadey Remix,spotify:track:5CWTDh8ieBnUdGqTIIKI4k,0.0106,0.824,0.456,0.00252,0.0852,-10.515,0.0427,121.992,0.371,42
+Urban Flora (Remixes),13,51el26uRRrxLUcpvlZMKvh,Can I - GEOTHEORY Remix,spotify:track:51el26uRRrxLUcpvlZMKvh,0.176,0.684,0.648,0.00181,0.118,-10.292,0.118,125.004,0.443,27
+Urban Flora,1,4fvYU9z5abXplnTpdeejJs,Show Me,spotify:track:4fvYU9z5abXplnTpdeejJs,0.14,0.532,0.622,0.0,0.121,-8.723,0.143,99.92,0.216,55
+Urban Flora,2,1CvsOSuVunHxebUvgftR3P,Drift,spotify:track:1CvsOSuVunHxebUvgftR3P,0.55,0.479,0.348,0.0025,0.104,-9.708,0.029,86.374,0.147,43
+Urban Flora,3,65jAAJsVwn1GaToyDX44Z3,Can I,spotify:track:65jAAJsVwn1GaToyDX44Z3,0.325,0.364,0.537,0.0,0.128,-8.123,0.0622,200.62,0.106,54
+Urban Flora,4,11OoUqXLghsFEEh47JeALh,Fantasy,spotify:track:11OoUqXLghsFEEh47JeALh,0.353,0.68,0.747,0.0,0.138,-6.056,0.091,113.933,0.331,58
+Urban Flora,5,5VzbhVg77OSCpuMDfjdL72,Make You Feel,spotify:track:5VzbhVg77OSCpuMDfjdL72,0.787,0.7,0.43,0.000476,0.129,-8.437,0.0399,100.008,0.103,56
+Urban Flora,6,3HURquaJYVQDG7J47VnYL8,Maybe,spotify:track:3HURquaJYVQDG7J47VnYL8,0.191,0.379,0.556,0.0,0.475,-7.82,0.31,180.321,0.199,52
+Urban Flora,7,6bY3LFFbR70Cpt8cvvIhQb,Pretty Thoughts,spotify:track:6bY3LFFbR70Cpt8cvvIhQb,0.178,0.409,0.485,2.22e-06,0.193,-8.774,0.102,59.05,0.119,43
+Urban Flora,8,2iXWHGaJZPUUKzuvVDumra,Unfold,spotify:track:2iXWHGaJZPUUKzuvVDumra,0.675,0.638,0.5,0.00117,0.235,-8.714,0.0375,111.945,0.194,56

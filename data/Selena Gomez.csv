@@ -1,0 +1,54 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+Rare (Deluxe),4,3ZCBSFcZSRM9Z48ew28Zrf,Souvenir,spotify:track:3ZCBSFcZSRM9Z48ew28Zrf,0.207,0.841,0.479,1.16e-05,0.122,-5.837,0.0376,112.968,0.454,74
+Rare (Deluxe),6,1z1ztKUrDr09ZSMDnN3QIG,She,spotify:track:1z1ztKUrDr09ZSMDnN3QIG,0.277,0.783,0.695,1.6e-05,0.0672,-6.686,0.0481,101.969,0.723,67
+Rare (Deluxe),16,0MC9g3xUfrHQBmTbXsjkU7,Fun,spotify:track:0MC9g3xUfrHQBmTbXsjkU7,0.076,0.863,0.419,4.92e-05,0.151,-10.144,0.437,113.869,0.523,57
+Rare (Deluxe),17,4mt7C6wYeTUWDDk7xKym9w,Feel Me,spotify:track:4mt7C6wYeTUWDDk7xKym9w,0.44,0.71,0.808,0.000773,0.0734,-6.703,0.0433,99.989,0.392,69
+Rare (Deluxe),1,4QnC1bIaMSfDQvF4XDhV5M,Boyfriend,spotify:track:4QnC1bIaMSfDQvF4XDhV5M,0.218,0.811,0.512,0.0262,0.0768,-6.381,0.17,92.046,0.346,82
+Rare,1,7HMmFQsKsljwTw8bS7lu19,Rare,spotify:track:7HMmFQsKsljwTw8bS7lu19,0.208,0.838,0.545,8.01e-05,0.103,-6.713,0.0706,114.998,0.631,80
+Rare,2,5sK3o66yupTNIK6gWgzGjf,Dance Again,spotify:track:5sK3o66yupTNIK6gWgzGjf,0.0447,0.784,0.552,0.0,0.192,-7.261,0.0871,111.984,0.465,66
+Rare,3,7eOkHIcaoUhngxxypM5Ajr,Look At Her Now,spotify:track:7eOkHIcaoUhngxxypM5Ajr,0.114,0.753,0.564,0.0273,0.359,-7.908,0.252,77.342,0.55,78
+Rare,4,4l0Mvzj72xxOpRrp6h8nHi,Lose You To Love Me,spotify:track:4l0Mvzj72xxOpRrp6h8nHi,0.556,0.488,0.343,0.0,0.21,-8.985,0.0436,102.819,0.0978,86
+Rare,5,11Ey4yJVeWEsA73KjACkVY,Ring,spotify:track:11Ey4yJVeWEsA73KjACkVY,0.565,0.873,0.51,3.13e-06,0.0738,-5.35,0.0661,110.953,0.871,65
+Rare,6,11OwAR3GlBj9E35Cznf7Lj,Vulnerable,spotify:track:11OwAR3GlBj9E35Cznf7Lj,0.132,0.695,0.573,0.000137,0.156,-8.882,0.167,100.031,0.38,65
+Rare,7,63mdJr3NMY3wReOkNE6c6W,People You Know,spotify:track:63mdJr3NMY3wReOkNE6c6W,0.0881,0.695,0.62,5.43e-05,0.111,-8.082,0.0521,150.032,0.62,63
+Rare,8,0uFForNKQPvgSCnxlZIhQy,Let Me Get Me,spotify:track:0uFForNKQPvgSCnxlZIhQy,0.249,0.826,0.571,1.66e-05,0.215,-9.263,0.0426,121.06,0.475,61
+Rare,9,2C0hTkdEoikhKzDCJl32QZ,Crowded Room (feat. 6LACK),spotify:track:2C0hTkdEoikhKzDCJl32QZ,0.764,0.724,0.415,2.51e-06,0.103,-8.408,0.0518,89.999,0.328,67
+Rare,10,59iGOjPSOcPLGl3vqEStUp,Kinda Crazy,spotify:track:59iGOjPSOcPLGl3vqEStUp,0.484,0.691,0.446,0.00495,0.183,-10.304,0.0472,93.03,0.534,59
+Rare,12,4OtHGdb0KqEbaWb6edUnR9,Cut You Off,spotify:track:4OtHGdb0KqEbaWb6edUnR9,0.3,0.855,0.294,9.22e-05,0.091,-8.676,0.286,139.745,0.842,61
+Rare,13,4bb94wZVF1cX66vQjNeJTX,A Sweeter Place (feat. Kid Cudi),spotify:track:4bb94wZVF1cX66vQjNeJTX,0.109,0.583,0.777,0.000509,0.108,-6.991,0.185,190.054,0.31,62
+Revival,17,3JbtFCWuXlYuMBO2izAoFP,Good For You - KASBO Remix,spotify:track:3JbtFCWuXlYuMBO2izAoFP,0.159,0.666,0.486,1.82e-05,0.214,-8.854,0.0761,89.019,0.343,10
+Revival (Deluxe),1,5NB5uPFcHGmwfluq9Sqn3j,Revival,spotify:track:5NB5uPFcHGmwfluq9Sqn3j,0.128,0.684,0.732,0.0,0.184,-4.966,0.0862,124.888,0.527,48
+Revival (Deluxe),2,7KxhSJOYiqCDclXDBNlFSZ,Kill Em With Kindness,spotify:track:7KxhSJOYiqCDclXDBNlFSZ,0.00795,0.757,0.884,5.87e-05,0.0973,-5.488,0.0404,120.012,0.398,67
+Revival (Deluxe),3,3CJvmtWw2bJsudbAC5uCQk,Hands To Myself,spotify:track:3CJvmtWw2bJsudbAC5uCQk,0.0147,0.811,0.499,2.44e-06,0.342,-7.161,0.118,111.016,0.466,68
+Revival (Deluxe),4,6ZANrVuAMp2rpjhfbOuJly,Same Old Love,spotify:track:6ZANrVuAMp2rpjhfbOuJly,0.0223,0.672,0.593,0.0,0.214,-4.01,0.0304,98.02,0.438,66
+Revival (Deluxe),5,3Fb4cttE912XgIeD25rXRn,Sober,spotify:track:3Fb4cttE912XgIeD25rXRn,0.171,0.573,0.741,0.0,0.104,-3.22,0.0788,92.021,0.526,55
+Revival (Deluxe),6,5xdVqHtFS0eLuNp4Z8Wbpa,Good For You,spotify:track:5xdVqHtFS0eLuNp4Z8Wbpa,0.181,0.607,0.673,0.0,0.069,-6.484,0.0611,88.952,0.215,66
+Revival (Deluxe),7,37IToWWYUc9nuH3ijz4tqV,Camouflage,spotify:track:37IToWWYUc9nuH3ijz4tqV,0.623,0.375,0.408,0.0,0.123,-7.163,0.0331,126.712,0.165,49
+Revival (Deluxe),8,4a32Q7bRtWDGSEMbyWKIlj,Me & The Rhythm,spotify:track:4a32Q7bRtWDGSEMbyWKIlj,0.00315,0.711,0.736,0.000637,0.0731,-5.959,0.104,106.01,0.717,54
+Revival (Deluxe),9,3gBxsj1226b38ZxdvsTyd1,Survivors,spotify:track:3gBxsj1226b38ZxdvsTyd1,0.0207,0.684,0.867,0.00355,0.0733,-5.26,0.053,109.972,0.245,45
+Revival (Deluxe),10,75rnLkvIeq8RZ8xjcFIvSG,Body Heat,spotify:track:75rnLkvIeq8RZ8xjcFIvSG,0.189,0.74,0.974,0.0,0.0849,-3.585,0.0903,120.041,0.766,44
+Revival (Deluxe),11,4RUqWWMnkm0rZebrPikFWI,Rise,spotify:track:4RUqWWMnkm0rZebrPikFWI,0.2,0.652,0.902,0.0,0.595,-4.209,0.119,166.926,0.496,43
+Revival (Deluxe),12,4i55R0S2I64mhS5biNbECZ,Me & My Girls,spotify:track:4i55R0S2I64mhS5biNbECZ,0.0152,0.629,0.947,0.0,0.0595,-3.982,0.156,122.019,0.347,54
+Revival (Deluxe),13,4OuMdUzh9Lz82ACgQUYBbU,Nobody,spotify:track:4OuMdUzh9Lz82ACgQUYBbU,0.307,0.575,0.453,0.0,0.0844,-6.824,0.0348,130.953,0.0679,51
+Revival (Deluxe),14,2cMtkfv5jEb5UpIjJntl5g,Perfect,spotify:track:2cMtkfv5jEb5UpIjJntl5g,0.142,0.392,0.558,2.27e-06,0.118,-6.769,0.0598,135.897,0.159,51
+Revival (Deluxe),15,6I4vrOusONJw4cUXRFyDZn,Outta My Hands (Loco),spotify:track:6I4vrOusONJw4cUXRFyDZn,0.0298,0.647,0.932,6.24e-06,0.536,-5.33,0.053,121.994,0.642,41
+Revival (Deluxe),16,4zvZj8TSRl3EeaeXzRl73k,Cologne,spotify:track:4zvZj8TSRl3EeaeXzRl73k,0.0324,0.55,0.622,0.0,0.115,-4.718,0.0483,106.082,0.259,44
+Stars Dance (Deluxe Edition),14,5uwf9K6FyQFQb0DaBgBHGg,Lover In Me,spotify:track:5uwf9K6FyQFQb0DaBgBHGg,0.00506,0.676,0.65,0.0,0.36,-5.747,0.0526,129.029,0.673,11
+Stars Dance (Deluxe Edition),15,0ErkByEpfNh9o49wP3kXDF,I Like It That Way,spotify:track:0ErkByEpfNh9o49wP3kXDF,0.0436,0.577,0.829,0.0,0.118,-3.646,0.0528,127.907,0.312,11
+Stars Dance (Deluxe Edition),16,0CPvVzU3YA4URepJdHtRp8,Come & Get It - Jump Smokers Radio Remix,spotify:track:0CPvVzU3YA4URepJdHtRp8,0.147,0.549,0.964,2.07e-06,0.278,-3.308,0.0464,160.017,0.853,4
+Stars Dance,12,1TSXBNZCekaomsxMwlwI83,Nobody Does It Like You,spotify:track:1TSXBNZCekaomsxMwlwI83,0.0737,0.613,0.86,0.0,0.172,-4.358,0.0485,130.007,0.462,9
+Stars Dance,13,2xZyqPZdWLhdKl4AobRAhj,Music Feels Better,spotify:track:2xZyqPZdWLhdKl4AobRAhj,0.0712,0.597,0.657,0.0,0.255,-4.909,0.0701,127.071,0.537,10
+Stars Dance,14,5YowZzB3pou7vgfWI0VSfa,Come & Get It - Dave Audé Radio,spotify:track:5YowZzB3pou7vgfWI0VSfa,0.00346,0.519,0.953,0.000685,0.148,-2.744,0.164,130.045,0.489,7
+Stars Dance (Bonus Track Version),1,345HZXxfL8S8HkVzytD1Pw,Birthday,spotify:track:345HZXxfL8S8HkVzytD1Pw,0.00494,0.642,0.839,0.0,0.534,-2.7,0.0455,106.969,0.419,54
+Stars Dance (Bonus Track Version),2,2OsEJFTfzfjG4oC92cuP2c,Slow Down,spotify:track:2OsEJFTfzfjG4oC92cuP2c,0.073,0.722,0.821,0.0,0.631,-3.856,0.165,127.944,0.721,66
+Stars Dance (Bonus Track Version),3,2MTMeQZLVI9yiZIXsCbzGi,Stars Dance,spotify:track:2MTMeQZLVI9yiZIXsCbzGi,0.00346,0.443,0.886,0.0,0.111,-3.802,0.0921,109.966,0.26,50
+Stars Dance (Bonus Track Version),4,6vftvAdsEAAJTGQrUmHnei,Like A Champion,spotify:track:6vftvAdsEAAJTGQrUmHnei,0.0736,0.705,0.903,0.0,0.185,-4.091,0.118,90.001,0.935,52
+Stars Dance (Bonus Track Version),5,6LoQHIo74tOzQ8EsLEkhgF,Come & Get It,spotify:track:6LoQHIo74tOzQ8EsLEkhgF,0.0101,0.546,0.787,0.00021,0.0809,-4.1,0.0517,79.979,0.573,68
+Stars Dance (Bonus Track Version),6,7D39d96OheT62fgxoGaElz,Forget Forever,spotify:track:7D39d96OheT62fgxoGaElz,0.178,0.507,0.959,2.22e-05,0.0746,-3.6,0.172,125.985,0.229,44
+Stars Dance (Bonus Track Version),7,594fJDaRhC2bcHilqoc8U4,Save The Day,spotify:track:594fJDaRhC2bcHilqoc8U4,0.00115,0.666,0.836,2.22e-05,0.132,-3.599,0.036,119.995,0.531,50
+Stars Dance (Bonus Track Version),8,5KzBPwPBbMKQwK9OFOwBtV,B.E.A.T.,spotify:track:5KzBPwPBbMKQwK9OFOwBtV,0.0131,0.894,0.597,0.00138,0.0969,-7.039,0.0524,128.031,0.665,44
+Stars Dance (Bonus Track Version),9,7xWZ6yrBuZF3E9iYnUNs3C,Write Your Name,spotify:track:7xWZ6yrBuZF3E9iYnUNs3C,0.00415,0.629,0.755,1.11e-05,0.207,-4.759,0.0466,118.995,0.379,42
+Stars Dance (Bonus Track Version),10,3RrJTOClOgMAc9FQ7QDwv7,Undercover,spotify:track:3RrJTOClOgMAc9FQ7QDwv7,0.0148,0.633,0.683,0.00028,0.129,-6.61,0.119,128.0,0.734,52
+Stars Dance (Bonus Track Version),11,0OkJtCF6yQIdK11ge58uXD,Love Will Remember,spotify:track:0OkJtCF6yQIdK11ge58uXD,0.0132,0.634,0.956,0.0,0.0978,-4.143,0.152,109.979,0.33,59
+Stars Dance (Bonus Track Version),12,3PVor2DGqdPBqGNcQX60fD,Nobody Does It Like You - Bonus Track,spotify:track:3PVor2DGqdPBqGNcQX60fD,0.0737,0.613,0.86,0.0,0.172,-4.358,0.0485,130.007,0.462,42
+Stars Dance (Bonus Track Version),13,7qjWYlQwqMwgxJb2PbFXhU,Music Feels Better - Bonus Track,spotify:track:7qjWYlQwqMwgxJb2PbFXhU,0.0712,0.597,0.657,0.0,0.255,-4.909,0.0701,127.071,0.537,40
