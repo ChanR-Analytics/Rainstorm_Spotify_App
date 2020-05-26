@@ -1,0 +1,407 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),1,6Xp11SyQh7cjSbjaPCVkK8,Inishannon Serenade - Remastered,spotify:track:6Xp11SyQh7cjSbjaPCVkK8,0.434,0.361,0.335,0.911,0.116,-11.913,0.0285,100.98,0.215,11
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),2,1Kp4w0IDjENqOrWWNHhYa3,Marylin - Remastered,spotify:track:1Kp4w0IDjENqOrWWNHhYa3,0.861,0.376,0.261,0.467,0.153,-11.269,0.0313,119.277,0.336,11
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),3,7MOtl5ZiLjmVcP6W7NS8Nh,How Was It for You - Remastered,spotify:track:7MOtl5ZiLjmVcP6W7NS8Nh,0.416,0.286,0.462,0.735,0.141,-11.423,0.0317,105.238,0.269,13
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),4,16fwdyyJFnQdz1AzWIyLbR,After the Lovin - Remastered,spotify:track:16fwdyyJFnQdz1AzWIyLbR,0.65,0.217,0.354,0.894,0.152,-10.801,0.0338,77.568,0.258,11
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),5,1ueC8Ji7OnXsPdm7R69jrM,Hopelessly Devoted to You - Remastered,spotify:track:1ueC8Ji7OnXsPdm7R69jrM,0.44,0.168,0.394,0.913,0.129,-10.223,0.0319,74.065,0.309,14
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),6,5sRUky5sMwn8nkZD3kF5KJ,Heidi - Remastered,spotify:track:5sRUky5sMwn8nkZD3kF5KJ,0.498,0.457,0.482,0.434,0.086,-9.501,0.0368,174.814,0.882,9
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),7,2Utex3c3LbOhvuZQgd2wZU,You Don't Bring Me Flowers - Remastered,spotify:track:2Utex3c3LbOhvuZQgd2wZU,0.685,0.16,0.356,0.789,0.138,-10.447,0.0336,98.462,0.0664,19
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),8,53xGtcOZJsbHASlNoNtn96,We're All Alone - Remastered,spotify:track:53xGtcOZJsbHASlNoNtn96,0.578,0.217,0.323,0.953,0.661,-11.448,0.0346,124.67,0.176,16
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),9,0tEt75VpttOTH817A8KIO2,Cheeky Cha Cha - Remastered,spotify:track:0tEt75VpttOTH817A8KIO2,0.498,0.491,0.464,0.692,0.175,-9.975,0.0307,146.829,0.809,9
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),10,5ZOwjGayb7TszeOBVdTLro,Looks Like We Made It - Remastered,spotify:track:5ZOwjGayb7TszeOBVdTLro,0.493,0.262,0.389,0.919,0.263,-10.179,0.032,67.435,0.17,16
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),11,7xMRDS6j6FomJNVVJnuIBK,Nobody Does It Better - Remastered,spotify:track:7xMRDS6j6FomJNVVJnuIBK,0.669,0.288,0.335,0.884,0.582,-11.141,0.0311,67.594,0.144,17
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),12,0EWuEW5uteeBq3bPefFPlS,Sometimes When We Touch - Remastered,spotify:track:0EWuEW5uteeBq3bPefFPlS,0.798,0.242,0.281,0.72,0.137,-11.88,0.0335,122.542,0.127,9
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),13,4CZorUbAG48SnQAWmnjg4E,Jog Trot - Remastered,spotify:track:4CZorUbAG48SnQAWmnjg4E,0.736,0.482,0.372,0.652,0.298,-11.014,0.0259,83.963,0.367,10
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),14,4cBDLJURHXfE5ILiN2w4BJ,Barbiroussa - Remastered,spotify:track:4cBDLJURHXfE5ILiN2w4BJ,0.0699,0.5,0.548,0.877,0.394,-11.158,0.0317,111.164,0.871,9
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),15,2CxM00gTBencue7XKlancj,Singapore Girl - Remastered,spotify:track:2CxM00gTBencue7XKlancj,0.328,0.316,0.392,0.857,0.0787,-9.853,0.029,156.604,0.598,8
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),16,5T7Z7DDaGgmCsR1GhV9TBx,How Deep Is Your Love - Remastered,spotify:track:5T7Z7DDaGgmCsR1GhV9TBx,0.849,0.319,0.367,0.926,0.109,-10.591,0.0325,105.799,0.528,11
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),17,0RSoIYCAvAhKYZhJn7d8vy,After All - Remastered,spotify:track:0RSoIYCAvAhKYZhJn7d8vy,0.777,0.226,0.325,0.807,0.104,-12.025,0.0318,81.705,0.298,8
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),18,79nerBzuMaKTsf8IeCLnkk,Wedding in Schio - Remastered,spotify:track:79nerBzuMaKTsf8IeCLnkk,0.698,0.29,0.407,0.905,0.105,-10.231,0.0293,110.28,0.257,9
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),19,39v44A1TKN3ut5AS12PeyP,Chili Samba - Remastered,spotify:track:39v44A1TKN3ut5AS12PeyP,0.548,0.646,0.49,0.108,0.131,-10.134,0.0375,105.136,0.831,9
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),20,0Uk9lxy7gqSd6HC5Ll26BH,Love Is in the Air - Remastered,spotify:track:0Uk9lxy7gqSd6HC5Ll26BH,0.623,0.407,0.478,0.927,0.162,-9.196,0.0348,124.61,0.514,9
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),21,1Ld1vAm85UoAr332hua4sr,Ocean Sunrise - Remastered,spotify:track:1Ld1vAm85UoAr332hua4sr,0.405,0.287,0.295,0.864,0.319,-10.361,0.03,104.366,0.118,9
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),22,5c5BDp7PLIp1dA7SKnz7P3,Talking in Your Sleep - Remastered,spotify:track:5c5BDp7PLIp1dA7SKnz7P3,0.848,0.229,0.285,0.925,0.0948,-13.278,0.0334,133.594,0.134,11
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),23,5qkzy6abJ8jJ6plaWGgLVN,Jumpin Jupiter - Remastered,spotify:track:5qkzy6abJ8jJ6plaWGgLVN,0.674,0.468,0.354,0.872,0.0568,-10.518,0.0346,81.373,0.632,7
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),24,3ZnWYAt8O5SXJeQBcF85AC,Black Satin - Remastered,spotify:track:3ZnWYAt8O5SXJeQBcF85AC,0.188,0.104,0.386,0.756,0.129,-10.489,0.0375,171.084,0.122,7
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),25,5oBjJzPNM40xtWUmpasz9z,Sleepy Time Bossa Nova - Remastered,spotify:track:5oBjJzPNM40xtWUmpasz9z,0.196,0.374,0.409,0.512,0.375,-11.14,0.0288,101.518,0.495,8
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),26,6d0CS6lwOUxvXzhS1hcrFS,I Can't Smile Without You - Remastered,spotify:track:6d0CS6lwOUxvXzhS1hcrFS,0.589,0.268,0.328,0.89,0.106,-8.65,0.0302,95.14,0.328,11
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),27,1kjTIYvLn9XIRNpmuK62fw,Apertif - Remastered,spotify:track:1kjTIYvLn9XIRNpmuK62fw,0.254,0.384,0.578,0.126,0.115,-11.101,0.0359,92.701,0.635,7
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),28,3erxRZLABvVCNYZy7X28fP,West of Sunset - Remastered,spotify:track:3erxRZLABvVCNYZy7X28fP,0.274,0.205,0.453,0.781,0.116,-11.31,0.0317,89.516,0.113,10
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),29,1Lkytu9Rw1V5gWIXS3GrOv,Cuban Boy - Remastered,spotify:track:1Lkytu9Rw1V5gWIXS3GrOv,0.339,0.521,0.353,0.0536,0.163,-11.948,0.0309,112.697,0.788,8
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),30,66Xhvv3kGVfsfLKywDdQei,Majorcan Holiday - Remastered,spotify:track:66Xhvv3kGVfsfLKywDdQei,0.52,0.428,0.412,0.96,0.177,-12.728,0.0301,112.774,0.221,7
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),31,2oDS8iAqYvLZWlHp9njdbA,On the Tamiami Trail - Remastered,spotify:track:2oDS8iAqYvLZWlHp9njdbA,0.485,0.551,0.486,0.734,0.285,-10.257,0.0306,101.547,0.961,7
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),32,1jf2J5IrV5OTPdQIhB5IjU,Tamorette - Remastered,spotify:track:1jf2J5IrV5OTPdQIhB5IjU,0.113,0.149,0.364,0.41,0.094,-9.996,0.0316,156.768,0.387,7
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),1,2gVNT5NHIY0O8s3djr70Lv,Pacific Blue - Remastered,spotify:track:2gVNT5NHIY0O8s3djr70Lv,0.736,0.202,0.255,0.756,0.149,-13.282,0.0321,83.348,0.107,8
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),2,3JdweYRqUXwQMjx8pSLrFo,You Light up My Life - Remastered,spotify:track:3JdweYRqUXwQMjx8pSLrFo,0.183,0.0893,0.362,0.935,0.122,-9.861,0.0351,73.706,0.116,8
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),3,1y2MaPm4hTbIkQ9X8m8lc2,Just Like a Leaf in the Wind - Remastered,spotify:track:1y2MaPm4hTbIkQ9X8m8lc2,0.306,0.233,0.505,0.128,0.118,-10.528,0.0309,80.765,0.518,7
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),4,6I8Ahwnb2VCEnysUBtk5Aa,Bless Your Heart - Remastered,spotify:track:6I8Ahwnb2VCEnysUBtk5Aa,0.35,0.286,0.375,0.0419,0.0952,-10.731,0.0314,114.586,0.222,6
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),5,0L6ZS2g9rujTxvyOQgjtyO,Soft Lights - Remastered,spotify:track:0L6ZS2g9rujTxvyOQgjtyO,0.473,0.163,0.37,0.905,0.138,-12.195,0.0326,81.531,0.131,10
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),6,5ts3qWwOYsC6puW7pUSB0k,I Just Want to Be Your Everything - Remastered,spotify:track:5ts3qWwOYsC6puW7pUSB0k,0.443,0.295,0.34,0.932,0.117,-10.53,0.0308,81.947,0.409,7
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),7,4rpqVrS5ODt069ERprTrju,You Needed Me - Remastered,spotify:track:4rpqVrS5ODt069ERprTrju,0.501,0.213,0.342,0.873,0.191,-10.209,0.0329,69.022,0.22,8
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),8,5PCdse0wfjnqT5ch7m1aIq,When I Need You - Remastered,spotify:track:5PCdse0wfjnqT5ch7m1aIq,0.564,0.279,0.207,0.888,0.0935,-11.798,0.0354,117.751,0.298,6
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),9,0wrQglBmvyCa9r8eMpXpdF,Don't It Make My Brown Eyes Blue - Remastered,spotify:track:0wrQglBmvyCa9r8eMpXpdF,0.753,0.498,0.248,0.856,0.118,-10.172,0.0289,86.712,0.299,7
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),10,11FQG31RA1iKUIpu9yA39F,Make You Happy - Remastered,spotify:track:11FQG31RA1iKUIpu9yA39F,0.526,0.289,0.371,0.908,0.168,-11.447,0.0314,132.326,0.408,6
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),11,7ezcT5Cx3EVNWhlMtPrCvb,Ready to Take a Chance Again - Remastered,spotify:track:7ezcT5Cx3EVNWhlMtPrCvb,0.515,0.321,0.42,0.734,0.32,-8.598,0.0286,95.524,0.25,6
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),12,3zkX8LQOEws6E4i2GUmiLK,Tenerife - Remastered,spotify:track:3zkX8LQOEws6E4i2GUmiLK,0.557,0.264,0.425,0.883,0.116,-11.862,0.0322,140.562,0.358,6
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),13,6l3BesTOgXedyUoYMnAOhG,Just the Way You Are - Remastered,spotify:track:6l3BesTOgXedyUoYMnAOhG,0.892,0.312,0.301,0.931,0.136,-10.27,0.0325,101.065,0.339,7
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),14,2z7td79dVuplu6eCXs1H0h,Blue Baion - Remastered,spotify:track:2z7td79dVuplu6eCXs1H0h,0.0994,0.444,0.528,0.59,0.0331,-8.766,0.0417,76.729,0.665,5
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),15,5r2CNCFt6Hrn26Z2hruhhv,Soho Samba - Remastered,spotify:track:5r2CNCFt6Hrn26Z2hruhhv,0.446,0.429,0.479,0.00362,0.127,-11.94,0.0317,104.423,0.604,6
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),16,2mGBnMvtnwFLilnt4Mcpec,I'll Be There - Remastered,spotify:track:2mGBnMvtnwFLilnt4Mcpec,0.151,0.396,0.474,0.829,0.112,-12.16,0.032,119.257,0.32,6
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),17,29RNsukUqOKoRXrGidJ5ZY,An Idle Dream - Remastered,spotify:track:29RNsukUqOKoRXrGidJ5ZY,0.845,0.173,0.316,0.803,0.122,-11.193,0.0313,94.798,0.085,6
+Dancing Classics with Frank Chacksfield & His Orchestra (Remastered),18,3XHHRGnBRiWO7kSRCNHBGc,When It's Twilight in Capri - Remastered,spotify:track:3XHHRGnBRiWO7kSRCNHBGc,0.456,0.193,0.432,0.908,0.12,-11.349,0.0326,100.81,0.278,6
+Embraceable You,1,6msRCK40W5LgZVq39jhrfp,Embraceable You,spotify:track:6msRCK40W5LgZVq39jhrfp,0.822,0.105,0.243,0.949,0.176,-13.728,0.0403,184.733,0.151,2
+Embraceable You,2,1nfF6bdXFslOUcbUpK7Kkj,Someone to Watch Over Me,spotify:track:1nfF6bdXFslOUcbUpK7Kkj,0.901,0.208,0.268,0.817,0.231,-15.552,0.0345,82.918,0.139,2
+Embraceable You,3,5iWcCXTyMDsVZUNnBLIu8r,I Got Rhythm,spotify:track:5iWcCXTyMDsVZUNnBLIu8r,0.815,0.573,0.489,0.772,0.556,-7.344,0.0346,109.365,0.668,1
+Embraceable You,4,6j3g4ZVswdkbeyVvqRtR1S,Rhapsody in Blue,spotify:track:6j3g4ZVswdkbeyVvqRtR1S,0.786,0.277,0.205,0.513,0.147,-14.59,0.0319,92.723,0.0691,2
+Embraceable You,5,60t8l75RhYsO6aHcjU8sLL,Do Do Do,spotify:track:60t8l75RhYsO6aHcjU8sLL,0.54,0.278,0.3,0.968,0.155,-10.916,0.0285,165.976,0.758,1
+Embraceable You,6,1WwdwSp0LoATQ6qfYvmT9E,They Can't Take That Away from Me,spotify:track:1WwdwSp0LoATQ6qfYvmT9E,0.73,0.22,0.254,0.924,0.325,-12.824,0.0318,103.746,0.279,1
+Embraceable You,7,75mL0Z0guK4VpeKdtkeUp7,S'Wonderful,spotify:track:75mL0Z0guK4VpeKdtkeUp7,0.739,0.203,0.215,0.917,0.314,-12.923,0.0341,179.971,0.303,2
+Embraceable You,8,7sGDUE8hiYaKL9L4KbxxJt,Fascinatin' Rhythm,spotify:track:7sGDUE8hiYaKL9L4KbxxJt,0.781,0.301,0.432,0.879,0.476,-7.689,0.0337,180.386,0.555,1
+Embraceable You,9,32vUlXyOpAW5NOXjH2ZK2h,Lady Be Good,spotify:track:32vUlXyOpAW5NOXjH2ZK2h,0.754,0.254,0.271,0.548,0.301,-11.129,0.033,170.292,0.49,1
+Embraceable You,10,3x1KLdXYIzNTYiIkaq5unm,I'm Biding My Time,spotify:track:3x1KLdXYIzNTYiIkaq5unm,0.929,0.338,0.214,0.496,0.118,-13.331,0.0277,103.754,0.381,1
+Embraceable You,11,0aqP6mIdRKhN0c3vXuLBaU,Beginner's Luck,spotify:track:0aqP6mIdRKhN0c3vXuLBaU,0.885,0.506,0.326,0.884,0.115,-9.753,0.0267,86.167,0.786,1
+Embraceable You,12,2y2FDvtnRDvLu1d5NAZALY,Love Walked In,spotify:track:2y2FDvtnRDvLu1d5NAZALY,0.691,0.167,0.209,0.922,0.128,-13.443,0.0324,95.289,0.179,1
+Embraceable You,13,6x1XLExUdQBOptkiOf4dxj,Somebody Loves Me,spotify:track:6x1XLExUdQBOptkiOf4dxj,0.544,0.352,0.176,0.897,0.323,-15.854,0.034,83.77,0.386,1
+Embraceable You,14,05ZIctcFvOAE6ZRmsINuBm,The Man I Love,spotify:track:05ZIctcFvOAE6ZRmsINuBm,0.777,0.237,0.309,0.901,0.127,-10.619,0.031,83.805,0.281,1
+ひき潮~ベスト・オブ・フランク・チャックスフィールド,1,2B5ndkokmv3e22RlrLou8s,ひき潮,spotify:track:2B5ndkokmv3e22RlrLou8s,0.845,0.127,0.415,0.334,0.134,-14.255,0.0485,76.575,0.151,12
+ひき潮~ベスト・オブ・フランク・チャックスフィールド,2,1vEgKeVNGfKbisTlrcA4E3,ララのテーマ (「ドクトル・ジバゴ」より),spotify:track:1vEgKeVNGfKbisTlrcA4E3,0.799,0.19,0.3,0.657,0.0897,-12.516,0.0334,113.245,0.0589,11
+ひき潮~ベスト・オブ・フランク・チャックスフィールド,3,6FE8iudBaUVHCMMatgoy4F,ライムライト,spotify:track:6FE8iudBaUVHCMMatgoy4F,0.926,0.167,0.0953,0.481,0.223,-17.017,0.0407,98.431,0.0594,12
+ひき潮~ベスト・オブ・フランク・チャックスフィールド,4,2ozKIJShyATt8mBLr5GhL8,マヨルカ,spotify:track:2ozKIJShyATt8mBLr5GhL8,0.874,0.478,0.291,0.828,0.102,-13.532,0.0328,117.628,0.577,2
+ひき潮~ベスト・オブ・フランク・チャックスフィールド,5,4EWHPQVUhQVGY9KCMt7agl,ムーン・リヴァー (「ティファニーで朝食を」より),spotify:track:4EWHPQVUhQVGY9KCMt7agl,0.778,0.259,0.201,0.497,0.0787,-16.092,0.0334,94.617,0.132,2
+ひき潮~ベスト・オブ・フランク・チャックスフィールド,6,0PqUNDffVJyPEYXcNFpTYk,ナイト・アンド・デイ,spotify:track:0PqUNDffVJyPEYXcNFpTYk,0.91,0.201,0.159,0.869,0.0783,-11.809,0.0355,137.517,0.0364,2
+ひき潮~ベスト・オブ・フランク・チャックスフィールド,7,5QP3zjNaLauJIYIaJ8E8TB,ローラ (「ローラ殺人事件」より),spotify:track:5QP3zjNaLauJIYIaJ8E8TB,0.934,0.184,0.235,0.838,0.212,-13.605,0.0329,85.513,0.0395,2
+ひき潮~ベスト・オブ・フランク・チャックスフィールド,8,7sWFtAu8VPscUlV9JHubQ3,シークレット・ラヴ (秘めたる恋),spotify:track:7sWFtAu8VPscUlV9JHubQ3,0.889,0.174,0.289,0.892,0.113,-12.589,0.0343,107.058,0.0692,2
+ひき潮~ベスト・オブ・フランク・チャックスフィールド,9,6LezRvKiLzqSL0ydU2HoY8,学生王子のセレナーデ,spotify:track:6LezRvKiLzqSL0ydU2HoY8,0.889,0.23,0.191,0.924,0.126,-14.312,0.0341,111.063,0.0556,2
+ひき潮~ベスト・オブ・フランク・チャックスフィールド,10,14C14HlJfyDqUfwau2GeKV,シェナンドー,spotify:track:14C14HlJfyDqUfwau2GeKV,0.66,0.11,0.18,0.408,0.111,-15.417,0.0368,172.714,0.152,1
+ひき潮~ベスト・オブ・フランク・チャックスフィールド,11,5bvhrB5TF7GLtEhz7WV26R,白い渚のブルース,spotify:track:5bvhrB5TF7GLtEhz7WV26R,0.875,0.25,0.149,0.905,0.0966,-14.751,0.0332,86.522,0.105,12
+ひき潮~ベスト・オブ・フランク・チャックスフィールド,12,5VMNa4YVRMVR68BNpUV1TZ,いそしぎ,spotify:track:5VMNa4YVRMVR68BNpUV1TZ,0.508,0.13,0.257,0.968,0.0901,-12.308,0.0356,171.922,0.0688,12
+ひき潮~ベスト・オブ・フランク・チャックスフィールド,13,7oYRw6lfyMqJVEB5kFUId2,今宵の君は,spotify:track:7oYRw6lfyMqJVEB5kFUId2,0.691,0.256,0.284,0.862,0.247,-13.953,0.0338,90.859,0.264,10
+ひき潮~ベスト・オブ・フランク・チャックスフィールド,14,0LkfzFRqaIteXgyyoZB0FB,みじかくも美しく燃え,spotify:track:0LkfzFRqaIteXgyyoZB0FB,0.865,0.205,0.231,0.186,0.174,-16.265,0.0368,107.571,0.0549,2
+ひき潮~ベスト・オブ・フランク・チャックスフィールド,15,5bdB6a8nm036IXdPMTp5q8,トセリのセレナーデ,spotify:track:5bdB6a8nm036IXdPMTp5q8,0.948,0.147,0.248,0.902,0.378,-13.624,0.0354,84.112,0.166,2
+ひき潮~ベスト・オブ・フランク・チャックスフィールド,16,0KbTJkc9Anb3x56utrYPG9,バリ・ハイ (「南太平洋」より),spotify:track:0KbTJkc9Anb3x56utrYPG9,0.661,0.277,0.375,0.94,0.276,-12.391,0.0341,109.299,0.129,10
+ひき潮~ベスト・オブ・フランク・チャックスフィールド,17,1bQeD1zL57p74pcWfPQQqI,星に願いを (「ピノキオ」より),spotify:track:1bQeD1zL57p74pcWfPQQqI,0.819,0.213,0.216,0.866,0.171,-16.19,0.034,88.84,0.141,12
+ひき潮~ベスト・オブ・フランク・チャックスフィールド,18,0bCjwh7UCVricwLevrvSuE,待ちましょう,spotify:track:0bCjwh7UCVricwLevrvSuE,0.875,0.334,0.237,0.858,0.0989,-12.337,0.0347,114.306,0.196,2
+ひき潮~ベスト・オブ・フランク・チャックスフィールド,19,20Q6H2AaAhFIFsBbahW1zM,バラ色の人生,spotify:track:20Q6H2AaAhFIFsBbahW1zM,0.901,0.077,0.181,0.873,0.103,-14.758,0.0381,78.342,0.123,11
+ひき潮~ベスト・オブ・フランク・チャックスフィールド,20,0nbfOgdK42TVFfi5dzAqEV,アネマ・エ・コーレ,spotify:track:0nbfOgdK42TVFfi5dzAqEV,0.777,0.325,0.268,0.681,0.161,-13.327,0.0331,127.464,0.351,1
+ひき潮~ベスト・オブ・フランク・チャックスフィールド,21,0tCJAjgZv4wfVldb1K2Ue5,ウィーン、わが夢の街,spotify:track:0tCJAjgZv4wfVldb1K2Ue5,0.951,0.192,0.228,0.845,0.176,-11.597,0.0361,129.727,0.112,2
+ひき潮~ベスト・オブ・フランク・チャックスフィールド,22,0eeebyrbn0PC7GDAvLyBTQ,枯葉,spotify:track:0eeebyrbn0PC7GDAvLyBTQ,0.923,0.172,0.251,0.947,0.156,-12.384,0.0336,95.251,0.0371,1
+Immortal Serenades,1,29hFJKeVbYDbOtRxqhFS86,"Serenade, Op. 6, No. 1",spotify:track:29hFJKeVbYDbOtRxqhFS86,0.853,0.149,0.198,0.888,0.388,-16.95,0.0321,74.315,0.172,5
+Immortal Serenades,2,100yuPQdxV2YYW1BCYDLj9,The Fair Maid of Perth: Serenade,spotify:track:100yuPQdxV2YYW1BCYDLj9,0.943,0.148,0.131,0.915,0.0894,-19.688,0.0382,169.241,0.0593,3
+Immortal Serenades,3,6tvYQhlo4s3jxVBVvBSrS6,The Student Prince: Serenade,spotify:track:6tvYQhlo4s3jxVBVvBSrS6,0.921,0.0935,0.182,0.906,0.124,-16.02,0.0324,50.785,0.113,3
+Immortal Serenades,4,27qdv3zhLhWecFeqT1pDTi,"Don Giovanni, K. 527: Serenade",spotify:track:27qdv3zhLhWecFeqT1pDTi,0.758,0.403,0.27,0.958,0.0728,-19.475,0.0333,128.936,0.594,3
+Immortal Serenades,5,7krVAKs2LDSjA8zRgvktWl,"Serenade, Op. 7",spotify:track:7krVAKs2LDSjA8zRgvktWl,0.863,0.253,0.238,0.725,0.0923,-17.399,0.0366,88.056,0.123,3
+Immortal Serenades,6,6UIlFWk6VuLqJwp7PGlhTC,Tales of Hoffmann: Barcarolle,spotify:track:6UIlFWk6VuLqJwp7PGlhTC,0.912,0.276,0.251,0.52,0.114,-15.067,0.0311,111.784,0.146,4
+Immortal Serenades,7,4PMx3beXOirpai7WFE1vQQ,Romeo and Juliet: Love Theme,spotify:track:4PMx3beXOirpai7WFE1vQQ,0.905,0.159,0.144,0.938,0.0884,-16.362,0.0331,90.93,0.0395,3
+Immortal Serenades,8,1nnrrIjsZzCLhd0yIIQQPs,Les Millions d'Arlequin: Serenade,spotify:track:1nnrrIjsZzCLhd0yIIQQPs,0.835,0.153,0.236,0.905,0.288,-16.45,0.0344,88.452,0.094,3
+Immortal Serenades,9,7dVW0Q7yAUzbzqlbHELayk,Don Pasquale: Act III - Serenade,spotify:track:7dVW0Q7yAUzbzqlbHELayk,0.956,0.292,0.0749,0.932,0.095,-16.627,0.0438,173.427,0.275,3
+Immortal Serenades,10,601LdEyNJbGRluEvqePpx6,"Schwanengesang, D.957: Serenade",spotify:track:601LdEyNJbGRluEvqePpx6,0.881,0.222,0.222,0.941,0.203,-14.885,0.032,46.373,0.0686,3
+Immortal Serenades,11,4csW1kdY2mEdaUBT9TJJXu,Angel's Serenade,spotify:track:4csW1kdY2mEdaUBT9TJJXu,0.674,0.199,0.282,0.934,0.218,-15.624,0.0312,82.673,0.0507,3
+Immortal Serenades,12,4AA2LiU34ft1KllPibVlL1,Serenade to a Mandarin,spotify:track:4AA2LiU34ft1KllPibVlL1,0.705,0.31,0.184,0.91,0.094,-18.154,0.0334,121.706,0.096,3
+Immortal Serenades,13,1WAI1v7c4NEcHYV8n5jvx2,"The Damnation of Faust, Op. 24: Mephistopheles' Serenade",spotify:track:1WAI1v7c4NEcHYV8n5jvx2,0.705,0.42,0.22,0.908,0.111,-15.429,0.0409,136.435,0.561,2
+Immortal Serenades,14,1A8g8omGkuXGjn3WJGTgIA,Cavalleria Rusticana: Siciliano,spotify:track:1A8g8omGkuXGjn3WJGTgIA,0.886,0.175,0.188,0.859,0.209,-15.702,0.0337,74.554,0.129,3
+Be,1,6hppvecE9c1ukuwBJfSAq8,Crystal Blue Persuasion,spotify:track:6hppvecE9c1ukuwBJfSAq8,0.212,0.382,0.373,0.82,0.0808,-15.601,0.0263,95.27,0.757,4
+Be,2,5kX49EoAQxtjPJa5R3HcLv,Have You Looked Into Your Heart,spotify:track:5kX49EoAQxtjPJa5R3HcLv,0.935,0.384,0.272,0.95,0.121,-15.313,0.0276,84.392,0.507,16
+Be,3,3w3ePszxtUGTzG9TfpkKnt,Can You Fool,spotify:track:3w3ePszxtUGTzG9TfpkKnt,0.807,0.582,0.261,0.95,0.123,-16.991,0.0315,120.62,0.701,7
+Be,4,5S8orbLZt45wklcomiB8Pd,Hollywood Love Theme,spotify:track:5S8orbLZt45wklcomiB8Pd,0.926,0.227,0.248,0.954,0.148,-15.078,0.0313,93.638,0.0741,6
+Be,5,7xBJkNnsVJulPODv37bBAb,Calypso,spotify:track:7xBJkNnsVJulPODv37bBAb,0.609,0.286,0.307,0.952,0.126,-15.214,0.0331,84.113,0.287,18
+Be,6,1Z7piEJs08wRWF1jCWj1H2,This Heart Of Mine,spotify:track:1Z7piEJs08wRWF1jCWj1H2,0.9,0.411,0.125,0.839,0.105,-18.058,0.0285,98.359,0.308,6
+Be,7,1EwYpqLYcH1iy10zR41CCR,Don't Let Me Be Lonely,spotify:track:1EwYpqLYcH1iy10zR41CCR,0.895,0.382,0.233,0.953,0.0939,-16.029,0.0282,72.252,0.394,11
+Be,8,5cJsZqzPM0uQs08XYWb3Ix,Heart On Sleeve,spotify:track:5cJsZqzPM0uQs08XYWb3Ix,0.766,0.505,0.312,0.979,0.111,-13.115,0.0266,104.658,0.569,4
+Be,9,0jkL1PSb7b39vKJkoAf3EO,Say You Will Not Forget,spotify:track:0jkL1PSb7b39vKJkoAf3EO,0.937,0.126,0.185,0.909,0.112,-19.261,0.041,66.255,0.0701,4
+Be,10,4BIKfHO5XHKjEX1iWNnD4c,Miami 747,spotify:track:4BIKfHO5XHKjEX1iWNnD4c,0.655,0.28,0.416,0.546,0.12,-15.892,0.0362,110.311,0.465,7
+Be,11,0KFnW2OvJW1xvSSUDRSDmZ,Be,spotify:track:0KFnW2OvJW1xvSSUDRSDmZ,0.731,0.417,0.295,0.94,0.12,-13.514,0.0293,76.026,0.198,4
+Be,12,3g3YrodWnjDB6xGyWI2y6Y,Holiday In Rhodes,spotify:track:3g3YrodWnjDB6xGyWI2y6Y,0.843,0.39,0.2,0.919,0.113,-14.364,0.0298,88.947,0.195,4
+Be,13,54Sou7Vjo6F0BNZegtsHrQ,Ooh Baby Baby,spotify:track:54Sou7Vjo6F0BNZegtsHrQ,0.877,0.365,0.23,0.958,0.115,-13.959,0.0317,86.731,0.447,13
+Be,14,1fPBYxG4PXHFG9SitWvW29,Fabulous Places,spotify:track:1fPBYxG4PXHFG9SitWvW29,0.855,0.352,0.26,0.946,0.124,-12.068,0.0301,82.537,0.329,5
+Be,15,6nDubOKbQW292EPkJfmtAu,Bless Your Heart,spotify:track:6nDubOKbQW292EPkJfmtAu,0.858,0.263,0.267,0.975,0.0989,-14.649,0.0335,113.998,0.177,5
+Be,16,5QyKn1Sj2PBVf0DnqKRTca,You're Only Fooling,spotify:track:5QyKn1Sj2PBVf0DnqKRTca,0.722,0.409,0.409,0.928,0.11,-13.599,0.0317,120.197,0.45,5
+Be,17,6KxnJYvQfMhKRe05OvOcFi,The Circle Is Small,spotify:track:6KxnJYvQfMhKRe05OvOcFi,0.197,0.474,0.3,0.945,0.156,-16.025,0.0282,83.768,0.277,8
+Be,18,6qhHFhnCUCEGHjuLr3NJTs,My World Is You,spotify:track:6qhHFhnCUCEGHjuLr3NJTs,0.824,0.279,0.331,0.949,0.214,-15.23,0.03,77.468,0.18,3
+Be,19,2F5NE1yB0UbJElMF2J0GY3,When Someone Says You're Wonderful,spotify:track:2F5NE1yB0UbJElMF2J0GY3,0.676,0.405,0.397,0.959,0.12,-14.95,0.0279,106.701,0.417,2
+French Flavour,1,1uJpltZzCtKPLPxpQDoAcp,Ca C'Est Paris,spotify:track:1uJpltZzCtKPLPxpQDoAcp,0.898,0.267,0.457,0.949,0.143,-10.769,0.0366,136.534,0.428,14
+French Flavour,2,4yIwMiD0RSwYtM8tiqR6ZQ,J'Attendrai,spotify:track:4yIwMiD0RSwYtM8tiqR6ZQ,0.92,0.179,0.187,0.948,0.104,-13.936,0.0327,81.343,0.194,23
+French Flavour,3,08CQqs3bGn3E4k6D13zJNm,Madamoiselle De Paris,spotify:track:08CQqs3bGn3E4k6D13zJNm,0.954,0.307,0.259,0.902,0.16,-14.286,0.0315,96.718,0.234,27
+French Flavour,4,4Ngo5lyw60qJZplwyMvYhv,Clopin Clopant,spotify:track:4Ngo5lyw60qJZplwyMvYhv,0.954,0.247,0.147,0.843,0.112,-17.577,0.0372,80.129,0.127,10
+French Flavour,5,3AwHQCP5lHIdIgADsxPB4G,Parlez-Moi D'Amour,spotify:track:3AwHQCP5lHIdIgADsxPB4G,0.966,0.21,0.186,0.931,0.252,-18.696,0.0385,65.295,0.183,10
+French Flavour,6,2hRlFWawW6IdDlb9bdg088,La Vie En Rose,spotify:track:2hRlFWawW6IdDlb9bdg088,0.98,0.15,0.18,0.929,0.109,-17.192,0.0348,84.332,0.145,21
+French Flavour,7,4KNtF1uR5J7RpSBqU2HANs,Can Can,spotify:track:4KNtF1uR5J7RpSBqU2HANs,0.988,0.544,0.293,0.933,0.104,-18.286,0.0475,157.339,0.769,14
+French Flavour,8,5eZrmxGT7WC9yU3dbiYfbj,Chic Parisienne,spotify:track:5eZrmxGT7WC9yU3dbiYfbj,0.222,0.113,0.329,0.0957,0.227,-10.665,0.0317,174.534,0.315,7
+French Flavour,9,6jw3uEMznlMHt5BHrPzWq7,Bal Musette,spotify:track:6jw3uEMznlMHt5BHrPzWq7,0.538,0.305,0.292,0.877,0.105,-11.578,0.0368,182.272,0.484,14
+French Flavour,10,7HdN2Ft4k6ssxXZKzg7YJn,Under The Bridges Of Paris,spotify:track:7HdN2Ft4k6ssxXZKzg7YJn,0.931,0.0757,0.274,0.655,0.136,-13.3,0.0364,60.354,0.139,15
+French Flavour,11,6NXQgLwiGUg7Ssnjt9kXHB,Danse Du Papillion,spotify:track:6NXQgLwiGUg7Ssnjt9kXHB,0.99,0.323,0.182,0.906,0.248,-14.377,0.0392,137.382,0.0797,8
+French Flavour,12,3fCHKKwNZEcTzHt7CyIirw,Persuasion,spotify:track:3fCHKKwNZEcTzHt7CyIirw,0.724,0.23,0.26,0.0514,0.0989,-12.038,0.0317,87.762,0.0785,8
+French Flavour,13,0KBT0THWxnC1uEInWaWmAf,Valse Des Fleurs,spotify:track:0KBT0THWxnC1uEInWaWmAf,0.976,0.216,0.156,0.919,0.0668,-16.363,0.0323,93.194,0.114,27
+French Flavour,14,0ezhEPX3SFpXhZnCjoP69x,Salut D'Amour,spotify:track:0ezhEPX3SFpXhZnCjoP69x,0.982,0.0952,0.208,0.859,0.0904,-14.578,0.0438,73.196,0.0545,10
+French Flavour,15,6iI0kSlahTNx3M6RTauctr,Clair De Lune,spotify:track:6iI0kSlahTNx3M6RTauctr,0.986,0.0701,0.0787,0.857,0.082,-19.261,0.0414,76.003,0.0342,12
+French Flavour,16,4HVccJcyOyQxn4yCrCQe6N,Humoresque,spotify:track:4HVccJcyOyQxn4yCrCQe6N,0.986,0.239,0.166,0.903,0.194,-17.068,0.0371,117.114,0.151,9
+French Flavour,17,5btwKF9M15qskcNYnS0x3B,Valse D'Eta,spotify:track:5btwKF9M15qskcNYnS0x3B,0.957,0.105,0.367,0.833,0.38,-11.066,0.0384,76.024,0.094,9
+French Flavour,18,74eJezFmCCey2qw5TA5leD,Fete Des Jardins,spotify:track:74eJezFmCCey2qw5TA5leD,0.446,0.23,0.358,0.066,0.122,-12.273,0.0363,181.444,0.627,38
+French Flavour,19,0ZXE4HrxWojR4aEj8hWwPv,Song From The Moulin Rouge,spotify:track:0ZXE4HrxWojR4aEj8hWwPv,0.875,0.381,0.208,0.947,0.109,-15.55,0.0285,85.111,0.199,44
+In the Winter,1,3dVAlX5K36n9s1JN93DCsT,In The Winter,spotify:track:3dVAlX5K36n9s1JN93DCsT,0.9,0.259,0.216,0.965,0.0934,-16.097,0.0317,151.769,0.349,2
+In the Winter,2,5umyftafF4qjfsbwYdxiTI,Love Or Something Like It,spotify:track:5umyftafF4qjfsbwYdxiTI,0.8,0.412,0.316,0.944,0.11,-13.839,0.0316,124.309,0.565,1
+In the Winter,3,7EtdUMdFxe8CxCEX5OlwQ8,Time Is On My Side,spotify:track:7EtdUMdFxe8CxCEX5OlwQ8,0.801,0.301,0.514,0.228,0.246,-8.487,0.0322,101.677,0.508,2
+In the Winter,4,4WT8pe6J5EQa4JNr3TSk1A,Meditation,spotify:track:4WT8pe6J5EQa4JNr3TSk1A,0.896,0.378,0.142,0.904,0.124,-16.307,0.0321,126.657,0.247,2
+In the Winter,5,1z6FYbNhQa2tfNxvYgUzjl,Looking Out For Number One,spotify:track:1z6FYbNhQa2tfNxvYgUzjl,0.896,0.703,0.319,0.885,0.111,-13.079,0.0311,110.214,0.393,1
+In the Winter,6,42vQarVpxMK2b42rSRROBT,Like To Get To Know You,spotify:track:42vQarVpxMK2b42rSRROBT,0.819,0.467,0.355,0.844,0.126,-14.558,0.0278,104.833,0.486,8
+In the Winter,7,36xPEFbKbKYsNg4oFnGsrP,Shadow Of Your Smile,spotify:track:36xPEFbKbKYsNg4oFnGsrP,0.641,0.344,0.282,0.872,0.307,-14.244,0.0298,78.978,0.199,9
+In the Winter,8,48VbgfQ1NAlknLYFgEqvWL,The Last Thing On My Mind,spotify:track:48VbgfQ1NAlknLYFgEqvWL,0.847,0.345,0.237,0.924,0.123,-16.595,0.0302,98.396,0.122,1
+In the Winter,9,1uVowVfyUxvoyt32b3Vv9t,Now Is The Time,spotify:track:1uVowVfyUxvoyt32b3Vv9t,0.947,0.225,0.245,0.948,0.123,-16.824,0.0335,90.725,0.0745,1
+In the Winter,10,2HrJZBKDoQgGCtAksRV5Ks,Aperitif,spotify:track:2HrJZBKDoQgGCtAksRV5Ks,0.801,0.387,0.4,0.842,0.156,-14.923,0.0345,92.746,0.604,1
+In the Winter,11,31l3l0XMrAW7jkA9sqKlWY,This Moment In Time,spotify:track:31l3l0XMrAW7jkA9sqKlWY,0.645,0.19,0.22,0.951,0.0992,-14.242,0.0315,81.375,0.116,7
+In the Winter,12,3zCr7zXvpPImoXPeiTvl8u,My Lovely Woman,spotify:track:3zCr7zXvpPImoXPeiTvl8u,0.892,0.735,0.307,0.752,0.0806,-10.06,0.0315,120.677,0.736,1
+In the Winter,13,3ZKpJ8u1drzbAYdhBqH541,Welcome To My Morning,spotify:track:3ZKpJ8u1drzbAYdhBqH541,0.653,0.444,0.372,0.949,0.0982,-13.699,0.0288,144.372,0.668,1
+In the Winter,14,2HMObadR2L9LwKESQSU3mv,Every Time I Sing A Love,spotify:track:2HMObadR2L9LwKESQSU3mv,0.88,0.391,0.315,0.977,0.17,-13.608,0.0312,135.424,0.345,1
+In the Winter,15,6RS0VMsYJqVa6oBmJMPTrD,Brandy And Benny,spotify:track:6RS0VMsYJqVa6oBmJMPTrD,0.692,0.495,0.229,0.855,0.124,-16.575,0.032,121.943,0.604,0
+In the Winter,16,4eQBu7I33UID50l6BAOs9d,He Will Call Again,spotify:track:4eQBu7I33UID50l6BAOs9d,0.472,0.241,0.318,0.779,0.16,-14.334,0.0318,143.558,0.222,1
+In the Winter,17,6ys1f1SAM2ov5eV5jTyvXf,Something Blue,spotify:track:6ys1f1SAM2ov5eV5jTyvXf,0.768,0.268,0.284,0.949,0.104,-14.397,0.0288,78.908,0.258,0
+In the Winter,18,3UWO7n5xmi3aOi9vPgjXSb,Shadow Play,spotify:track:3UWO7n5xmi3aOi9vPgjXSb,0.899,0.325,0.242,0.905,0.19,-15.788,0.0342,79.215,0.121,0
+In the Winter,19,1XuMdaMIMDov9vaqlixBTD,Night Star,spotify:track:1XuMdaMIMDov9vaqlixBTD,0.553,0.198,0.38,0.744,0.114,-9.931,0.031,134.743,0.453,1
+"Relaxing Mood Music, Vol. 1",1,0vObt9diy5r6m0bQnE8HcE,Capri Serenade,spotify:track:0vObt9diy5r6m0bQnE8HcE,0.424,0.361,0.264,0.268,0.363,-12.096,0.031,108.454,0.263,2
+"Relaxing Mood Music, Vol. 1",3,2honsR4lz5Gidf59DKkyCJ,Grand Boulevards,spotify:track:2honsR4lz5Gidf59DKkyCJ,0.422,0.504,0.351,0.19,0.102,-10.701,0.0323,96.283,0.396,1
+"Relaxing Mood Music, Vol. 1",4,3kxetFVP6bQV69tymdXC4m,Lights Of Malta,spotify:track:3kxetFVP6bQV69tymdXC4m,0.448,0.419,0.257,0.0633,0.376,-13.516,0.0306,106.653,0.181,1
+"Relaxing Mood Music, Vol. 1",5,1YLBMXrvsTBp08pScgfnXO,Land Of The Rainbows,spotify:track:1YLBMXrvsTBp08pScgfnXO,0.41,0.239,0.43,0.633,0.324,-10.273,0.0294,103.904,0.171,1
+"Relaxing Mood Music, Vol. 1",6,0YW6FbdbrVMEOzxBtuIstE,Lonely,spotify:track:0YW6FbdbrVMEOzxBtuIstE,0.64,0.341,0.29,0.819,0.0998,-12.205,0.0328,115.023,0.35,1
+"Relaxing Mood Music, Vol. 1",7,1IunSnAZW7wAryxZxMi5fm,Marriage Lines,spotify:track:1IunSnAZW7wAryxZxMi5fm,0.713,0.393,0.391,0.412,0.167,-10.094,0.0508,178.091,0.819,1
+"Relaxing Mood Music, Vol. 1",8,4VcTFZe5RzY82hjIN0X2P5,Neopolitan Moonlight,spotify:track:4VcTFZe5RzY82hjIN0X2P5,0.523,0.382,0.297,0.909,0.104,-13.597,0.0308,107.407,0.569,1
+"Relaxing Mood Music, Vol. 1",9,0oNWHOdRgz7SrBzzWgIYsC,Saturday Morning,spotify:track:0oNWHOdRgz7SrBzzWgIYsC,0.256,0.309,0.288,0.509,0.16,-14.405,0.0343,123.496,0.447,1
+"Relaxing Mood Music, Vol. 1",10,1bt3q5oosIw6il7tbG0AM6,Someone,spotify:track:1bt3q5oosIw6il7tbG0AM6,0.477,0.177,0.334,0.793,0.338,-10.775,0.0315,93.363,0.434,1
+"Relaxing Mood Music, Vol. 1",11,2LszyLVsG3OHGGMI9hRxqZ,Souvenir De Montmatre,spotify:track:2LszyLVsG3OHGGMI9hRxqZ,0.393,0.301,0.388,0.115,0.319,-9.186,0.0312,84.619,0.692,1
+"Relaxing Mood Music, Vol. 1",12,5dcGZpDXgY3bkJ84ed2PnH,Spring Affair,spotify:track:5dcGZpDXgY3bkJ84ed2PnH,0.173,0.341,0.298,0.283,0.0914,-12.163,0.0335,122.602,0.527,1
+"Relaxing Mood Music, Vol. 1",13,242LrbBA3yG4bRikmpd1SW,Tango De Minuet,spotify:track:242LrbBA3yG4bRikmpd1SW,0.35,0.48,0.4,0.00507,0.16,-9.936,0.0285,103.696,0.492,1
+"Relaxing Mood Music, Vol. 1",14,1vK8dt30kXr5CG3Juhh6J5,Tango D' Amore,spotify:track:1vK8dt30kXr5CG3Juhh6J5,0.742,0.344,0.273,0.132,0.322,-11.467,0.0396,173.76,0.769,1
+"Relaxing Mood Music, Vol. 1",15,1Xw2rXcQNdaSOsu8SLKS3u,Tango De Zarzuela,spotify:track:1Xw2rXcQNdaSOsu8SLKS3u,0.661,0.374,0.284,0.37,0.322,-11.994,0.031,110.486,0.39,1
+"Relaxing Mood Music, Vol. 1",16,7p5LT0KNSFudBvnfUphRfL,My Lovely Woman Smiles,spotify:track:7p5LT0KNSFudBvnfUphRfL,0.66,0.313,0.344,0.0125,0.032,-9.429,0.0326,118.291,0.586,1
+"Relaxing Mood Music, Vol. 1",17,3wVADiLMdu6PnlDhoaNaOc,Jumpin' Jimmy,spotify:track:3wVADiLMdu6PnlDhoaNaOc,0.756,0.538,0.269,0.58,0.179,-10.604,0.0309,118.334,0.608,1
+"Relaxing Mood Music, Vol. 1",18,3fM51OF9XKHATArJZpln8U,Rosamunde,spotify:track:3fM51OF9XKHATArJZpln8U,0.571,0.121,0.332,0.814,0.325,-9.25,0.0344,94.249,0.387,1
+"Relaxing Mood Music, Vol. 1",19,0llfShwWGQSd0rAj4LhnGQ,Matsu,spotify:track:0llfShwWGQSd0rAj4LhnGQ,0.574,0.282,0.377,0.285,0.253,-10.121,0.0314,180.522,0.652,2
+"Relaxing Mood Music, Vol. 1",20,0cajFybZw6CLtX9W3Kd8xX,Clouds,spotify:track:0cajFybZw6CLtX9W3Kd8xX,0.386,0.328,0.362,0.0181,0.289,-9.779,0.029,80.668,0.474,1
+"Relaxing Mood Music, Vol. 1",21,54ABIXTv3DgxDXSjl2IwGo,Avacado,spotify:track:54ABIXTv3DgxDXSjl2IwGo,0.834,0.187,0.303,0.86,0.0956,-11.026,0.0307,170.588,0.37,2
+"Relaxing Mood Music, Vol. 1",22,7xKov9tzkvW7mrmMN7mpvU,Fernando,spotify:track:7xKov9tzkvW7mrmMN7mpvU,0.169,0.442,0.499,0.96,0.352,-11.074,0.0329,82.749,0.968,1
+"Relaxing Mood Music, Vol. 1",23,6HDncgplMkrbWjwlUxYz45,Solitairio Amore,spotify:track:6HDncgplMkrbWjwlUxYz45,0.814,0.312,0.387,0.925,0.156,-10.405,0.0315,156.151,0.587,1
+"Relaxing Mood Music, Vol. 1",24,4OUgdC6ZlkpPWLzGKQMhbi,Isla Del Sol,spotify:track:4OUgdC6ZlkpPWLzGKQMhbi,0.722,0.328,0.346,0.945,0.135,-15.252,0.0281,97.952,0.37,1
+"Relaxing Mood Music, Vol. 1",25,3KI7tGlkjnOkH1JOkElVZ5,Villa Mentone,spotify:track:3KI7tGlkjnOkH1JOkElVZ5,0.66,0.334,0.557,0.963,0.0985,-13.072,0.0499,187.694,0.841,1
+"Relaxing Mood Music, Vol. 1",26,4QwFJbtpsWvkJL84CokcSn,Peppermint,spotify:track:4QwFJbtpsWvkJL84CokcSn,0.667,0.389,0.35,0.00269,0.225,-11.406,0.0312,165.937,0.755,1
+Sundown,1,0BFuvoWUGGH2LfU62tfSJf,Sundown,spotify:track:0BFuvoWUGGH2LfU62tfSJf,0.866,0.589,0.243,0.924,0.114,-17.702,0.0326,117.187,0.69,12
+Sundown,2,26C6goIacu86PBbPdEkgxm,Baby I'm A Want You,spotify:track:26C6goIacu86PBbPdEkgxm,0.804,0.397,0.265,0.897,0.183,-16.038,0.0349,124.965,0.398,14
+Sundown,3,5UcfPF2UCdCNvkJZQfHRnJ,The Seduction,spotify:track:5UcfPF2UCdCNvkJZQfHRnJ,0.851,0.37,0.248,0.927,0.113,-15.177,0.029,68.135,0.188,8
+Sundown,4,65apUxDOEsz5Z3A1nWlADs,A Woman In Love,spotify:track:65apUxDOEsz5Z3A1nWlADs,0.677,0.432,0.282,0.949,0.13,-15.275,0.0294,98.113,0.461,37
+Sundown,5,31eaEvRgzvArrpLxDzFqR8,Someone To Light Up My Life,spotify:track:31eaEvRgzvArrpLxDzFqR8,0.416,0.267,0.342,0.918,0.114,-13.002,0.0296,95.646,0.28,6
+Sundown,6,5xeRTB6xiuAOVFUibcc2mP,Learn To Love,spotify:track:5xeRTB6xiuAOVFUibcc2mP,0.856,0.143,0.242,0.951,0.112,-14.005,0.0347,73.328,0.188,5
+Sundown,7,6TkxBpysC8AQahUjmU4xqu,Wonderful Baby,spotify:track:6TkxBpysC8AQahUjmU4xqu,0.31,0.626,0.33,0.886,0.103,-14.762,0.028,95.756,0.331,4
+Sundown,8,1CWRvSmz4Dp9JECRFBbbPj,I Really Got The Feeling,spotify:track:1CWRvSmz4Dp9JECRFBbbPj,0.503,0.383,0.217,0.906,0.106,-15.37,0.029,103.356,0.434,4
+Sundown,9,7LonRELcgZ0cXFNLyENKIS,Watching The Night,spotify:track:7LonRELcgZ0cXFNLyENKIS,0.893,0.235,0.213,0.958,0.1,-14.803,0.0334,85.539,0.0648,5
+Sundown,10,0TiLHvsJmQLrSaR5pzONky,Let's Make The Most Of A Beautiful Thing,spotify:track:0TiLHvsJmQLrSaR5pzONky,0.817,0.172,0.174,0.913,0.13,-16.509,0.0313,87.473,0.0661,4
+Sundown,11,3JyjaXQ4vchGgh6cPKhwBS,I Will,spotify:track:3JyjaXQ4vchGgh6cPKhwBS,0.411,0.444,0.314,0.99,0.129,-14.196,0.0301,71.026,0.501,4
+Sundown,12,2PVyrGs4l8bvHKLrcYVcyc,A Little More Love,spotify:track:2PVyrGs4l8bvHKLrcYVcyc,0.679,0.555,0.271,0.972,0.102,-15.984,0.0299,113.076,0.525,8
+Sundown,13,1X8fuCnpp9ii9kv8XuW0MQ,Perfect Strangers,spotify:track:1X8fuCnpp9ii9kv8XuW0MQ,0.836,0.348,0.213,0.882,0.116,-16.252,0.0389,117.111,0.297,4
+Sundown,14,5pnHJV4uzWkGuTDeBJZ4LN,Me And My Arrow,spotify:track:5pnHJV4uzWkGuTDeBJZ4LN,0.699,0.531,0.301,0.93,0.1,-15.484,0.0258,94.883,0.418,4
+Sundown,15,5eEqpiR65PcPzRgzJ6n3l1,Make You Happy,spotify:track:5eEqpiR65PcPzRgzJ6n3l1,0.935,0.275,0.269,0.945,0.203,-14.914,0.0347,131.143,0.297,4
+Sundown,16,69VxJBFOQxjDXPwpU2V56k,There'll Be Time,spotify:track:69VxJBFOQxjDXPwpU2V56k,0.905,0.256,0.26,0.894,0.11,-14.793,0.0368,75.371,0.125,4
+Sundown,17,2tP7Wbz6WfnTFVj4UN7lWr,Beyond Tomorrow,spotify:track:2tP7Wbz6WfnTFVj4UN7lWr,0.96,0.282,0.263,0.914,0.0969,-14.754,0.0345,105.611,0.384,4
+Sundown,18,0s8277XTmKUnDUtWHOvMyQ,Crazy Love,spotify:track:0s8277XTmKUnDUtWHOvMyQ,0.471,0.488,0.365,0.959,0.134,-13.412,0.026,103.143,0.703,8
+Sundown,19,0efZAXyZl73iczzUNlQcOs,Crazy Love - Alternate Version,spotify:track:0efZAXyZl73iczzUNlQcOs,0.581,0.29,0.356,0.834,0.12,-13.299,0.0283,88.347,0.423,3
+Sweet and Low,1,2bBqRhRtbStLdbXe0j8Hig,Sweet And Low,spotify:track:2bBqRhRtbStLdbXe0j8Hig,0.948,0.0731,0.261,0.887,0.0923,-12.893,0.0354,69.23,0.0359,1
+Sweet and Low,2,3zGlCZuy8kfi8rlIDc1piy,Irish Lullaby,spotify:track:3zGlCZuy8kfi8rlIDc1piy,0.944,0.16,0.301,0.902,0.116,-13.138,0.0354,108.028,0.0382,1
+Sweet and Low,3,05HqNtuBtWaft4K5UUByk8,Schlafe Mein Prinzchen Schlaf'ein,spotify:track:05HqNtuBtWaft4K5UUByk8,0.984,0.169,0.244,0.846,0.0768,-12.741,0.0334,94.004,0.0386,1
+Sweet and Low,4,7roy6bVWxs3DIJsJ4Q5Qum,Golden Slumbers,spotify:track:7roy6bVWxs3DIJsJ4Q5Qum,0.941,0.0687,0.217,0.839,0.122,-15.707,0.0451,74.517,0.0507,1
+Sweet and Low,5,2MAIvVp54rPtluwExb0Hdz,Slumber Song,spotify:track:2MAIvVp54rPtluwExb0Hdz,0.978,0.0972,0.33,0.887,0.0906,-9.884,0.0328,79.996,0.0379,1
+Sweet and Low,6,6QYiLOjz0U77VqUSWvFZ6y,Sleep My Baby Sleep,spotify:track:6QYiLOjz0U77VqUSWvFZ6y,0.919,0.179,0.308,0.62,0.358,-12.663,0.0341,82.068,0.0378,1
+Sweet and Low,7,0uoM3AHTImpfvQAjcp3aOl,Abide With Me,spotify:track:0uoM3AHTImpfvQAjcp3aOl,0.946,0.183,0.274,0.854,0.147,-12.85,0.0373,116.659,0.0892,1
+Sweet and Low,8,6qI9aOSyrKhtJctZbe3D6O,All People That On Earth Do Dwell,spotify:track:6qI9aOSyrKhtJctZbe3D6O,0.907,0.101,0.188,0.912,0.213,-13.595,0.0363,75.988,0.147,1
+Sweet and Low,9,0rXXXEUmwW2tpGeV0SCFfA,All Things Bright And Beautiful,spotify:track:0rXXXEUmwW2tpGeV0SCFfA,0.935,0.244,0.267,0.958,0.282,-10.851,0.0283,89.833,0.334,1
+Sweet and Low,10,6yYaYC6uUtJTT7U50Ota9n,Whispering Hope,spotify:track:6yYaYC6uUtJTT7U50Ota9n,0.964,0.132,0.245,0.89,0.15,-14.499,0.0375,77.694,0.0388,1
+Sweet and Low,11,4xYymJ8GkJxrEfbiXlNVuZ,O God Our Help In Ages Past,spotify:track:4xYymJ8GkJxrEfbiXlNVuZ,0.943,0.187,0.284,0.941,0.109,-11.147,0.0337,131.557,0.114,1
+Sweet and Low,12,7lrdbs3X1aMZQTKdzvmuQq,Wonderland By Night,spotify:track:7lrdbs3X1aMZQTKdzvmuQq,0.928,0.23,0.273,0.36,0.17,-14.28,0.0344,105.006,0.347,1
+Sweet and Low,13,64hbEkjh8K0xAmsfJhd3x3,Crimond,spotify:track:64hbEkjh8K0xAmsfJhd3x3,0.903,0.131,0.227,0.877,0.098,-13.34,0.0357,84.59,0.0923,1
+Sweet and Low,14,6E3zOH2Ft6L3UcGbfbBe9X,O For The Wings Of A Dove,spotify:track:6E3zOH2Ft6L3UcGbfbBe9X,0.96,0.198,0.208,0.914,0.0966,-14.497,0.0365,76.469,0.0399,0
+Sweet and Low,15,1a1r6eng2hbyhRyZNosxex,Onward Christian Soldiers,spotify:track:1a1r6eng2hbyhRyZNosxex,0.898,0.226,0.188,0.915,0.0652,-12.834,0.0314,98.549,0.123,0
+Sweet and Low,16,7gyKjot5ewRwHiMthbr6kA,Ave Maria,spotify:track:7gyKjot5ewRwHiMthbr6kA,0.984,0.164,0.171,0.863,0.13,-14.582,0.0365,110.093,0.0878,1
+Sweet and Low,17,7jDLKc5IHzIEDyfipmiN56,Jerusalem,spotify:track:7jDLKc5IHzIEDyfipmiN56,0.909,0.188,0.216,0.928,0.148,-12.168,0.0332,122.079,0.233,0
+Sweet and Low,18,5Sf0aVZyP4zJyEPqHklU16,The Old Rugged Cross,spotify:track:5Sf0aVZyP4zJyEPqHklU16,0.904,0.157,0.228,0.923,0.362,-12.94,0.0338,63.074,0.0908,1
+Sweet and Low,19,2rKBk9XWgNvWsvzIsJPNcd,Jesu Joy Of Man's Desiring,spotify:track:2rKBk9XWgNvWsvzIsJPNcd,0.946,0.155,0.278,0.938,0.131,-14.184,0.0348,82.289,0.0975,0
+That Secret Smile,1,3Po8f93P5dmOVaAAJ8JP9h,Whizz Kid,spotify:track:3Po8f93P5dmOVaAAJ8JP9h,0.514,0.512,0.335,0.708,0.0992,-11.471,0.0312,117.275,0.378,5
+That Secret Smile,2,1FjPjjMVsjKqT3gHbwET7V,Ham & Eggs,spotify:track:1FjPjjMVsjKqT3gHbwET7V,0.788,0.478,0.295,0.889,0.186,-14.764,0.031,81.045,0.582,1
+That Secret Smile,3,4wT1zYaEHhsU7yVjS72jIp,Alla Romana,spotify:track:4wT1zYaEHhsU7yVjS72jIp,0.835,0.317,0.363,0.834,0.213,-15.243,0.0355,112.546,0.115,3
+That Secret Smile,4,79N8YQIOXq9DU9xoqCOeqQ,That Secret Smile,spotify:track:79N8YQIOXq9DU9xoqCOeqQ,0.939,0.148,0.23,0.932,0.247,-15.3,0.0379,152.494,0.0682,3
+That Secret Smile,5,3L7StX357C8fnVXp2JQGpY,Why Me,spotify:track:3L7StX357C8fnVXp2JQGpY,0.681,0.346,0.189,0.898,0.114,-14.135,0.0299,83.545,0.157,3
+That Secret Smile,6,2lFthcFPkOAhxba0p0Bcmo,My Heart Cries For You,spotify:track:2lFthcFPkOAhxba0p0Bcmo,0.799,0.369,0.239,0.954,0.103,-13.989,0.0291,91.467,0.356,5
+That Secret Smile,7,3QSmg0Nx2e23Wvbqf8syMN,Time Time,spotify:track:3QSmg0Nx2e23Wvbqf8syMN,0.333,0.135,0.205,0.838,0.099,-13.879,0.0381,84.637,0.23,3
+That Secret Smile,8,7GVQ7YkN1ONt8fbk4FgM5R,Antonlyn First Light,spotify:track:7GVQ7YkN1ONt8fbk4FgM5R,0.229,0.447,0.398,0.000308,0.159,-14.293,0.0312,132.343,0.469,3
+That Secret Smile,9,0a8G6CFLyGzQcaUzNjXgmB,Blockbusters,spotify:track:0a8G6CFLyGzQcaUzNjXgmB,0.908,0.314,0.427,0.975,0.229,-16.799,0.11,158.765,0.556,1
+That Secret Smile,10,56OmPU9i18C8aFO9zIDQYm,Hello,spotify:track:56OmPU9i18C8aFO9zIDQYm,0.949,0.118,0.262,0.603,0.0676,-12.974,0.0366,78.937,0.0398,3
+That Secret Smile,11,1feMwtSip6i4BKkz9u8kWq,To Know You Is To Love You,spotify:track:1feMwtSip6i4BKkz9u8kWq,0.845,0.437,0.264,0.961,0.14,-16.187,0.0295,96.133,0.528,5
+That Secret Smile,12,51vIw50ooal1sB9NRLtZNF,Hot Chestnuts,spotify:track:51vIw50ooal1sB9NRLtZNF,0.909,0.486,0.281,0.911,0.187,-12.343,0.0297,79.725,0.742,2
+That Secret Smile,13,1rYQxoJEFm7vktun8v1Fb9,Little Red Monkey,spotify:track:1rYQxoJEFm7vktun8v1Fb9,0.982,0.501,0.261,0.882,0.2,-14.471,0.0366,103.717,0.538,3
+That Secret Smile,14,1hV35kLUEjl7lgKO3litmu,There's A Kind Of Hush,spotify:track:1hV35kLUEjl7lgKO3litmu,0.711,0.465,0.429,0.611,0.0976,-15.19,0.033,140.587,0.51,4
+That Secret Smile,15,5wk27y0aRPZgxUVrkA6Ahg,Wives And Lovers,spotify:track:5wk27y0aRPZgxUVrkA6Ahg,0.722,0.163,0.348,0.709,0.375,-16.832,0.056,185.681,0.376,5
+That Secret Smile,16,2fkONd21Nlw7LegB0Dy4g2,Saving All My Love For You,spotify:track:2fkONd21Nlw7LegB0Dy4g2,0.88,0.238,0.331,0.909,0.128,-16.139,0.0408,110.439,0.29,5
+That Secret Smile,17,0QVFJPTraWion4MVMHtbPt,Green Lamp,spotify:track:0QVFJPTraWion4MVMHtbPt,0.941,0.129,0.271,0.708,0.139,-14.169,0.0323,178.697,0.151,2
+That Secret Smile,18,35A8LKsaCy280DNQwu0W3m,Ebb Tide - I,spotify:track:35A8LKsaCy280DNQwu0W3m,0.947,0.16,0.321,0.91,0.955,-14.853,0.0367,72.526,0.0394,3
+That Secret Smile,19,0EXm3UGsaJVwplP43nq9Aw,Ebb Tide - II,spotify:track:0EXm3UGsaJVwplP43nq9Aw,0.904,0.212,0.511,0.892,0.948,-13.08,0.0502,85.932,0.211,3
+The New Beatles Songbook & The New Simon and Garfunkel Songbook,1,21vt53t7yPdz9K7MPG1uio,Hello Goodbye,spotify:track:21vt53t7yPdz9K7MPG1uio,0.691,0.451,0.27,0.96,0.123,-14.937,0.0282,100.213,0.458,5
+The New Beatles Songbook & The New Simon and Garfunkel Songbook,2,15RzRNglCVhDSkm3pVgIC4,Girl,spotify:track:15RzRNglCVhDSkm3pVgIC4,0.918,0.276,0.166,0.819,0.181,-16.228,0.0342,98.272,0.323,6
+The New Beatles Songbook & The New Simon and Garfunkel Songbook,3,1dT61wWNBrqPQUiA8MVLbD,If I Fell,spotify:track:1dT61wWNBrqPQUiA8MVLbD,0.336,0.424,0.352,0.965,0.0948,-14.323,0.0289,104.725,0.245,4
+The New Beatles Songbook & The New Simon and Garfunkel Songbook,4,4KcnWkKgeRrlaEfl3poeO5,She's Leaving Home,spotify:track:4KcnWkKgeRrlaEfl3poeO5,0.945,0.17,0.241,0.961,0.185,-16.508,0.0462,44.957,0.331,4
+The New Beatles Songbook & The New Simon and Garfunkel Songbook,5,6FPmKz20BukVDxuMrXtbFp,I'll Follow The Sun,spotify:track:6FPmKz20BukVDxuMrXtbFp,0.679,0.529,0.372,0.865,0.146,-13.647,0.0305,132.719,0.374,5
+The New Beatles Songbook & The New Simon and Garfunkel Songbook,6,19ds9y0rboOH2h92qs48Zf,Ticket To Ride,spotify:track:19ds9y0rboOH2h92qs48Zf,0.405,0.592,0.485,0.882,0.324,-13.625,0.0288,123.028,0.552,4
+The New Beatles Songbook & The New Simon and Garfunkel Songbook,7,1S9NH6cdy7WnwT5MWmo1Yp,All You Need Is Love,spotify:track:1S9NH6cdy7WnwT5MWmo1Yp,0.666,0.664,0.197,0.943,0.132,-14.116,0.0337,109.103,0.621,5
+The New Beatles Songbook & The New Simon and Garfunkel Songbook,8,69KD71V2AGvvM4NVwn1Dn4,Do You Want A Know A Secret,spotify:track:69KD71V2AGvvM4NVwn1Dn4,0.681,0.36,0.339,0.882,0.125,-14.789,0.0308,114.949,0.387,4
+The New Beatles Songbook & The New Simon and Garfunkel Songbook,9,6Oz9JLDN41frIxoC4LasJ0,Do You Want A Know A Secret - Alternative Version,spotify:track:6Oz9JLDN41frIxoC4LasJ0,0.905,0.386,0.298,0.923,0.177,-16.228,0.0304,112.656,0.376,1
+The New Beatles Songbook & The New Simon and Garfunkel Songbook,10,1oxY3zL0dwwqXJdrNWChYA,Bridge Over Troubled Water,spotify:track:1oxY3zL0dwwqXJdrNWChYA,0.916,0.279,0.197,0.918,0.304,-15.792,0.032,98.997,0.171,2
+The New Beatles Songbook & The New Simon and Garfunkel Songbook,11,64DG0kBADGWvdpybOOPziF,Mrs. Robinson,spotify:track:64DG0kBADGWvdpybOOPziF,0.865,0.309,0.218,0.93,0.0717,-15.07,0.0332,96.344,0.28,2
+The New Beatles Songbook & The New Simon and Garfunkel Songbook,12,2vw3k01mpnam2RYZ5jbD1p,Scarborough Fair,spotify:track:2vw3k01mpnam2RYZ5jbD1p,0.821,0.613,0.335,0.815,0.0922,-13.253,0.0302,116.138,0.789,2
+The New Beatles Songbook & The New Simon and Garfunkel Songbook,13,5UntHNy8DelfzddJGCpRk4,Homeward Bound,spotify:track:5UntHNy8DelfzddJGCpRk4,0.923,0.139,0.2,0.497,0.144,-16.45,0.0355,80.143,0.128,1
+The New Beatles Songbook & The New Simon and Garfunkel Songbook,14,2wjpoZjV9ELu7s1hFuvpei,Cecilia,spotify:track:2wjpoZjV9ELu7s1hFuvpei,0.89,0.144,0.237,0.963,0.178,-15.849,0.0342,181.874,0.399,1
+The New Beatles Songbook & The New Simon and Garfunkel Songbook,15,4hwOlw4XgAbm4ygA9nskVg,The Sound Of Silence,spotify:track:4hwOlw4XgAbm4ygA9nskVg,0.532,0.496,0.305,0.394,0.152,-14.703,0.0367,98.965,0.75,2
+A Time for Us,1,5OTBLSrrbBIrnv9bi8MR7k,My Happiness,spotify:track:5OTBLSrrbBIrnv9bi8MR7k,0.683,0.597,0.365,0.945,0.176,-14.703,0.0299,117.496,0.888,10
+A Time for Us,2,74BexUoyLpl4mTwma4ygQE,Summer Samba,spotify:track:74BexUoyLpl4mTwma4ygQE,0.919,0.655,0.356,0.913,0.102,-16.189,0.0306,123.468,0.783,17
+A Time for Us,3,65pjrUZUW26yJP2yF5Bt61,Rodriguez Theme,spotify:track:65pjrUZUW26yJP2yF5Bt61,0.793,0.384,0.157,0.935,0.107,-17.553,0.0311,78.767,0.189,30
+A Time for Us,4,7K2TX9iiDqCq7cALlFdQk1,Precious And Few,spotify:track:7K2TX9iiDqCq7cALlFdQk1,0.806,0.482,0.303,0.738,0.112,-14.481,0.0282,106.649,0.328,19
+A Time for Us,5,1694NghYVOn3cHdrvWUyn6,So Sad The Song,spotify:track:1694NghYVOn3cHdrvWUyn6,0.823,0.259,0.163,0.887,0.124,-18.059,0.0285,76.201,0.136,8
+A Time for Us,6,2MbDKHSfGgAkqb6nQoq6XZ,All Alone Am I,spotify:track:2MbDKHSfGgAkqb6nQoq6XZ,0.668,0.19,0.299,0.933,0.128,-13.016,0.0326,148.667,0.186,20
+A Time for Us,7,2R2YQdq2r7QtPNK1XcUZpC,Daybreak,spotify:track:2R2YQdq2r7QtPNK1XcUZpC,0.906,0.642,0.226,0.91,0.206,-16.157,0.0312,117.629,0.456,11
+A Time for Us,8,0dcHeBewFux4GUrMm8eJbf,Now That We Are In Love,spotify:track:0dcHeBewFux4GUrMm8eJbf,0.427,0.396,0.201,0.913,0.143,-16.082,0.0273,88.696,0.347,9
+A Time for Us,9,7pM4PHpcEKvw5P4g1Kq2qS,Daughter Of Darkness,spotify:track:7pM4PHpcEKvw5P4g1Kq2qS,0.876,0.387,0.221,0.81,0.125,-14.167,0.033,116.472,0.483,7
+A Time for Us,10,0QfYxoc3Hbs7iL8AMhBBaB,Today,spotify:track:0QfYxoc3Hbs7iL8AMhBBaB,0.905,0.337,0.093,0.947,0.121,-17.596,0.0304,87.898,0.312,9
+A Time for Us,11,5VN41vgizvrMWMcBYcLYq3,My Sweet Lady,spotify:track:5VN41vgizvrMWMcBYcLYq3,0.914,0.425,0.133,0.948,0.105,-17.203,0.0297,82.013,0.462,13
+A Time for Us,12,3Ix2CMKn0h8YA4FYTU007b,Everytime I Think Of You,spotify:track:3Ix2CMKn0h8YA4FYTU007b,0.639,0.373,0.272,0.789,0.148,-14.933,0.029,112.383,0.104,7
+A Time for Us,13,3nTwTLKNqv5vkFqYIK3NQI,A Time For Us,spotify:track:3nTwTLKNqv5vkFqYIK3NQI,0.82,0.317,0.103,0.851,0.112,-18.562,0.0313,146.005,0.283,45
+A Time for Us,14,2de8DBmLtwyZzG94xkiU8J,Say Has Anybody Seen My Sweet Gypsy Rose,spotify:track:2de8DBmLtwyZzG94xkiU8J,0.792,0.429,0.306,0.81,0.104,-12.651,0.0302,167.711,0.418,20
+A Time for Us,15,5GRUC3qC4z4vxZAEJIvfCq,You And I,spotify:track:5GRUC3qC4z4vxZAEJIvfCq,0.98,0.236,0.21,0.893,0.175,-15.2,0.0323,89.466,0.111,7
+A Time for Us,16,6aCgm9DKrz2Sj3sTiHnNdI,Goodnight My Love,spotify:track:6aCgm9DKrz2Sj3sTiHnNdI,0.869,0.26,0.292,0.924,0.121,-11.93,0.0305,84.373,0.171,15
+A Time for Us,17,6l0688iqkE4pUVeHey1kYa,Hey There Lonely Girl,spotify:track:6l0688iqkE4pUVeHey1kYa,0.769,0.322,0.305,0.977,0.117,-13.402,0.0284,104.9,0.26,18
+A Time for Us,18,08kTHt0kKE0nK4uB2uCiaT,Kiss An Angel Good Morning,spotify:track:08kTHt0kKE0nK4uB2uCiaT,0.798,0.623,0.294,0.814,0.206,-16.048,0.0335,132.967,0.929,10
+A Time for Us,19,78OBytR6DtN0ck9zWXScCx,Kiss An Angel Good Morning - Alternate Version,spotify:track:78OBytR6DtN0ck9zWXScCx,0.741,0.486,0.267,0.895,0.129,-14.692,0.0291,114.624,0.553,7
+Come Fly with Me,1,5zSsQM1sNR4DMxrDbHZV2x,Come Fly With Me,spotify:track:5zSsQM1sNR4DMxrDbHZV2x,0.694,0.62,0.365,0.926,0.18,-16.065,0.0669,82.037,0.697,4
+Come Fly with Me,2,7GkDsTTwvEQzeqwYcs9RVi,I'll Get By,spotify:track:7GkDsTTwvEQzeqwYcs9RVi,0.359,0.467,0.491,0.601,0.135,-13.997,0.03,124.056,0.799,1
+Come Fly with Me,3,42zNCbn25n3ACcyjmMNBai,The Tender Trap,spotify:track:42zNCbn25n3ACcyjmMNBai,0.642,0.651,0.46,0.0172,0.0605,-14.639,0.0465,130.709,0.407,1
+Come Fly with Me,4,7fLkwTE6ikQRQYv4g2Zy8Z,I'm Shooting High,spotify:track:7fLkwTE6ikQRQYv4g2Zy8Z,0.527,0.619,0.445,0.302,0.12,-13.544,0.0308,138.829,0.744,1
+Come Fly with Me,5,6fjciMI6jj57auje82E5fw,There Goes That Song Again,spotify:track:6fjciMI6jj57auje82E5fw,0.517,0.655,0.481,0.00117,0.0734,-13.295,0.0302,129.287,0.813,1
+Come Fly with Me,6,6FevdXuXEbIrKER3u6zjED,It's Nice To Go Travelling,spotify:track:6FevdXuXEbIrKER3u6zjED,0.596,0.539,0.358,0.0203,0.179,-16.689,0.0315,134.919,0.514,1
+Come Fly with Me,7,4kFykxvHcG4s7kKRFigTmj,Go West,spotify:track:4kFykxvHcG4s7kKRFigTmj,0.643,0.226,0.189,0.872,0.101,-15.326,0.0338,88.772,0.142,0
+Come Fly with Me,8,6RnH5pTXHXIrQXhAwoNkXF,Starting Over,spotify:track:6RnH5pTXHXIrQXhAwoNkXF,0.343,0.528,0.341,0.87,0.21,-17.973,0.0316,106.386,0.29,1
+Come Fly with Me,9,3eUTDfSv8U5L99S71Mpypq,It Happened In Monterrey,spotify:track:3eUTDfSv8U5L99S71Mpypq,0.763,0.642,0.309,0.0401,0.108,-16.71,0.0345,117.49,0.69,2
+Come Fly with Me,10,775ONN0hHLXcymTTYy0puE,We've Only Just Begun,spotify:track:775ONN0hHLXcymTTYy0puE,0.947,0.266,0.264,0.937,0.138,-14.628,0.0332,93.752,0.147,7
+Come Fly with Me,11,6OgczR6ALb8fFSkvR9XgN4,My Guy's Come Back,spotify:track:6OgczR6ALb8fFSkvR9XgN4,0.576,0.662,0.476,0.739,0.0892,-16.807,0.0296,135.159,0.785,1
+Come Fly with Me,12,4fxRR0LUIQQBjnCavbgqhQ,Tonight You Belong To Me,spotify:track:4fxRR0LUIQQBjnCavbgqhQ,0.785,0.353,0.209,0.97,0.126,-17.017,0.03,106.15,0.138,2
+Come Fly with Me,13,02SMwlO85QgRD7XQr3aEpR,Rose Room,spotify:track:02SMwlO85QgRD7XQr3aEpR,0.348,0.619,0.524,7.43e-06,0.138,-14.294,0.0396,127.155,0.758,1
+Come Fly with Me,14,6Usa3YJkxpIeIpVAaHOSJx,I Don't Care If The Sun Don't Shine,spotify:track:6Usa3YJkxpIeIpVAaHOSJx,0.461,0.603,0.333,0.00135,0.062,-17.037,0.0341,133.381,0.564,1
+Come Fly with Me,15,2aZbVnCekjehTCOg89f78d,Body And Soul,spotify:track:2aZbVnCekjehTCOg89f78d,0.855,0.354,0.321,0.958,0.11,-13.428,0.028,92.404,0.222,1
+Come Fly with Me,16,2PCiJhxgu93jqPgVzSTerg,Walking In Rhythm,spotify:track:2PCiJhxgu93jqPgVzSTerg,0.655,0.404,0.294,0.959,0.121,-14.729,0.0309,126.814,0.413,7
+Come Fly with Me,17,2ko8BMr6XJqMVe4j64OSXY,Could I Have This Dance,spotify:track:2ko8BMr6XJqMVe4j64OSXY,0.347,0.317,0.357,0.755,0.0881,-14.839,0.0274,88.508,0.128,7
+Come Fly with Me,18,3WIZ0wxTHRbB0YsChq22OM,We Got To Get It On Again,spotify:track:3WIZ0wxTHRbB0YsChq22OM,0.556,0.569,0.353,0.912,0.0633,-14.379,0.0286,80.616,0.591,1
+Come Fly with Me,19,1tWWoEuNbQXyTwWM0QY57K,Jumping Jupiter,spotify:track:1tWWoEuNbQXyTwWM0QY57K,0.915,0.516,0.223,0.939,0.102,-14.717,0.0319,82.093,0.606,8
+In My Dreams,1,6ynURJC0MyVzk4AkxWybcX,In My Dreams,spotify:track:6ynURJC0MyVzk4AkxWybcX,0.822,0.146,0.19,0.873,0.0772,-15.855,0.0338,92.598,0.119,4
+In My Dreams,2,0doVtKhy0BfpGVTUPxAan6,All About Dreams,spotify:track:0doVtKhy0BfpGVTUPxAan6,0.736,0.205,0.259,0.976,0.122,-14.455,0.0324,77.632,0.236,3
+In My Dreams,3,7rjHvEUZaF6S06HyDqjbAA,Soft Lights,spotify:track:7rjHvEUZaF6S06HyDqjbAA,0.759,0.171,0.269,0.909,0.163,-15.664,0.0347,80.981,0.113,5
+In My Dreams,4,52fnQoAzKJXOWve91NHRLd,We're Getting There,spotify:track:52fnQoAzKJXOWve91NHRLd,0.739,0.402,0.223,0.948,0.113,-17.389,0.0325,110.158,0.321,7
+In My Dreams,5,0jAJJo0xDfSvRW179XYisS,Love's Forever,spotify:track:0jAJJo0xDfSvRW179XYisS,0.555,0.216,0.342,0.864,0.18,-12.842,0.0327,94.401,0.328,3
+In My Dreams,6,3n28Ot8RLfxm8oNBoIvHfD,They're Playing Our Song,spotify:track:3n28Ot8RLfxm8oNBoIvHfD,0.296,0.692,0.332,0.917,0.157,-14.817,0.038,95.023,0.769,3
+In My Dreams,7,7g2NM7U1y4WkXgO6GT0UiX,Dream,spotify:track:7g2NM7U1y4WkXgO6GT0UiX,0.711,0.0927,0.317,0.909,0.122,-12.05,0.0326,169.836,0.0687,4
+In My Dreams,8,2j7VutDuLuWrwPg0aQlAcs,Love Ballad,spotify:track:2j7VutDuLuWrwPg0aQlAcs,0.313,0.471,0.408,0.9,0.273,-15.849,0.0364,115.803,0.648,3
+In My Dreams,9,1vtZgLaS1VFki5W03krkyo,After The Lovin',spotify:track:1vtZgLaS1VFki5W03krkyo,0.902,0.232,0.273,0.976,0.161,-14.847,0.0316,79.794,0.306,5
+In My Dreams,10,2V9xaF7DTLrbNqugmflRZe,Daydreamer,spotify:track:2V9xaF7DTLrbNqugmflRZe,0.871,0.421,0.238,0.954,0.119,-15.397,0.0295,93.039,0.497,7
+In My Dreams,11,1ayd8Yo4mzsJgAVcdsbgrS,You Live In My Dreams,spotify:track:1ayd8Yo4mzsJgAVcdsbgrS,0.302,0.181,0.47,0.727,0.123,-8.132,0.0336,126.905,0.369,3
+In My Dreams,12,3QfbCNxoAO5F6FqJutzUnh,Love By Starlight,spotify:track:3QfbCNxoAO5F6FqJutzUnh,0.98,0.102,0.202,0.912,0.317,-17.166,0.0385,179.804,0.184,3
+In My Dreams,13,3lA62I24XUtl4bnMebVpox,Somewhere In The Night,spotify:track:3lA62I24XUtl4bnMebVpox,0.781,0.264,0.262,0.889,0.207,-13.082,0.0283,76.063,0.236,4
+In My Dreams,14,4qlmGqkIygujS9jeQsKQsE,That Look In Your Eyes,spotify:track:4qlmGqkIygujS9jeQsKQsE,0.852,0.208,0.2,0.975,0.103,-15.351,0.0326,88.085,0.202,3
+In My Dreams,15,4sKM3bNV1MfmoPK0BfwHwn,Did You Ever See A Dream Walking,spotify:track:4sKM3bNV1MfmoPK0BfwHwn,0.973,0.296,0.211,0.948,0.065,-15.539,0.0332,99.181,0.236,9
+In My Dreams,16,6tkR76Fldks9wKGOX5XLdR,Ever Beautiful,spotify:track:6tkR76Fldks9wKGOX5XLdR,0.914,0.279,0.256,0.9,0.184,-14.528,0.0331,111.038,0.15,3
+In My Dreams,17,4VdYsoNdz9GSmeSDRUgIBG,An Idle Dream,spotify:track:4VdYsoNdz9GSmeSDRUgIBG,0.937,0.249,0.221,0.911,0.108,-16.037,0.0342,92.716,0.0628,1
+In My Dreams,18,2AeAQ9bE0qxxyMV85d0aRX,Web Of Dreams,spotify:track:2AeAQ9bE0qxxyMV85d0aRX,0.625,0.219,0.376,0.47,0.101,-10.346,0.0312,65.006,0.262,3
+In My Dreams,19,2WlfqGbCXh4Gcx0KQgXp9L,Web Of Dreams - Alternate Version,spotify:track:2WlfqGbCXh4Gcx0KQgXp9L,0.382,0.306,0.252,0.9,0.17,-13.149,0.0303,64.094,0.354,3
+Italian Flavour,1,1bN0OqVMvenuRx7YvM3I4S,Santa Lucia,spotify:track:1bN0OqVMvenuRx7YvM3I4S,0.826,0.182,0.265,0.786,0.274,-13.596,0.0329,86.773,0.323,2
+Italian Flavour,2,0IoQiLi3IiuD7DG0rblWfm,Anema E Core,spotify:track:0IoQiLi3IiuD7DG0rblWfm,0.918,0.294,0.216,0.81,0.238,-17.07,0.0341,128.261,0.191,2
+Italian Flavour,3,5UG90WiWC16bjy6yhPr6rP,Mattinata,spotify:track:5UG90WiWC16bjy6yhPr6rP,0.917,0.21,0.291,0.895,0.384,-13.922,0.0355,82.519,0.119,1
+Italian Flavour,4,6VDvW6uVKYHC7mO2HzWpgq,Catari Catari,spotify:track:6VDvW6uVKYHC7mO2HzWpgq,0.962,0.197,0.221,0.809,0.342,-14.16,0.0398,114.168,0.118,1
+Italian Flavour,5,3gMuJBc6rZrbsxVPmTzx0B,Mamma,spotify:track:3gMuJBc6rZrbsxVPmTzx0B,0.391,0.417,0.266,0.966,0.0985,-14.23,0.0392,129.824,0.562,1
+Italian Flavour,6,0DCBraAHwnzOtqa0vsR040,Come Back To Sorrento,spotify:track:0DCBraAHwnzOtqa0vsR040,0.948,0.169,0.234,0.943,0.0742,-16.983,0.0419,80.829,0.139,1
+Italian Flavour,7,553IMofcWaiPaPR5fDlto3,Volare,spotify:track:553IMofcWaiPaPR5fDlto3,0.972,0.254,0.126,0.95,0.392,-17.225,0.0349,131.473,0.199,1
+Italian Flavour,8,6kpNRdOmQIUEUvDQANFt4A,Come Prima,spotify:track:6kpNRdOmQIUEUvDQANFt4A,0.964,0.297,0.136,0.946,0.277,-18.037,0.0394,116.778,0.351,2
+Italian Flavour,9,3MZSCArSHDcI8KUqCS7adm,O Solo Mio,spotify:track:3MZSCArSHDcI8KUqCS7adm,0.964,0.153,0.124,0.889,0.118,-19.782,0.039,78.094,0.252,1
+Italian Flavour,10,5LSVrnJTA0yiC4DMRBrUu0,I'll Catch The Sun,spotify:track:5LSVrnJTA0yiC4DMRBrUu0,0.775,0.397,0.239,0.924,0.102,-16.454,0.0275,85.19,0.246,1
+Italian Flavour,11,5V0f1YP51IyUN823EdrCd2,Curibirbin,spotify:track:5V0f1YP51IyUN823EdrCd2,0.981,0.283,0.165,0.958,0.109,-21.367,0.0404,85.315,0.178,1
+Italian Flavour,12,2ZPTtvRnkIev95WYT6CXye,Ciao Ciao Bambina,spotify:track:2ZPTtvRnkIev95WYT6CXye,0.987,0.154,0.195,0.864,0.32,-18.446,0.041,179.1,0.235,2
+Italian Flavour,13,3LueynuqUUxoHcAKPpkoVA,Funiculi Funiculer,spotify:track:3LueynuqUUxoHcAKPpkoVA,0.974,0.568,0.253,0.273,0.0837,-18.445,0.0351,131.265,0.332,1
+Italian Flavour,14,5blCVuviUMJtLgoDRZbjaa,Moon Over Venice,spotify:track:5blCVuviUMJtLgoDRZbjaa,0.974,0.216,0.186,0.941,0.155,-19.507,0.0404,74.513,0.202,1
+Italian Flavour,15,3ATeNZ8SWOqfa6H3YvqF3w,Summertime In Venice,spotify:track:3ATeNZ8SWOqfa6H3YvqF3w,0.934,0.231,0.368,0.922,0.109,-12.25,0.0352,74.226,0.139,1
+Italian Flavour,16,7gu4tW0Sh8f6IWFpPi0spO,Romance In Roma,spotify:track:7gu4tW0Sh8f6IWFpPi0spO,0.535,0.35,0.363,0.796,0.233,-9.748,0.0328,118.917,0.542,1
+Italian Flavour,17,4NQhjvL03kKQBRDNKtapEh,Lune Rossa,spotify:track:4NQhjvL03kKQBRDNKtapEh,0.978,0.258,0.223,0.967,0.114,-16.149,0.0396,122.959,0.219,1
+Italian Flavour,18,28XLTCgEWS6YUlEhgNspjI,Al Fresco,spotify:track:28XLTCgEWS6YUlEhgNspjI,0.863,0.5,0.262,0.85,0.0716,-12.494,0.0298,89.592,0.72,1
+Italian Flavour,19,5hrNKq58DxkJJnrXjoXgiG,La Pineta,spotify:track:5hrNKq58DxkJJnrXjoXgiG,0.717,0.334,0.34,0.915,0.124,-10.9,0.0314,131.646,0.357,1
+Love Ballad,2,1owQBp5lfCROC21XzmZWgq,Your Love Is My Love,spotify:track:1owQBp5lfCROC21XzmZWgq,0.868,0.236,0.207,0.868,0.152,-12.677,0.0352,50.396,0.168,0
+Love Ballad,3,6FujlWGNmBCgyqO9tD2MbB,April Love,spotify:track:6FujlWGNmBCgyqO9tD2MbB,0.968,0.2,0.261,0.905,0.195,-10.643,0.0325,101.166,0.151,1
+Love Ballad,4,5CXnVCXpmQcDOleL6UgtYO,Knight Of Love,spotify:track:5CXnVCXpmQcDOleL6UgtYO,0.836,0.396,0.383,0.922,0.115,-13.959,0.0304,91.484,0.488,0
+Love Ballad,5,1C37FvVil4zlKmS26hDLUT,Love Letters In The Sand,spotify:track:1C37FvVil4zlKmS26hDLUT,0.963,0.25,0.25,0.863,0.127,-14.891,0.0324,108.311,0.349,10
+Love Ballad,6,4qrPwYtn2U9jhrjg1Uamov,To Wait For Love,spotify:track:4qrPwYtn2U9jhrjg1Uamov,0.846,0.322,0.258,0.803,0.175,-15.486,0.0318,90.363,0.311,0
+Love Ballad,7,4uwQc7xD1LYYtb5l6o1DBH,A Love Song,spotify:track:4uwQc7xD1LYYtb5l6o1DBH,0.565,0.487,0.313,0.015,0.0996,-13.513,0.0305,115.864,0.285,0
+Love Ballad,8,4F3XsXI9498rn9Gdz3IDPf,Love Means,spotify:track:4F3XsXI9498rn9Gdz3IDPf,0.715,0.341,0.229,0.927,0.108,-14.954,0.0294,79.809,0.111,0
+Love Ballad,9,1mO0iAKeEAV4puYAtssflc,Gentle Love,spotify:track:1mO0iAKeEAV4puYAtssflc,0.952,0.18,0.314,0.954,0.131,-13.268,0.0346,188.07,0.255,0
+Love Ballad,10,3n3TAoszpmTOoNxoqKtLgb,Glory Of Love,spotify:track:3n3TAoszpmTOoNxoqKtLgb,0.427,0.697,0.429,0.000494,0.0817,-14.99,0.0325,118.237,0.851,0
+Love Ballad,11,064lbSt4s9isjh7SaZbEna,I Couldn't Live Without Your Love,spotify:track:064lbSt4s9isjh7SaZbEna,0.884,0.431,0.292,0.72,0.0803,-13.232,0.0286,115.987,0.18,2
+Love Ballad,12,7y8frlVkGUwTnWIbLsx9Ad,Prisoner Of Love,spotify:track:7y8frlVkGUwTnWIbLsx9Ad,0.932,0.223,0.23,0.966,0.189,-13.421,0.0332,59.194,0.122,1
+Love Ballad,13,3AasUUWPPZB0oB23AvvSfI,Autumn Romance,spotify:track:3AasUUWPPZB0oB23AvvSfI,0.971,0.383,0.22,0.934,0.195,-16.377,0.0293,102.058,0.158,0
+Love Ballad,14,3QH5gxkDwHNlOd8VzQhrvy,Liebestraum,spotify:track:3QH5gxkDwHNlOd8VzQhrvy,0.966,0.083,0.182,0.825,0.101,-16.161,0.0412,78.891,0.037,1
+Love Ballad,15,54eZwmrBepm3HDK5Dm4sGH,Autumn Love,spotify:track:54eZwmrBepm3HDK5Dm4sGH,0.856,0.269,0.275,0.966,0.0988,-12.847,0.0297,83.717,0.261,3
+Love Ballad,16,1mUxxKlnemFQhUWjjxUXf7,You Are Too Beautiful,spotify:track:1mUxxKlnemFQhUWjjxUXf7,0.979,0.235,0.225,0.929,0.159,-12.353,0.0318,67.779,0.153,1
+Love Ballad,17,4vG7kmutf5jKHh6HvXiywc,You Are My Destiny,spotify:track:4vG7kmutf5jKHh6HvXiywc,0.72,0.534,0.191,0.695,0.283,-16.191,0.0289,97.27,0.353,0
+Love Ballad,18,5l09BsdJAsGjoPPoEVQqTw,An Old Romance,spotify:track:5l09BsdJAsGjoPPoEVQqTw,0.881,0.143,0.225,0.895,0.114,-14.309,0.0311,172.224,0.0931,0
+Love Ballad,19,7bdYREEIPJX4zJ3xx8CAnJ,I Fall In Love So Easily,spotify:track:7bdYREEIPJX4zJ3xx8CAnJ,0.895,0.258,0.245,0.91,0.186,-11.905,0.0298,72.034,0.118,1
+Still,1,31Xufvax61CzsJj0akq3yd,Lover Come Back To Me,spotify:track:31Xufvax61CzsJj0akq3yd,0.71,0.32,0.355,0.863,0.0982,-16.706,0.0358,140.417,0.337,2
+Still,2,4qDhOh74CjSwwqRQzz7urB,They Can't Take That Away,spotify:track:4qDhOh74CjSwwqRQzz7urB,0.875,0.417,0.255,0.89,0.0908,-14.674,0.0322,101.475,0.374,3
+Still,3,5CJq5syCk1ZXEnt0qkTz1Q,Right Time Of The Night,spotify:track:5CJq5syCk1ZXEnt0qkTz1Q,0.457,0.515,0.335,0.00865,0.0919,-13.582,0.0254,100.603,0.732,3
+Still,4,0IZoCrAcncepCZ3VenXvoP,Summer Of '42,spotify:track:0IZoCrAcncepCZ3VenXvoP,0.808,0.311,0.194,0.896,0.255,-17.276,0.0313,138.467,0.121,4
+Still,5,6NCTYXSNVxCqmfeEwCx62K,Galveston,spotify:track:6NCTYXSNVxCqmfeEwCx62K,0.901,0.447,0.211,0.803,0.101,-15.307,0.0364,119.214,0.367,3
+Still,6,1LjFSbpwsi7zWXcybJaGPG,A Broken Hearted Me,spotify:track:1LjFSbpwsi7zWXcybJaGPG,0.876,0.233,0.228,0.926,0.122,-14.931,0.0345,126.917,0.0989,3
+Still,7,3f5E40psF4A78BdJ2LuRNs,The Rose,spotify:track:3f5E40psF4A78BdJ2LuRNs,0.943,0.234,0.0969,0.928,0.104,-17.448,0.0389,135.76,0.0461,4
+Still,8,5JWtY7mJ9QNOarfnsfbXNk,Lavender,spotify:track:5JWtY7mJ9QNOarfnsfbXNk,0.923,0.429,0.211,0.914,0.0967,-19.278,0.0402,83.491,0.49,1
+Still,9,4cEMu43mqx6wDPxhu98KLF,Morning Song,spotify:track:4cEMu43mqx6wDPxhu98KLF,0.981,0.198,0.0633,0.891,0.0954,-20.015,0.0402,66.009,0.0324,1
+Still,10,6HGSc1ozqL0EC6lwggVFg6,Innishannon Serenade,spotify:track:6HGSc1ozqL0EC6lwggVFg6,0.852,0.328,0.243,0.946,0.0934,-13.593,0.0306,96.022,0.287,1
+Still,11,1qmAE13zcb4ZFdG7fTC4xN,Still,spotify:track:1qmAE13zcb4ZFdG7fTC4xN,0.786,0.214,0.255,0.929,0.0943,-15.807,0.0314,71.919,0.27,2
+Still,12,1HxKPxVeXKpLzrI45nlyI7,It's A Pity,spotify:track:1HxKPxVeXKpLzrI45nlyI7,0.521,0.649,0.587,0.00322,0.0988,-13.314,0.0402,122.252,0.861,1
+Still,13,3vZJKnEmTBUaw1YiSfBuhp,Wichita Lineman,spotify:track:3vZJKnEmTBUaw1YiSfBuhp,0.589,0.216,0.397,0.958,0.615,-13.168,0.0306,94.637,0.269,4
+Still,14,5sKOiZtCNuYtn9tQGhGpfv,Evergreen,spotify:track:5sKOiZtCNuYtn9tQGhGpfv,0.913,0.273,0.208,0.51,0.115,-16.426,0.0318,102.932,0.0601,5
+Still,15,2QaVvYaF7n6f6EK53U1mLd,Mirrors,spotify:track:2QaVvYaF7n6f6EK53U1mLd,0.909,0.505,0.232,0.914,0.119,-14.185,0.0306,108.273,0.58,1
+Still,16,5Vv7p0ppn6bQwSovP4pk8h,I Just Called To Say I Love You,spotify:track:5Vv7p0ppn6bQwSovP4pk8h,0.929,0.4,0.372,0.898,0.124,-14.008,0.0404,115.546,0.442,5
+Still,17,5O5uaDJMgzBH6D53hqjrqL,Lately,spotify:track:5O5uaDJMgzBH6D53hqjrqL,0.959,0.256,0.239,0.932,0.0941,-13.912,0.0333,66.152,0.104,1
+Still,18,7qIT7dLX5jiATj3Cgzsn43,Tomorrow,spotify:track:7qIT7dLX5jiATj3Cgzsn43,0.845,0.153,0.243,0.935,0.129,-15.498,0.0326,145.326,0.183,2
+Still,19,5Qag2lOU9O5FYTp7L68MXQ,After All,spotify:track:5Qag2lOU9O5FYTp7L68MXQ,0.928,0.245,0.242,0.967,0.115,-16.279,0.0335,84.029,0.275,13
+A Lovely Way to Spend an Evening,1,5qGFzJXpz5V5YXGGYUcNC2,The Other Man's Grass,spotify:track:5qGFzJXpz5V5YXGGYUcNC2,0.792,0.594,0.241,0.85,0.26,-14.562,0.0384,118.605,0.475,7
+A Lovely Way to Spend an Evening,2,3QuJvXbk31wtRDA1vf8cPm,You're Adorable,spotify:track:3QuJvXbk31wtRDA1vf8cPm,0.872,0.523,0.188,0.352,0.129,-15.785,0.0371,118.155,0.654,2
+A Lovely Way to Spend an Evening,3,5PJZpKFjqnzD4xrG8DQiLk,The Glow Worm,spotify:track:5PJZpKFjqnzD4xrG8DQiLk,0.863,0.62,0.204,0.0878,0.143,-12.205,0.0321,121.954,0.592,2
+A Lovely Way to Spend an Evening,4,3xwHYzGuhEPheSjpFmboxe,Falling In Love With Love,spotify:track:3xwHYzGuhEPheSjpFmboxe,0.898,0.199,0.211,0.904,0.115,-16.843,0.032,171.39,0.26,2
+A Lovely Way to Spend an Evening,5,2tQWcOPLXciKJD0KfLmcOS,What Are You Doing For The Rest Of Your Life,spotify:track:2tQWcOPLXciKJD0KfLmcOS,0.908,0.447,0.179,0.7,0.108,-18.338,0.0318,137.994,0.0693,3
+A Lovely Way to Spend an Evening,6,10dkDSeKaaAXxF6kCXM6hq,The Folks Who Live On The Hill,spotify:track:10dkDSeKaaAXxF6kCXM6hq,0.81,0.339,0.199,0.903,0.105,-17.236,0.0307,138.882,0.084,1
+A Lovely Way to Spend an Evening,7,6ZsIvacYQKE4FBIsrEwBPh,Too Beautiful To Last,spotify:track:6ZsIvacYQKE4FBIsrEwBPh,0.94,0.425,0.127,0.943,0.113,-18.107,0.0281,75.361,0.245,8
+A Lovely Way to Spend an Evening,8,1i0EKr4JbKnC5u8GTomsvf,Song Of The Emerald Isle,spotify:track:1i0EKr4JbKnC5u8GTomsvf,0.972,0.397,0.151,0.95,0.309,-15.838,0.0327,115.129,0.337,2
+A Lovely Way to Spend an Evening,9,44xNBwU5PfYUl91AQ1v3uc,Sweet Surrender,spotify:track:44xNBwU5PfYUl91AQ1v3uc,0.863,0.389,0.161,0.839,0.24,-15.912,0.03,182.262,0.601,9
+A Lovely Way to Spend an Evening,10,2NE6vFWm7QgDit4hLCPqci,Diary,spotify:track:2NE6vFWm7QgDit4hLCPqci,0.975,0.503,0.122,0.933,0.105,-18.519,0.0435,82.828,0.149,6
+A Lovely Way to Spend an Evening,11,14sGxJIAD0gkffHfEMVud3,Let Me Be The One,spotify:track:14sGxJIAD0gkffHfEMVud3,0.939,0.612,0.266,0.958,0.104,-14.138,0.0282,90.269,0.604,2
+A Lovely Way to Spend an Evening,12,24kOx8v73EzJXZqtQfH11C,Londonderry Air,spotify:track:24kOx8v73EzJXZqtQfH11C,0.953,0.376,0.0989,0.917,0.109,-19.593,0.03,88.277,0.198,2
+A Lovely Way to Spend an Evening,13,2ko4626JcMsLm68E7zCr42,Why Did I Choose You,spotify:track:2ko4626JcMsLm68E7zCr42,0.606,0.217,0.279,0.968,0.126,-15.499,0.0339,75.862,0.0819,2
+A Lovely Way to Spend an Evening,14,1hXCuB5OLgHVxov6iiX7rs,The Way You Look Tonight,spotify:track:1hXCuB5OLgHVxov6iiX7rs,0.808,0.208,0.242,0.857,0.101,-15.108,0.0348,128.532,0.31,4
+A Lovely Way to Spend an Evening,15,4mFalwLD79ZUlFpXCSRRic,Gypsy,spotify:track:4mFalwLD79ZUlFpXCSRRic,0.35,0.395,0.23,0.911,0.153,-15.807,0.0291,107.503,0.626,1
+A Lovely Way to Spend an Evening,16,0y8OZJKtSBpK2BQgmMQHvb,A Lovely Way To Spend An Evening,spotify:track:0y8OZJKtSBpK2BQgmMQHvb,0.271,0.319,0.25,0.895,0.187,-16.0,0.0338,99.949,0.358,4
+A Lovely Way to Spend an Evening,17,6PGe70fi0sLRaasLpgtXTE,A Beautiful Friendship,spotify:track:6PGe70fi0sLRaasLpgtXTE,0.268,0.179,0.317,0.969,0.14,-13.139,0.0339,137.706,0.28,3
+A Lovely Way to Spend an Evening,18,5vOe0Jva3PNoBGsUXyd6Fr,Feelings,spotify:track:5vOe0Jva3PNoBGsUXyd6Fr,0.567,0.127,0.28,0.795,0.202,-15.327,0.0358,77.072,0.148,8
+A Lovely Way to Spend an Evening,19,3BpS8D2WPexdOzzcSBDfpo,Feelings - Alternate Version,spotify:track:3BpS8D2WPexdOzzcSBDfpo,0.915,0.173,0.316,0.903,0.0882,-13.746,0.033,72.263,0.0858,3
+"Around the World, Vol. 1",1,1fmeBf08La87wXbXKNpXJr,La Montanara,spotify:track:1fmeBf08La87wXbXKNpXJr,0.964,0.16,0.144,0.871,0.102,-15.826,0.0351,82.414,0.101,2
+"Around the World, Vol. 1",2,4v3S3npsBtugg5BWTKE7oy,Love In Madrid,spotify:track:4v3S3npsBtugg5BWTKE7oy,0.825,0.125,0.271,0.852,0.0856,-12.826,0.0385,63.664,0.289,1
+"Around the World, Vol. 1",3,3jLAwlMWfmYi4WncEczitx,In Old Lisbon,spotify:track:3jLAwlMWfmYi4WncEczitx,0.962,0.204,0.286,0.848,0.315,-12.585,0.0293,171.379,0.34,2
+"Around the World, Vol. 1",4,0AlSUf2Pmvyb7AWbVhVKvS,Swedish Rhapsody,spotify:track:0AlSUf2Pmvyb7AWbVhVKvS,0.93,0.586,0.384,0.486,0.0861,-10.552,0.0293,97.818,0.707,2
+"Around the World, Vol. 1",5,7reNz956wHZyYTKMdoWMpx,Tulips From Amsterdam,spotify:track:7reNz956wHZyYTKMdoWMpx,0.934,0.324,0.298,0.795,0.124,-11.583,0.0305,90.766,0.458,2
+"Around the World, Vol. 1",6,0eRkDYZh8jrcuJe4W2crdj,Riviera Nights,spotify:track:0eRkDYZh8jrcuJe4W2crdj,0.946,0.336,0.159,0.911,0.129,-19.618,0.0344,59.626,0.456,1
+"Around the World, Vol. 1",7,0JtepJoZdNWTcWhPudc07d,Vienna City Of My Dreams,spotify:track:0JtepJoZdNWTcWhPudc07d,0.971,0.174,0.268,0.735,0.236,-14.461,0.0374,119.559,0.0447,3
+"Around the World, Vol. 1",8,7vAT90bvJfEpkIaL7v59Bx,Wonderful Copenhagen,spotify:track:7vAT90bvJfEpkIaL7v59Bx,0.964,0.256,0.285,0.884,0.0433,-11.913,0.0349,185.795,0.536,2
+"Around the World, Vol. 1",9,24rJTbJfrICXACkjmEElUk,Sunrise On The Canyon,spotify:track:24rJTbJfrICXACkjmEElUk,0.635,0.249,0.163,0.928,0.0877,-17.236,0.0327,91.051,0.114,4
+"Around the World, Vol. 1",10,20W8AdLycfDYyoglxMG8Ui,Stars Over Crete,spotify:track:20W8AdLycfDYyoglxMG8Ui,0.893,0.344,0.275,0.788,0.115,-11.533,0.0279,81.687,0.304,2
+"Around the World, Vol. 1",11,1tHiJfuhAO9XPX9mNWDCYZ,La Belle Suisse,spotify:track:1tHiJfuhAO9XPX9mNWDCYZ,0.837,0.186,0.361,0.946,0.33,-11.476,0.0319,180.296,0.461,1
+"Around the World, Vol. 1",12,0ilnqZAcQQx049irRn0QP6,Pacific Blue,spotify:track:0ilnqZAcQQx049irRn0QP6,0.94,0.218,0.175,0.897,0.12,-16.963,0.0336,82.483,0.0586,3
+"Around the World, Vol. 1",13,3IIrUZFBDnzJFoLfz2IR01,Viennese Lullaby,spotify:track:3IIrUZFBDnzJFoLfz2IR01,0.976,0.2,0.286,0.856,0.0976,-12.712,0.0325,87.504,0.039,1
+"Around the World, Vol. 1",14,6ndlxwW1xbFTzSscXz4iA6,By The Time I Get To Phoenix,spotify:track:6ndlxwW1xbFTzSscXz4iA6,0.396,0.272,0.288,0.966,0.245,-15.97,0.0297,94.349,0.347,4
+"Around the World, Vol. 1",15,2hoFxDBmLG2FHQxy3wVwnS,Samba Caracas,spotify:track:2hoFxDBmLG2FHQxy3wVwnS,0.582,0.562,0.536,0.879,0.126,-14.523,0.0368,113.694,0.967,1
+"Around the World, Vol. 1",16,1M7btHyPWn1ovzvSxhh5f0,Samba Du Brazil,spotify:track:1M7btHyPWn1ovzvSxhh5f0,0.302,0.41,0.46,0.476,0.131,-10.869,0.0321,104.973,0.913,1
+"Around the World, Vol. 1",17,1bFOxplTfnPjIp0uga1Jh4,Samba Du Brazil - Alternate Version,spotify:track:1bFOxplTfnPjIp0uga1Jh4,0.628,0.437,0.464,0.891,0.351,-14.027,0.0358,96.273,0.784,1
+"Around the World, Vol. 1",18,6bJaIKYO6AApez8e935tx8,Berkely Square,spotify:track:6bJaIKYO6AApez8e935tx8,0.925,0.241,0.339,0.95,0.18,-15.272,0.0365,75.956,0.151,3
+"Around the World, Vol. 1",19,5IIsvw7UtHVfQSOv4Nz2re,London By Night,spotify:track:5IIsvw7UtHVfQSOv4Nz2re,0.653,0.431,0.275,0.823,0.179,-17.544,0.0256,100.236,0.192,1
+"Around the World, Vol. 1",20,1EWjcRKSbbPDYeip580WLx,London By Night - Alternate Version,spotify:track:1EWjcRKSbbPDYeip580WLx,0.953,0.0783,0.193,0.941,0.177,-16.232,0.036,76.939,0.0388,1

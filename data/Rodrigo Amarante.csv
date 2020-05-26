@@ -1,0 +1,16 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+Cavalo,3,396MDZmoQ4srVFyFr6WsMm,Mon nom,spotify:track:396MDZmoQ4srVFyFr6WsMm,0.922,0.667,0.551,0.241,0.098,-12.78,0.0282,126.976,0.477,6
+Cavalo,7,18INaqmSbVd53kzrZKLpnm,The ribbon,spotify:track:18INaqmSbVd53kzrZKLpnm,0.914,0.331,0.23,0.746,0.0883,-18.491,0.0514,94.383,0.0541,5
+Cavalo,8,7DeBThaIHbKXns6oN6TkAL,O cometa,spotify:track:7DeBThaIHbKXns6oN6TkAL,0.885,0.731,0.314,0.41,0.11,-12.221,0.0354,99.94,0.468,8
+Cavalo,1,2sFiVGAVckKYAwlxa1igmR,Nada Em Vão,spotify:track:2sFiVGAVckKYAwlxa1igmR,0.796,0.56,0.266,0.133,0.146,-12.736,0.0531,188.147,0.471,36
+Cavalo,2,5HfJPu0s1j3I6zEXt29wvt,Hourglass,spotify:track:5HfJPu0s1j3I6zEXt29wvt,0.0124,0.626,0.73,0.309,0.177,-7.223,0.0563,130.07,0.502,36
+Cavalo,3,1XGhpEY5q0qhsL8Z5fFDOd,Mon Nom,spotify:track:1XGhpEY5q0qhsL8Z5fFDOd,0.915,0.668,0.534,0.214,0.0982,-13.196,0.0282,126.971,0.482,37
+Cavalo,4,7IaWt6uVIfpiqdMwq8iEL1,Irene,spotify:track:7IaWt6uVIfpiqdMwq8iEL1,0.976,0.549,0.117,0.648,0.104,-16.669,0.0521,175.574,0.309,43
+Cavalo,5,0vx5QGlapdhh4fCRwpBBS7,Maná,spotify:track:0vx5QGlapdhh4fCRwpBBS7,0.0276,0.518,0.836,0.36,0.407,-7.685,0.0435,196.959,0.975,34
+Cavalo,6,3pwthtl4rvhedUh5pAng6u,Fall Asleep,spotify:track:3pwthtl4rvhedUh5pAng6u,0.986,0.353,0.064,0.624,0.114,-17.258,0.0383,125.811,0.0544,31
+Cavalo,7,2Y0J9K4oYTbaV7vAKeGDFR,The Ribbon,spotify:track:2Y0J9K4oYTbaV7vAKeGDFR,0.916,0.331,0.212,0.741,0.0893,-18.869,0.0425,94.662,0.0697,33
+Cavalo,8,42DsMtxfYDWQDvSDSBb9m3,O Cometa,spotify:track:42DsMtxfYDWQDvSDSBb9m3,0.881,0.729,0.3,0.384,0.114,-12.621,0.0377,100.044,0.425,35
+Cavalo,9,4aDTUd7awaa48I31xssIQN,Cavalo,spotify:track:4aDTUd7awaa48I31xssIQN,0.975,0.29,0.093,0.859,0.103,-18.36,0.0435,136.472,0.0623,30
+Cavalo,10,4J4gDTJWy9LdkNgq0Jdqea,I'm Ready,spotify:track:4J4gDTJWy9LdkNgq0Jdqea,0.78,0.383,0.274,0.0632,0.106,-15.263,0.0504,185.801,0.247,32
+Cavalo,11,4Pu3GoxEHmOjdh6FyQfjwb,Tardei,spotify:track:4Pu3GoxEHmOjdh6FyQfjwb,0.916,0.543,0.177,0.00457,0.107,-14.814,0.0336,127.794,0.294,39
+Cavalo,1,0oQ4aFZntgJ4wDWPKMKKqX,Nada em vão,spotify:track:0oQ4aFZntgJ4wDWPKMKKqX,0.764,0.536,0.273,0.0943,0.157,-12.497,0.0507,188.123,0.472,17

@@ -1,0 +1,37 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+24K Magic,1,6b8Be6ljOzmkOmFslEb23P,24K Magic,spotify:track:6b8Be6ljOzmkOmFslEb23P,0.034,0.818,0.803,0.0,0.153,-4.282,0.0797,106.97,0.632,77
+24K Magic,2,0mBKv9DkYfQHjdMcw2jdyI,Chunky,spotify:track:0mBKv9DkYfQHjdMcw2jdyI,0.0208,0.571,0.539,0.0,0.125,-4.446,0.116,202.103,0.727,69
+24K Magic,3,1I6pKIyaBp4OebTGLJpCCC,Perm,spotify:track:1I6pKIyaBp4OebTGLJpCCC,0.0145,0.853,0.871,6.84e-05,0.198,-3.715,0.0851,124.021,0.863,66
+24K Magic,4,0KKkJNfGyhkQ5aFogxQAPU,That's What I Like,spotify:track:0KKkJNfGyhkQ5aFogxQAPU,0.013,0.853,0.56,0.0,0.0944,-4.961,0.0406,134.066,0.86,81
+24K Magic,5,0kN8xEmgMW9mh7UmDYHlJP,Versace on the Floor,spotify:track:0kN8xEmgMW9mh7UmDYHlJP,0.196,0.578,0.574,0.0,0.083,-6.209,0.0454,174.152,0.301,74
+24K Magic,6,2mrZYZGmPFV3QOyYPZ1zsn,Straight up & Down,spotify:track:2mrZYZGmPFV3QOyYPZ1zsn,0.0209,0.552,0.733,0.0,0.0858,-6.898,0.0933,143.56,0.643,64
+24K Magic,7,6ObpR8ek44tvWefQRcSo8K,Calling All My Lovelies,spotify:track:6ObpR8ek44tvWefQRcSo8K,0.0392,0.662,0.705,2.38e-06,0.105,-6.56,0.0399,159.996,0.865,63
+24K Magic,8,5XMkENs3GfeRza8MfVAhjK,Finesse,spotify:track:5XMkENs3GfeRza8MfVAhjK,0.00781,0.741,0.798,0.0,0.0232,-5.342,0.0718,104.953,0.939,67
+24K Magic,9,0B0tYbVp7pDQAqKDhgMeaL,Too Good to Say Goodbye,spotify:track:0B0tYbVp7pDQAqKDhgMeaL,0.0389,0.587,0.63,0.0,0.35,-6.054,0.0311,76.97,0.433,65
+Unorthodox Jukebox (Deluxe Edition),11,3zRfP7U300ogttIfwqB5HD,Old & Crazy (feat. Esperanza Spalding),spotify:track:3zRfP7U300ogttIfwqB5HD,0.443,0.566,0.43,0.00047,0.206,-10.464,0.278,187.766,0.828,21
+Unorthodox Jukebox (Deluxe Edition),12,2OTH8T7TqMYt51baDvVEHQ,Young Girls - Demo,spotify:track:2OTH8T7TqMYt51baDvVEHQ,0.862,0.631,0.337,0.0,0.374,-8.624,0.0312,125.909,0.489,19
+Unorthodox Jukebox (Deluxe Edition),13,1Yl0H4Mn4xDVAFSJ0IM5t3,Gorilla - Demo,spotify:track:1Yl0H4Mn4xDVAFSJ0IM5t3,0.752,0.631,0.435,0.0,0.0579,-6.561,0.0308,139.829,0.41,16
+Unorthodox Jukebox (Deluxe Edition),14,03wqOqPhG7W8T83L7hOt4j,Moonshine - The Futuristics Remix,spotify:track:03wqOqPhG7W8T83L7hOt4j,0.000188,0.654,0.782,0.00225,0.175,-4.924,0.0561,108.954,0.594,17
+Unorthodox Jukebox (Deluxe Edition),15,1uQ8qCbeeA39xd1gIcaxgM,Locked out of Heaven - Major Lazer Remix,spotify:track:1uQ8qCbeeA39xd1gIcaxgM,0.000509,0.686,0.827,1.24e-06,0.726,-4.063,0.0325,144.035,0.648,17
+Unorthodox Jukebox,1,3G5iN5QBqMeXx3uZPy8tgB,Young Girls,spotify:track:3G5iN5QBqMeXx3uZPy8tgB,0.461,0.561,0.749,1.82e-06,0.205,-4.951,0.032,125.986,0.501,65
+Unorthodox Jukebox,2,3w3y8KPTfNeOKPiqUTakBh,Locked out of Heaven,spotify:track:3w3y8KPTfNeOKPiqUTakBh,0.049,0.726,0.698,0.0,0.309,-4.165,0.0431,143.994,0.867,80
+Unorthodox Jukebox,3,2ih2U8ttFzCjnQ5njF3SrR,Gorilla,spotify:track:2ih2U8ttFzCjnQ5njF3SrR,0.445,0.717,0.544,5.16e-06,0.0973,-6.598,0.0371,139.959,0.641,66
+Unorthodox Jukebox,4,55h7vJchibLdUkxdlX3fK7,Treasure,spotify:track:55h7vJchibLdUkxdlX3fK7,0.0412,0.874,0.692,7.24e-05,0.324,-5.28,0.0431,116.017,0.937,76
+Unorthodox Jukebox,5,30raivfq7rSt5nKltiHfzG,Moonshine,spotify:track:30raivfq7rSt5nKltiHfzG,0.211,0.705,0.784,4.3e-06,0.0813,-4.351,0.0279,104.98,0.418,57
+Unorthodox Jukebox,6,0nJW01T7XtvILxQgC5J7Wh,When I Was Your Man,spotify:track:0nJW01T7XtvILxQgC5J7Wh,0.932,0.612,0.28,0.0,0.088,-8.648,0.0434,72.795,0.387,82
+Unorthodox Jukebox,7,0inMKhbKWOTDA9UBUAKoU6,Natalie,spotify:track:0inMKhbKWOTDA9UBUAKoU6,0.15,0.76,0.733,0.0,0.0647,-6.704,0.0504,111.975,0.611,58
+Unorthodox Jukebox,8,2tCPIp83mRXvVTytTAf1W4,Show Me,spotify:track:2tCPIp83mRXvVTytTAf1W4,0.0461,0.743,0.706,0.0,0.204,-5.728,0.0535,77.989,0.514,59
+Unorthodox Jukebox,9,6FPQabaldvKE5cjqRfY9Os,Money Make Her Smile,spotify:track:6FPQabaldvKE5cjqRfY9Os,0.0943,0.754,0.677,7.39e-05,0.153,-6.555,0.0709,93.022,0.78,54
+Unorthodox Jukebox,10,7lXOqE38eCr979gp27O5wr,If I Knew,spotify:track:7lXOqE38eCr979gp27O5wr,0.722,0.522,0.413,0.0,0.0854,-5.86,0.0316,175.972,0.49,63
+Doo-Wops & Hooligans,3,4LjkHlY5qDz0hhFJJH5M7a,Our First Time,spotify:track:4LjkHlY5qDz0hhFJJH5M7a,0.381,0.705,0.451,0.0,0.276,-8.221,0.0429,77.998,0.868,53
+Doo-Wops & Hooligans,4,7hCNBVRhHzcsRAv0TQnOzq,Runaway Baby,spotify:track:7hCNBVRhHzcsRAv0TQnOzq,0.25,0.656,0.767,0.0,0.114,-3.038,0.0396,163.834,0.871,67
+Doo-Wops & Hooligans,5,386RUes7n1uM1yfzgeUuwp,The Lazy Song,spotify:track:386RUes7n1uM1yfzgeUuwp,0.332,0.738,0.804,0.0,0.279,-3.851,0.0621,174.943,0.949,73
+Doo-Wops & Hooligans,6,6SKwQghsR8AISlxhcwyA9R,Marry You,spotify:track:6SKwQghsR8AISlxhcwyA9R,0.332,0.62,0.832,0.0,0.104,-4.848,0.036,144.926,0.481,73
+Doo-Wops & Hooligans,11,3P4v70V3Zt804r2c9dZivK,Somewhere in Brooklyn,spotify:track:3P4v70V3Zt804r2c9dZivK,0.569,0.701,0.579,0.0,0.255,-5.673,0.0412,129.969,0.349,52
+Doo-Wops & Hooligans,12,6YKT5HoPwjTwhHiCNQsBMK,Talking to the Moon - Acoustic Piano,spotify:track:6YKT5HoPwjTwhHiCNQsBMK,0.867,0.354,0.333,0.0,0.107,-6.423,0.0324,101.145,0.209,55
+Doo-Wops & Hooligans,1,2tJulUYLDKOg9XrtVkMgcJ,Grenade,spotify:track:2tJulUYLDKOg9XrtVkMgcJ,0.146,0.706,0.558,0.0,0.118,-7.237,0.0593,110.443,0.227,75
+Doo-Wops & Hooligans,2,7BqBn9nzAq8spo5e7cZ0dJ,Just the Way You Are,spotify:track:7BqBn9nzAq8spo5e7cZ0dJ,0.0151,0.637,0.843,0.0,0.0876,-5.413,0.0432,109.012,0.434,79
+Doo-Wops & Hooligans,7,161DnLWsx1i3u1JT05lzqU,Talking to the Moon,spotify:track:161DnLWsx1i3u1JT05lzqU,0.512,0.523,0.606,0.0,0.106,-4.754,0.0301,145.837,0.065,73
+Doo-Wops & Hooligans,8,4KykoaJQ5UxjCpp3lYkvTE,Liquor Store Blues (feat. Damian Marley),spotify:track:4KykoaJQ5UxjCpp3lYkvTE,0.11,0.691,0.824,0.0,0.353,-3.925,0.0731,75.516,0.685,60
+Doo-Wops & Hooligans,9,7l1qvxWjxcKpB9PCtBuTbU,Count on Me,spotify:track:7l1qvxWjxcKpB9PCtBuTbU,0.84,0.577,0.397,0.0,0.0772,-5.98,0.028,89.044,0.509,71
+Doo-Wops & Hooligans,10,0HasfWMrNxTjycDy9TkRtA,The Other Side (feat. CeeLo Green and B.o.B),spotify:track:0HasfWMrNxTjycDy9TkRtA,0.117,0.559,0.807,4.46e-06,0.148,-3.887,0.0304,140.081,0.543,52
