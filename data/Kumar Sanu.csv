@@ -1,0 +1,164 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+Sojoni,1,1h7sG08geUjaPvY2xs55by,Akash Jane Sagor Jane,spotify:track:1h7sG08geUjaPvY2xs55by,0.731,0.716,0.562,0.0018,0.142,-7.947,0.0313,100.022,0.93,9
+Sojoni,2,2hB34tqf9mLDlwZ4izRRkZ,Bhalobhasa Bhalo Noy,spotify:track:2hB34tqf9mLDlwZ4izRRkZ,0.361,0.487,0.569,2.74e-06,0.0566,-12.423,0.0441,83.578,0.566,7
+Sojoni,3,7uWesokuV0QNzGx4FUsu4Y,Dukho Ekhon Bandhu Amar,spotify:track:7uWesokuV0QNzGx4FUsu4Y,0.52,0.51,0.574,1.04e-05,0.0849,-10.302,0.0516,170.118,0.745,6
+Sojoni,4,3SOpeDTxGHLLhpraxDEtNT,Ekhon Ekti Raat,spotify:track:3SOpeDTxGHLLhpraxDEtNT,0.195,0.599,0.556,4.35e-06,0.144,-11.634,0.0381,162.139,0.607,4
+Sojoni,5,5ZmNx7RXB1SOQMiOxumqwI,Etota Kache Ashar Por,spotify:track:5ZmNx7RXB1SOQMiOxumqwI,0.228,0.574,0.56,0.0,0.132,-10.155,0.0357,87.998,0.563,3
+Sojoni,6,5ZM1XSn2BAEoZfzjycJqeR,Majhkhane Ekti Deyal,spotify:track:5ZM1XSn2BAEoZfzjycJqeR,0.136,0.659,0.597,0.0,0.495,-11.264,0.0457,96.993,0.628,3
+Sojoni,7,5R4pWRkBxf2RI4x9U7yHkA,Mone Koro Prithivite,spotify:track:5R4pWRkBxf2RI4x9U7yHkA,0.526,0.556,0.499,0.0,0.183,-10.55,0.0333,171.949,0.515,3
+Sojoni,8,3Up5ofWmvAWctrLe81A2z4,Shilpir Jonnyo Gaan,spotify:track:3Up5ofWmvAWctrLe81A2z4,0.678,0.404,0.512,0.0,0.411,-10.175,0.0315,152.778,0.587,3
+Sojoni,9,0tnTawT8YuQC18WWOcRnQv,Sojoni Tomaye Bhulini,spotify:track:0tnTawT8YuQC18WWOcRnQv,0.572,0.473,0.38,0.0,0.431,-11.003,0.0299,166.003,0.494,2
+Sojoni,10,0veTUFyMcEdUZEYJACxEFa,Tomake Bhalobasar Jogyo Noi,spotify:track:0veTUFyMcEdUZEYJACxEFa,0.279,0.647,0.5,0.0,0.269,-11.387,0.0375,80.114,0.789,2
+Karam Khudaya,1,06pk2tT3B4XXuxvhiJBCjt,Yaade Khuda,spotify:track:06pk2tT3B4XXuxvhiJBCjt,0.114,0.582,0.76,4.62e-06,0.336,-7.46,0.0349,137.972,0.727,3
+Karam Khudaya,2,5EW8L6N8UKQr21wavZd9gZ,Mannat Maange,spotify:track:5EW8L6N8UKQr21wavZd9gZ,0.4,0.505,0.555,0.0,0.0891,-8.209,0.0318,149.764,0.367,3
+Karam Khudaya,3,6Fx0p3GTBySvSSehmFTjPD,Bemisaal Kar,spotify:track:6Fx0p3GTBySvSSehmFTjPD,0.437,0.617,0.674,0.00313,0.0838,-8.349,0.0322,95.981,0.787,2
+Karam Khudaya,4,28UpfN4AAatLYdQk2yPARK,Ashkon Se Apne Chehre,spotify:track:28UpfN4AAatLYdQk2yPARK,0.152,0.645,0.82,0.0,0.08,-4.773,0.0278,96.002,0.944,2
+Karam Khudaya,5,54mthSoWRXvGQFJFp5FIhH,Raahe Haq Mein,spotify:track:54mthSoWRXvGQFJFp5FIhH,0.569,0.627,0.624,0.0,0.147,-6.486,0.028,89.0,0.548,1
+Karam Khudaya,6,3YgiE5ESaJV8C1eFsVDKY7,Wo Khuda Se,spotify:track:3YgiE5ESaJV8C1eFsVDKY7,0.614,0.751,0.743,0.0,0.31,-5.451,0.0309,137.856,0.92,1
+Karam Khudaya,7,0ScTGjjH4XyPpfAfw1wMS9,Itna Toh Kerna Karam Maula,spotify:track:0ScTGjjH4XyPpfAfw1wMS9,0.748,0.728,0.508,0.000117,0.0874,-7.534,0.0413,121.884,0.59,1
+Karam Khudaya,8,1EWfHp6E1nOvn1cuFZhTX9,Baage-Jannat Mein Tu,spotify:track:1EWfHp6E1nOvn1cuFZhTX9,0.0254,0.639,0.95,0.000865,0.22,-5.25,0.0514,109.029,0.806,1
+Chaka Nayana,1,669ask5STxHykiebiOGVia,Chaka Nayana,spotify:track:669ask5STxHykiebiOGVia,0.828,0.702,0.597,0.00757,0.349,-8.502,0.037,114.753,0.682,1
+Chaka Nayana,2,6PRtal4HyO6boQEF1NtQ2C,Mun Kaliaara Puja Panda,spotify:track:6PRtal4HyO6boQEF1NtQ2C,0.398,0.672,0.724,0.0,0.473,-4.851,0.068,119.255,0.905,1
+Chaka Nayana,3,6Yjs5dE8toffdAHZL8W8Uf,Pada Dhuli Tike,spotify:track:6Yjs5dE8toffdAHZL8W8Uf,0.805,0.638,0.661,0.000161,0.337,-6.033,0.0733,171.407,0.901,1
+Chaka Nayana,4,5rDxYneRrgMssbvVXRIcRN,Tulasi Pachare,spotify:track:5rDxYneRrgMssbvVXRIcRN,0.568,0.431,0.685,0.0,0.165,-5.01,0.0544,170.441,0.471,1
+Chaka Nayana,5,4u3PhyaMR65lqtkb40l91g,Lo Mita,spotify:track:4u3PhyaMR65lqtkb40l91g,0.421,0.527,0.723,0.0,0.259,-5.054,0.0628,132.346,0.879,1
+Chaka Nayana,6,5CKOolBiDEP2VfaWjEL3Nw,Mun Radha,spotify:track:5CKOolBiDEP2VfaWjEL3Nw,0.756,0.466,0.637,0.00281,0.0967,-5.056,0.11,78.141,0.712,0
+Chaka Nayana,7,4VRtUuGnEVzpx1ieMBApHP,Suna Rupa Kichhi,spotify:track:4VRtUuGnEVzpx1ieMBApHP,0.91,0.473,0.593,7.86e-05,0.238,-6.413,0.0853,155.378,0.573,0
+Chaka Nayana,8,7MuxYS3YiiF5twwJbLVrDy,Tume Ta Kala Thakura,spotify:track:7MuxYS3YiiF5twwJbLVrDy,0.927,0.495,0.574,0.501,0.343,-7.168,0.0398,98.574,0.672,0
+Kumar Sanu Birthday Special,1,1BHhdOgMmfHRGdIviAOE9z,Sach Tum Sach Ho,spotify:track:1BHhdOgMmfHRGdIviAOE9z,0.56,0.528,0.624,2.63e-05,0.0377,-4.973,0.0419,156.048,0.339,4
+Kumar Sanu Birthday Special,2,76ouJ9hhlJpo2ELfnBGGiA,Aa Gaye Din Aise,spotify:track:76ouJ9hhlJpo2ELfnBGGiA,0.274,0.393,0.562,0.0,0.55,-6.962,0.034,145.641,0.554,3
+Kumar Sanu Birthday Special,3,1FFZzYeQs9lkUtS1ym9VAI,Aawaz Do,spotify:track:1FFZzYeQs9lkUtS1ym9VAI,0.383,0.602,0.815,0.00272,0.101,-4.567,0.0398,94.951,0.731,3
+Kumar Sanu Birthday Special,4,5Se6DbOCTaHtwEAQovW0OM,Tum Jo Mere Paas Ho,spotify:track:5Se6DbOCTaHtwEAQovW0OM,0.502,0.747,0.778,0.00021,0.502,-8.715,0.0317,146.986,0.921,4
+Kumar Sanu Birthday Special,5,334RXMzNrvjIl3TkMYWCdI,Na Keh Do To,spotify:track:334RXMzNrvjIl3TkMYWCdI,0.251,0.326,0.871,0.11,0.0419,-2.504,0.0627,87.782,0.58,1
+Kumar Sanu Birthday Special,6,6gBo1jnXB4XWu8dkUl7fGr,Jashan Ki Raat Hai,spotify:track:6gBo1jnXB4XWu8dkUl7fGr,0.0889,0.421,0.937,0.00198,0.0419,-4.525,0.118,106.071,0.487,2
+Kumar Sanu Birthday Special,7,3O03jffb8mA22qRtJTkHky,Mann Ke Taar,spotify:track:3O03jffb8mA22qRtJTkHky,0.534,0.644,0.502,0.0,0.146,-11.483,0.059,156.111,0.798,2
+Kumar Sanu Birthday Special,8,0LmIUi1Cr5v79tQU1nldS6,Tum Saath Hamare Ho,spotify:track:0LmIUi1Cr5v79tQU1nldS6,0.196,0.369,0.528,0.0,0.186,-10.881,0.117,187.918,0.909,2
+Kumar Sanu Birthday Special,9,5TtSCNXIZ4pgfkAk83DEm5,Jab Se Dekha Maine Tumko,spotify:track:5TtSCNXIZ4pgfkAk83DEm5,0.487,0.718,0.857,3.51e-06,0.0565,-4.913,0.0389,111.001,0.808,3
+Milone Birohe,1,6K8JIlY7wrLxGn8kXbXKg5,Rim Jhim Bristi,spotify:track:6K8JIlY7wrLxGn8kXbXKg5,0.163,0.3,0.679,9e-06,0.128,-9.557,0.0507,80.234,0.373,1
+Milone Birohe,2,2I45GjtcTLyuV70AidSatR,Surer Asore,spotify:track:2I45GjtcTLyuV70AidSatR,0.53,0.546,0.462,2.92e-06,0.174,-9.396,0.0447,143.877,0.457,1
+Milone Birohe,3,1ZN7VjbphPjsOp3IXHCuMh,Esecho Tumi,spotify:track:1ZN7VjbphPjsOp3IXHCuMh,0.0364,0.547,0.652,1.46e-06,0.315,-8.896,0.0369,80.153,0.731,0
+Milone Birohe,4,6dF01mUaWvlkblvD16zjGR,Parbe Ki Aaj,spotify:track:6dF01mUaWvlkblvD16zjGR,0.236,0.505,0.574,0.0,0.129,-10.448,0.0328,95.986,0.359,0
+Milone Birohe,5,5KxbP2SW9SK9ORTG3fTQVx,Esechhi Ami,spotify:track:5KxbP2SW9SK9ORTG3fTQVx,0.294,0.34,0.492,0.0,0.178,-9.692,0.0337,146.57,0.354,0
+Milone Birohe,6,5ykqHf8RIIuXIqbEdXmiW0,Keno Tumi,spotify:track:5ykqHf8RIIuXIqbEdXmiW0,0.463,0.353,0.456,0.0,0.193,-9.199,0.0307,143.596,0.415,0
+Bhala Jhai Ti,1,06Vvg11iLlB34BAkmCEgxT,Bhul Jadi Bujhibuni,spotify:track:06Vvg11iLlB34BAkmCEgxT,0.0842,0.384,0.916,0.000212,0.37,0.247,0.16,82.311,0.606,0
+Bhala Jhai Ti,2,7EWL7LZwZ4ljRQ1Tnid09r,Janha Bhi,spotify:track:7EWL7LZwZ4ljRQ1Tnid09r,0.192,0.51,0.965,0.257,0.26,2.128,0.13,70.193,0.659,0
+Bhala Jhai Ti,3,1ZAYUfhwkvhIGJOGfSk1eN,Kie Tate Sajeile Emiti Phoola,spotify:track:1ZAYUfhwkvhIGJOGfSk1eN,0.159,0.471,0.97,0.289,0.498,2.199,0.099,95.74,0.737,0
+Bhala Jhai Ti,4,5trq7z8OjDuV3BczGjxud9,Manena Manena To Bina,spotify:track:5trq7z8OjDuV3BczGjxud9,0.172,0.516,0.943,0.465,0.203,1.433,0.104,122.543,0.422,0
+Bhala Jhai Ti,5,1kWALztHVgVrAkewtYL6wN,Mo Jeebana Chala Bato Re,spotify:track:1kWALztHVgVrAkewtYL6wN,0.0866,0.49,0.95,0.00547,0.123,0.036,0.161,129.253,0.632,0
+Bhala Jhai Ti,6,6g5CUsRUA7ZG72Yady1RFP,Nali Pana Bipi Bhala Jhai Tei,spotify:track:6g5CUsRUA7ZG72Yady1RFP,0.169,0.537,0.95,0.662,0.429,-3.204,0.123,129.671,0.743,0
+Bhala Jhai Ti,7,1osfN5PJbnRGRtTjH6YgDq,Thare Thare Aa Jebana,spotify:track:1osfN5PJbnRGRtTjH6YgDq,0.153,0.273,0.87,0.00229,0.195,-0.575,0.0582,95.353,0.405,0
+Bhala Jhai Ti,8,08bvXcRmCjPYoBef25BOH7,Udi Udi Jaye,spotify:track:08bvXcRmCjPYoBef25BOH7,0.0668,0.509,0.943,0.0716,0.451,1.904,0.107,127.148,0.591,0
+Deep Nebhano Raat,1,6feTWClAWABq5LExF46oAq,Ek Poloker Ektu Dekha,spotify:track:6feTWClAWABq5LExF46oAq,0.872,0.794,0.294,6.2e-06,0.285,-13.75,0.117,125.603,0.637,4
+Deep Nebhano Raat,2,3tLhwIJIunHqW9qk8HmS4W,Aaj Ei Din Takey,spotify:track:3tLhwIJIunHqW9qk8HmS4W,0.16,0.553,0.427,0.000431,0.0639,-10.543,0.0361,91.1,0.37,4
+Deep Nebhano Raat,3,5VOMa67FkorUAIqeC09AfB,Aamar Moner Aey,spotify:track:5VOMa67FkorUAIqeC09AfB,0.884,0.62,0.314,0.00147,0.107,-13.062,0.0278,106.239,0.612,2
+Deep Nebhano Raat,4,4gj1DCdNtkrwQ1wF8oU8nl,Se To Elo Na,spotify:track:4gj1DCdNtkrwQ1wF8oU8nl,0.838,0.618,0.327,0.0053,0.104,-14.136,0.0544,95.202,0.32,2
+Deep Nebhano Raat,5,47oMyhalwzoLriDQy981hY,Aamar Deep Nebhano Raat,spotify:track:47oMyhalwzoLriDQy981hY,0.933,0.626,0.246,0.023,0.12,-14.094,0.0422,147.182,0.16,1
+Deep Nebhano Raat,6,3a495FJ2VghKffnTgnJS1w,Ki Ashyae Bandhi Khelaghor,spotify:track:3a495FJ2VghKffnTgnJS1w,0.947,0.439,0.248,0.166,0.107,-13.825,0.0398,130.085,0.308,2
+Deep Nebhano Raat,7,4shU3XEU0M47gibXBIUmz9,Neel Neel Aakashe,spotify:track:4shU3XEU0M47gibXBIUmz9,0.698,0.627,0.477,7.22e-06,0.0892,-11.783,0.0907,96.909,0.371,2
+Deep Nebhano Raat,8,7jVGik6sWRoCs9odrug6LF,Manush Janom Diye Bidhi,spotify:track:7jVGik6sWRoCs9odrug6LF,0.849,0.595,0.41,1.01e-05,0.0974,-12.458,0.0436,129.175,0.536,1
+Mahayogi Baba Lokenath,1,6ufSp907xNpf5QoIZwpF30,Jay Baba Lokenath,spotify:track:6ufSp907xNpf5QoIZwpF30,0.234,0.611,0.587,0.0,0.112,-8.446,0.0357,85.94,0.61,0
+Mahayogi Baba Lokenath,2,6WsBpxtw5GudFW0Um2M3OE,Baba Ja Dekhale,spotify:track:6WsBpxtw5GudFW0Um2M3OE,0.376,0.739,0.448,3.5e-05,0.139,-7.359,0.0339,140.925,0.574,0
+Mahayogi Baba Lokenath,3,2J3uRcNk8bT52r2QcbHPXM,Bhasie De Parer Tori,spotify:track:2J3uRcNk8bT52r2QcbHPXM,0.636,0.61,0.439,3.98e-06,0.26,-8.744,0.0323,140.829,0.885,0
+Mahayogi Baba Lokenath,4,2FKJI7AX0JGpWZnm1XMhAk,Ohe Lokeshwar Param Ishwar,spotify:track:2FKJI7AX0JGpWZnm1XMhAk,0.614,0.578,0.489,0.00205,0.0671,-8.697,0.029,149.964,0.48,0
+Mahayogi Baba Lokenath,5,1vdussPsWhD4nWyKbz0Cw4,Ar Kichu Chai Na Baba,spotify:track:1vdussPsWhD4nWyKbz0Cw4,0.282,0.636,0.739,0.0,0.134,-7.966,0.0271,130.064,0.706,0
+Mahayogi Baba Lokenath,6,5UIo2xFm6HRoMekKoRZHoe,Hey Yogeshwar Hey Lokeshwar,spotify:track:5UIo2xFm6HRoMekKoRZHoe,0.477,0.537,0.47,0.0,0.0631,-6.766,0.0331,170.032,0.246,0
+Mahayogi Baba Lokenath,7,1gMBuUQEMEKTHWrUtlgwrr,Bank Kandhe Bhai Cholo Re,spotify:track:1gMBuUQEMEKTHWrUtlgwrr,0.0836,0.601,0.624,0.0,0.334,-7.381,0.0289,128.028,0.551,0
+Mahayogi Baba Lokenath,8,0JjXwe8gyFv8bUenGUAHDA,Doya Koro Hey Baba Lokenath,spotify:track:0JjXwe8gyFv8bUenGUAHDA,0.492,0.465,0.539,0.00105,0.143,-7.656,0.0328,80.19,0.669,0
+Mahayogi Baba Lokenath,9,4EFo5c4VPXr3CVyvn3iD79,Mahayogi Baba Lokenath,spotify:track:4EFo5c4VPXr3CVyvn3iD79,0.797,0.539,0.386,1.16e-05,0.333,-9.382,0.0302,81.173,0.427,0
+Mahayogi Baba Lokenath,10,4cifzSTRuC40BtYwJDABZ6,Byakul Hoye Dakchi Baba,spotify:track:4cifzSTRuC40BtYwJDABZ6,0.6,0.601,0.46,0.000126,0.259,-7.559,0.0274,79.996,0.55,0
+Mahayogi Baba Lokenath,11,0S73mwemiNBeAJCh5G7jm0,Baba Tomar Moto Eto Apon,spotify:track:0S73mwemiNBeAJCh5G7jm0,0.331,0.373,0.596,5.33e-06,0.324,-8.088,0.0451,80.91,0.772,0
+Mahayogi Baba Lokenath,12,6U8hiQpGkq7gnaXIxRoix3,Swarup Abori Kori Eseche,spotify:track:6U8hiQpGkq7gnaXIxRoix3,0.719,0.597,0.481,6.86e-06,0.313,-8.849,0.0301,79.972,0.603,0
+Mahayogi Baba Lokenath,13,1YhDdJaVkpYYfofOZ93mIg,Hey Jagatguru Baba Kalpotaru,spotify:track:1YhDdJaVkpYYfofOZ93mIg,0.709,0.722,0.537,0.00032,0.337,-9.488,0.0368,138.023,0.902,0
+Mahayogi Baba Lokenath,14,1yp1OouMtppm6r6eyDjawE,Baba Tomar Puja Archana,spotify:track:1yp1OouMtppm6r6eyDjawE,0.372,0.595,0.477,0.000416,0.131,-9.043,0.0263,87.018,0.609,0
+Eai Madhu Sandhyay,1,493LI5yROWUEDrneIfLR2f,Dashta Dasher Train,spotify:track:493LI5yROWUEDrneIfLR2f,0.0693,0.66,0.948,0.000405,0.314,-3.993,0.122,129.991,0.624,0
+Eai Madhu Sandhyay,2,7mEtA1MoWvjXA2OwXzvhHb,Eai Madhu Sandhyay,spotify:track:7mEtA1MoWvjXA2OwXzvhHb,0.0382,0.521,0.927,0.000506,0.0647,-3.681,0.152,127.966,0.557,0
+Eai Madhu Sandhyay,3,0RILc2DYoxDiX0aCDBs3OK,Ghur Ghur Aar Karum Na,spotify:track:0RILc2DYoxDiX0aCDBs3OK,0.507,0.598,0.878,0.0,0.109,-2.033,0.0549,119.559,0.599,0
+Eai Madhu Sandhyay,4,2C7N8zzdOQTDLPAKCiWBPa,Jedin Amar Theme Jabe Gaan,spotify:track:2C7N8zzdOQTDLPAKCiWBPa,0.648,0.483,0.5,8.38e-05,0.105,-3.895,0.0274,131.725,0.282,0
+Eai Madhu Sandhyay,5,5EZmE3s2GxFOrahbWzCZMT,Mane Na Mane Na Mon Amar,spotify:track:5EZmE3s2GxFOrahbWzCZMT,0.284,0.7,0.717,0.00149,0.154,-6.904,0.0303,139.955,0.828,0
+Eai Madhu Sandhyay,6,3Qf4WMuKncGQ8VNx4yRdKc,Na Thak Jabab,spotify:track:3Qf4WMuKncGQ8VNx4yRdKc,0.472,0.514,0.762,7.09e-05,0.299,-3.901,0.0536,89.707,0.596,0
+Eai Madhu Sandhyay,7,57sBedxv8EkeoXWyda2mS7,Prem Sabai,spotify:track:57sBedxv8EkeoXWyda2mS7,0.675,0.506,0.578,9.2e-06,0.108,-4.562,0.0323,146.1,0.376,0
+Eai Madhu Sandhyay,8,3LRwrMu76G9JytFrMopqLE,Tumi Amar Priya,spotify:track:3LRwrMu76G9JytFrMopqLE,0.397,0.39,0.626,0.000124,0.2,-5.141,0.0371,164.761,0.258,0
+Mon Bojhe Na,1,66KvFkLthr1l3zfuPd7wtS,Dokhina Batash,spotify:track:66KvFkLthr1l3zfuPd7wtS,0.417,0.609,0.916,0.000108,0.111,-3.531,0.058,143.422,0.534,0
+Mon Bojhe Na,2,0ePZrx3vDgPnFlBWYfDmcO,Du Chokh Diye,spotify:track:0ePZrx3vDgPnFlBWYfDmcO,0.371,0.569,0.698,0.0,0.129,-6.52,0.0385,83.362,0.823,0
+Mon Bojhe Na,3,5VcY7cpYv75oQXj2EEkGI3,Du Chokher,spotify:track:5VcY7cpYv75oQXj2EEkGI3,0.103,0.608,0.65,0.0,0.342,-6.689,0.0484,82.505,0.485,0
+Mon Bojhe Na,4,2hSGLZ5PJtat8bCRpcvN7g,Mon Mane Naa,spotify:track:2hSGLZ5PJtat8bCRpcvN7g,0.214,0.571,0.735,1.93e-06,0.0588,-7.042,0.0684,76.649,0.421,0
+Mon Bojhe Na,5,4338lnuUPBlE2k0PHCPKFB,Mone Pore,spotify:track:4338lnuUPBlE2k0PHCPKFB,0.0437,0.707,0.788,2.68e-05,0.102,-6.722,0.0419,102.059,0.762,0
+Mon Bojhe Na,6,7ABDdfGF6BEeV6679sOaDG,Sagor Joler,spotify:track:7ABDdfGF6BEeV6679sOaDG,0.0397,0.634,0.744,3.45e-06,0.257,-6.573,0.0474,87.36,0.459,0
+Mon Bojhe Na,7,1hBlQIyzni1mh6XbywWU5k,Sara Din Sara Raat,spotify:track:1hBlQIyzni1mh6XbywWU5k,0.172,0.532,0.771,0.0991,0.0846,-6.122,0.0395,163.566,0.705,0
+Mon Bojhe Na,8,3pOuBp2HlvVnMEEwsSi1if,Tumi Je Aamar,spotify:track:3pOuBp2HlvVnMEEwsSi1if,0.147,0.603,0.695,0.0,0.355,-5.13,0.0245,102.593,0.74,0
+Jiban Sathi,1,4Cmp86EErVfavAMjdRvXhH,Aakhi Se Ki Aakhi,spotify:track:4Cmp86EErVfavAMjdRvXhH,0.755,0.337,0.705,0.0,0.182,-3.23,0.0452,179.657,0.592,1
+Jiban Sathi,2,5NoRonC354m1GAdVW7BZo0,Ajikali Mate,spotify:track:5NoRonC354m1GAdVW7BZo0,0.464,0.461,0.834,2.4e-06,0.26,-2.367,0.112,147.319,0.754,0
+Jiban Sathi,3,3m0uMScE4TgsP94AaP1VxH,Chalu Chalu,spotify:track:3m0uMScE4TgsP94AaP1VxH,0.611,0.481,0.802,2.11e-05,0.19,-2.811,0.0485,167.399,0.661,1
+Jiban Sathi,4,5pYS6BSSPazrom0VzPoQif,Eka Eka Chalibare,spotify:track:5pYS6BSSPazrom0VzPoQif,0.559,0.485,0.817,0.000327,0.0796,-2.927,0.0559,82.244,0.775,0
+Jiban Sathi,5,7BjyMx2UeIpoT41zaVbwAL,Jibanata Jadi Hue,spotify:track:7BjyMx2UeIpoT41zaVbwAL,0.667,0.598,0.881,0.0,0.409,-1.646,0.0635,129.909,0.747,0
+Jiban Sathi,6,41M8Fnu9peFvA00kvrVK71,Mu Au Ka Sathire,spotify:track:41M8Fnu9peFvA00kvrVK71,0.655,0.511,0.842,1.48e-05,0.09,-2.711,0.0452,76.624,0.582,0
+Jiban Sathi,7,2ypse6hdrjL0wMCRcSxq9o,Pritira Pahili Chitti,spotify:track:2ypse6hdrjL0wMCRcSxq9o,0.798,0.609,0.743,7.37e-06,0.179,-3.422,0.0299,120.029,0.578,1
+Jiban Sathi,8,6YdWTEc7tlC4vQJeWCZTg7,Rupasi Mananku Namaste,spotify:track:6YdWTEc7tlC4vQJeWCZTg7,0.698,0.694,0.849,0.0,0.349,-1.897,0.0491,124.301,0.753,0
+Jab Bhi Yeh Dil,1,2gSLQ96WL6ocPadqOTU7Fx,Aaj Phir,spotify:track:2gSLQ96WL6ocPadqOTU7Fx,0.341,0.677,0.763,0.000427,0.65,-8.462,0.07,90.017,0.619,1
+Jab Bhi Yeh Dil,2,7aiZzoMf4kMOth07e4H2j7,Aakhir Kya Hai Mazra,spotify:track:7aiZzoMf4kMOth07e4H2j7,0.569,0.796,0.683,0.0,0.264,-6.438,0.0313,129.012,0.929,0
+Jab Bhi Yeh Dil,3,2r9D7qM2JxT4vQWBOxgpg4,Jab Bhi Yeh Dil,spotify:track:2r9D7qM2JxT4vQWBOxgpg4,0.331,0.367,0.648,3.65e-06,0.159,-9.547,0.0809,192.197,0.821,0
+Jab Bhi Yeh Dil,4,7vsV6Fg9iEZkLWxd6QRDbZ,Kabhi Toh Yaara,spotify:track:7vsV6Fg9iEZkLWxd6QRDbZ,0.527,0.575,0.639,2.61e-05,0.13,-6.556,0.0315,83.928,0.563,0
+Jab Bhi Yeh Dil,5,6fGyDlTOPiUQzkZjHNyK4i,Kaisi Bekhudi Hain,spotify:track:6fGyDlTOPiUQzkZjHNyK4i,0.405,0.639,0.478,1.47e-05,0.345,-8.993,0.0432,83.974,0.438,1
+Jab Bhi Yeh Dil,6,3ozSvX1jHYDXzcEpaqAuHR,Mai Musafir Hun,spotify:track:3ozSvX1jHYDXzcEpaqAuHR,0.26,0.394,0.53,2.59e-05,0.104,-11.365,0.0997,80.217,0.314,0
+Jab Bhi Yeh Dil,7,5I6QNkk2Y13vzKdrOUO4wI,Panghat Sunee,spotify:track:5I6QNkk2Y13vzKdrOUO4wI,0.356,0.633,0.67,3.06e-05,0.175,-8.71,0.0489,75.993,0.656,0
+Jab Bhi Yeh Dil,8,6pflxFtxGpE652IIBsEh1F,Yeh Deewana Kaisa Mera,spotify:track:6pflxFtxGpE652IIBsEh1F,0.581,0.665,0.618,9.21e-05,0.124,-9.553,0.0412,96.034,0.509,1
+Sindura,1,13s7VF7Lc4kEOd5rilKneE,Bou,spotify:track:13s7VF7Lc4kEOd5rilKneE,0.55,0.614,0.703,6.82e-06,0.12,-4.55,0.0372,105.134,0.246,0
+Sindura,2,3VHMmrNEFim1tVpKQkrRiR,Chahena Hebaku,spotify:track:3VHMmrNEFim1tVpKQkrRiR,0.65,0.64,0.851,0.0,0.141,-3.415,0.0613,104.025,0.658,0
+Sindura,3,0tPzvJL0XMfb3yVtyiYlMk,He Mora Hrudaya,spotify:track:0tPzvJL0XMfb3yVtyiYlMk,0.662,0.694,0.781,0.000154,0.107,-3.694,0.057,114.025,0.658,0
+Sindura,4,79F7qONqLANKhAGtHO5OsV,Kacha Aainaa,spotify:track:79F7qONqLANKhAGtHO5OsV,0.726,0.619,0.847,4.12e-05,0.039,-3.559,0.0417,112.072,0.707,0
+Sindura,5,1mnGtHL1TmB7FSH9mcYWnF,Prema,spotify:track:1mnGtHL1TmB7FSH9mcYWnF,0.735,0.586,0.794,1.67e-06,0.045,-3.148,0.0537,97.032,0.388,0
+Sindura,6,3b8mt8GhZHEmcujj8rqygR,Tama Phone,spotify:track:3b8mt8GhZHEmcujj8rqygR,0.801,0.696,0.791,0.0,0.0328,-2.905,0.0328,115.997,0.769,0
+Sindura,7,1uwYu4ZQaKu2d36Z4rMUys,Tameta Asila,spotify:track:1uwYu4ZQaKu2d36Z4rMUys,0.785,0.648,0.578,0.0,0.165,-4.437,0.025,105.988,0.516,0
+Sindura,8,6KtVlyIW1nzwbK94LjTbkd,To Mathare Sindura,spotify:track:6KtVlyIW1nzwbK94LjTbkd,0.74,0.641,0.865,0.0,0.131,-3.163,0.0344,115.018,0.513,0
+Srabani,1,07BSraT5kNQUPaTW2UlFGT,Bata Bhangi Jadi,spotify:track:07BSraT5kNQUPaTW2UlFGT,0.578,0.501,0.834,5.5e-06,0.0943,-2.642,0.042,151.785,0.623,0
+Srabani,2,5MoouebXb1kJLH6ZT8SCEp,Bhabichhi Mun Mane Mane,spotify:track:5MoouebXb1kJLH6ZT8SCEp,0.49,0.546,0.75,1.08e-06,0.118,-2.873,0.034,149.964,0.672,0
+Srabani,3,5yO9IanFQBI3Ze3ABOT6mD,Deha Baase,spotify:track:5yO9IanFQBI3Ze3ABOT6mD,0.386,0.61,0.863,0.00274,0.441,-2.916,0.0472,90.018,0.867,0
+Srabani,4,0iSrPVjpSji0kInf5EiwXo,Juade Jaao,spotify:track:0iSrPVjpSji0kInf5EiwXo,0.391,0.3,0.703,0.0,0.283,-4.906,0.0407,78.663,0.425,0
+Srabani,5,7aVvmJt2cQb0gCdY5PKMyp,Mun Kahuthili,spotify:track:7aVvmJt2cQb0gCdY5PKMyp,0.648,0.526,0.75,6.73e-05,0.181,-3.725,0.0424,153.859,0.571,0
+Srabani,6,5zWWIwg4s55C10A5zQeU82,Prema Eka Pakhi,spotify:track:5zWWIwg4s55C10A5zQeU82,0.432,0.659,0.823,5.04e-06,0.0607,-3.857,0.032,107.965,0.532,0
+Srabani,7,3Bo10kbD57FeIEaTfJNlIC,Srabani,spotify:track:3Bo10kbD57FeIEaTfJNlIC,0.447,0.478,0.8,0.0,0.127,-4.041,0.0562,80.441,0.642,0
+Srabani,8,3FJ7fmqRNCgUwUFiMyEYfk,To Bhabanare,spotify:track:3FJ7fmqRNCgUwUFiMyEYfk,0.437,0.517,0.857,8.64e-06,0.0676,-4.193,0.0486,155.93,0.667,0
+Bollywood's Best Trio,1,2Y89s8SmFI06EQvnMoqgJ3,"Kitna Haseen Chehra - From ""Dilwale""",spotify:track:2Y89s8SmFI06EQvnMoqgJ3,0.325,0.455,0.823,1.89e-05,0.225,-9.182,0.0352,154.841,0.949,9
+Bollywood's Best Trio,2,0M90n9ui3ilcs1O6o14poH,"Woh Ladki Bahut Yaad Aati Solo - From ""Qayamat""",spotify:track:0M90n9ui3ilcs1O6o14poH,0.409,0.583,0.359,0.0,0.104,-11.746,0.148,136.046,0.622,6
+Bollywood's Best Trio,3,7a6VCGobY7CXKZL7frYhug,"Sochenge Tumhe Pyar - From ""Deewana""",spotify:track:7a6VCGobY7CXKZL7frYhug,0.789,0.553,0.729,0.0,0.0586,-10.778,0.0434,125.251,0.749,10
+Bollywood's Best Trio,4,1vhoN1XwkJ3fuv31m12T0E,"Tum Dil Ki Dhadkan Mein - From ""Dhadkan""",spotify:track:1vhoN1XwkJ3fuv31m12T0E,0.633,0.59,0.568,0.0,0.451,-12.8,0.0344,112.019,0.502,7
+Bollywood's Best Trio,5,5S7zE2Ei3CnSCoG1xykoFl,"Aankh Hai Bhari Bhari Male - From ""Tum Se Achcha Kaun Hai""",spotify:track:5S7zE2Ei3CnSCoG1xykoFl,0.341,0.543,0.849,0.000111,0.107,-8.065,0.0298,142.75,0.963,11
+Bollywood's Best Trio,6,591U9xsZKqbvYTuxfvJd6G,"Jo Tumhe Chahe Usko - From ""Dilwale""",spotify:track:591U9xsZKqbvYTuxfvJd6G,0.572,0.296,0.772,1.61e-05,0.343,-7.585,0.0452,170.962,0.914,5
+Bollywood's Best Trio,7,3YylZpxUE5fDPrI7vraXIr,"Tere Dard Se Dil - From ""Deewana""",spotify:track:3YylZpxUE5fDPrI7vraXIr,0.617,0.407,0.533,0.0,0.104,-12.734,0.0379,152.22,0.72,6
+Bollywood's Best Trio,8,3LnWeORWHvSXG90asn7vQA,"Mere Mehboob Ki Yehi Pehchan - From ""Salaami""",spotify:track:3LnWeORWHvSXG90asn7vQA,0.487,0.494,0.593,0.0,0.626,-10.878,0.0433,154.105,0.833,6
+Bollywood's Best Trio,9,2mAqTa11pldCdoei5FBCOF,"Ek Aisi Ladki - From ""Dilwale""",spotify:track:2mAqTa11pldCdoei5FBCOF,0.65,0.354,0.46,3.83e-05,0.337,-11.907,0.0424,133.974,0.291,8
+Bollywood's Best Trio,10,2evfj0LoHuBlsx2yKjtMYJ,"Der Se Hua Male - From ""Hum Ho Gaye Aap Ke""",spotify:track:2evfj0LoHuBlsx2yKjtMYJ,0.114,0.618,0.59,1.91e-05,0.118,-9.199,0.0287,150.003,0.924,5
+Bollywood's Best Trio,11,0URfcxrpwcWXHh0TfUfwHg,"Kitna Sukun Kitna Aaram - From ""Saajan Ki Baahon Mein""",spotify:track:0URfcxrpwcWXHh0TfUfwHg,0.617,0.512,0.671,5.41e-05,0.298,-9.97,0.0343,127.296,0.802,5
+Bollywood's Best Trio,12,1DmUknIhGdvZSZBNXR3tAX,"Pyaar Ka Saaya Solo - From ""Pyaar Ka Saaya""",spotify:track:1DmUknIhGdvZSZBNXR3tAX,0.774,0.38,0.594,0.0653,0.44,-10.897,0.0446,75.066,0.528,4
+Bollywood's Best Trio,13,5yEQ7JJklExW0zbAdHexuI,"Kaash Tum Mujhse Ek Baar - From ""Aatish""",spotify:track:5yEQ7JJklExW0zbAdHexuI,0.651,0.397,0.484,0.00164,0.109,-9.264,0.0328,185.654,0.318,6
+Tum Bin: The Musical Experience,1,1fLGJb9kUjdiBuSKLM0Osz,Tum Bin,spotify:track:1fLGJb9kUjdiBuSKLM0Osz,0.0829,0.566,0.649,0.000405,0.115,-7.426,0.0358,146.005,0.423,1
+Tum Bin: The Musical Experience,2,3IthwKa15NC8PEdRVzeEnw,Bahon Mein Aa Zara,spotify:track:3IthwKa15NC8PEdRVzeEnw,0.154,0.412,0.622,9.35e-06,0.0906,-7.131,0.0471,163.936,0.585,0
+Tum Bin: The Musical Experience,3,7zmYVIh3lWv6pItwc6qZV7,Ishq Pe Zor Nahin,spotify:track:7zmYVIh3lWv6pItwc6qZV7,0.0243,0.532,0.576,0.000107,0.304,-8.015,0.0608,169.886,0.346,0
+Tum Bin: The Musical Experience,4,69VnOF2jHD9ptcVdcm1uqN,Kaise Kehdu O Jane Jana,spotify:track:69VnOF2jHD9ptcVdcm1uqN,0.147,0.492,0.562,4.58e-05,0.0973,-7.662,0.0314,154.052,0.598,0
+Tum Bin: The Musical Experience,5,61uqB98E34yf3H9K789uXR,Jabse Mile Ho Chain Kahan,spotify:track:61uqB98E34yf3H9K789uXR,0.198,0.642,0.676,0.0,0.0955,-6.689,0.0335,131.97,0.59,0
+Tum Bin: The Musical Experience,6,7gTPjiOHKpjWqOCsx0baSf,Dadhkane Tez Hai Seene Mein,spotify:track:7gTPjiOHKpjWqOCsx0baSf,0.368,0.494,0.566,0.0,0.104,-7.215,0.0392,135.051,0.24,0
+Tum Bin: The Musical Experience,7,6QcTGnB2Z21Ca2yBpNgtHW,Bahon Mein Aa Zara (Unplugged),spotify:track:6QcTGnB2Z21Ca2yBpNgtHW,0.603,0.396,0.319,4.65e-06,0.113,-9.498,0.0302,79.007,0.471,0
+Jhiri Jhiri Brishti,1,1OKueg9T8sgFywZHckCe14,Ganga Tumi Boicho Jeno,spotify:track:1OKueg9T8sgFywZHckCe14,0.444,0.365,0.565,2.63e-06,0.329,-7.42,0.0395,142.441,0.233,0
+Jhiri Jhiri Brishti,2,6THEQaaqSPWCBV1Y7F7xre,Jhiri Jhiri Sei Brishti,spotify:track:6THEQaaqSPWCBV1Y7F7xre,0.31,0.381,0.66,0.0,0.11,-6.006,0.0868,81.508,0.228,0
+Jhiri Jhiri Brishti,3,7ArZBRLt3vGzoswJJIErhu,Bhaloto Bashini Tare,spotify:track:7ArZBRLt3vGzoswJJIErhu,0.691,0.395,0.554,3.71e-06,0.355,-7.266,0.0584,149.779,0.347,0
+Jhiri Jhiri Brishti,4,78yRX8PpKHcNveWbOO2tTn,Eki Gaan Shonale,spotify:track:78yRX8PpKHcNveWbOO2tTn,0.654,0.432,0.654,0.0,0.325,-6.168,0.0583,81.388,0.424,0
+Jhiri Jhiri Brishti,5,23SgCKAHry0rvzS54KUPVU,Jodi Swopno Dekhte Chai,spotify:track:23SgCKAHry0rvzS54KUPVU,0.253,0.631,0.635,8.34e-05,0.0793,-6.73,0.0542,159.903,0.659,0
+Jhiri Jhiri Brishti,6,6Gc30P86oGLLPCKecQzUiF,Ramdhanu Lukiye Tomar,spotify:track:6Gc30P86oGLLPCKecQzUiF,0.409,0.524,0.569,0.0,0.149,-7.454,0.0399,90.167,0.379,0
+Jhiri Jhiri Brishti,7,03Ilo6oyHI5fycjQkwmVjL,Tui Je Amr Jibon,spotify:track:03Ilo6oyHI5fycjQkwmVjL,0.373,0.574,0.616,3.81e-06,0.101,-5.947,0.0361,81.993,0.461,0
+Jhiri Jhiri Brishti,8,5KEt1mBfI75Bx4kr2dwkQc,Khola Janala Diye,spotify:track:5KEt1mBfI75Bx4kr2dwkQc,0.413,0.531,0.53,5.79e-06,0.129,-7.488,0.0386,77.73,0.359,0
+Jhiri Jhiri Brishti (Studio),1,74dzmgZyDd83IeKRlbNNBT,Ganga Tumi Boicho Jeno - Studio,spotify:track:74dzmgZyDd83IeKRlbNNBT,0.443,0.37,0.556,3.36e-06,0.321,-7.48,0.0391,140.62,0.223,0
+Jhiri Jhiri Brishti (Studio),2,3fsQJ7ZjW1MUWTXcsghalA,Jhiri Jhiri Sei Brishti - Studio,spotify:track:3fsQJ7ZjW1MUWTXcsghalA,0.326,0.354,0.64,0.0,0.109,-6.106,0.0655,85.746,0.229,0
+Jhiri Jhiri Brishti (Studio),3,4wzYmY0r9VnIkLhoA6pRSS,Bhaloto Bashini Tare - Studio,spotify:track:4wzYmY0r9VnIkLhoA6pRSS,0.701,0.392,0.546,3.74e-06,0.351,-7.309,0.054,150.068,0.393,0
+Jhiri Jhiri Brishti (Studio),4,20F4NxGjFfmZcCrgBodrOc,Eki Gaan Shonale - Studio,spotify:track:20F4NxGjFfmZcCrgBodrOc,0.683,0.489,0.651,0.0,0.333,-6.251,0.0612,80.443,0.41,0
+Jhiri Jhiri Brishti (Studio),5,5qqb3Zvh1yKPTMIChbvdss,Jodi Swopno Dekhte Chai - Studio,spotify:track:5qqb3Zvh1yKPTMIChbvdss,0.244,0.629,0.634,0.000115,0.0774,-6.816,0.0593,160.069,0.651,0
+Jhiri Jhiri Brishti (Studio),6,2Hf5agGTWUSk6m4pYyMVaU,Ramdhanu Lukiye Tomar - Studio,spotify:track:2Hf5agGTWUSk6m4pYyMVaU,0.469,0.51,0.568,0.0,0.142,-7.491,0.0379,90.163,0.376,0
+Jhiri Jhiri Brishti (Studio),7,2QAaBT9FbH0HQg6kQSPs1z,Tui Je Amr Jibon - Studio,spotify:track:2QAaBT9FbH0HQg6kQSPs1z,0.388,0.579,0.609,2.1e-06,0.109,-6.019,0.0368,82.006,0.49,0
+Jhiri Jhiri Brishti (Studio),8,4UvZ68GUtM1Rw92wI5Pvck,Khola Janala Diye - Studio,spotify:track:4UvZ68GUtM1Rw92wI5Pvck,0.399,0.388,0.538,4.67e-06,0.157,-7.525,0.0481,154.843,0.337,0
+Teri Mohabbat Mein,1,1UzScge8qE6fWOmhZCPl4e,Ae Sanam Tum Hi,spotify:track:1UzScge8qE6fWOmhZCPl4e,0.263,0.484,0.691,0.0504,0.141,-10.489,0.0372,93.027,0.878,2
+Teri Mohabbat Mein,2,4rRuAUnJC3gA9QZhHeG8kw,Bhula Chuka Hoon Zamana,spotify:track:4rRuAUnJC3gA9QZhHeG8kw,0.0393,0.533,0.541,0.00129,0.101,-11.544,0.036,89.746,0.722,1
+Teri Mohabbat Mein,3,2aiUxzuBfAnyoC7wMrWOFu,Dil De Chuke Hain,spotify:track:2aiUxzuBfAnyoC7wMrWOFu,0.508,0.365,0.487,1.21e-05,0.203,-11.149,0.0339,133.075,0.614,1
+Teri Mohabbat Mein,4,0fadBIyiOoSPrRvzp87U99,Padh Kar Tumhara Khat,spotify:track:0fadBIyiOoSPrRvzp87U99,0.357,0.525,0.47,0.00293,0.276,-9.026,0.0335,99.005,0.589,0
+Teri Mohabbat Mein,5,2sarCv5IfbTkE1tAJnJzKA,Raatein Hain Iqrar Ki,spotify:track:2sarCv5IfbTkE1tAJnJzKA,0.131,0.42,0.754,0.00263,0.3,-7.818,0.0524,151.916,0.789,0
+Teri Mohabbat Mein,6,3ITPsmGAtk0dNN8Ia0H4LK,Teri Judaai Mein,spotify:track:3ITPsmGAtk0dNN8Ia0H4LK,0.285,0.495,0.53,0.0031,0.217,-10.519,0.0289,98.451,0.624,0
+Teri Mohabbat Mein,7,7KQqpIOsVfCIq2LKlC46lj,Tum Jab Bhi Khat,spotify:track:7KQqpIOsVfCIq2LKlC46lj,0.179,0.49,0.51,6.67e-06,0.184,-8.854,0.03,99.066,0.56,0
+Teri Mohabbat Mein,8,50AGpK04b6w84qng1sAHsj,Yeh Baharein Ye Nazare,spotify:track:50AGpK04b6w84qng1sAHsj,0.438,0.541,0.642,0.000348,0.0983,-10.477,0.0352,104.66,0.721,0

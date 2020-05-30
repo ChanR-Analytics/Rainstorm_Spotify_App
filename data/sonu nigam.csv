@@ -1,0 +1,241 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+I Love You,1,33s7zjLDVCmxTsadyr0uKr,Dure Oi Pahar Misheche,spotify:track:33s7zjLDVCmxTsadyr0uKr,0.583,0.8,0.598,0.000327,0.245,-7.819,0.0784,115.016,0.899,13
+I Love You,2,39CjBOktmplV3jhkcMceaX,Bhalobasha Haat Baralo,spotify:track:39CjBOktmplV3jhkcMceaX,0.217,0.616,0.763,3.13e-05,0.134,-6.959,0.044,92.012,0.687,10
+I Love You,3,2qPot7X4lNLXvHHOnG8xdA,Cholre Cholre bhai,spotify:track:2qPot7X4lNLXvHHOnG8xdA,0.107,0.745,0.941,1.39e-05,0.762,-6.177,0.0799,100.353,0.634,8
+I Love You,4,1a4ULwV8U9oepK2d6yY86D,Ekta Kotha Bolbo,spotify:track:1a4ULwV8U9oepK2d6yY86D,0.521,0.713,0.715,0.000255,0.134,-7.127,0.0904,91.965,0.794,10
+I Love You,5,6EqlVG7e4DWJPjaNOksVL3,I Love You Theme,spotify:track:6EqlVG7e4DWJPjaNOksVL3,0.519,0.765,0.698,0.0,0.0522,-8.619,0.0841,94.984,0.731,10
+I Love You,6,5IJj9uz1ATu2PW7jEwd89C,Mon Mane Na,spotify:track:5IJj9uz1ATu2PW7jEwd89C,0.733,0.608,0.802,2.99e-05,0.0988,-6.999,0.0594,94.932,0.528,8
+Sonu Nigam Devi Bhajans,1,3Xctt7zhjvNhmZBFM3QwxT,"Aaja Maa Tenu Ankhiyan Udeek Diyaan (From ""Jai Maa Vaishno Devi"")",spotify:track:3Xctt7zhjvNhmZBFM3QwxT,0.704,0.359,0.765,0.0,0.0684,-3.751,0.0368,89.687,0.651,7
+Sonu Nigam Devi Bhajans,2,0NeYpLvZPvIZTxxPPT1CXm,"Sawan Ki Rut Hai (From ""Meri Maa"")",spotify:track:0NeYpLvZPvIZTxxPPT1CXm,0.688,0.549,0.837,0.0,0.532,-6.707,0.0643,89.984,0.841,8
+Sonu Nigam Devi Bhajans,3,0BNcac0b5LKGQhd3khI8Aj,"Mere Naino Ki Pyaas (From ""Jai Maa Vaishno Devi"")",spotify:track:0BNcac0b5LKGQhd3khI8Aj,0.389,0.439,0.885,0.0,0.308,-4.798,0.0736,87.924,0.862,9
+Sonu Nigam Devi Bhajans,4,7HtML0QR5LXGGhfEUkR2gT,"Ghar Ghar Mein Mahima Teri (From ""Ras Barse Tere Bhawan Mein"")",spotify:track:7HtML0QR5LXGGhfEUkR2gT,0.263,0.63,0.734,0.0,0.617,-7.991,0.103,102.683,0.772,7
+Sonu Nigam Devi Bhajans,5,6jhGBAp4QEsBad0tTYlKhx,"Phoolon Ka Banaya Tera Haar (From ""Ras Barse Tere Bhawan Mein"")",spotify:track:6jhGBAp4QEsBad0tTYlKhx,0.591,0.592,0.726,0.0,0.0667,-7.122,0.0629,101.109,0.848,6
+Sonu Nigam Devi Bhajans,6,6C2m8WA8I4HkWl0i7HNWR1,"Patte Patte Mein Hai Basi Mahamaya (From ""Aa Gayi Chitthi Mata Ki"")",spotify:track:6C2m8WA8I4HkWl0i7HNWR1,0.79,0.566,0.816,0.0,0.331,-4.025,0.0477,92.519,0.9,6
+Sonu Nigam Devi Bhajans,7,75dz9gCanRF3RHg7W1eGhO,"Daati Ke Darbaar Kanjaka (From ""Ras Barse Tere Bhawan Mein"")",spotify:track:75dz9gCanRF3RHg7W1eGhO,0.361,0.595,0.756,0.0,0.112,-8.681,0.123,100.197,0.848,7
+Sonu Nigam Devi Bhajans,8,29YKyf8V5iQU5hvPwktXtK,"Dhinak Dhin Ta Thaiya (From ""Meri Maa"")",spotify:track:29YKyf8V5iQU5hvPwktXtK,0.358,0.725,0.818,0.0,0.0886,-7.466,0.052,100.017,0.962,6
+Sonu Nigam Devi Bhajans,9,6HP2OLWAVDxHCAJFkhJfGw,"Kan Kan Gaaye Bholi Maa Ki Aarti (From ""Meri Maa"")",spotify:track:6HP2OLWAVDxHCAJFkhJfGw,0.545,0.593,0.934,0.0,0.0896,-6.588,0.0978,129.05,0.857,6
+Sonu Nigam Devi Bhajans,10,1iNXJ2mTKFD2StbAuomHIG,"Swarg Se Sunder Bhawan Hai Maa Ka (From ""Aa Gayi Chitthi Mata Ki"")",spotify:track:1iNXJ2mTKFD2StbAuomHIG,0.797,0.581,0.849,0.0,0.323,-3.667,0.0572,91.547,0.918,7
+Dil Tere Naam Kiya (Original),1,4ZA5rnzfHlXMO3SakJqlGk,Dil Tere Naam Kiya,spotify:track:4ZA5rnzfHlXMO3SakJqlGk,0.392,0.286,0.804,9.45e-06,0.373,-5.363,0.0535,92.727,0.5,6
+Dil Tere Naam Kiya (Original),2,02mYUWb2Y3ovofdbiFZzjg,Ho Ye Bhanada,spotify:track:02mYUWb2Y3ovofdbiFZzjg,0.748,0.589,0.831,0.000192,0.45,-6.055,0.157,144.43,0.924,3
+Dil Tere Naam Kiya (Original),3,5aIeKgU7q5hIsRKV4DAR9p,Ishq Jawan Raat Haseen,spotify:track:5aIeKgU7q5hIsRKV4DAR9p,0.449,0.516,0.639,1.6e-05,0.151,-8.019,0.0349,98.646,0.401,2
+Dil Tere Naam Kiya (Original),4,07WnPBP9vvqfAVPpjcwjk6,Kyun Ye Nigahen Yaar,spotify:track:07WnPBP9vvqfAVPpjcwjk6,0.707,0.483,0.68,0.0164,0.0679,-8.113,0.0449,104.021,0.661,2
+Dil Tere Naam Kiya (Original),5,163NuPlx0Ddp8iQCbcJWTm,O Sang Dil Jo Tujhase,spotify:track:163NuPlx0Ddp8iQCbcJWTm,0.9,0.407,0.672,5.18e-05,0.352,-5.56,0.0347,136.618,0.378,1
+Dil Tere Naam Kiya (Original),6,1C2UEZFuRtRT6W6fppNAeP,Tumne Mera Daman Khushiyon Se,spotify:track:1C2UEZFuRtRT6W6fppNAeP,0.902,0.574,0.658,2.05e-05,0.2,-5.854,0.0556,148.594,0.718,2
+Valentine Love Songs,1,186ClFXwLgld7zua0B4shO,Ishq Tera,spotify:track:186ClFXwLgld7zua0B4shO,0.652,0.524,0.646,0.0,0.0981,-6.81,0.0476,78.739,0.611,13
+Valentine Love Songs,2,014itX8ZwJRiSCS5rR0spe,Mehki Mehki Raatein,spotify:track:014itX8ZwJRiSCS5rR0spe,0.36,0.407,0.517,0.0,0.378,-5.678,0.054,158.789,0.525,7
+Valentine Love Songs,3,0o7EUvC1EYpTJBYh91j1ug,Hasrat Bhari Nazar Unplugged,spotify:track:0o7EUvC1EYpTJBYh91j1ug,0.396,0.491,0.454,1.34e-05,0.261,-8.272,0.0321,102.671,0.368,8
+Valentine Love Songs,4,0zzMaR8ee00fGVkzzvm3Ja,Tere Hi Liye,spotify:track:0zzMaR8ee00fGVkzzvm3Ja,0.309,0.618,0.661,7.29e-06,0.116,-6.427,0.0311,105.012,0.384,8
+Valentine Love Songs,5,5skvTk6UGxZvc0ruxRkexv,Bada Ajeeb Hai Safar,spotify:track:5skvTk6UGxZvc0ruxRkexv,0.718,0.567,0.628,9.77e-05,0.0997,-7.185,0.0754,143.885,0.263,5
+Valentine Love Songs,6,6pfC5hdeQkxQe529d0t5wY,First Date,spotify:track:6pfC5hdeQkxQe529d0t5wY,0.339,0.456,0.653,0.0,0.188,-5.738,0.0738,180.103,0.402,11
+Valentine Love Songs,7,0vF6P0aRpeWEKuCklOuecU,Piya Piya,spotify:track:0vF6P0aRpeWEKuCklOuecU,0.667,0.564,0.918,2.37e-06,0.822,-7.928,0.115,102.881,0.677,5
+Valentine Love Songs,8,1S2GzheqWteOKXJ8F5plCF,Tujhko Bin Dekhe,spotify:track:1S2GzheqWteOKXJ8F5plCF,0.275,0.725,0.683,1.29e-06,0.107,-8.316,0.0357,100.002,0.716,5
+Valentine Love Songs,9,4OOxgabvO7TVOic0rh3Cji,Rim Jhim,spotify:track:4OOxgabvO7TVOic0rh3Cji,0.626,0.438,0.713,0.00259,0.322,-5.973,0.0482,138.595,0.528,5
+Valentine Love Songs,10,67Tb4zZ6c6ml8vN4c7mxn1,Yeh Mujhe Kya Hua,spotify:track:67Tb4zZ6c6ml8vN4c7mxn1,0.439,0.594,0.682,0.0,0.111,-6.208,0.0402,88.01,0.588,4
+Valentine Love Songs,11,5Ho7kRnpHVY8augDkulvQz,Tum Sang,spotify:track:5Ho7kRnpHVY8augDkulvQz,0.9,0.669,0.622,5e-06,0.113,-8.078,0.0292,100.027,0.596,5
+Valentine Love Songs,12,0nyX3CI7G85qmWsY745IKk,Sab Gulabon Pe,spotify:track:0nyX3CI7G85qmWsY745IKk,0.406,0.646,0.793,0.0107,0.107,-4.64,0.032,149.948,0.727,6
+Valentine Love Songs,13,663K0RDgCRB0p4v9HvUXXY,Maaheru,spotify:track:663K0RDgCRB0p4v9HvUXXY,0.171,0.651,0.715,1.25e-05,0.306,-5.831,0.0348,79.993,0.325,4
+Valentine Love Songs,14,47pCI3wwKvboMS7I8r2BP8,Tujhe Dekhta Hun,spotify:track:47pCI3wwKvboMS7I8r2BP8,0.741,0.629,0.465,0.0,0.137,-8.121,0.0303,135.898,0.51,3
+Valentine Love Songs,15,1x6Pq7VhfdQVjk856BLjDH,Har Ghadi,spotify:track:1x6Pq7VhfdQVjk856BLjDH,0.406,0.552,0.657,0.0,0.27,-6.881,0.0891,86.165,0.507,4
+Valentine Love Songs,16,6yIeZzwxCFVDiagetqlfxV,Jashan Ki Raat Hai,spotify:track:6yIeZzwxCFVDiagetqlfxV,0.107,0.518,0.951,0.00549,0.0533,-4.133,0.0949,106.178,0.577,2
+Notun Kore Bhalobasbo,1,3Jcw42dSnJ2sTqjh8zhy7n,Akash Kade Batash Kadhe,spotify:track:3Jcw42dSnJ2sTqjh8zhy7n,0.615,0.551,0.484,0.0,0.0969,-7.992,0.03,82.978,0.65,1
+Notun Kore Bhalobasbo,2,70glv5ms27zWkGjBqzK7X1,Ami Kemon Kore,spotify:track:70glv5ms27zWkGjBqzK7X1,0.496,0.509,0.543,7.31e-06,0.139,-8.101,0.0338,173.096,0.67,1
+Notun Kore Bhalobasbo,3,4OjramwClt9sf6f8LKa4yI,Bholobese Ekhon,spotify:track:4OjramwClt9sf6f8LKa4yI,0.632,0.585,0.665,0.0,0.152,-6.832,0.0386,139.974,0.698,0
+Notun Kore Bhalobasbo,4,1NJKJaM1h8H14uq63h8ZDG,Bolchi Tomake,spotify:track:1NJKJaM1h8H14uq63h8ZDG,0.301,0.798,0.72,0.0,0.114,-6.27,0.0462,120.021,0.921,0
+Notun Kore Bhalobasbo,5,565f7x7OzvQpJpTM1Hy0tF,Chander Moto Mukhti Tomai,spotify:track:565f7x7OzvQpJpTM1Hy0tF,0.182,0.802,0.919,3.23e-05,0.296,-7.259,0.0411,118.052,0.963,1
+Notun Kore Bhalobasbo,6,6s8jZe4Z2hIlLaRTWzWFFX,Feleasha Diner Kotha,spotify:track:6s8jZe4Z2hIlLaRTWzWFFX,0.706,0.565,0.653,0.0,0.131,-6.489,0.0314,158.085,0.588,0
+Notun Kore Bhalobasbo,7,5d65nWNfaur4N6xJc67LoM,Jani Ghumate Paro Na,spotify:track:5d65nWNfaur4N6xJc67LoM,0.487,0.528,0.745,0.0,0.28,-6.103,0.0394,82.356,0.82,0
+Notun Kore Bhalobasbo,8,5lanYZNCvbumb78yzVXNWo,Mayabi Rate Jhosna Rate,spotify:track:5lanYZNCvbumb78yzVXNWo,0.54,0.707,0.635,2.14e-06,0.0467,-7.1,0.0299,144.013,0.951,0
+Notun Kore Bhalobasbo,9,39XYs4pnd8qeCddHjzVctl,Nutun Kore Bholobasbe,spotify:track:39XYs4pnd8qeCddHjzVctl,0.474,0.606,0.625,0.0,0.0671,-6.657,0.0318,156.074,0.592,1
+Notun Kore Bhalobasbo,10,68eJ8iQeLMb6SF93yrBvAN,Tarar Mela,spotify:track:68eJ8iQeLMb6SF93yrBvAN,0.521,0.562,0.722,4.44e-06,0.0732,-7.225,0.0753,81.973,0.697,0
+Sukhey Theko,1,0k5CkomgnfoL3aqxfRwdR0,Ami Ekta Handa Boka,spotify:track:0k5CkomgnfoL3aqxfRwdR0,0.0345,0.763,0.523,3.7e-05,0.0338,-13.618,0.0608,97.933,0.95,0
+Sukhey Theko,2,471ykvNvNrrxkvSHA0bZvh,Eka Thakte Baro Bhalo Laage,spotify:track:471ykvNvNrrxkvSHA0bZvh,0.493,0.466,0.511,0.0,0.285,-12.014,0.0404,84.075,0.733,0
+Sukhey Theko,3,0AovKZFF3xxQXavEw5zvNl,O Priya Bolona Two,spotify:track:0AovKZFF3xxQXavEw5zvNl,0.428,0.567,0.526,1.32e-05,0.0916,-12.303,0.0419,84.896,0.755,0
+Sukhey Theko,4,7LwOx6Ykpq8TCBon0pBe1w,O Priya Bolona,spotify:track:7LwOx6Ykpq8TCBon0pBe1w,0.428,0.567,0.526,1.32e-05,0.0673,-12.303,0.0419,84.896,0.755,2
+Sukhey Theko,5,5LiNLfjjwoZkreAIOVpf7b,Phire Keno Elona Katha Diye,spotify:track:5LiNLfjjwoZkreAIOVpf7b,0.227,0.589,0.616,0.0,0.0376,-12.86,0.0597,78.834,0.932,0
+Sukhey Theko,6,0ulnjNVkjzSOHCVRu38Xvw,Prem Shudhu Ki,spotify:track:0ulnjNVkjzSOHCVRu38Xvw,0.0879,0.634,0.484,0.0,0.065,-13.058,0.0343,105.022,0.386,0
+Sukhey Theko,7,1UypTU5vxTKahMGi892kCw,Sukhe Theko Bhalo Theko,spotify:track:1UypTU5vxTKahMGi892kCw,0.0746,0.724,0.589,0.000336,0.121,-12.641,0.0359,124.993,0.605,1
+Sukhey Theko,8,1DC3Ce4a18UIfExDa429yj,Swapno Amar Satyi Hoye Jaay,spotify:track:1DC3Ce4a18UIfExDa429yj,0.373,0.447,0.629,0.0046,0.0743,-7.616,0.0389,103.113,0.733,0
+Tomar Swapna Niye Bachbo,1,5qvXLSRhjdBwKeQK98lXqd,Bhule Gele,spotify:track:5qvXLSRhjdBwKeQK98lXqd,0.652,0.654,0.609,0.0,0.119,-6.147,0.0309,150.092,0.502,1
+Tomar Swapna Niye Bachbo,2,7jVSBrBtb5RzOj1szlQsF6,Etota Raat,spotify:track:7jVSBrBtb5RzOj1szlQsF6,0.369,0.629,0.573,0.0,0.126,-6.81,0.0306,145.024,0.829,0
+Tomar Swapna Niye Bachbo,3,0KlfMHPgjEcBm36Aey33YD,Nmajh Rate Ghum,spotify:track:0KlfMHPgjEcBm36Aey33YD,0.754,0.572,0.547,0.0,0.284,-6.467,0.0331,82.031,0.498,0
+Tomar Swapna Niye Bachbo,4,1ruzOpMepOmij66skTUC4l,Pubal Hawa,spotify:track:1ruzOpMepOmij66skTUC4l,0.801,0.652,0.573,2.59e-06,0.063,-5.979,0.0303,140.108,0.66,0
+Tomar Swapna Niye Bachbo,5,0SrKxWHVVDPUSPz16tXY9f,Sesh Chitti,spotify:track:0SrKxWHVVDPUSPz16tXY9f,0.657,0.587,0.655,0.0,0.0858,-5.855,0.039,81.31,0.574,0
+Tomar Swapna Niye Bachbo,6,2LraGb7gk8CM02YxVo2u2n,Tip Tip Bristti,spotify:track:2LraGb7gk8CM02YxVo2u2n,0.631,0.669,0.728,1.94e-06,0.277,-7.279,0.0352,110.112,0.846,0
+Tomar Swapna Niye Bachbo,7,04PjHniWc0XVM2nMyN7wMS,Tiumi Nijer Hate,spotify:track:04PjHniWc0XVM2nMyN7wMS,0.706,0.6,0.501,0.0,0.262,-6.824,0.0282,79.977,0.646,0
+Tomar Swapna Niye Bachbo,8,2GMLED3PLrj7RBIR5af2bh,Tomar Dewa Bhalobasa,spotify:track:2GMLED3PLrj7RBIR5af2bh,0.734,0.548,0.58,3.91e-06,0.0521,-8.701,0.0424,94.125,0.613,0
+Chakaa Aakhi,1,5MiqKysQfe81FR9596MwTo,Bata Mangala Mun,spotify:track:5MiqKysQfe81FR9596MwTo,0.762,0.477,0.699,0.0,0.336,-4.186,0.05,172.648,0.897,1
+Chakaa Aakhi,2,2YYP9l7JqtSO7pRlANR5Dh,To Siri Mandira Sara,spotify:track:2YYP9l7JqtSO7pRlANR5Dh,0.901,0.52,0.634,1.61e-05,0.391,-4.637,0.0494,118.52,0.845,2
+Chakaa Aakhi,3,3AxeW6rBfphqxCbPfb45Bg,Chakaa Chakaa Chakaa Aakhi,spotify:track:3AxeW6rBfphqxCbPfb45Bg,0.84,0.524,0.606,0.00452,0.912,-5.303,0.0986,165.675,0.843,0
+Chakaa Aakhi,4,3FFwPnvVQQi9IxHU21HE8T,Tate Bhala Je Paichhi,spotify:track:3FFwPnvVQQi9IxHU21HE8T,0.745,0.479,0.751,4.33e-05,0.131,-4.446,0.0629,163.351,0.667,0
+Chakaa Aakhi,5,58RyH2WaAzXO23FhgMHTum,Mo Bahuda Bela Hela,spotify:track:58RyH2WaAzXO23FhgMHTum,0.901,0.521,0.812,0.000861,0.223,-5.171,0.0507,151.013,0.556,0
+Chakaa Aakhi,6,6FC6DqsCAqA02KacK8Ymul,Jhain Jhain Ghanta,spotify:track:6FC6DqsCAqA02KacK8Ymul,0.797,0.455,0.933,0.0483,0.321,-4.717,0.0495,112.443,0.789,0
+Chakaa Aakhi,7,0kG9ePmQLr3etSIvXJ6i6T,Libhi Jaau Mora,spotify:track:0kG9ePmQLr3etSIvXJ6i6T,0.686,0.36,0.79,0.0,0.15,-4.094,0.0578,80.561,0.761,0
+Chakaa Aakhi,8,2FnRV6zXP2VfA9J7CLBXvG,Thare Aare Kaliaa,spotify:track:2FnRV6zXP2VfA9J7CLBXvG,0.709,0.548,0.75,0.00259,0.234,-5.531,0.0842,155.836,0.826,0
+V. Harikrishna Hits Vol -1,1,5LC1QGnA7JaU1D5STtphY6,Minchagi Neenu,spotify:track:5LC1QGnA7JaU1D5STtphY6,0.395,0.676,0.576,6.33e-05,0.339,-10.432,0.0604,115.992,0.535,28
+V. Harikrishna Hits Vol -1,2,57AF4TTA3KyKxr4smA4s7g,Bangari Yare Nee,spotify:track:57AF4TTA3KyKxr4smA4s7g,0.016,0.781,0.949,6.19e-05,0.165,-7.419,0.0907,126.96,0.318,1
+V. Harikrishna Hits Vol -1,3,6zOnfOOeRMePSL9OQlgIO4,Chandrana Thangi Maga,spotify:track:6zOnfOOeRMePSL9OQlgIO4,0.279,0.651,0.82,0.0,0.248,-8.758,0.0562,92.001,0.725,1
+V. Harikrishna Hits Vol -1,4,3oatMg2cwPO3q0V0aKtjTI,Akasha Este Yakedyu,spotify:track:3oatMg2cwPO3q0V0aKtjTI,0.11,0.806,0.818,0.00279,0.112,-8.127,0.0405,115.012,0.794,1
+V. Harikrishna Hits Vol -1,5,7zxpz9WXptXL4CLDgvr59S,Oh Gunavantha,spotify:track:7zxpz9WXptXL4CLDgvr59S,0.416,0.696,0.705,4.29e-06,0.28,-9.555,0.105,92.022,0.656,14
+V. Harikrishna Hits Vol -1,6,2XvKXp3JaCXBP3Yf3h6k7i,San Sanare,spotify:track:2XvKXp3JaCXBP3Yf3h6k7i,0.684,0.653,0.701,0.0,0.434,-9.859,0.348,97.881,0.641,1
+V. Harikrishna Hits Vol -1,7,1mPzMDjcwRKYVMOCbxIqV1,Raja Heluvagella,spotify:track:1mPzMDjcwRKYVMOCbxIqV1,0.725,0.411,0.604,0.0,0.582,-8.819,0.191,169.95,0.394,1
+V. Harikrishna Hits Vol -1,8,5Q20B1lpVWnousIFXztqF8,Summane Summane,spotify:track:5Q20B1lpVWnousIFXztqF8,0.536,0.686,0.473,0.00036,0.104,-13.396,0.051,94.545,0.59,2
+V. Harikrishna Hits Vol -1,9,26c7l9FSmvAyFE7FdKcZyb,Hey Hey Paro,spotify:track:26c7l9FSmvAyFE7FdKcZyb,0.123,0.873,0.734,0.178,0.06,-8.104,0.0416,127.013,0.948,1
+V. Harikrishna Hits Vol -1,10,6SSVXadAQiRCO6uGU8jrq0,Ninna Thutige Ondsala Jai,spotify:track:6SSVXadAQiRCO6uGU8jrq0,0.207,0.672,0.816,0.00272,0.0923,-7.536,0.0695,145.928,0.737,1
+Sonu Nigam Birthday Special Kannada Hits 2019,1,2wOLvujROkvPW2gjM9wlMX,"Neeli Neeli (From ""Bangara So Bangaradha Manushya"")",spotify:track:2wOLvujROkvPW2gjM9wlMX,0.651,0.746,0.677,0.0,0.124,-6.975,0.123,91.952,0.833,1
+Sonu Nigam Birthday Special Kannada Hits 2019,2,78q2kpObtTgmeTzJnVch5w,"Beladingala Raatri (From ""Tiger"")",spotify:track:78q2kpObtTgmeTzJnVch5w,0.676,0.515,0.402,0.0,0.349,-6.236,0.0337,149.778,0.547,0
+Sonu Nigam Birthday Special Kannada Hits 2019,3,0eENQSNOb7lPjXzc9QnJbi,"Thusu Preethiya (From ""Simpallag Innondh Love Story"")",spotify:track:0eENQSNOb7lPjXzc9QnJbi,0.509,0.448,0.649,0.00313,0.138,-7.142,0.0414,80.097,0.378,1
+Sonu Nigam Birthday Special Kannada Hits 2019,4,4tU1NUD2bnJ8QFUzAI0RaR,"Ninna Nenape (From ""Siddhartha"")",spotify:track:4tU1NUD2bnJ8QFUzAI0RaR,0.821,0.65,0.405,0.00434,0.136,-8.958,0.0269,114.127,0.481,1
+Sonu Nigam Birthday Special Kannada Hits 2019,5,6RJbTYpf3vONoi2hLlQI3J,"O Manase (From ""Naani"")",spotify:track:6RJbTYpf3vONoi2hLlQI3J,0.34,0.653,0.546,8.01e-05,0.139,-6.986,0.0316,90.013,0.438,0
+Sonu Nigam Birthday Special Kannada Hits 2019,6,50n2XX3PWaici4i3PrNpx2,"Nannavalu Nannavalu (From ""Siri Chandana"")",spotify:track:50n2XX3PWaici4i3PrNpx2,0.46,0.685,0.587,0.0,0.236,-11.361,0.101,173.894,0.808,0
+Sonu Nigam Birthday Special Kannada Hits 2019,7,2nopPPIzd6NoNGkLPKsvX5,"Ee Thuditha (From ""Neenyaare"")",spotify:track:2nopPPIzd6NoNGkLPKsvX5,0.148,0.672,0.948,0.0,0.679,-7.154,0.0957,127.981,0.702,0
+Love Anthems - Sonu Nigam,1,3xETGyoiumkwRGQE0QKJtG,"Main Badhiya Tu Bhi Badhiya (From ""Sanju"")",spotify:track:3xETGyoiumkwRGQE0QKJtG,0.15,0.668,0.793,0.0,0.333,-7.368,0.0562,81.994,0.543,20
+Love Anthems - Sonu Nigam,2,2v4PY7pjC13fDiaNjsByqd,"Hans Mat Pagli (From ""Toilet - Ek Prem Katha"")",spotify:track:2v4PY7pjC13fDiaNjsByqd,0.765,0.495,0.633,0.000144,0.0858,-6.603,0.0474,89.632,0.477,22
+Love Anthems - Sonu Nigam,3,5go8nLNCSszC6QeZF3Ug8u,"Aal Izz Well (From ""3 Idiots"")",spotify:track:5go8nLNCSszC6QeZF3Ug8u,0.401,0.793,0.878,0.0,0.136,-6.615,0.152,119.986,0.61,20
+Love Anthems - Sonu Nigam,4,7lHeB9lvi5iCDFulhlSImX,"Allah Maaf Kare (From ""Desi Boyz"")",spotify:track:7lHeB9lvi5iCDFulhlSImX,0.182,0.664,0.789,0.000414,0.106,-5.293,0.0284,139.963,0.852,26
+Love Anthems - Sonu Nigam,5,0euXqEMJyKSeHEk8vJYSl8,"Humko Deewana Kar Gaye (From ""Humko Deewana Kar Gaye"")",spotify:track:0euXqEMJyKSeHEk8vJYSl8,0.689,0.389,0.481,1.26e-06,0.0859,-9.94,0.0352,82.797,0.915,20
+Love Anthems - Sonu Nigam,6,3CA3O0hv3OT3NUSu7e9sH2,"Tainu Leke (From ""Salaam-E-Ishq"")",spotify:track:3CA3O0hv3OT3NUSu7e9sH2,0.17,0.796,0.94,0.000166,0.249,-6.858,0.0804,116.998,0.699,26
+Love Anthems - Sonu Nigam,7,3kxaC5Rp1TgQq3dBb7jk3t,"Salaam-E-Ishq (From ""Salaam-E-Ishq"")",spotify:track:3kxaC5Rp1TgQq3dBb7jk3t,0.0362,0.763,0.796,5.21e-05,0.248,-7.095,0.0545,103.025,0.757,25
+Love Anthems - Sonu Nigam,8,0QejcQ3N4V7c5kpQnHpVyA,"Tumse Milke Dil Ka (From ""Main Hoon Na"")",spotify:track:0QejcQ3N4V7c5kpQnHpVyA,0.0642,0.853,0.745,1.87e-06,0.0274,-8.636,0.109,107.985,0.882,41
+Love Anthems - Sonu Nigam,9,5vtT3gz58u4Ls6tN2K24sf,"Zoobi Doobi (From ""3 Idiots"")",spotify:track:5vtT3gz58u4Ls6tN2K24sf,0.741,0.636,0.589,0.0,0.14,-7.694,0.0707,179.859,0.667,28
+Love Anthems - Sonu Nigam,10,4tPgfmNKk6BNANbeXqWntS,"Jaane Nahin Denge Tujhe (From ""3 Idiots"")",spotify:track:4tPgfmNKk6BNANbeXqWntS,0.54,0.32,0.566,0.0,0.101,-5.83,0.077,80.982,0.517,20
+Love Anthems - Sonu Nigam,11,4mNNWJI528syoHaSaTAgsd,"The Goggle Song (From ""Mubarakan"")",spotify:track:4mNNWJI528syoHaSaTAgsd,0.0272,0.742,0.88,4.54e-06,0.141,-4.47,0.0758,103.99,0.68,14
+Love Anthems - Sonu Nigam,12,4HKpSQsWRVeXDybgr4ByTG,"Dil Dooba (From ""Khakee"")",spotify:track:4HKpSQsWRVeXDybgr4ByTG,0.319,0.814,0.909,0.0,0.345,-6.875,0.0753,100.004,0.961,44
+Love Anthems - Sonu Nigam,13,5Rr0rVXrK4FX0meKsVJl7O,"Tere Bin (From ""Dil Toh Baccha Hai Ji"")",spotify:track:5Rr0rVXrK4FX0meKsVJl7O,0.801,0.531,0.492,0.0,0.0951,-5.756,0.0322,133.101,0.595,19
+Love Anthems - Sonu Nigam,14,2ohD6y7hYc9abHOkOw7m4G,"Main Agar Kahoon (From ""Om Shanti Om"")",spotify:track:2ohD6y7hYc9abHOkOw7m4G,0.234,0.533,0.436,3.17e-06,0.46,-7.521,0.0276,146.868,0.371,46
+Love Anthems - Sonu Nigam,15,0fQdLCMzB9UOyW0KUroBGd,"Apnaa Mujhe Tu Lagaa (From ""1920 Evil Returns"")",spotify:track:0fQdLCMzB9UOyW0KUroBGd,0.586,0.47,0.682,0.0,0.0955,-3.854,0.0379,159.991,0.499,23
+Love Anthems - Sonu Nigam,16,6tkbKPfEJvMuErXxbLz5yu,"Love Is A Waste Of Time (From ""Pk"")",spotify:track:6tkbKPfEJvMuErXxbLz5yu,0.448,0.676,0.56,0.0,0.0903,-6.124,0.0396,75.011,0.777,18
+Love Anthems - Sonu Nigam,17,1DDYAXPnmTXVLqqkxxbHKP,"Saanson Ne (From ""Dabangg 2"")",spotify:track:1DDYAXPnmTXVLqqkxxbHKP,0.348,0.426,0.617,0.0,0.22,-9.45,0.0362,84.286,0.823,15
+Love Anthems - Sonu Nigam,18,5IEScv4SsiGehxIxH2Atng,"Aa Bhi Jaa Tu Kahin Se (From ""Aa Bhi Jaa Tu Kahin Se"")",spotify:track:5IEScv4SsiGehxIxH2Atng,0.59,0.441,0.587,0.0,0.206,-5.948,0.0334,139.825,0.304,14
+Love Anthems - Sonu Nigam,19,1ZKAW8gjtoJXLotPRmv9lI,"Chori Kiya Re Jiya (From ""Dabangg"")",spotify:track:1ZKAW8gjtoJXLotPRmv9lI,0.475,0.507,0.585,0.0,0.317,-5.367,0.0288,132.741,0.449,25
+Love Anthems - Sonu Nigam,20,14YPrC3eDyFfFjV3hnQpuT,"Aaja Soniye (From ""Mujhse Shaadi Karogi"")",spotify:track:14YPrC3eDyFfFjV3hnQpuT,0.204,0.473,0.942,0.000469,0.132,-4.709,0.0747,90.998,0.793,16
+Love Anthems - Sonu Nigam,21,2zUBKkcSC6XsE2YVUYdZK5,"Nagada Nagada (From ""Jab We Met"")",spotify:track:2zUBKkcSC6XsE2YVUYdZK5,0.157,0.757,0.942,0.0079,0.507,-4.13,0.0461,120.006,0.727,34
+Love Anthems - Sonu Nigam,22,5202UXRf26Pp0nm8l40djw,"Har Ek Friend Kamina Hota Hai (From ""Chashme Baddoor"")",spotify:track:5202UXRf26Pp0nm8l40djw,0.0982,0.562,0.896,0.0,0.148,-4.811,0.146,130.158,0.753,14
+Love Anthems - Sonu Nigam,23,597f5hU4uwJcrOPvXR8Unl,"Tu Hi Na Jaane (From ""Azhar"")",spotify:track:597f5hU4uwJcrOPvXR8Unl,0.647,0.341,0.548,1.54e-05,0.124,-6.283,0.0327,155.93,0.243,13
+Love Anthems - Sonu Nigam,24,7aDtiH3bQYbYPmd4g6zjU5,"Chiggy Wiggy (From ""Blue"")",spotify:track:7aDtiH3bQYbYPmd4g6zjU5,0.263,0.501,0.69,0.0,0.182,-6.978,0.313,94.058,0.641,23
+Love Anthems - Sonu Nigam,25,0JC5UXXR9KIvlre0Hn28Gz,"Tu Hai (From ""Besharam"")",spotify:track:0JC5UXXR9KIvlre0Hn28Gz,0.116,0.529,0.651,0.000468,0.0712,-7.475,0.0317,95.001,0.093,17
+Love Anthems - Sonu Nigam,26,2KGC4an6YwMvxUOKQ28c1b,"Shano Shano (From ""Yuvvraaj"")",spotify:track:2KGC4an6YwMvxUOKQ28c1b,0.0354,0.835,0.865,0.00593,0.0684,-3.703,0.058,124.988,0.903,25
+Love Anthems - Sonu Nigam,27,58VMmcdGvof6zX5kbKDAPh,"Pal Pal Har Pal (From ""Lage Raho Munna Bhai"")",spotify:track:58VMmcdGvof6zX5kbKDAPh,0.868,0.639,0.233,0.0,0.151,-12.47,0.0345,136.772,0.607,21
+Love Anthems - Sonu Nigam,28,3xhjGRTM5CSU9pICBLMkzn,"Shirt Da Button (From ""Kyaa Super Kool Hain Hum"")",spotify:track:3xhjGRTM5CSU9pICBLMkzn,0.451,0.658,0.767,0.0,0.551,-5.477,0.151,89.985,0.762,16
+Love Anthems - Sonu Nigam,29,2MVV5GAKg5GiqsztLiKfzc,"Bas Itna Hai Kehna (From ""Raakh"")",spotify:track:2MVV5GAKg5GiqsztLiKfzc,0.803,0.318,0.395,0.0,0.102,-10.241,0.032,120.122,0.349,12
+Love Anthems - Sonu Nigam,30,2Jv6jnWNdo353ADpivKArH,"Heer (From ""Singh Saab The Great"")",spotify:track:2Jv6jnWNdo353ADpivKArH,0.905,0.373,0.202,0.0,0.105,-9.196,0.0513,120.826,0.363,9
+Hero,1,6cyK6QT4cI3KcbgB9qmz7Q,Aam Pater Lena Dena,spotify:track:6cyK6QT4cI3KcbgB9qmz7Q,0.589,0.751,0.671,0.0,0.108,-8.625,0.0615,109.946,0.734,1
+Hero,2,36gziKSkDON9E5dC6fokvV,Chah Gachhe Majhe Majhe,spotify:track:36gziKSkDON9E5dC6fokvV,0.809,0.506,0.601,9.05e-06,0.0796,-11.065,0.255,130.496,0.657,0
+Hero,3,1PfxRycNvyIrHAApl9icmh,Chaukidaar Dakilo,spotify:track:1PfxRycNvyIrHAApl9icmh,0.536,0.679,0.752,0.0,0.0685,-9.605,0.0966,149.986,0.877,0
+Hero,4,7cYDzXrK7E1QDvvuoJqKBi,Chupke Chupke Se Pyar Karela,spotify:track:7cYDzXrK7E1QDvvuoJqKBi,0.246,0.7,0.692,0.0,0.138,-8.904,0.037,129.938,0.391,1
+Hero,5,4ED7uhnj4NYTOmfMYVhBhk,Ghar Sirichh Niche,spotify:track:4ED7uhnj4NYTOmfMYVhBhk,0.722,0.668,0.742,0.0,0.0912,-10.044,0.201,130.462,0.557,0
+Hero,6,3zXq7PNoYZFLvDjJQlSlIm,Goiram Ke Dekhle Koto Sundari,spotify:track:3zXq7PNoYZFLvDjJQlSlIm,0.626,0.585,0.809,0.0,0.124,-9.055,0.298,198.088,0.816,0
+Hero,7,3juIDB4yqU2xud5rMJBuSJ,Goriya Re Tore Pyar Me,spotify:track:3juIDB4yqU2xud5rMJBuSJ,0.698,0.464,0.653,0.0,0.547,-9.581,0.207,172.38,0.869,0
+Hero,8,5mJwyo5zLHBvbkgAzCj39X,Moi Nai Karibo Patta Tula Kaam Re,spotify:track:5mJwyo5zLHBvbkgAzCj39X,0.54,0.797,0.606,0.0,0.105,-10.739,0.166,132.933,0.825,0
+Natun Kore Valobhasbo,1,5Bm2HLII6kvZXdoStRLDho,Abar Natun Kore Bhasbovalo,spotify:track:5Bm2HLII6kvZXdoStRLDho,0.474,0.606,0.625,0.0,0.0671,-6.657,0.0318,156.074,0.592,0
+Natun Kore Valobhasbo,2,5fnGc3kCwgn8XrU7kFuFZG,Akash Kande Batas Kande,spotify:track:5fnGc3kCwgn8XrU7kFuFZG,0.615,0.551,0.484,0.0,0.0969,-7.992,0.03,82.978,0.65,0
+Natun Kore Valobhasbo,5,6YrSeRtecw28YqvFLvYCAM,Chander Moto Mukhti Tomar,spotify:track:6YrSeRtecw28YqvFLvYCAM,0.182,0.802,0.919,3.23e-05,0.296,-7.259,0.0411,118.052,0.963,0
+Natun Kore Valobhasbo,6,6pVLLRGTgUFLtSNrSR3kGy,Fele Asha Diner Kotha,spotify:track:6pVLLRGTgUFLtSNrSR3kGy,0.706,0.565,0.653,0.0,0.131,-6.489,0.0314,158.085,0.588,0
+Natun Kore Valobhasbo,7,1ocuJVtxP0WXCc2e6pt548,Jani Ghumate Parona Tumi,spotify:track:1ocuJVtxP0WXCc2e6pt548,0.487,0.528,0.745,0.0,0.28,-6.103,0.0394,82.356,0.82,0
+Natun Kore Valobhasbo,8,3Iy64vUwcMcMkc8UubqWE0,Mayabi Raate Joshna Raate,spotify:track:3Iy64vUwcMcMkc8UubqWE0,0.54,0.707,0.635,2.14e-06,0.0467,-7.1,0.0299,144.013,0.951,0
+Natun Kore Valobhasbo,9,5ztOaQH9dYlrQKQkns9VGo,Punirma Chand Tarar Mela,spotify:track:5ztOaQH9dYlrQKQkns9VGo,0.521,0.562,0.722,4.44e-06,0.0732,-7.225,0.0753,81.973,0.697,0
+Natun Kore Valobhasbo,10,3dfBdMFlZUxG6g79P1NA7f,Valobese Ekhon Hoyle,spotify:track:3dfBdMFlZUxG6g79P1NA7f,0.632,0.585,0.665,0.0,0.152,-6.832,0.0386,139.974,0.698,0
+Aazadi -Independence Day Special,1,7vwiXnUkYY4G1kvSKs4e0o,Ekla Chalo,spotify:track:7vwiXnUkYY4G1kvSKs4e0o,0.649,0.524,0.566,2.08e-06,0.0835,-11.28,0.0453,139.915,0.503,14
+Aazadi -Independence Day Special,2,3oxMWLujNWdQcJ4J0eVcMo,Bande Mataram,spotify:track:3oxMWLujNWdQcJ4J0eVcMo,0.962,0.256,0.13,0.0,0.328,-8.061,0.0353,79.874,0.327,0
+Aazadi -Independence Day Special,3,4VR4GJZ6QcDnUb5h7Y6J2j,Banglar Mati Banglar Jol,spotify:track:4VR4GJZ6QcDnUb5h7Y6J2j,0.98,0.511,0.22,0.0,0.21,-6.97,0.0423,136.822,0.452,0
+Aazadi -Independence Day Special,4,6CGLSuUMi8i8btyTFIflAo,Aaji E Bharato Lajjito He,spotify:track:6CGLSuUMi8i8btyTFIflAo,0.96,0.338,0.109,0.0,0.176,-9.16,0.0315,76.544,0.281,0
+Aazadi -Independence Day Special,5,3hJ30thHJ01C71vUvuecZ9,Amra Moloyo Batashe,spotify:track:3hJ30thHJ01C71vUvuecZ9,0.568,0.488,0.644,0.0,0.271,-5.916,0.0757,171.806,0.647,0
+Aazadi -Independence Day Special,6,2lorjHyS5otm12dlXgrSMA,Otho Go Bharatlakshmi,spotify:track:2lorjHyS5otm12dlXgrSMA,0.75,0.426,0.518,0.0,0.248,-5.452,0.0385,109.86,0.681,1
+Aazadi -Independence Day Special,7,2v3584mSRa1fGgpjJuslPL,Banga Amar Janani Amar,spotify:track:2v3584mSRa1fGgpjJuslPL,0.403,0.676,0.778,0.0,0.223,-4.663,0.034,115.009,0.721,0
+Aazadi -Independence Day Special,8,4x0utfo3QCIRba43HDPFKu,Amar Jirno Pata,spotify:track:4x0utfo3QCIRba43HDPFKu,0.981,0.223,0.464,0.0,0.77,-8.19,0.042,172.642,0.212,0
+Aazadi -Independence Day Special,9,4VtQfyDR5JN6F9ziWnbTKN,Amra Emni Eshe Bheshe,spotify:track:4VtQfyDR5JN6F9ziWnbTKN,0.854,0.437,0.842,0.0,0.337,-5.639,0.107,177.66,0.651,0
+Aazadi -Independence Day Special,10,6xwm4SmT4pojI8o6RmjEaP,Borosha Ailo Aji,spotify:track:6xwm4SmT4pojI8o6RmjEaP,0.728,0.342,0.487,1.49e-06,0.117,-7.991,0.0589,159.139,0.631,0
+Aazadi -Independence Day Special,11,7nHxQ9ZT4emUK6B3m1hzZM,Modhur Se Mukha Khani,spotify:track:7nHxQ9ZT4emUK6B3m1hzZM,0.837,0.53,0.441,0.00356,0.119,-10.196,0.0534,115.57,0.455,0
+Aazadi -Independence Day Special,12,1wiPWEJv39WJxxv3bqBdx2,O Amar Desher Mati,spotify:track:1wiPWEJv39WJxxv3bqBdx2,0.808,0.371,0.307,0.937,0.166,-13.102,0.0277,149.861,0.175,0
+Aazadi -Independence Day Special,13,6ZPLVpaVpjdTIq17L6hHBJ,Vande Mataram - Instrumental,spotify:track:6ZPLVpaVpjdTIq17L6hHBJ,0.532,0.289,0.229,0.00193,0.148,-10.782,0.0332,93.679,0.0772,0
+Aazadi -Independence Day Special,14,4J4Ggnym5Pn1W190Qs9PoX,Kadam Kadam Barhaye Ja (Orchestral Version),spotify:track:4J4Ggnym5Pn1W190Qs9PoX,0.877,0.194,0.351,0.927,0.157,-18.006,0.0368,94.756,0.248,0
+Aazadi -Independence Day Special,15,1KLBjr78EXxM3rm5JiKOc1,Jana Gana Mana,spotify:track:1KLBjr78EXxM3rm5JiKOc1,0.816,0.476,0.521,0.957,0.135,-9.969,0.0272,103.9,0.523,0
+Super Sonu Nigam,1,67oC72411Tg28qb537B5Il,"Yenagali (From ""Mussanje Maatu"")",spotify:track:67oC72411Tg28qb537B5Il,0.267,0.638,0.856,0.0,0.353,-5.718,0.126,88.953,0.858,6
+Super Sonu Nigam,2,7wZCCNxe4aL6XCKlKKKSfQ,"Gamanisu (From ""Mungaru Male 2"")",spotify:track:7wZCCNxe4aL6XCKlKKKSfQ,0.733,0.422,0.41,1.85e-06,0.0971,-6.746,0.0293,120.089,0.243,12
+Super Sonu Nigam,3,0AblBxjPtJU2QyKD9cYuYe,"Ondu Huduga (From ""Maasthi Gudi"")",spotify:track:0AblBxjPtJU2QyKD9cYuYe,0.66,0.297,0.361,4.54e-05,0.13,-10.731,0.0335,84.515,0.326,3
+Super Sonu Nigam,4,14knhwKP3bXk4z8w98Ih4B,"Naa Kaayuthiruve (From ""Kariya 2"")",spotify:track:14knhwKP3bXk4z8w98Ih4B,0.155,0.648,0.693,2.61e-06,0.116,-7.998,0.0577,120.012,0.382,3
+Super Sonu Nigam,5,7J5Y9voPpa1RhwQZMKjyMx,"Once Upon A Time (From ""Ekangi"")",spotify:track:7J5Y9voPpa1RhwQZMKjyMx,0.782,0.589,0.503,8.73e-06,0.191,-6.649,0.0499,105.043,0.495,9
+Super Sonu Nigam,6,4ZVJE2gTW5CbyNmZVaK7wY,"Ille Ile Ello (From ""Chirru"")",spotify:track:4ZVJE2gTW5CbyNmZVaK7wY,0.0924,0.453,0.769,1.92e-05,0.0969,-7.388,0.0898,78.274,0.758,12
+Super Sonu Nigam,7,6ctJ7R9rSxBvKeULoxOZ4G,"Chippinolagade (From ""Maasthi Gudi"")",spotify:track:6ctJ7R9rSxBvKeULoxOZ4G,0.648,0.384,0.443,1.18e-06,0.311,-10.158,0.0395,180.084,0.386,3
+Super Sonu Nigam,8,58ByR9NirJn1lByFeeCHrl,"Neenu Banda Mele (From ""Krishna"")",spotify:track:58ByR9NirJn1lByFeeCHrl,0.368,0.633,0.681,2.69e-06,0.623,-7.308,0.114,87.043,0.527,3
+Super Sonu Nigam,9,2RTwmG9PTnIZcNQVH2RzMt,"Aasege Savira Roopa (From ""Ninagoskara"")",spotify:track:2RTwmG9PTnIZcNQVH2RzMt,0.283,0.781,0.862,0.0,0.314,-6.465,0.0414,104.98,0.835,2
+Super Sonu Nigam,10,2dItAQ1Ny2KBsGDy8YvwLe,"Manasa Gange (From ""Payana"")",spotify:track:2dItAQ1Ny2KBsGDy8YvwLe,0.678,0.636,0.711,2.99e-05,0.134,-11.466,0.0581,88.041,0.921,13
+Super Sonu Nigam,11,38RSgy11bM7XEbi6XSnVNC,"Baanali Badalago (From ""Simple Aag Ond Love Story"")",spotify:track:38RSgy11bM7XEbi6XSnVNC,0.479,0.597,0.525,0.0,0.132,-6.663,0.0375,119.954,0.47,26
+Super Sonu Nigam,12,3G0ywlqBQqEHGkPJoiRHFA,"Bhoomi Suttodu (From ""Sanchari"")",spotify:track:3G0ywlqBQqEHGkPJoiRHFA,0.68,0.703,0.523,9.07e-05,0.095,-7.192,0.0326,119.968,0.653,2
+Super Sonu Nigam,13,7Kaf378nNGRcB32Rg2gYVL,"Yello Yaaro Hego (From ""Jeevanadhi"")",spotify:track:7Kaf378nNGRcB32Rg2gYVL,0.639,0.611,0.71,8.78e-06,0.0498,-1.454,0.0299,174.847,0.79,1
+Super Sonu Nigam,14,6tyWEnllEQUp8LG5ndWBZY,"Yelle Hodaru (From ""Sharp Shooter"")",spotify:track:6tyWEnllEQUp8LG5ndWBZY,0.0773,0.67,0.662,0.0885,0.119,-7.348,0.0468,159.922,0.8,2
+Super Sonu Nigam,15,3KwWht00be3NdOVwypz40G,"Ninna Nodalentho (From ""Mussanje Maatu"")",spotify:track:3KwWht00be3NdOVwypz40G,0.28,0.655,0.732,0.0,0.166,-6.639,0.0655,80.978,0.674,10
+Super Sonu Nigam,16,6MEcaExf6MJ1swNbjxiZmL,"Ninna Kannallide (From ""Chirru"")",spotify:track:6MEcaExf6MJ1swNbjxiZmL,0.217,0.407,0.717,0.0,0.159,-7.157,0.0686,87.823,0.702,2
+Super Sonu Nigam,17,68ubOAfwqjnIVXHumOnok0,"Preetiyali Haaduve (From ""Ninagoskara"")",spotify:track:68ubOAfwqjnIVXHumOnok0,0.648,0.592,0.573,1.99e-06,0.0973,-8.072,0.033,81.037,0.561,1
+Super Sonu Nigam,18,4AZljowumUo1nPvLBmQkFj,"Cheluve Nanage Neenu (From ""Preethislebeku"")",spotify:track:4AZljowumUo1nPvLBmQkFj,0.515,0.541,0.809,0.0,0.412,-5.587,0.08,185.633,0.755,1
+Super Sonu Nigam,19,45IsGbbCptNVAR0Xe6pcgg,"Gaaliye (From ""Sanchari"")",spotify:track:45IsGbbCptNVAR0Xe6pcgg,0.453,0.701,0.775,0.00453,0.15,-5.301,0.0369,115.007,0.535,2
+Super Sonu Nigam,20,4GbahVk1JQVwCX0qQo6OZ4,"Antu Antu (From ""Super Star"")",spotify:track:4GbahVk1JQVwCX0qQo6OZ4,0.0207,0.792,0.825,0.00204,0.299,-6.601,0.0357,95.948,0.752,10
+Super Sonu Nigam,21,4kmq14o0YbtOjqizSZyE47,"Saviyo Saviyo (From ""Savi Savi Nenapu"")",spotify:track:4kmq14o0YbtOjqizSZyE47,0.744,0.637,0.685,3.02e-06,0.506,-7.088,0.0718,159.861,0.656,10
+Super Sonu Nigam,22,5EKXtQt7LZ63nakNB1U9tX,"Kannale Kannale (From ""Aham Premasmi"")",spotify:track:5EKXtQt7LZ63nakNB1U9tX,0.132,0.73,0.575,0.0,0.094,-6.899,0.279,109.917,0.6,11
+Super Sonu Nigam,23,7hljMIsQxzRMxGpqGhvZf0,"Maleya Haniyelli (From ""Athi Aparoopa"")",spotify:track:7hljMIsQxzRMxGpqGhvZf0,0.157,0.495,0.693,0.0,0.209,-9.315,0.0645,85.977,0.256,1
+Super Sonu Nigam,24,4beP9SlT34TnTNf97quRVL,"Gap Chip (From ""Payana"")",spotify:track:4beP9SlT34TnTNf97quRVL,0.59,0.702,0.449,2.46e-05,0.141,-11.603,0.15,160.066,0.591,1
+Super Sonu Nigam,25,6iAMDfDBGI2Dd6iXBwIKjE,"Kanasina Kitakiya (From ""First Love"")",spotify:track:6iAMDfDBGI2Dd6iXBwIKjE,0.589,0.563,0.414,7.05e-05,0.102,-11.982,0.0328,107.981,0.186,1
+Sonu Nigam Romantic Hit Songs (Solo),1,11lsEdqgxslJohIrwYLobO,"Chendutiya Pakkadali - From ""Drama""",spotify:track:11lsEdqgxslJohIrwYLobO,0.814,0.542,0.348,0.0,0.298,-9.843,0.0405,124.934,0.348,1
+Sonu Nigam Romantic Hit Songs (Solo),3,533CukR5QSAMqGde0h1Gom,"Kodeyondara Adiyalli - From ""Raju Kannada Medium""",spotify:track:533CukR5QSAMqGde0h1Gom,0.816,0.65,0.393,0.0,0.236,-8.958,0.0467,120.135,0.465,1
+Sonu Nigam Romantic Hit Songs (Solo),4,3CDBSGo377ZEjsEYXWiKuB,"Muddagi Neenu - From ""Ganapa""",spotify:track:3CDBSGo377ZEjsEYXWiKuB,0.0232,0.563,0.784,2.61e-06,0.49,-6.321,0.075,94.942,0.537,1
+Sonu Nigam Romantic Hit Songs (Solo),5,6l2WSvyODfO7bbnL1thsvB,"Ninnidale - From ""Milana""",spotify:track:6l2WSvyODfO7bbnL1thsvB,0.176,0.746,0.56,2.55e-06,0.109,-9.417,0.0451,102.015,0.784,3
+Sonu Nigam Romantic Hit Songs (Solo),6,6wvNz3Q4zaFzyuB4M0gah5,"Mynaa Mynaa - From ""Mynaa""",spotify:track:6wvNz3Q4zaFzyuB4M0gah5,0.492,0.353,0.598,0.0,0.646,-7.269,0.0546,150.354,0.357,1
+Sonu Nigam Romantic Hit Songs (Solo),8,1G7xSx7AyVrQJ2ca1IKmEJ,"Anisuthide - From ""Mungaru Male""",spotify:track:1G7xSx7AyVrQJ2ca1IKmEJ,0.458,0.744,0.708,0.000486,0.207,-6.073,0.0312,120.017,0.486,1
+Sonu Nigam Romantic Hit Songs (Solo),9,3vG1TzbnKe11IaLyrG2YZM,"Maleyali - From ""Maleyali Jotheyali""",spotify:track:3vG1TzbnKe11IaLyrG2YZM,0.763,0.445,0.35,0.0197,0.181,-9.91,0.0284,104.943,0.322,2
+Sonu Nigam Romantic Hit Songs (Solo),10,6PTSo2LTyXH7JSFz2FLdxi,"I Love You - From ""Moggina Manasu""",spotify:track:6PTSo2LTyXH7JSFz2FLdxi,0.107,0.702,0.851,0.0,0.4,-5.598,0.0309,119.994,0.655,1
+Sonu Nigam Romantic Hit Songs (Solo),11,7kLOXyNOx3OMyBrs8dSsuS,"Usire Usire - From ""Huchcha""",spotify:track:7kLOXyNOx3OMyBrs8dSsuS,0.434,0.742,0.465,3.55e-06,0.18,-8.946,0.0367,117.876,0.353,1
+Sonu Nigam Romantic Hit Songs (Solo),12,2p8w5LgZw6XZeu0vdb5esa,"Ee Sanje Yakagide - From ""Geleya""",spotify:track:2p8w5LgZw6XZeu0vdb5esa,0.0741,0.531,0.586,0.0,0.106,-7.643,0.0504,92.006,0.219,2
+Sonu Nigam Romantic Hit Songs (Solo),13,7D0dDuSrIQ8ZBjoAXfH2iV,"Nee Nenedare - From ""Junglee""",spotify:track:7D0dDuSrIQ8ZBjoAXfH2iV,0.551,0.701,0.454,6.5e-06,0.221,-8.546,0.0379,126.01,0.527,1
+Sonu Nigam Romantic Hit Songs (Solo),14,219KWZ3M4LnBpIZQoHGuGj,"Udisuve - From ""Pancharangi""",spotify:track:219KWZ3M4LnBpIZQoHGuGj,0.422,0.536,0.661,7.42e-06,0.328,-7.401,0.0383,134.863,0.466,1
+Sonu Nigam Romantic Hit Songs (Solo),15,73FLOdRpNcaL0ylxEdbcty,"Sanju Mathu Geetha - From ""Sanju Weds Geetha""",spotify:track:73FLOdRpNcaL0ylxEdbcty,0.426,0.29,0.594,4.55e-06,0.343,-6.831,0.0583,83.945,0.444,2
+Sonu Nigam Romantic Hit Songs (Solo),16,3Xn4SCF7pctShZONjMsyAW,"Yaava Seemaeya Mayagaathiye - From ""Johnny Mera Naam""",spotify:track:3Xn4SCF7pctShZONjMsyAW,0.221,0.609,0.602,0.0,0.39,-6.913,0.0472,86.934,0.554,1
+Sonu Nigam Romantic Hit Songs (Solo),17,6t2UthlwNBblPvDEBEJULe,"O Devathe - From ""Paaru W/O Devadas""",spotify:track:6t2UthlwNBblPvDEBEJULe,0.316,0.592,0.587,0.0,0.117,-7.626,0.068,79.87,0.75,0
+Sonu Nigam Romantic Hit Songs (Solo),18,3FbLSFTOlbt3r6jv3lxJhq,"Yaaranu Kelali Yaaranu Bedali - From ""Huchudugru""",spotify:track:3FbLSFTOlbt3r6jv3lxJhq,0.205,0.66,0.455,0.0,0.0687,-8.921,0.0546,92.843,0.561,0
+Sonu Nigam Romantic Hit Songs (Solo),19,1H8ecadYAEaKRfc6Wi0gml,"Kanna Minche - From ""Victory""",spotify:track:1H8ecadYAEaKRfc6Wi0gml,0.265,0.831,0.529,5.68e-05,0.11,-9.283,0.0355,109.945,0.784,1
+Sonu Nigam Romantic Hit Songs (Solo),20,4VCwCrnEJfdYmXE3qYI0h8,"Nannavale - From ""Bengaluru - 560023""",spotify:track:4VCwCrnEJfdYmXE3qYI0h8,0.42,0.35,0.545,0.0,0.138,-6.15,0.0365,70.722,0.43,0
+Duet Love Songs - Sonu Nigam & Shreya Ghoshal Hits,1,3tOQwGqlyw2L4SRPf8ztIL,"Matthe Maleyagide - From ""Chakravarthy""",spotify:track:3tOQwGqlyw2L4SRPf8ztIL,0.779,0.502,0.477,0.0,0.153,-7.321,0.0345,119.838,0.218,2
+Duet Love Songs - Sonu Nigam & Shreya Ghoshal Hits,2,4PC1fBsbrancwyLdcq8ZOE,"Vismithanadhe - From ""Maadha Matthu Maanasi""",spotify:track:4PC1fBsbrancwyLdcq8ZOE,0.51,0.619,0.584,3.31e-06,0.375,-6.729,0.0298,91.921,0.594,2
+Duet Love Songs - Sonu Nigam & Shreya Ghoshal Hits,3,0NupIxyAVlRkFcxXkcAlBZ,"Helilla Yaarallu Naanu - From ""Krishna Rukku""",spotify:track:0NupIxyAVlRkFcxXkcAlBZ,0.626,0.517,0.64,0.0,0.154,-7.128,0.0454,155.982,0.538,1
+Duet Love Songs - Sonu Nigam & Shreya Ghoshal Hits,4,3wf244QW26VEXn7C7w90Ab,"Manaseko Hegigaa - From ""Namak Haraam""",spotify:track:3wf244QW26VEXn7C7w90Ab,0.102,0.458,0.75,0.0,0.154,-5.509,0.054,84.834,0.673,1
+Duet Love Songs - Sonu Nigam & Shreya Ghoshal Hits,5,57NWZYi6ZfTwVOCbGaR3gB,"Kannali Kannidu - From ""Barfi""",spotify:track:57NWZYi6ZfTwVOCbGaR3gB,0.493,0.654,0.744,0.000915,0.0569,-5.979,0.076,80.013,0.612,1
+Duet Love Songs - Sonu Nigam & Shreya Ghoshal Hits,6,7srzESAEv3Zfsr3OBFIzII,"Modala Maleyanthe - From ""Mynaa""",spotify:track:7srzESAEv3Zfsr3OBFIzII,0.545,0.582,0.622,0.0,0.162,-6.768,0.0554,101.157,0.536,2
+Duet Love Songs - Sonu Nigam & Shreya Ghoshal Hits,7,3BAExagyIt7mriAAgIFT6Q,"Kalli Ivallu - From ""Prem Adda""",spotify:track:3BAExagyIt7mriAAgIFT6Q,0.631,0.729,0.43,1.22e-06,0.209,-9.709,0.0324,107.972,0.613,2
+Duet Love Songs - Sonu Nigam & Shreya Ghoshal Hits,8,4BMSRxD0rih5jctk9URQSE,"Yenendu Hesaridali - From ""Annabond""",spotify:track:4BMSRxD0rih5jctk9URQSE,0.616,0.761,0.609,4.52e-06,0.5,-6.608,0.0305,120.015,0.791,2
+Duet Love Songs - Sonu Nigam & Shreya Ghoshal Hits,9,5LWG36ckVKRqSEhdRy9uwf,"Parijatha - From ""Parijatha""",spotify:track:5LWG36ckVKRqSEhdRy9uwf,0.187,0.678,0.771,0.00314,0.148,-5.813,0.0343,130.997,0.509,1
+Duet Love Songs - Sonu Nigam & Shreya Ghoshal Hits,10,7xMyOUUKJg6egnmMKGGd7y,"Ninnane Nodutta - From ""Mr. Duplicate""",spotify:track:7xMyOUUKJg6egnmMKGGd7y,0.575,0.621,0.606,1.15e-06,0.0951,-8.821,0.0621,99.948,0.47,1
+Duet Love Songs - Sonu Nigam & Shreya Ghoshal Hits,11,086A8kvgBMWe32DdajQPUM,"Ee Janmavu - From ""Krishnan Marriage Story""",spotify:track:086A8kvgBMWe32DdajQPUM,0.589,0.576,0.784,1.77e-05,0.104,-3.969,0.0613,136.857,0.583,0
+Duet Love Songs - Sonu Nigam & Shreya Ghoshal Hits,12,2gK2Dvyb3BNAFlstR3BnSn,"Oh Mahiyave - From ""Barfi""",spotify:track:2gK2Dvyb3BNAFlstR3BnSn,0.292,0.392,0.641,0.000708,0.0867,-7.533,0.0812,180.194,0.486,1
+Duet Love Songs - Sonu Nigam & Shreya Ghoshal Hits,13,3K11ZF3f0PYVUiXoQbDw04,"Midiva Ninna - From ""Rajaadaani""",spotify:track:3K11ZF3f0PYVUiXoQbDw04,0.121,0.821,0.779,2.96e-06,0.0916,-6.196,0.0561,122.987,0.605,2
+Duet Love Songs - Sonu Nigam & Shreya Ghoshal Hits,15,7ykzh7wZ9APzewSUJ4FkxV,"Eradu Jadeyannu - From ""Jackie""",spotify:track:7ykzh7wZ9APzewSUJ4FkxV,0.724,0.403,0.405,0.0,0.0682,-5.932,0.0306,143.936,0.524,2
+Duet Love Songs - Sonu Nigam & Shreya Ghoshal Hits,16,7fxdg6aguA9yZy8y16Cy1e,"Dilkush - From ""Aenoo Onthara""",spotify:track:7fxdg6aguA9yZy8y16Cy1e,0.419,0.645,0.553,0.0,0.12,-7.464,0.163,96.871,0.551,0
+Duet Love Songs - Sonu Nigam & Shreya Ghoshal Hits,17,53GkLMxMyLY9IS14PkHjvl,"Mella Mella Ee Preethi - From ""Nanjungud Nanjunda""",spotify:track:53GkLMxMyLY9IS14PkHjvl,0.273,0.802,0.529,3.49e-05,0.137,-9.267,0.0592,125.027,0.706,1
+Duet Love Songs - Sonu Nigam & Shreya Ghoshal Hits,18,0OevNHRkUPIzMeBpCI7GxS,"Yenu Helabeku - From ""Maleyali Jotheyali""",spotify:track:0OevNHRkUPIzMeBpCI7GxS,0.529,0.541,0.727,2.09e-05,0.32,-6.993,0.0383,82.964,0.755,1
+Duet Love Songs - Sonu Nigam & Shreya Ghoshal Hits,19,0bFivSmhjK6e8UIaH1lZgz,"Gelathi Neenu Iruvaga - From ""Male Barali Manju Irali""",spotify:track:0bFivSmhjK6e8UIaH1lZgz,0.654,0.537,0.699,0.000276,0.24,-8.122,0.0652,109.955,0.516,1
+Duet Love Songs - Sonu Nigam & Shreya Ghoshal Hits,20,1HoAL0hLwM111yRT4SNb5N,"Balle Balle - From ""Arjun""",spotify:track:1HoAL0hLwM111yRT4SNb5N,0.479,0.765,0.798,5.49e-05,0.0782,-6.666,0.108,132.031,0.731,2
+Duet Love Songs - Sonu Nigam & Shreya Ghoshal Hits,21,7vNtRLZnedEVTOiIonXe78,"Adey Bhoomi Adey Bhanu - From ""Ee Bandhana""",spotify:track:7vNtRLZnedEVTOiIonXe78,0.619,0.69,0.716,3.8e-06,0.118,-5.403,0.0258,100.029,0.575,1
+Duet Love Songs - Sonu Nigam & Shreya Ghoshal Hits,22,2AOg3iNDi3JAfdZK8hjT8a,"Male Ninthu Hoda Mele - From ""Milana""",spotify:track:2AOg3iNDi3JAfdZK8hjT8a,0.353,0.656,0.525,5.79e-05,0.255,-9.683,0.0307,115.916,0.516,2
+Duet Love Songs - Sonu Nigam & Shreya Ghoshal Hits,23,3tQKtHXJC6QxmtQyUFAznD,"Love Ge Dute Version - From ""Love""",spotify:track:3tQKtHXJC6QxmtQyUFAznD,0.211,0.685,0.822,0.000141,0.465,-7.248,0.0545,105.989,0.537,0
+Duet Love Songs - Sonu Nigam & Shreya Ghoshal Hits,24,70XAbJDGwp5cqAFRZyF4lV,"Ee Khali Hrudhayake - From ""Simha Hakida Hejje""",spotify:track:70XAbJDGwp5cqAFRZyF4lV,0.565,0.655,0.666,0.0,0.35,-6.231,0.0649,90.034,0.441,1
+Duet Love Songs - Sonu Nigam & Shreya Ghoshal Hits,25,5HlNOg42mLlK8khCdWB7Gh,"Gari Gedari - From ""O Premave""",spotify:track:5HlNOg42mLlK8khCdWB7Gh,0.552,0.516,0.645,3.71e-06,0.137,-6.719,0.0406,82.948,0.481,0
+Bainsi Re,1,1f2I3KJGeaSL3Rx5SBhu9Q,Aincha Patara,spotify:track:1f2I3KJGeaSL3Rx5SBhu9Q,0.723,0.631,0.688,3.46e-05,0.0841,-6.13,0.0606,130.698,0.956,0
+Bainsi Re,2,4B1J9QPnpKxZYe7nVxZIqH,Alata Naibu Radha,spotify:track:4B1J9QPnpKxZYe7nVxZIqH,0.652,0.545,0.731,0.000147,0.555,-5.524,0.0592,144.293,0.964,0
+Bainsi Re,3,3HLZ8ELeLwcK0YrnqCxqF4,Bansi Re Tu Radha,spotify:track:3HLZ8ELeLwcK0YrnqCxqF4,0.66,0.579,0.725,0.0029,0.133,-5.703,0.0527,80.879,0.878,0
+Bainsi Re,4,2c8vbjaPjNvs1X8aKctcFr,Gopa Dande Radha,spotify:track:2c8vbjaPjNvs1X8aKctcFr,0.579,0.575,0.657,2.7e-06,0.0905,-6.101,0.0603,100.809,0.923,0
+Bainsi Re,5,4vkMMEA4OVLhomYbrIG0Mc,Hanuman Lanjare,spotify:track:4vkMMEA4OVLhomYbrIG0Mc,0.525,0.729,0.895,0.0146,0.217,-4.518,0.0756,77.484,0.936,0
+Bainsi Re,6,7KOtQoTDVjLs0tQ6EvpkW7,Kala Manima He,spotify:track:7KOtQoTDVjLs0tQ6EvpkW7,0.747,0.617,0.641,0.0112,0.0626,-6.577,0.055,112.571,0.903,0
+Bainsi Re,7,6CQlYmNzqQ90al2JSuqLfN,Paka Kamala Pota Chhata,spotify:track:6CQlYmNzqQ90al2JSuqLfN,0.627,0.772,0.871,0.0142,0.0666,-3.991,0.0683,130.33,0.955,0
+Bainsi Re,8,1ORkWFtX20n9OCKat4jOjw,Phula Sabari Michha,spotify:track:1ORkWFtX20n9OCKat4jOjw,0.619,0.638,0.692,1.68e-05,0.0863,-6.159,0.0745,75.244,0.791,0
+Sonu Nigam Kannada Hits Birthday Special,1,3DdUUfp5TWQlKtWpdihVlN,Neeli Neeli,spotify:track:3DdUUfp5TWQlKtWpdihVlN,0.651,0.746,0.677,0.0,0.124,-6.975,0.123,91.952,0.833,3
+Sonu Nigam Kannada Hits Birthday Special,2,7fWCdGEfSNbLGU7EzTGVTj,Beladingala Raatri,spotify:track:7fWCdGEfSNbLGU7EzTGVTj,0.676,0.515,0.402,0.0,0.349,-6.236,0.0337,149.778,0.547,5
+Sonu Nigam Kannada Hits Birthday Special,3,3kXODIXy2v5UjCQVlDzkUp,Thusu Preethiya,spotify:track:3kXODIXy2v5UjCQVlDzkUp,0.509,0.448,0.649,0.00313,0.138,-7.142,0.0414,80.097,0.378,2
+Sonu Nigam Kannada Hits Birthday Special,4,395WPln67xXGSVHeku1RyS,Ninna Nenape,spotify:track:395WPln67xXGSVHeku1RyS,0.821,0.65,0.405,0.00434,0.136,-8.958,0.0269,114.127,0.481,5
+Sonu Nigam Kannada Hits Birthday Special,5,1iIx9sXnm2eZnJ8XewFBbC,O Manase,spotify:track:1iIx9sXnm2eZnJ8XewFBbC,0.34,0.653,0.546,8.01e-05,0.139,-6.986,0.0316,90.013,0.438,2
+Sonu Nigam Kannada Hits Birthday Special,6,0tgQiYBSKgaGrOpwx2VvOe,Nannavalu Nannavalu,spotify:track:0tgQiYBSKgaGrOpwx2VvOe,0.46,0.685,0.587,0.0,0.236,-11.361,0.101,173.894,0.808,1
+Sonu Nigam Kannada Hits Birthday Special,7,6pSbKv0oqV9XNo8JDdZADa,Ee Thuditha,spotify:track:6pSbKv0oqV9XNo8JDdZADa,0.148,0.672,0.948,0.0,0.679,-7.154,0.0957,127.981,0.702,1
+Voice Of Sonu Nigam,2,77pEz4j6xhNlyzYisI2qnp,"Turthinalli Geechida - From ""Chowka""",spotify:track:77pEz4j6xhNlyzYisI2qnp,0.231,0.572,0.703,0.0,0.599,-5.285,0.058,164.879,0.449,0
+Voice Of Sonu Nigam,4,11jRsMlEvuMsrWl8UY42Ra,"Baare Ninnage Naanu - From ""Santheyalli Nintha Kabira""",spotify:track:11jRsMlEvuMsrWl8UY42Ra,0.703,0.349,0.484,2.43e-06,0.0969,-7.926,0.0358,128.755,0.167,0
+Voice Of Sonu Nigam,5,68pRZ8HbFWcuu5g4IYdyy2,"Nalle Enutha - From ""Bhujanga""",spotify:track:68pRZ8HbFWcuu5g4IYdyy2,0.754,0.603,0.484,2.95e-06,0.145,-5.877,0.0347,154.047,0.496,0
+Voice Of Sonu Nigam,7,0nVvKhRiI0Bg0BSfzz9YWU,"Neenu Banda Mele: - From ""Ramleela""",spotify:track:0nVvKhRiI0Bg0BSfzz9YWU,0.572,0.757,0.652,0.0,0.105,-7.149,0.0395,100.009,0.689,0
+Voice Of Sonu Nigam,8,7t2jVR1AmrXBfxDxVav31U,"Hayaagi Haraadi - From ""Vamshodharaka""",spotify:track:7t2jVR1AmrXBfxDxVav31U,0.63,0.622,0.574,2.14e-06,0.138,-6.428,0.0418,81.978,0.548,0
+Voice Of Sonu Nigam,12,7D1Bq1JI2TCSrPOB176ajD,"Enella Aaguvudu - From ""Preethi Geethi Ithyaadi""",spotify:track:7D1Bq1JI2TCSrPOB176ajD,0.83,0.691,0.369,0.0,0.123,-8.493,0.038,130.08,0.696,0
+Voice Of Sonu Nigam,15,3AoFAou6QUpih4oGzGWs8C,"Bareyadha Geetheya - From ""Maadha Matthu Maanasi""",spotify:track:3AoFAou6QUpih4oGzGWs8C,0.742,0.517,0.531,0.00327,0.27,-7.847,0.0316,96.033,0.393,0
+Voice Of Sonu Nigam,20,52RuhoFyVErBpv0tiAwaFh,"Nee Sanihake Bandre - From ""Maleyali Jotheyali""",spotify:track:52RuhoFyVErBpv0tiAwaFh,0.38,0.688,0.616,1.18e-06,0.364,-7.602,0.0274,106.995,0.68,0
