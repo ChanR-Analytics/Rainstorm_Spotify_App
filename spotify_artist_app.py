@@ -18,136 +18,143 @@ st.title("Spotify Artist Data Collection App")
 
 name = st.text_input("What is the name of the artist: ")
 
-result = sp.search(name)
+def artist_data_extract(artist_name):
 
-# Extracting Spotify Albums
+    result = sp.search(artist_name)
 
-artist_uri = result['tracks']['items'][0]['artists'][0]['uri']
+    # Extracting Spotify Albums
 
-sp_albums = sp.artist_albums(artist_uri, album_type='album')
+    artist_uri = result['tracks']['items'][0]['artists'][0]['uri']
 
-album_names = []
-album_uris = []
+    sp_albums = sp.artist_albums(artist_uri, album_type='album')
 
-for i in range(len(sp_albums['items'])):
-    album_names.append(sp_albums['items'][i]['name'])
-    album_uris.append(sp_albums['items'][i]['uri'])
+    album_names = []
+    album_uris = []
 
-# Grabbing the Songs from Each Album
+    for i in range(len(sp_albums['items'])):
+        album_names.append(sp_albums['items'][i]['name'])
+        album_uris.append(sp_albums['items'][i]['uri'])
 
-def albumSongs(uri):
-    album = uri
+    # Grabbing the Songs from Each Album
 
-    spotify_albums[album] = {}
+    def albumSongs(uri):
+        album = uri
 
-    spotify_albums[album]['album'] = []
-    spotify_albums[album]['track_number'] = []
-    spotify_albums[album]['id'] = []
-    spotify_albums[album]['name'] = []
-    spotify_albums[album]['uri'] = []
+        spotify_albums[album] = {}
 
-    tracks = sp.album_tracks(album)
+        spotify_albums[album]['album'] = []
+        spotify_albums[album]['track_number'] = []
+        spotify_albums[album]['id'] = []
+        spotify_albums[album]['name'] = []
+        spotify_albums[album]['uri'] = []
 
-    for n in range(len(tracks['items'])):
-        spotify_albums[album]['album'].append(album_names[album_count])
-        spotify_albums[album]['track_number'].append(tracks['items'][n]['track_number'])
-        spotify_albums[album]['id'].append(tracks['items'][n]['id'])
-        spotify_albums[album]['name'].append(tracks['items'][n]['name'])
-        spotify_albums[album]['uri'].append(tracks['items'][n]['uri'])
+        tracks = sp.album_tracks(album)
 
-
-spotify_albums = {}
-
-album_count = 0
-
-for i in album_uris:
-    albumSongs(i)
-    st.write(f"Album {album_names[album_count]} songs have been added to the Spotify Albums Dictionary")
-    album_count += 1
+        for n in range(len(tracks['items'])):
+            spotify_albums[album]['album'].append(album_names[album_count])
+            spotify_albums[album]['track_number'].append(tracks['items'][n]['track_number'])
+            spotify_albums[album]['id'].append(tracks['items'][n]['id'])
+            spotify_albums[album]['name'].append(tracks['items'][n]['name'])
+            spotify_albums[album]['uri'].append(tracks['items'][n]['uri'])
 
 
-st.write(spotify_albums)
+    spotify_albums = {}
 
-# Extracting Audio Features for Each Song
+    album_count = 0
 
-def audio_features(album):
-    spotify_albums[album]['acousticness'] = []
-    spotify_albums[album]['danceability'] = []
-    spotify_albums[album]['energy'] = []
-    spotify_albums[album]['instrumentalness'] = []
-    spotify_albums[album]['liveness'] = []
-    spotify_albums[album]['loudness'] = []
-    spotify_albums[album]['speechiness'] = []
-    spotify_albums[album]['tempo'] = []
-    spotify_albums[album]['valence'] = []
-    spotify_albums[album]['popularity'] = []
+    for i in album_uris:
+        albumSongs(i)
+        st.write(f"Album {album_names[album_count]} songs have been added to the Spotify Albums Dictionary")
+        album_count += 1
 
-    track_count = 0
 
-    for track in spotify_albums[album]['uri']:
-        # Get the Features
-        features = sp.audio_features(track)
-        spotify_albums[album]['acousticness'].append(features[0]['acousticness'])
-        spotify_albums[album]['danceability'].append(features[0]['danceability'])
-        spotify_albums[album]['energy'].append(features[0]['energy'])
-        spotify_albums[album]['instrumentalness'].append(features[0]['instrumentalness'])
-        spotify_albums[album]['liveness'].append(features[0]['liveness'])
-        spotify_albums[album]['loudness'].append(features[0]['loudness'])
-        spotify_albums[album]['speechiness'].append(features[0]['speechiness'])
-        spotify_albums[album]['tempo'].append(features[0]['tempo'])
-        spotify_albums[album]['valence'].append(features[0]['valence'])
+    st.write(spotify_albums)
 
-        # Getting the Popularity Feature
-        pop = sp.track(track)
-        spotify_albums[album]['popularity'].append(pop['popularity'])
-        track_count += 1
+    # Extracting Audio Features for Each Song
 
-sleep_min = 2
-sleep_max = 5
-start_time = time.time()
-request_count = 0
+    def audio_features(album):
+        spotify_albums[album]['acousticness'] = []
+        spotify_albums[album]['danceability'] = []
+        spotify_albums[album]['energy'] = []
+        spotify_albums[album]['instrumentalness'] = []
+        spotify_albums[album]['liveness'] = []
+        spotify_albums[album]['loudness'] = []
+        spotify_albums[album]['speechiness'] = []
+        spotify_albums[album]['tempo'] = []
+        spotify_albums[album]['valence'] = []
+        spotify_albums[album]['popularity'] = []
 
-for i in spotify_albums:
-    audio_features(i)
-    request_count += 1
-    if request_count % 5 == 0:
-        # st.write(f"{request_count} playlists completed")
-        time.sleep(np.random.uniform(sleep_min, sleep_max))
-        # st.write(f"Loop #: {request_count}")
-        # st.write(f"Elapsed Time: {time.time() - start_time} seconds")
+        track_count = 0
 
-# Saving Results to a CSV File
+        for track in spotify_albums[album]['uri']:
+            # Get the Features
+            features = sp.audio_features(track)
+            spotify_albums[album]['acousticness'].append(features[0]['acousticness'])
+            spotify_albums[album]['danceability'].append(features[0]['danceability'])
+            spotify_albums[album]['energy'].append(features[0]['energy'])
+            spotify_albums[album]['instrumentalness'].append(features[0]['instrumentalness'])
+            spotify_albums[album]['liveness'].append(features[0]['liveness'])
+            spotify_albums[album]['loudness'].append(features[0]['loudness'])
+            spotify_albums[album]['speechiness'].append(features[0]['speechiness'])
+            spotify_albums[album]['tempo'].append(features[0]['tempo'])
+            spotify_albums[album]['valence'].append(features[0]['valence'])
 
-song_df = {}
+            # Getting the Popularity Feature
+            pop = sp.track(track)
+            spotify_albums[album]['popularity'].append(pop['popularity'])
+            track_count += 1
 
-song_df['album'] = []
-song_df['track_number'] = []
-song_df['id'] = []
-song_df['name'] = []
-song_df['uri'] = []
-song_df['acousticness'] = []
-song_df['danceability'] = []
-song_df['energy'] = []
-song_df['instrumentalness'] = []
-song_df['liveness'] = []
-song_df['loudness'] = []
-song_df['speechiness'] = []
-song_df['tempo'] = []
-song_df['valence'] = []
-song_df['popularity'] = []
+    sleep_min = 2
+    sleep_max = 5
+    start_time = time.time()
+    request_count = 0
 
-for album in spotify_albums:
-    for feature in spotify_albums[album]:
-        song_df[feature].extend(spotify_albums[album][feature])
+    for i in spotify_albums:
+        audio_features(i)
+        request_count += 1
+        if request_count % 5 == 0:
+            # st.write(f"{request_count} playlists completed")
+            time.sleep(np.random.uniform(sleep_min, sleep_max))
+            # st.write(f"Loop #: {request_count}")
+            # st.write(f"Elapsed Time: {time.time() - start_time} seconds")
 
-df = pd.DataFrame.from_dict(song_df)
+    # Saving Results to a CSV File
 
-final_df = df.sort_values('popularity', ascending=False).drop_duplicates('name').sort_index()
+    song_df = {}
 
-st.write(final_df.head())
+    song_df['album'] = []
+    song_df['track_number'] = []
+    song_df['id'] = []
+    song_df['name'] = []
+    song_df['uri'] = []
+    song_df['acousticness'] = []
+    song_df['danceability'] = []
+    song_df['energy'] = []
+    song_df['instrumentalness'] = []
+    song_df['liveness'] = []
+    song_df['loudness'] = []
+    song_df['speechiness'] = []
+    song_df['tempo'] = []
+    song_df['valence'] = []
+    song_df['popularity'] = []
 
-data_path = getcwd() + "/Rainstorm_Spotify_App/data"
+    for album in spotify_albums:
+        for feature in spotify_albums[album]:
+            song_df[feature].extend(spotify_albums[album][feature])
 
-final_df.to_csv(f"{data_path}/{name}.csv", index=False)
+    df = pd.DataFrame.from_dict(song_df)
 
-st.write("Data generated!")
+    final_df = df.sort_values('popularity', ascending=False).drop_duplicates('name').sort_index()
+
+    st.write(final_df.head())
+
+    data_path = getcwd() + "/data"
+
+    final_df.to_csv(f"{data_path}/{artist_name}.csv", index=False)
+
+    st.write("Data generated!")
+
+    return final_df
+
+if (st.button("Generate Artist Data")) and (name != ''):
+    artist_data_extract(name)

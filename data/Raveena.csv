@@ -1,0 +1,13 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+Lucid,1,70LJDJUseObPU5czxfHYkB,Hypnosis,spotify:track:70LJDJUseObPU5czxfHYkB,0.954,0.279,0.247,0.171,0.127,-14.227,0.0328,98.807,0.181,43
+Lucid,2,2T4xw1hmipgHyFQXbWBfKD,Nectar,spotify:track:2T4xw1hmipgHyFQXbWBfKD,0.666,0.668,0.37,0.015,0.075,-10.848,0.0466,127.86,0.307,47
+Lucid,3,7qKWAtneIWuObMgaj57yvx,Stronger,spotify:track:7qKWAtneIWuObMgaj57yvx,0.641,0.594,0.312,0.0361,0.0993,-10.63,0.0584,126.961,0.0456,49
+Lucid,4,4cf0fmpBq8kGEC8ccQHD1O,Salt Water,spotify:track:4cf0fmpBq8kGEC8ccQHD1O,0.766,0.338,0.368,0.000126,0.148,-9.7,0.0419,188.97,0.239,44
+Lucid,5,2qhahbZ5iMNmKIFCcVDGur,Stone,spotify:track:2qhahbZ5iMNmKIFCcVDGur,0.357,0.732,0.375,0.0142,0.0833,-10.689,0.0374,142.045,0.496,43
+Lucid,6,7y8iLmxJCdvy43daCDo1YM,Stone (Reprise),spotify:track:7y8iLmxJCdvy43daCDo1YM,0.985,0.465,0.099,0.913,0.082,-23.816,0.0325,141.823,0.174,39
+Lucid,7,20VdNP6JaftxMQE2AxWCcS,Mama,spotify:track:20VdNP6JaftxMQE2AxWCcS,0.615,0.609,0.46,0.0106,0.0803,-9.687,0.0876,72.975,0.167,43
+Lucid,8,4x6g5OuktRJPVC80unBdQl,Bloom,spotify:track:4x6g5OuktRJPVC80unBdQl,0.565,0.619,0.362,0.00843,0.534,-11.387,0.035,84.874,0.203,47
+Lucid,9,4cwJYLZeVMTjF6o0Nzk9nq,Floating (feat. Hope Tala),spotify:track:4cwJYLZeVMTjF6o0Nzk9nq,0.833,0.638,0.361,0.263,0.0695,-12.433,0.0646,86.037,0.256,43
+Lucid,10,2GWMfWHvLixgTo9s5NGn3w,Still Dreaming,spotify:track:2GWMfWHvLixgTo9s5NGn3w,0.474,0.746,0.318,0.0959,0.113,-10.637,0.0511,120.054,0.139,56
+Lucid,11,7d764yeYwCDr6injUcEh18,Nani's Interlude,spotify:track:7d764yeYwCDr6injUcEh18,0.97,0.469,0.254,0.000155,0.0707,-13.662,0.21,88.746,0.393,39
+Lucid,12,12Aq4Ryc1rZQ0hWnT8wZNe,Petal,spotify:track:12Aq4Ryc1rZQ0hWnT8wZNe,0.873,0.384,0.17,1.72e-05,0.188,-14.415,0.103,82.041,0.366,43
