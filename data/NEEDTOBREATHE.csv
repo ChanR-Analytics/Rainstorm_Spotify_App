@@ -1,0 +1,124 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+Acoustic Live Vol. 1,1,3VpHhW058YNhFuaHbbjXA6,LET'S STAY HOME TONIGHT (Acoustic Live),spotify:track:3VpHhW058YNhFuaHbbjXA6,0.748,0.381,0.559,1.94e-06,0.531,-7.508,0.0579,161.034,0.426,47
+Acoustic Live Vol. 1,2,4UKCxosI4GTWP7YV80JS9u,Drive All Night (Acoustic Live),spotify:track:4UKCxosI4GTWP7YV80JS9u,0.284,0.541,0.804,6.29e-05,0.709,-6.444,0.0471,140.628,0.543,53
+Acoustic Live Vol. 1,3,7ramsuRnc706xxCeBSQJtQ,NO EXCUSES (Acoustic Live),spotify:track:7ramsuRnc706xxCeBSQJtQ,0.55,0.377,0.504,9.35e-05,0.72,-7.546,0.0439,131.032,0.285,46
+Acoustic Live Vol. 1,4,1nXquMfUt3XgbCnVSgaM7F,State I'm In - Acoustic Live,spotify:track:1nXquMfUt3XgbCnVSgaM7F,0.171,0.5,0.926,6.45e-05,0.705,-4.495,0.0496,129.673,0.275,45
+Acoustic Live Vol. 1,5,2bDi4gQA2mITGJBsBBZC0s,Washed by the Water - Acoustic Live,spotify:track:2bDi4gQA2mITGJBsBBZC0s,0.874,0.533,0.473,1.05e-06,0.543,-6.08,0.191,74.675,0.338,41
+Acoustic Live Vol. 1,6,3AiGq2v4QiwXcwIfDj38Hr,TESTIFY (Acoustic Live),spotify:track:3AiGq2v4QiwXcwIfDj38Hr,0.66,0.412,0.695,0.0,0.841,-4.18,0.0341,91.953,0.299,41
+Acoustic Live Vol. 1,7,7inAoTSHSDbJxeMMi6G5HF,"Oh, Carolina - Acoustic Live",spotify:track:7inAoTSHSDbJxeMMi6G5HF,0.168,0.286,0.89,0.00169,0.226,-5.89,0.143,175.438,0.246,40
+Acoustic Live Vol. 1,8,0pohtuADv9aAqQ7KVDxa56,Stand by Me - Acoustic Live,spotify:track:0pohtuADv9aAqQ7KVDxa56,0.605,0.316,0.482,4.96e-05,0.142,-7.923,0.0476,78.353,0.287,56
+Acoustic Live Vol. 1,9,478CcQt9iyivd9o1EDxTWc,Stones Under Rushing Water (feat. Drew Holcomb & Ellie Holcomb) - Acoustic Live,spotify:track:478CcQt9iyivd9o1EDxTWc,0.689,0.44,0.313,1.15e-05,0.219,-8.744,0.0506,137.418,0.219,46
+Acoustic Live Vol. 1,10,0Dxy4lf4lNM4OPSH7gs25S,White Fences (Acoustic Live),spotify:track:0Dxy4lf4lNM4OPSH7gs25S,0.618,0.52,0.773,1.94e-06,0.705,-4.067,0.0285,81.534,0.578,47
+Acoustic Live Vol. 1,11,14gNcXEZp8oQte9THEqPJ8,CAGES - Acoustic Live,spotify:track:14gNcXEZp8oQte9THEqPJ8,0.84,0.355,0.565,1.59e-05,0.201,-10.055,0.407,84.561,0.135,40
+Acoustic Live Vol. 1,12,59O0VJcvNObWBKnymlz7lS,Brother - Acoustic Live,spotify:track:59O0VJcvNObWBKnymlz7lS,0.764,0.626,0.664,0.0,0.699,-7.828,0.187,87.46,0.706,40
+H A R D L O V E,1,5B2s8mPL2jvdRVwCPAqy3Z,"MOUNTAIN, Pt 1",spotify:track:5B2s8mPL2jvdRVwCPAqy3Z,0.893,0.274,0.392,0.592,0.136,-11.509,0.0383,131.266,0.315,36
+H A R D L O V E,2,0xcFH3973DZauDkGnNjMgm,HARD LOVE,spotify:track:0xcFH3973DZauDkGnNjMgm,0.0231,0.387,0.843,0.0,0.503,-4.221,0.0539,168.149,0.378,51
+H A R D L O V E,3,4jtJZ9mep9Cdh8RGl5vw0g,MONEY & FAME,spotify:track:4jtJZ9mep9Cdh8RGl5vw0g,0.0686,0.554,0.891,1.47e-05,0.0905,-3.919,0.0991,154.012,0.454,44
+H A R D L O V E,4,3o1OKJvEN5nAnhnHhUnbCx,NO EXCUSES,spotify:track:3o1OKJvEN5nAnhnHhUnbCx,0.8,0.665,0.314,1.89e-05,0.108,-10.455,0.0322,114.929,0.207,43
+H A R D L O V E,5,4ZP6l1gBTMuGterGX45ajy,WHEN I SING,spotify:track:4ZP6l1gBTMuGterGX45ajy,0.0124,0.624,0.936,0.0,0.12,-3.376,0.0619,98.021,0.658,39
+H A R D L O V E,6,7aag0fFgE9K1Gj8lJwQaGI,HAPPINESS,spotify:track:7aag0fFgE9K1Gj8lJwQaGI,0.00703,0.575,0.765,0.0,0.331,-6.608,0.0345,98.037,0.407,58
+H A R D L O V E,7,41cxe6eOzzQS6odQk6fNdp,GREAT NIGHT (feat. Shovels & Rope),spotify:track:41cxe6eOzzQS6odQk6fNdp,0.0018,0.453,0.914,0.0,0.349,-3.445,0.0825,129.841,0.504,52
+H A R D L O V E,8,6aXKP2TWEkgruJvRujGMKG,BE HERE LONG,spotify:track:6aXKP2TWEkgruJvRujGMKG,0.0327,0.512,0.883,2.46e-06,0.34,-3.137,0.0453,155.97,0.527,47
+H A R D L O V E,9,6WaIDdOdfmWdvXvUyBMq7F,DON'T BRING THAT TROUBLE,spotify:track:6WaIDdOdfmWdvXvUyBMq7F,0.00849,0.649,0.936,9.56e-06,0.153,-4.131,0.0432,130.943,0.692,39
+H A R D L O V E,10,1kiylxwnw8R8rJoCDtubWM,LET'S STAY HOME TONIGHT,spotify:track:1kiylxwnw8R8rJoCDtubWM,0.668,0.548,0.367,0.0,0.144,-9.271,0.0309,147.946,0.416,62
+H A R D L O V E,11,5OpjJ9qy54D3PzQJ1s4Q9X,TESTIFY,spotify:track:5OpjJ9qy54D3PzQJ1s4Q9X,0.471,0.495,0.71,0.0,0.0703,-3.941,0.0288,90.024,0.319,59
+H A R D L O V E,12,3fq09awXzr1ghRFhvOMZsi,CLEAR,spotify:track:3fq09awXzr1ghRFhvOMZsi,0.203,0.422,0.503,0.0029,0.11,-8.553,0.0273,155.996,0.19,53
+Live from the Woods,1,1Wwqql1imGvxH0HHjYpgMZ,State I'm In - Live from the Woods,spotify:track:1Wwqql1imGvxH0HHjYpgMZ,0.0055,0.449,0.966,0.0215,0.959,-3.558,0.0819,123.929,0.347,31
+Live from the Woods,2,48964GSffAAsOPSc0jh1xn,Wanted Man - Live from the Woods,spotify:track:48964GSffAAsOPSc0jh1xn,0.00411,0.255,0.899,0.000331,0.351,-4.234,0.0553,136.107,0.21,38
+Live from the Woods,3,1lH8YKPlGUybrE84Xrq1iv,Drive All Night - Live from the Woods,spotify:track:1lH8YKPlGUybrE84Xrq1iv,0.0498,0.483,0.864,0.000191,0.362,-5.908,0.0594,137.951,0.33,31
+Live from the Woods,4,2T49S1hTFR9h6UcpQtZLLN,Difference Maker - Live from the Woods,spotify:track:2T49S1hTFR9h6UcpQtZLLN,0.125,0.346,0.382,4.31e-05,0.613,-9.673,0.027,99.583,0.12,32
+Live from the Woods,5,2hYTyxwtVzCg1yn82XQVMr,Multiplied - Live from the Woods,spotify:track:2hYTyxwtVzCg1yn82XQVMr,0.00305,0.288,0.925,0.00438,0.473,-6.922,0.0665,114.963,0.148,32
+Live from the Woods,6,41aqxnmtTbKOlETPtOodUA,"Oh, Carolina - Live from the Woods",spotify:track:41aqxnmtTbKOlETPtOodUA,0.064,0.262,0.833,0.025,0.337,-6.445,0.0514,161.97,0.402,30
+Live from the Woods,7,1RWEy6HPIDStJ1pHBl2Dvk,Wasteland - Live from the Woods,spotify:track:1RWEy6HPIDStJ1pHBl2Dvk,0.252,0.317,0.515,7.35e-05,0.163,-6.669,0.0264,87.677,0.137,30
+Live from the Woods,1,1htr30fjXwvDOj1geri2Ab,Keep Your Eyes Open - Live from the Woods,spotify:track:1htr30fjXwvDOj1geri2Ab,0.297,0.445,0.918,6.75e-06,0.289,-4.273,0.0516,79.006,0.513,31
+Live from the Woods,2,35T2gGICeWl9DyHVdYgT1d,Washed by the Water - Live from the Woods,spotify:track:35T2gGICeWl9DyHVdYgT1d,0.619,0.315,0.694,0.00474,0.95,-5.411,0.0419,72.968,0.247,30
+Live from the Woods,3,6Ma1N4UIfZh4KEc22tBz0Q,Something Beautiful - Live from the Woods,spotify:track:6Ma1N4UIfZh4KEc22tBz0Q,0.133,0.489,0.824,0.002,0.563,-4.692,0.0298,96.022,0.224,31
+Live from the Woods,4,1V4htJ3YCadV1z8aA0UeFg,Girl Named Tennessee - Live from the Woods,spotify:track:1V4htJ3YCadV1z8aA0UeFg,0.417,0.543,0.404,0.000128,0.409,-8.156,0.0754,94.11,0.334,30
+Live from the Woods,5,4tzs8naksDx9qpJRLYm6ta,Brother - Live from the Woods,spotify:track:4tzs8naksDx9qpJRLYm6ta,0.178,0.419,0.797,0.0,0.701,-7.008,0.191,167.333,0.639,32
+Live from the Woods,6,5NjoFfmQA9xc2fdz5at7x7,The Heart - Live from the Woods,spotify:track:5NjoFfmQA9xc2fdz5at7x7,0.105,0.289,0.918,0.00163,0.923,-4.169,0.0475,108.044,0.523,28
+Live from the Woods,7,4yqQrNma9tDnxlMU5zOIsU,The Outsiders - Live from the Woods,spotify:track:4yqQrNma9tDnxlMU5zOIsU,0.0867,0.409,0.915,0.0372,0.979,-5.007,0.0421,106.555,0.342,30
+Live from the Woods,8,2cHNlEi81Rk22FTGANLlM6,"More Heart, Less Attack - Live from the Woods",spotify:track:2cHNlEi81Rk22FTGANLlM6,0.836,0.619,0.359,0.00105,0.933,-8.27,0.0312,120.583,0.131,29
+Live from the Woods,9,1IEndZMJLwBWYaksdzxte7,"Feet, Don't Fail Me Now - Live",spotify:track:1IEndZMJLwBWYaksdzxte7,0.0633,0.507,0.924,1.76e-05,0.95,-4.9,0.0546,121.916,0.47,27
+Live from the Woods,10,2rV0JZuZ1OkY9BIeM5PbMq,Devil's Been Talkin' - Live,spotify:track:2rV0JZuZ1OkY9BIeM5PbMq,0.164,0.402,0.823,3.22e-06,0.352,-5.301,0.0382,109.857,0.385,28
+Rivers in the Wasteland,1,4ZHh8azw1RR3pg3HH0mqk0,Wasteland,spotify:track:4ZHh8azw1RR3pg3HH0mqk0,0.858,0.644,0.296,6.02e-05,0.105,-8.701,0.0292,91.973,0.213,44
+Rivers in the Wasteland,2,3L8dg4YZ9tUDYBvBbHJ1hm,State I'm In,spotify:track:3L8dg4YZ9tUDYBvBbHJ1hm,0.123,0.513,0.935,0.00104,0.187,-4.272,0.0698,123.996,0.307,38
+Rivers in the Wasteland,3,2rqbmthQPeTZNUW6FGmTD5,"Feet, Don't Fail Me Now",spotify:track:2rqbmthQPeTZNUW6FGmTD5,8.03e-05,0.612,0.832,0.0995,0.0732,-4.04,0.0639,120.997,0.424,38
+Rivers in the Wasteland,4,75Vc1ge16jlwRmEGCqCc6l,"Oh, Carolina",spotify:track:75Vc1ge16jlwRmEGCqCc6l,0.0699,0.495,0.94,6.3e-06,0.097,-4.113,0.0792,157.223,0.472,37
+Rivers in the Wasteland,5,7hX4fFsdWflBXRg2t994R7,Difference Maker,spotify:track:7hX4fFsdWflBXRg2t994R7,0.676,0.652,0.323,0.00245,0.102,-13.705,0.0304,114.038,0.0753,49
+Rivers in the Wasteland,6,5TdKJqoqM93RmNfcVgFBbW,Rise Again,spotify:track:5TdKJqoqM93RmNfcVgFBbW,0.435,0.513,0.649,1.89e-05,0.136,-4.963,0.0391,81.944,0.431,42
+Rivers in the Wasteland,7,2gNRPDHT9jw2fIKLRpLgT9,The Heart,spotify:track:2gNRPDHT9jw2fIKLRpLgT9,0.0199,0.555,0.86,0.011,0.327,-4.724,0.0243,104.015,0.613,47
+Rivers in the Wasteland,8,7bxECEwQOcLXKIMKGojort,Where the Money Is,spotify:track:7bxECEwQOcLXKIMKGojort,0.00257,0.613,0.883,0.000163,0.109,-1.757,0.0415,123.896,0.696,34
+Rivers in the Wasteland,9,4zgO1SgXOeFmr6Hno9DLs4,Multiplied,spotify:track:4zgO1SgXOeFmr6Hno9DLs4,0.0048,0.593,0.816,0.00121,0.0939,-6.461,0.0421,115.029,0.378,57
+Rivers in the Wasteland,10,76jtkq7829eEgEkoQrcjov,Brother,spotify:track:76jtkq7829eEgEkoQrcjov,0.141,0.528,0.929,0.0,0.105,-4.669,0.0652,77.993,0.593,47
+Rivers in the Wasteland,11,3JkqOeVknfXOZAi5leUAlp,"More Heart, Less Attack",spotify:track:3JkqOeVknfXOZAi5leUAlp,0.273,0.698,0.577,0.00232,0.202,-7.877,0.026,118.072,0.354,43
+60/50 Ocean Way: The Live Room Sessions,1,3dCo3yBld4GWHdkIBDpZtT,State I'm In - Live Room Version,spotify:track:3dCo3yBld4GWHdkIBDpZtT,0.00132,0.448,0.904,0.00413,0.164,-5.438,0.0523,123.831,0.325,27
+60/50 Ocean Way: The Live Room Sessions,2,0kSdhojCmJQf8eUEeEVkHz,The Heart - Live Room Version,spotify:track:0kSdhojCmJQf8eUEeEVkHz,0.0611,0.668,0.847,4.29e-06,0.16,-6.329,0.0261,100.698,0.544,39
+60/50 Ocean Way: The Live Room Sessions,3,0RyInl53bY1Hep4uXo3don,Wasteland - Live Room Version,spotify:track:0RyInl53bY1Hep4uXo3don,0.602,0.435,0.145,2.2e-05,0.109,-9.823,0.0321,172.579,0.07,26
+60/50 Ocean Way: The Live Room Sessions,4,2FeZEB1JmGm99RAYHUaULV,Difference Maker - Live Room Version,spotify:track:2FeZEB1JmGm99RAYHUaULV,0.509,0.643,0.336,0.0,0.082,-8.476,0.0322,104.523,0.158,27
+60/50 Ocean Way: The Live Room Sessions,5,6PVfNfSrsfwD3ELQtkNAN7,Outsiders - Live Room Version,spotify:track:6PVfNfSrsfwD3ELQtkNAN7,0.00665,0.526,0.797,0.00343,0.346,-5.718,0.0277,104.109,0.455,25
+60/50 Ocean Way: The Live Room Sessions,6,52VaQBeRFl5Jf3X3JOx70V,Devil's Been Talkin' - Live Room Version,spotify:track:52VaQBeRFl5Jf3X3JOx70V,0.00134,0.508,0.819,2.2e-05,0.38,-4.709,0.0433,112.081,0.255,25
+60/50 Ocean Way: The Live Room Sessions,7,0hf3oKrTUvdKJ4rVhAtqzd,Something Beautiful - Live Room Version,spotify:track:0hf3oKrTUvdKJ4rVhAtqzd,0.789,0.67,0.684,0.0,0.328,-7.033,0.0567,98.326,0.753,28
+Rivers in the Wasteland Track-by-Track,1,0IqSP3ID79lBUUHPs0CllU,Wasteland - Commentary,spotify:track:0IqSP3ID79lBUUHPs0CllU,0.759,0.722,0.109,0.0,0.176,-21.047,0.938,117.497,0.667,12
+Rivers in the Wasteland Track-by-Track,2,712QlzvU5kopIZ0RqYuyal,State I'm In - Commentary,spotify:track:712QlzvU5kopIZ0RqYuyal,0.755,0.761,0.0936,0.0,0.175,-21.877,0.941,115.087,0.735,12
+Rivers in the Wasteland Track-by-Track,3,1u9UZw60eyT1glrZabbAQE,"Feet, Don't Fail Me Now - Commentary",spotify:track:1u9UZw60eyT1glrZabbAQE,0.629,0.669,0.176,0.0,0.15,-19.494,0.956,147.446,0.578,11
+Rivers in the Wasteland Track-by-Track,4,0eEJBRT7gbZ1FaC8Bg2v93,"Oh, Carolina - Commentary",spotify:track:0eEJBRT7gbZ1FaC8Bg2v93,0.736,0.785,0.0992,0.0,0.142,-19.254,0.939,50.397,0.497,11
+Rivers in the Wasteland Track-by-Track,5,19e21cucIVWbAh3jRi2ze3,Difference Maker - Commentary,spotify:track:19e21cucIVWbAh3jRi2ze3,0.834,0.719,0.0921,0.0,0.147,-20.427,0.936,95.9,0.541,11
+Rivers in the Wasteland Track-by-Track,6,4mYw5nr2rEtObgNUkHDPGH,Rise Again - Commentary,spotify:track:4mYw5nr2rEtObgNUkHDPGH,0.723,0.679,0.0701,0.0,0.119,-20.599,0.876,74.776,0.689,11
+Rivers in the Wasteland Track-by-Track,7,3lP5gGlUfYOSrvRqYO8u9D,The Heart - Commentary,spotify:track:3lP5gGlUfYOSrvRqYO8u9D,0.748,0.736,0.0988,0.0,0.134,-20.255,0.935,95.247,0.481,11
+Rivers in the Wasteland Track-by-Track,8,3as71Ti3vRavOXrjeT5O00,Where the Money Is - Commentary,spotify:track:3as71Ti3vRavOXrjeT5O00,0.809,0.716,0.0992,0.0,0.113,-19.762,0.936,114.362,0.661,11
+Rivers in the Wasteland Track-by-Track,9,2ykloYEpjqPsHRbNSnSevZ,Multiplied - Commentary,spotify:track:2ykloYEpjqPsHRbNSnSevZ,0.746,0.718,0.0877,0.0,0.14,-21.654,0.944,120.221,0.644,11
+Rivers in the Wasteland Track-by-Track,10,5Y26QcT0s77276n3cpt4ce,Brother - Commentary,spotify:track:5Y26QcT0s77276n3cpt4ce,0.837,0.634,0.101,0.0,0.128,-21.984,0.923,54.666,0.552,11
+Rivers in the Wasteland Track-by-Track,11,5Ro2xAvxZKBCWBvjQuLoqj,"More Heart, Less Attack - Commentary",spotify:track:5Ro2xAvxZKBCWBvjQuLoqj,0.727,0.656,0.0442,0.0,0.146,-21.143,0.915,88.901,0.368,11
+The Reckoning,1,5zYE9a843xyBHWjMawEpLH,Oohs and Ahhs,spotify:track:5zYE9a843xyBHWjMawEpLH,0.00929,0.312,0.751,0.000281,0.143,-4.927,0.0594,110.372,0.277,35
+The Reckoning,2,0aq1MFwgETUnlloseZlnZz,White Fences,spotify:track:0aq1MFwgETUnlloseZlnZz,0.167,0.549,0.916,0.0,0.444,-3.402,0.0428,79.999,0.438,37
+The Reckoning,3,4JMQOzSvrcAxjbhHBlXYE7,Drive All Night,spotify:track:4JMQOzSvrcAxjbhHBlXYE7,0.01,0.541,0.898,4.01e-05,0.158,-3.416,0.084,137.983,0.244,42
+The Reckoning,4,6JOSRNNGKY0biVEkVwHLx6,A Place Only You Can Go,spotify:track:6JOSRNNGKY0biVEkVwHLx6,0.283,0.342,0.35,4.14e-06,0.107,-6.448,0.0281,128.286,0.149,44
+The Reckoning,5,2jGC4FGFNvEtjWKZnexTdM,Slumber,spotify:track:2jGC4FGFNvEtjWKZnexTdM,0.112,0.619,0.839,0.0,0.112,-3.756,0.0601,105.013,0.682,42
+The Reckoning,6,3otEemJoXLV6pmaFP2vnhi,The Reckoning,spotify:track:3otEemJoXLV6pmaFP2vnhi,0.0145,0.457,0.771,6.94e-05,0.17,-4.382,0.0349,154.024,0.157,35
+The Reckoning,7,30bet9VtBsUNIC6pnqQEnj,Able,spotify:track:30bet9VtBsUNIC6pnqQEnj,0.448,0.501,0.402,0.00161,0.174,-6.641,0.0311,124.794,0.255,33
+The Reckoning,8,5MUGQ5suDFIH8VJligmQT6,Maybe They're on to Us,spotify:track:5MUGQ5suDFIH8VJligmQT6,0.0577,0.575,0.875,2.07e-06,0.0911,-3.639,0.0695,90.011,0.73,32
+The Reckoning,9,7lYCapN3XxH0xSWBElS5O3,Wanted Man,spotify:track:7lYCapN3XxH0xSWBElS5O3,0.21,0.518,0.699,0.00465,0.104,-5.411,0.0312,139.82,0.377,34
+The Reckoning,10,5IChepDidVaL8UkG6PuzB2,Keep Your Eyes Open,spotify:track:5IChepDidVaL8UkG6PuzB2,0.104,0.516,0.844,0.0,0.276,-4.129,0.0468,79.018,0.377,48
+The Reckoning,11,5JzLuV7ZNE1Y6w9AZFLlOu,Tyrant Kings,spotify:track:5JzLuV7ZNE1Y6w9AZFLlOu,0.0352,0.39,0.611,2.94e-06,0.701,-4.345,0.0301,82.695,0.308,38
+The Reckoning,12,3NFVSwV1hkqvpVMY2OVe3g,Devil's Been Talkin',spotify:track:3NFVSwV1hkqvpVMY2OVe3g,0.0392,0.502,0.892,2.16e-06,0.145,-4.025,0.0464,107.07,0.369,41
+The Reckoning,13,78M7KUPIhoBugjgeGJ3j3I,Angel at My Door,spotify:track:78M7KUPIhoBugjgeGJ3j3I,0.0747,0.41,0.867,1.3e-05,0.119,-3.638,0.0428,94.426,0.251,32
+The Reckoning,14,6iHNgA743rfLaDuUh6eE9f,Learn to Love,spotify:track:6iHNgA743rfLaDuUh6eE9f,0.55,0.453,0.597,0.0,0.113,-5.412,0.0297,137.887,0.284,39
+The Outsiders,1,5gPVhz4Z1YtVUFhUBmcrDR,The Outsiders,spotify:track:5gPVhz4Z1YtVUFhUBmcrDR,0.173,0.555,0.691,1.63e-05,0.091,-4.637,0.0317,102.02,0.251,47
+The Outsiders,2,78sTKbAiBeyWA8yjki6N1e,Valley of Tomorrow,spotify:track:78sTKbAiBeyWA8yjki6N1e,0.00473,0.243,0.771,5.19e-06,0.0719,-4.423,0.048,192.0,0.217,34
+The Outsiders,3,1pJaYLCynxQ0kNDs6ZK2zt,Through Smoke,spotify:track:1pJaYLCynxQ0kNDs6ZK2zt,0.0297,0.477,0.71,1.41e-05,0.626,-5.685,0.0328,83.009,0.19,34
+The Outsiders,4,5384anjbn1d5biZEgrDUA7,Lay 'Em Down,spotify:track:5384anjbn1d5biZEgrDUA7,0.0675,0.511,0.545,0.0,0.0641,-6.221,0.0476,76.328,0.461,46
+The Outsiders,5,7MUE09Wcqf4kwXbVesUzWe,What You've Done to Me,spotify:track:7MUE09Wcqf4kwXbVesUzWe,0.0797,0.416,0.819,0.0,0.107,-6.097,0.0627,181.905,0.573,34
+The Outsiders,6,2jlLoamn74ycRqocJMB8mY,Hurricane,spotify:track:2jlLoamn74ycRqocJMB8mY,0.00413,0.527,0.799,0.000771,0.113,-6.334,0.045,122.041,0.355,34
+The Outsiders,7,1DH63fhdKfWrG4AV0Gz0SV,These Hard Times,spotify:track:1DH63fhdKfWrG4AV0Gz0SV,0.0256,0.459,0.726,0.0,0.132,-5.684,0.0371,137.888,0.253,34
+The Outsiders,8,7mZawS4MsW4OpjhDU1eLdq,Stones Under Rushing Water,spotify:track:7mZawS4MsW4OpjhDU1eLdq,0.616,0.556,0.297,7.7e-06,0.15,-8.676,0.0304,133.024,0.234,36
+The Outsiders,9,13XYZ0qjIczYjSHwTGXrF1,Prisoner,spotify:track:13XYZ0qjIczYjSHwTGXrF1,0.0295,0.605,0.861,3.35e-05,0.0801,-4.803,0.114,171.904,0.643,34
+The Outsiders,10,2eXOl4Zc0gfdMM24Me5Ji3,Won't Turn Back,spotify:track:2eXOl4Zc0gfdMM24Me5Ji3,0.388,0.561,0.706,0.000151,0.172,-6.152,0.0342,91.115,0.552,42
+The Outsiders,11,7xWoZoRXVUz58cKAhkvXxf,Girl Named Tennessee,spotify:track:7xWoZoRXVUz58cKAhkvXxf,0.0904,0.601,0.777,6.32e-05,0.173,-5.704,0.0432,93.975,0.653,42
+The Outsiders,12,6iz58z2LC8uHL3H2aiwX6I,Something Beautiful,spotify:track:6iz58z2LC8uHL3H2aiwX6I,0.0213,0.527,0.817,2.04e-05,0.16,-5.036,0.0353,95.98,0.516,54
+The Outsiders,13,6KxJeMJcyZWI36t9iBL9H2,Garden,spotify:track:6KxJeMJcyZWI36t9iBL9H2,0.427,0.471,0.418,1.38e-06,0.322,-8.405,0.0341,135.727,0.211,42
+The Outsiders,14,4Aianh7NnTyWJ5k6j3lUIh,Let Us Love,spotify:track:4Aianh7NnTyWJ5k6j3lUIh,0.00172,0.553,0.886,0.0,0.254,-3.995,0.0676,140.023,0.622,41
+The Heat,1,220Fo95bRYQxdpncsb25w6,Spare the Time,spotify:track:220Fo95bRYQxdpncsb25w6,0.721,0.677,0.444,0.0,0.146,-11.995,0.0391,129.499,0.586,28
+The Heat,2,6KbBwNR3tXFfxY1WxfhTRk,Restless,spotify:track:6KbBwNR3tXFfxY1WxfhTRk,0.0088,0.45,0.867,0.0,0.131,-3.892,0.0463,91.963,0.301,30
+The Heat,3,0u0rjdv9sd3U5nPCdXUWi1,Again,spotify:track:0u0rjdv9sd3U5nPCdXUWi1,0.0285,0.404,0.853,1.47e-06,0.0866,-2.344,0.0358,156.784,0.408,30
+The Heat,4,5AQn9MAepRUDUJGjOnv60Q,Return,spotify:track:5AQn9MAepRUDUJGjOnv60Q,0.376,0.571,0.689,0.0,0.175,-4.171,0.0266,82.059,0.238,29
+The Heat,5,4HKjBsqzGScnd0TsKoVlNk,We Could Run Away,spotify:track:4HKjBsqzGScnd0TsKoVlNk,0.000636,0.424,0.813,0.0079,0.464,-3.786,0.0317,142.922,0.181,41
+The Heat,6,5Mu1Eo2YnSZgEdKwLaECdH,Streets of Gold,spotify:track:5Mu1Eo2YnSZgEdKwLaECdH,0.00292,0.47,0.687,2.39e-06,0.122,-4.503,0.03,98.651,0.263,39
+The Heat,7,1HH2QAXNrjZl7h1H2K7HPr,More Time,spotify:track:1HH2QAXNrjZl7h1H2K7HPr,0.0666,0.531,0.768,2.86e-06,0.231,-5.092,0.0293,97.012,0.14,44
+The Heat,8,45RIQSrYQaUkEIvFFb8M8a,Signature of Divine (Yahweh),spotify:track:45RIQSrYQaUkEIvFFb8M8a,0.00275,0.452,0.86,5.34e-06,0.0622,-4.996,0.032,91.997,0.334,41
+The Heat,9,5uOmoW4DrSVbijtDu35Rqc,Looks Like Love,spotify:track:5uOmoW4DrSVbijtDu35Rqc,0.00304,0.451,0.74,2.06e-05,0.31,-4.073,0.03,151.026,0.337,31
+The Heat,10,7JjVN8JcRJXRhcOnHh5v5a,The Heat,spotify:track:7JjVN8JcRJXRhcOnHh5v5a,0.141,0.585,0.696,0.0,0.136,-3.283,0.0281,77.489,0.316,38
+The Heat,11,2ub8KCWpkmAz6ZK1wIVuFn,Nothing Left to Lose,spotify:track:2ub8KCWpkmAz6ZK1wIVuFn,0.0117,0.365,0.802,1.43e-06,0.351,-3.918,0.041,158.043,0.147,29
+The Heat,12,1fy77dDQfK175r4LjpofRY,Moving On,spotify:track:1fy77dDQfK175r4LjpofRY,0.0767,0.368,0.816,6.05e-06,0.0732,-2.575,0.036,177.669,0.538,29
+The Heat,13,3rXoaocGAOEq6CorwCiI4J,Washed by the Water,spotify:track:3rXoaocGAOEq6CorwCiI4J,0.0708,0.458,0.751,0.0105,0.169,-4.681,0.032,140.895,0.387,51
+The Heat,14,4WDBimWFrmSruJ5cxYuYkY,Second Chances,spotify:track:4WDBimWFrmSruJ5cxYuYkY,0.739,0.473,0.481,0.000384,0.0985,-9.648,0.0288,132.111,0.123,28
+Daylight,1,4YFJTbQclXzswEIWy95fyS,Don't Wait for Daylight,spotify:track:4YFJTbQclXzswEIWy95fyS,0.00292,0.435,0.81,5.27e-06,0.139,-3.954,0.0401,154.043,0.406,29
+Daylight,2,6L0DOHfPcM6mUd4oj4Fe4c,Quit,spotify:track:6L0DOHfPcM6mUd4oj4Fe4c,0.000229,0.453,0.968,4.63e-05,0.091,-3.625,0.102,157.996,0.329,26
+Daylight,3,1F6zTAlf4oTW5MojZuYj38,Shine On,spotify:track:1F6zTAlf4oTW5MojZuYj38,0.00224,0.491,0.816,0.00473,0.165,-5.035,0.037,134.966,0.23,39
+Daylight,4,1udBxtZiU03LC2hj8Uxdx3,Don't Leave Just Yet,spotify:track:1udBxtZiU03LC2hj8Uxdx3,0.00191,0.372,0.879,0.0,0.699,-4.328,0.0433,170.993,0.314,37
+Daylight,5,2mrDkxyAGSTSJltFV9xGpS,Haley,spotify:track:2mrDkxyAGSTSJltFV9xGpS,0.243,0.449,0.612,0.0,0.213,-6.399,0.0295,149.982,0.248,37
+Daylight,6,2aTDgYdqOxoPvdo5No5K3H,You Are Here,spotify:track:2aTDgYdqOxoPvdo5No5K3H,0.012,0.387,0.924,0.0,0.275,-4.247,0.0626,151.978,0.436,27
+Daylight,7,7HUXxv5aRll28Z0SkfuErR,Knew It All,spotify:track:7HUXxv5aRll28Z0SkfuErR,0.000228,0.407,0.935,1.92e-05,0.117,-3.805,0.0585,152.011,0.336,26
+Daylight,8,5GwC9wT4VRgdvJEsYPqrDH,More Than,spotify:track:5GwC9wT4VRgdvJEsYPqrDH,0.00531,0.53,0.83,0.000224,0.112,-4.434,0.0442,130.99,0.214,26
+Daylight,9,62aO7OXUnIrklPNVeIjZfG,Over Now,spotify:track:62aO7OXUnIrklPNVeIjZfG,0.0175,0.476,0.859,0.0,0.158,-4.161,0.0364,142.026,0.47,26
+Daylight,10,0qUoCwcdGkAeeIBqJA6D0D,Lost,spotify:track:0qUoCwcdGkAeeIBqJA6D0D,0.000606,0.463,0.737,6.09e-06,0.107,-4.816,0.0313,142.027,0.222,25
+Daylight,11,3qMvR6kgNUugSORkDZM24I,I Won't Look Back,spotify:track:3qMvR6kgNUugSORkDZM24I,0.609,0.478,0.362,4.47e-06,0.115,-7.513,0.0246,85.092,0.0691,35

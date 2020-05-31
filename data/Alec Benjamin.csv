@@ -1,0 +1,23 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+These Two Windows,1,2hGQDYmjkwTS0J7Q2bM2sF,Mind Is A Prison,spotify:track:2hGQDYmjkwTS0J7Q2bM2sF,0.504,0.656,0.645,0.0,0.18,-5.442,0.0397,75.473,0.669,50
+These Two Windows,2,57zRWXTQCFRV3zwg0NR8Ck,Demons,spotify:track:57zRWXTQCFRV3zwg0NR8Ck,0.697,0.708,0.494,0.000115,0.34,-7.496,0.0365,142.921,0.76,49
+These Two Windows,3,44I5NYJ7CGEcaLOuG2zJsU,Oh My God,spotify:track:44I5NYJ7CGEcaLOuG2zJsU,0.652,0.696,0.565,2.12e-06,0.121,-7.241,0.0598,156.109,0.6,49
+These Two Windows,4,2CSrG5fnBpcdfPXg7sJUBi,The Book of You & I,spotify:track:2CSrG5fnBpcdfPXg7sJUBi,0.909,0.507,0.387,0.0,0.113,-6.237,0.0324,102.987,0.485,49
+These Two Windows,5,08o7YsYkQXGjamCe9eDrrK,Match In The Rain,spotify:track:08o7YsYkQXGjamCe9eDrrK,0.734,0.777,0.716,8.3e-05,0.116,-7.342,0.256,120.052,0.829,61
+These Two Windows,6,0uLPKDuIhkIhttiwezNdiG,Jesus In LA,spotify:track:0uLPKDuIhkIhttiwezNdiG,0.664,0.787,0.558,0.0,0.347,-5.237,0.0414,94.049,0.706,48
+These Two Windows,7,4iyGOU2Wtc7oNG4pm3taVd,I'm Not A Cynic,spotify:track:4iyGOU2Wtc7oNG4pm3taVd,0.117,0.681,0.71,2.16e-05,0.359,-5.639,0.0527,129.907,0.795,52
+These Two Windows,8,1HcKi5Ld0B09KQeLBa4FJa,Alamo,spotify:track:1HcKi5Ld0B09KQeLBa4FJa,0.628,0.719,0.49,0.0,0.0871,-7.555,0.21,159.999,0.661,51
+These Two Windows,9,6lERHAmBCZmgODv3OYENXi,Must Have Been The Wind,spotify:track:6lERHAmBCZmgODv3OYENXi,0.784,0.653,0.644,0.000202,0.161,-6.204,0.0572,88.968,0.363,48
+These Two Windows,10,7nlQnzAfSFlB4cXyAIVKRw,Just Like You,spotify:track:7nlQnzAfSFlB4cXyAIVKRw,0.618,0.747,0.482,0.0,0.128,-5.614,0.033,91.991,0.536,51
+Narrated For You,1,7pT6WSg4PCt4mr5ZFyUfsF,If We Have Each Other,spotify:track:7pT6WSg4PCt4mr5ZFyUfsF,0.698,0.656,0.577,0.0,0.296,-5.566,0.0802,173.094,0.861,75
+Narrated For You,2,4IhKLu7Vk3j2TLmnFPl6To,Water Fountain,spotify:track:4IhKLu7Vk3j2TLmnFPl6To,0.388,0.723,0.504,7.4e-05,0.087,-5.572,0.0392,133.975,0.551,79
+Narrated For You,3,0DYRjWiFJHvLjxRrywtltC,Annabelle's Homework,spotify:track:0DYRjWiFJHvLjxRrywtltC,0.701,0.676,0.634,1.63e-06,0.223,-5.377,0.0385,86.004,0.33,62
+Narrated For You,4,2qxmye6gAegTMjLKEBoR3d,Let Me Down Slowly,spotify:track:2qxmye6gAegTMjLKEBoR3d,0.74,0.652,0.557,0.0,0.124,-5.714,0.0318,150.073,0.483,85
+Narrated For You,5,1rMSja8j1k8VRXXztemdLb,Swim,spotify:track:1rMSja8j1k8VRXXztemdLb,0.289,0.737,0.562,0.000363,0.306,-6.117,0.0747,160.051,0.532,62
+Narrated For You,6,60cYr5uuMoxvyuIx45rGEW,Boy In The Bubble,spotify:track:60cYr5uuMoxvyuIx45rGEW,0.224,0.817,0.578,0.00103,0.251,-7.579,0.0824,143.982,0.851,73
+Narrated For You,7,211LaT5hzPOKolVtgzwWnq,Steve,spotify:track:211LaT5hzPOKolVtgzwWnq,0.845,0.348,0.353,0.0,0.181,-9.012,0.0334,80.558,0.866,61
+Narrated For You,8,0IrtQ83z9jylZaLEJK2eoy,Gotta Be A Reason,spotify:track:0IrtQ83z9jylZaLEJK2eoy,0.806,0.771,0.518,2.48e-05,0.104,-7.582,0.0404,79.997,0.277,63
+Narrated For You,9,2W0AJEbIC2vdZTV2nVSAsg,Outrunning Karma,spotify:track:2W0AJEbIC2vdZTV2nVSAsg,0.655,0.416,0.649,2.82e-06,0.12,-5.271,0.0385,112.482,0.474,69
+Narrated For You,10,0WHi11uzahqpEtPGYCW6oQ,If I Killed Someone For You,spotify:track:0WHi11uzahqpEtPGYCW6oQ,0.774,0.514,0.605,2.91e-06,0.121,-5.363,0.0337,120.894,0.409,71
+Narrated For You,11,3gYK7eEFbp6KzmqYRMyQRm,Death Of A Hero,spotify:track:3gYK7eEFbp6KzmqYRMyQRm,0.634,0.653,0.62,5.46e-06,0.512,-5.797,0.28,179.8,0.584,62
+Narrated For You,12,5Ys68FZdQFcFw7IgkANVoM,1994,spotify:track:5Ys68FZdQFcFw7IgkANVoM,0.281,0.772,0.613,3.52e-06,0.206,-6.185,0.0692,87.022,0.862,63

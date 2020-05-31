@@ -1,0 +1,23 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+Fine Line,1,45S5WTQEGOB1VHr1Q4FuPl,Golden,spotify:track:45S5WTQEGOB1VHr1Q4FuPl,0.21,0.448,0.838,0.000131,0.131,-5.257,0.0557,139.863,0.254,79
+Fine Line,2,6UelLqGlWMcVH1E5c4H7lY,Watermelon Sugar,spotify:track:6UelLqGlWMcVH1E5c4H7lY,0.122,0.548,0.816,0.0,0.335,-4.209,0.0465,95.39,0.557,85
+Fine Line,3,3jjujdWJ72nww5eGnfs2E7,Adore You,spotify:track:3jjujdWJ72nww5eGnfs2E7,0.0237,0.676,0.771,7e-06,0.102,-3.675,0.0483,99.048,0.569,87
+Fine Line,4,4jAIqgrPjKLTY9Gbez25Qb,Lights Up,spotify:track:4jAIqgrPjKLTY9Gbez25Qb,0.0392,0.575,0.621,0.0045,0.141,-8.165,0.032,101.987,0.27,84
+Fine Line,5,2IOFZdYYkFxEHVz1w34PoL,Cherry,spotify:track:2IOFZdYYkFxEHVz1w34PoL,0.615,0.53,0.512,0.00453,0.129,-9.261,0.0259,95.946,0.411,79
+Fine Line,6,1ZMiCix7XSAbfAJlEZWMCp,Falling,spotify:track:1ZMiCix7XSAbfAJlEZWMCp,0.839,0.567,0.267,1.46e-06,0.089,-6.502,0.0299,110.011,0.0592,87
+Fine Line,7,5JiH89mHrv9oWHlD0T326z,To Be So Lonely,spotify:track:5JiH89mHrv9oWHlD0T326z,0.618,0.758,0.436,1.61e-05,0.335,-7.269,0.0418,104.959,0.605,77
+Fine Line,8,6SQLk9HSNketfgs2AyIiMs,She,spotify:track:6SQLk9HSNketfgs2AyIiMs,0.000532,0.535,0.521,0.371,0.19,-5.942,0.0272,140.026,0.457,75
+Fine Line,9,6iYMfxznTBlcVOgRHab2W0,"Sunflower, Vol. 6",spotify:track:6iYMfxznTBlcVOgRHab2W0,0.000564,0.566,0.846,0.000795,0.121,-6.904,0.035,160.02,0.86,78
+Fine Line,10,5IhzJOXNE7ki0IIJbZbnGq,Canyon Moon,spotify:track:5IhzJOXNE7ki0IIJbZbnGq,0.328,0.603,0.621,3.49e-05,0.119,-7.14,0.0267,94.022,0.7,74
+Fine Line,11,03mMSLEJCPoGJwQhHpN5y0,Treat People With Kindness,spotify:track:03mMSLEJCPoGJwQhHpN5y0,0.128,0.653,0.869,2.2e-05,0.046,-3.725,0.0382,122.017,0.697,72
+Fine Line,12,6VzcQuzTNTMFnJ6rBSaLH9,Fine Line,spotify:track:6VzcQuzTNTMFnJ6rBSaLH9,0.172,0.306,0.347,0.00013,0.0485,-8.5,0.0334,120.996,0.0511,76
+Harry Styles,1,4u9Y4Z9i9VaAbBK7rW1Rha,Meet Me in the Hallway,spotify:track:4u9Y4Z9i9VaAbBK7rW1Rha,0.747,0.537,0.383,0.00025,0.356,-6.528,0.0247,104.252,0.339,71
+Harry Styles,2,5Ohxk2dO5COHF1krpoPigN,Sign of the Times,spotify:track:5Ohxk2dO5COHF1krpoPigN,0.0275,0.516,0.595,0.0,0.109,-4.63,0.0313,119.972,0.222,80
+Harry Styles,3,3Dwq1oiOFys6Sxr5SslmXw,Carolina,spotify:track:3Dwq1oiOFys6Sxr5SslmXw,0.000569,0.624,0.673,1.54e-06,0.104,-4.017,0.0268,121.986,0.458,68
+Harry Styles,4,4B1rpPmQXwj78wk6aIGwwU,Two Ghosts,spotify:track:4B1rpPmQXwj78wk6aIGwwU,0.234,0.386,0.407,1.86e-06,0.0999,-7.095,0.0268,69.387,0.456,73
+Harry Styles,5,5kRPPEWFJIMox5qIkQkiz5,Sweet Creature,spotify:track:5kRPPEWFJIMox5qIkQkiz5,0.746,0.427,0.262,0.0,0.068,-8.541,0.0276,104.085,0.228,77
+Harry Styles,6,5Lbsc65org0b85kNsPkluY,Only Angel,spotify:track:5Lbsc65org0b85kNsPkluY,0.287,0.554,0.842,0.0,0.106,-4.113,0.0397,114.036,0.348,68
+Harry Styles,7,33SNO8AaciGbNaQFkxvPrW,Kiwi,spotify:track:33SNO8AaciGbNaQFkxvPrW,0.00064,0.375,0.93,0.0,0.318,-2.631,0.0561,147.124,0.491,75
+Harry Styles,8,5LABCxgmP7DATATIJXOh6n,Ever Since New York,spotify:track:5LABCxgmP7DATATIJXOh6n,0.2,0.389,0.537,3.13e-06,0.125,-6.761,0.0309,127.964,0.383,68
+Harry Styles,9,33bURv895AN4FkBvgFo2dx,Woman,spotify:track:33bURv895AN4FkBvgFo2dx,0.0169,0.624,0.647,0.0038,0.221,-4.68,0.0335,136.022,0.379,69
+Harry Styles,10,1IF5UcqRO42D12vYwceOY6,From the Dining Table,spotify:track:1IF5UcqRO42D12vYwceOY6,0.804,0.671,0.156,0.0518,0.113,-16.288,0.0371,94.08,0.201,73

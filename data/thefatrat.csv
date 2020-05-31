@@ -1,0 +1,13 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+Warrior Songs,1,45RVzBJK5uBLOcBLhDbLRR,Warrior Song,spotify:track:45RVzBJK5uBLOcBLhDbLRR,0.357,0.212,0.336,0.0541,0.109,-8.577,0.0334,123.242,0.0721,49
+Warrior Songs,2,3sLekP7TLzkSvgR4a4XETY,Origin,spotify:track:3sLekP7TLzkSvgR4a4XETY,0.563,0.544,0.809,0.852,0.0789,-6.334,0.0345,177.941,0.532,50
+Warrior Songs,3,7d1OzUw3hGemiPfBjMR9uH,Ascendancy,spotify:track:7d1OzUw3hGemiPfBjMR9uH,5.71e-05,0.136,0.78,0.942,0.395,-4.773,0.0755,166.739,0.377,46
+Warrior Songs,4,2oolMY5pr6DC8q4T9fPdTh,Nemesis,spotify:track:2oolMY5pr6DC8q4T9fPdTh,0.224,0.5,0.688,0.878,0.156,-7.482,0.078,150.141,0.526,46
+Warrior Songs,5,1xndhZkrUXnv2Gm57ZBozp,Origin Reprise,spotify:track:1xndhZkrUXnv2Gm57ZBozp,0.792,0.472,0.29,0.92,0.192,-9.377,0.0313,109.947,0.0986,43
+Warrior Songs,6,6dxUscu5dOZ08CQd1MjdZ4,Elevate,spotify:track:6dxUscu5dOZ08CQd1MjdZ4,0.408,0.714,0.723,0.822,0.167,-9.289,0.0497,107.038,0.426,47
+Warrior Songs,7,2NRb724pEhqGJ2rY9i0v1S,Kingdom Come,spotify:track:2NRb724pEhqGJ2rY9i0v1S,5.63e-05,0.235,0.681,0.868,0.519,-4.603,0.045,171.94,0.471,41
+Warrior Songs,8,7F7mDSgLJvgmwELyZLkVrL,Mad Moon Falling,spotify:track:7F7mDSgLJvgmwELyZLkVrL,2.69e-05,0.386,0.711,0.645,0.759,-7.268,0.0454,150.046,0.471,41
+Warrior Songs,9,76hG5A7lYhHDcQ9oCFynme,Threnody,spotify:track:76hG5A7lYhHDcQ9oCFynme,0.638,0.27,0.515,0.857,0.114,-8.26,0.0272,82.399,0.174,40
+Warrior Songs,10,4JgqMfllrp8QG4iEvdWq8P,Envelope,spotify:track:4JgqMfllrp8QG4iEvdWq8P,0.00672,0.568,0.868,0.274,0.0881,-5.505,0.0375,94.992,0.26,46
+Warrior Songs,11,31VLf5Z3tlGo8pUcZBikOq,Reminiscence,spotify:track:31VLf5Z3tlGo8pUcZBikOq,0.188,0.183,0.501,0.859,0.104,-8.603,0.0319,117.644,0.0761,40
+Warrior Songs,12,3tUNDenFxQ5Mz7zQRF4gr1,Afterlife,spotify:track:3tUNDenFxQ5Mz7zQRF4gr1,0.189,0.694,0.724,0.81,0.0888,-9.11,0.0645,164.012,0.819,41
