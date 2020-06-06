@@ -1,0 +1,229 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+Live At Shea Stadium,1,61pLwF1neHTLlILQ2c9sHJ,Kosmo Vinyl Introduction,spotify:track:61pLwF1neHTLlILQ2c9sHJ,0.876,0.432,0.99,0.0139,0.982,-5.58,0.818,104.466,0.123,3
+Live At Shea Stadium,2,1Xg5EGZInHvfT95Cp0l2w8,London Calling - Live,spotify:track:1Xg5EGZInHvfT95Cp0l2w8,0.0223,0.424,0.981,0.000632,0.891,-2.469,0.086,144.406,0.352,7
+Live At Shea Stadium,3,5glwfm8YSNa0DM07aizXUr,Police on my Back - Live,spotify:track:5glwfm8YSNa0DM07aizXUr,0.0298,0.41,0.993,0.0,0.957,-2.296,0.278,148.136,0.182,7
+Live At Shea Stadium,4,5KizT5OSk8dPwMZOx9NrN8,The Guns of Brixton - Live,spotify:track:5KizT5OSk8dPwMZOx9NrN8,0.00545,0.585,0.959,5.07e-05,0.632,-4.07,0.0504,114.084,0.598,5
+Live At Shea Stadium,5,3qg7nc4IwEBbq1j4jk4rKI,Tommy Gun - Live,spotify:track:3qg7nc4IwEBbq1j4jk4rKI,0.0028,0.246,0.963,0.0,0.91,-3.772,0.0602,165.032,0.609,4
+Live At Shea Stadium,6,4sCaXLAQ7D7nRiX4i8egfo,Magnificent Seven - Live,spotify:track:4sCaXLAQ7D7nRiX4i8egfo,0.0324,0.654,0.925,0.0,0.128,-4.555,0.107,132.077,0.701,5
+Live At Shea Stadium,7,1m7HrLhNSLDURO54EMNUvi,Armagideon Time - Live,spotify:track:1m7HrLhNSLDURO54EMNUvi,0.0205,0.653,0.749,0.0,0.255,-4.38,0.0338,87.708,0.403,3
+Live At Shea Stadium,8,11USefPvaC2aCsQ7MV1Vj1,Magnificent Seven (Return) - Live,spotify:track:11USefPvaC2aCsQ7MV1Vj1,0.025,0.618,0.954,0.0,0.879,-3.865,0.061,132.029,0.632,3
+Live At Shea Stadium,9,5BQ5JG6WDFKK8xmosP4sjJ,Rock the Casbah - Live,spotify:track:5BQ5JG6WDFKK8xmosP4sjJ,0.101,0.385,0.993,0.0,0.878,-3.29,0.12,139.014,0.283,6
+Live At Shea Stadium,10,0e9j0bZVxQiNibN7Qdy6RT,Train in Vain - Live,spotify:track:0e9j0bZVxQiNibN7Qdy6RT,0.155,0.614,0.984,3.63e-05,0.829,-2.234,0.129,127.907,0.481,6
+Live At Shea Stadium,11,3gt0gpzKPtmfux2CoH5PzH,Career Opportunities - Live,spotify:track:3gt0gpzKPtmfux2CoH5PzH,0.0142,0.25,0.968,0.0,0.98,-2.434,0.0714,173.059,0.754,3
+Live At Shea Stadium,12,2l4hzOWu2r2lbVastMzLT0,Spanish Bombs - Live,spotify:track:2l4hzOWu2r2lbVastMzLT0,0.204,0.412,0.968,0.0,0.98,-3.281,0.0531,144.519,0.588,4
+Live At Shea Stadium,13,119Lx4bO55zEnwUq1jOV7E,Clampdown - Live,spotify:track:119Lx4bO55zEnwUq1jOV7E,0.0321,0.393,0.951,0.0,0.678,-3.73,0.124,149.615,0.581,4
+Live At Shea Stadium,14,66DYoKdFLaIMqh28wyDSif,English Civil War - Live,spotify:track:66DYoKdFLaIMqh28wyDSif,0.051,0.27,0.949,0.0,0.546,-4.072,0.105,163.239,0.256,3
+Live At Shea Stadium,15,5C3qJNQwf3pMkJCze68e14,Should I Stay or Should I Go - Live,spotify:track:5C3qJNQwf3pMkJCze68e14,0.0083,0.36,0.963,0.0,0.397,-3.839,0.124,131.362,0.688,10
+Live At Shea Stadium,16,7K8a0mjHT5ePtXPzAKNoEq,I Fought the Law - Live,spotify:track:7K8a0mjHT5ePtXPzAKNoEq,0.0151,0.222,0.99,2.79e-06,0.985,-3.834,0.164,161.72,0.477,8
+Live at Shea Stadium (Remastered),1,4ADBECleY1W07PUKeKbsBN,Kosmo Vinyl Introduction (Live at Shea Stadium) [Remastered],spotify:track:4ADBECleY1W07PUKeKbsBN,0.877,0.466,0.981,0.0076,0.983,-6.364,0.825,73.947,0.096,36
+Live at Shea Stadium (Remastered),2,4IYMOuGYUvxNxnTwG4ZbFy,London Calling (Live at Shea Stadium) [Remastered],spotify:track:4IYMOuGYUvxNxnTwG4ZbFy,0.019,0.435,0.973,0.000433,0.872,-3.141,0.0781,144.394,0.375,33
+Live at Shea Stadium (Remastered),3,22ngBujvyyVNS3LqG4L5gg,Police on My Back (Live at Shea Stadium) [Remastered],spotify:track:22ngBujvyyVNS3LqG4L5gg,0.0292,0.416,0.993,0.0,0.958,-2.641,0.227,148.844,0.207,32
+Live at Shea Stadium (Remastered),4,42E9jnRWssvI9Fxun5xTpi,The Guns of Brixton (Live at Shea Stadium) [Remastered],spotify:track:42E9jnRWssvI9Fxun5xTpi,0.00502,0.592,0.951,3.74e-05,0.632,-4.542,0.0499,114.156,0.593,31
+Live at Shea Stadium (Remastered),5,7BZMn50FhmQKcsJa069q7T,Tommy Gun (Live at Shea Stadium) [Remastered],spotify:track:7BZMn50FhmQKcsJa069q7T,0.00402,0.248,0.966,0.0,0.942,-3.903,0.0717,165.037,0.585,29
+Live at Shea Stadium (Remastered),6,1RmAEeUYBefgqcv3Tm6wyW,The Magnificent Seven (Live at Shea Stadium) [Remastered],spotify:track:1RmAEeUYBefgqcv3Tm6wyW,0.0266,0.661,0.92,0.0,0.14,-5.055,0.0934,132.091,0.697,29
+Live at Shea Stadium (Remastered),7,5DjSs3Z4fQJ5DgYY2LDRnw,Armagideon Time (Live at Shea Stadium) [Remastered],spotify:track:5DjSs3Z4fQJ5DgYY2LDRnw,0.0258,0.533,0.725,0.0,0.264,-4.963,0.0516,175.473,0.424,28
+Live at Shea Stadium (Remastered),8,3gjACwxfyBfGBHB2ju0wVc,Magnificent Seven (Return) (Live at Shea Stadium) [Remastered],spotify:track:3gjACwxfyBfGBHB2ju0wVc,0.0222,0.625,0.95,0.0,0.885,-4.407,0.0643,132.038,0.571,28
+Live at Shea Stadium (Remastered),9,1Rwbxh5So0dUY3WBCxAWYA,Rock the Casbah (Live at Shea Stadium) [Remastered],spotify:track:1Rwbxh5So0dUY3WBCxAWYA,0.0994,0.396,0.992,0.0,0.825,-3.837,0.124,139.075,0.301,30
+Live at Shea Stadium (Remastered),10,23nKfrMDxXcmGrI0dO5tYy,Train in Vain (Live at Shea Stadium) [Remastered],spotify:track:23nKfrMDxXcmGrI0dO5tYy,0.147,0.62,0.981,4.58e-05,0.757,-2.655,0.124,127.771,0.487,30
+Live at Shea Stadium (Remastered),11,53i3MBMuPy9mzfTL5Gavyq,Career Opportunities (Live at Shea Stadium) [Remastered],spotify:track:53i3MBMuPy9mzfTL5Gavyq,0.0142,0.255,0.957,0.0,0.975,-3.103,0.0656,173.018,0.746,28
+Live at Shea Stadium (Remastered),12,6fmP4qiEAPFbAxDpcC2AJt,Spanish Bombs (Live at Shea Stadium) [Remastered],spotify:track:6fmP4qiEAPFbAxDpcC2AJt,0.132,0.414,0.968,0.0,0.98,-3.397,0.0519,144.108,0.54,28
+Live at Shea Stadium (Remastered),13,5Hh1R3xrTnhphXCv0EHodC,Clampdown (Live at Shea Stadium) [Remastered],spotify:track:5Hh1R3xrTnhphXCv0EHodC,0.0293,0.402,0.946,0.0,0.658,-3.813,0.12,149.575,0.614,28
+Live at Shea Stadium (Remastered),14,1kZat5YRTegWVtmGlygLGS,English Civil War (Live at Shea Stadium) [Remastered],spotify:track:1kZat5YRTegWVtmGlygLGS,0.0364,0.289,0.947,0.0,0.515,-4.167,0.0939,158.383,0.234,26
+Live at Shea Stadium (Remastered),15,4hg7t6CAM0AJ362uxEIOMI,Should I Stay or Should I Go (Live at Shea Stadium) [Remastered],spotify:track:4hg7t6CAM0AJ362uxEIOMI,0.0133,0.352,0.972,0.0,0.512,-3.35,0.164,131.389,0.698,33
+Live at Shea Stadium (Remastered),16,4cWISFYi9uIagOxSDRIjWR,I Fought the Law (Live at Shea Stadium) [Remastered],spotify:track:4cWISFYi9uIagOxSDRIjWR,0.0134,0.214,0.991,1.5e-06,0.982,-3.181,0.168,161.98,0.46,29
+From Here To Eternity Live,1,00ymsQK7D5HXKCM8BTJoh6,Complete Control - Live,spotify:track:00ymsQK7D5HXKCM8BTJoh6,2.26e-05,0.239,0.926,0.000396,0.685,-5.589,0.0509,176.674,0.52,0
+From Here To Eternity Live,2,3QFJKGX6Dh2AkbTGnMpJme,London's Burning - Live,spotify:track:3QFJKGX6Dh2AkbTGnMpJme,0.00169,0.333,0.984,0.454,0.923,-4.979,0.13,165.246,0.512,0
+From Here To Eternity Live,3,1YNbMB25nQM2ScOB6EerCA,What's My Name - Live,spotify:track:1YNbMB25nQM2ScOB6EerCA,0.000208,0.347,0.991,0.00926,0.943,-4.843,0.13,92.811,0.15,0
+From Here To Eternity Live,4,4MHWOyPocdbjgbSJHrw5mc,Clash City Rockers - Live,spotify:track:4MHWOyPocdbjgbSJHrw5mc,0.000748,0.283,0.938,0.0,0.88,-5.976,0.084,163.102,0.531,0
+From Here To Eternity Live,6,7fU5YVMnysku1rANJ2u9Em,(White Man) in Hammersmith Palais - Live,spotify:track:7fU5YVMnysku1rANJ2u9Em,4.47e-05,0.592,0.821,1.68e-05,0.976,-7.697,0.0379,112.059,0.483,0
+From Here To Eternity Live,7,41GvZKJusAc7QB7I74A9Gl,Capital Radio - Live,spotify:track:41GvZKJusAc7QB7I74A9Gl,0.00176,0.394,0.967,3.44e-06,0.98,-6.682,0.073,96.253,0.466,0
+From Here To Eternity Live,8,68bxe84CfSqmVJS6rXhs8y,City of the Dead - Live,spotify:track:68bxe84CfSqmVJS6rXhs8y,0.000177,0.287,0.979,1.13e-05,0.865,-5.339,0.112,188.057,0.42,0
+From Here To Eternity Live,14,33FLS9hq5T3oaRFyVuYHpC,The Magnificent Seven - Live,spotify:track:33FLS9hq5T3oaRFyVuYHpC,0.00436,0.639,0.818,1.69e-05,0.935,-7.831,0.0585,132.403,0.543,0
+From Here To Eternity Live,15,6OAjfjMVZB66BO7CmtaRYs,Know Your Rights - Live,spotify:track:6OAjfjMVZB66BO7CmtaRYs,7.99e-05,0.483,0.927,1.09e-05,0.992,-6.117,0.0416,106.063,0.744,0
+From Here To Eternity Live,17,5FlFMqrGMofY2m0F4REhXq,Straight to Hell - Live,spotify:track:5FlFMqrGMofY2m0F4REhXq,0.0157,0.555,0.515,0.0024,0.931,-11.406,0.0462,97.535,0.475,0
+From Here to Eternity (Live) [Remastered],1,60SeYQkfxKAk6PNN4LmhLp,Complete Control (Live) [Remastered],spotify:track:60SeYQkfxKAk6PNN4LmhLp,2.54e-05,0.241,0.9,0.000716,0.689,-6.414,0.0432,176.694,0.456,29
+From Here to Eternity (Live) [Remastered],2,1NQ83ThQtQ4gXFWTgdBR09,London's Burning (Live) [Remastered],spotify:track:1NQ83ThQtQ4gXFWTgdBR09,0.00228,0.34,0.978,0.33,0.985,-5.845,0.17,165.421,0.467,27
+From Here to Eternity (Live) [Remastered],3,0PEon5SelVliZFciBoAhdK,What's My Name (Live) [Remastered],spotify:track:0PEon5SelVliZFciBoAhdK,0.000244,0.211,0.989,0.0174,0.955,-5.768,0.287,185.33,0.193,26
+From Here to Eternity (Live) [Remastered],4,3gzvBj29dXS3OW6mezSbZs,Clash City Rockers (Live) [Remastered],spotify:track:3gzvBj29dXS3OW6mezSbZs,0.000546,0.293,0.906,0.0,0.704,-6.954,0.083,163.169,0.467,26
+From Here to Eternity (Live) [Remastered],5,7gBD27I9wbSljZWrr4PVAz,Career Opportunities (Live) [Remastered],spotify:track:7gBD27I9wbSljZWrr4PVAz,0.00548,0.308,0.969,0.0,0.97,-6.066,0.0417,173.182,0.774,26
+From Here to Eternity (Live) [Remastered],6,1JgVSb8JseyOWFUwKhli12,(White Man) in Hammersmith Palais (Live) [Remastered],spotify:track:1JgVSb8JseyOWFUwKhli12,3.99e-05,0.602,0.77,8.44e-06,0.986,-7.867,0.0329,112.109,0.534,28
+From Here to Eternity (Live) [Remastered],7,7l5RIM4bsBYNgS4iaJBTgw,Capital Radio (Live) [Remastered],spotify:track:7l5RIM4bsBYNgS4iaJBTgw,0.0014,0.422,0.953,6.46e-06,0.909,-7.113,0.065,95.156,0.525,35
+From Here to Eternity (Live) [Remastered],8,744eHv8kvVhIYc4le3NEvt,City of the Dead (Live) [Remastered],spotify:track:744eHv8kvVhIYc4le3NEvt,0.000115,0.448,0.967,1.66e-05,0.947,-6.82,0.0655,93.9,0.574,34
+From Here to Eternity (Live) [Remastered],9,5NCT0EmBPB52uOMNB8I2OX,I Fought the Law (Live) [Remastered],spotify:track:5NCT0EmBPB52uOMNB8I2OX,0.000417,0.344,0.944,1.63e-06,0.687,-7.289,0.126,154.232,0.22,27
+From Here to Eternity (Live) [Remastered],10,0t5UjVdtcFqm5zuaBRGfwL,London Calling (Live) [Remastered],spotify:track:0t5UjVdtcFqm5zuaBRGfwL,1.06e-05,0.389,0.9,0.000375,0.983,-7.945,0.0474,142.162,0.432,27
+From Here to Eternity (Live) [Remastered],11,6xYMNNd12AjeTRI17dQcdJ,Armagideon Time (Live) [Remastered],spotify:track:6xYMNNd12AjeTRI17dQcdJ,0.012,0.39,0.845,0.000494,0.99,-9.454,0.113,152.478,0.575,25
+From Here to Eternity (Live) [Remastered],12,5wQHhucJ34AZ8usOTyhOPb,Train in Vain (Live) [Remastered],spotify:track:5wQHhucJ34AZ8usOTyhOPb,4.71e-05,0.553,0.804,0.0468,0.987,-8.718,0.0364,130.473,0.578,27
+From Here to Eternity (Live) [Remastered],13,7ajoqxCxQRZAI4wO0BFlmU,The Guns of Brixton (Live) [Remastered],spotify:track:7ajoqxCxQRZAI4wO0BFlmU,3.39e-05,0.565,0.826,0.0945,0.993,-9.183,0.0317,110.2,0.487,27
+From Here to Eternity (Live) [Remastered],14,4YXJUC7J5UNHr8iIKaXMpN,The Magnificent Seven (Live) [Remastered],spotify:track:4YXJUC7J5UNHr8iIKaXMpN,0.00471,0.643,0.775,1.25e-05,0.955,-8.868,0.073,132.478,0.529,25
+From Here to Eternity (Live) [Remastered],15,15eZn8GrNu0BLlqPNxfI1b,Know Your Rights (Live) [Remastered],spotify:track:15eZn8GrNu0BLlqPNxfI1b,7.75e-05,0.501,0.912,1.24e-05,0.987,-6.742,0.0364,106.277,0.79,24
+From Here to Eternity (Live) [Remastered],16,2EVloocoHsflqAJtjwfO2U,Should I Stay or Should I Go (Live) [Remastered],spotify:track:2EVloocoHsflqAJtjwfO2U,0.00143,0.291,0.973,1.65e-05,0.972,-6.366,0.181,128.227,0.393,33
+From Here to Eternity (Live) [Remastered],17,6DEMfWQAFBZhY97c0t7ZxI,Straight to Hell (Live) [Remastered],spotify:track:6DEMfWQAFBZhY97c0t7ZxI,0.0225,0.555,0.467,0.0192,0.736,-12.312,0.0473,97.807,0.414,26
+From Here to Eternity (Live) [Remastered],18,2WHxUMffM6nNZuaYXlY1Hg,Drug-Stabbing Time (Live) [Remastered],spotify:track:2WHxUMffM6nNZuaYXlY1Hg,0.00034,0.219,0.982,2.91e-06,0.897,-7.384,0.159,177.759,0.179,21
+From Here to Eternity (Live) [Remastered],19,4kGzqLiY0z7TnJu0iHuMIo,Janie Jones (Live) [Remastered],spotify:track:4kGzqLiY0z7TnJu0iHuMIo,0.00287,0.268,0.935,0.0,0.988,-7.84,0.0903,196.498,0.483,24
+Raw and Unfiltered,1,17wx3nLiHMgCsee4jeV4Qo,5% of the Audience Understands,spotify:track:17wx3nLiHMgCsee4jeV4Qo,0.949,0.667,0.456,0.0,0.158,-18.529,0.705,81.345,0.463,18
+Raw and Unfiltered,2,7n6964vLNHuubV0kNca3ov,Being Duped by an Industrialized Society,spotify:track:7n6964vLNHuubV0kNca3ov,0.963,0.711,0.572,1.26e-06,0.276,-16.213,0.913,64.044,0.499,17
+Raw and Unfiltered,3,0N8zFOoYXq57hYkKAJtx69,Categorizing Music,spotify:track:0N8zFOoYXq57hYkKAJtx69,0.951,0.668,0.474,0.0,0.31,-15.035,0.899,79.929,0.719,17
+Raw and Unfiltered,4,5StsmtLjInAtjL8EqKKgZc,Desiring to Make People Think,spotify:track:5StsmtLjInAtjL8EqKKgZc,0.98,0.711,0.431,0.0,0.161,-18.194,0.896,96.16,0.667,16
+Raw and Unfiltered,5,7uEAkXWCsmzQcquphkzAgZ,Have and Have Nots,spotify:track:7uEAkXWCsmzQcquphkzAgZ,0.919,0.743,0.399,0.0,0.732,-15.182,0.643,102.273,0.785,16
+Raw and Unfiltered,6,3TraNAT9u9x7GtEiPc6Mhd,Having an Image,spotify:track:3TraNAT9u9x7GtEiPc6Mhd,0.474,0.61,0.575,0.0,0.625,-13.761,0.904,100.047,0.811,15
+Raw and Unfiltered,7,7qUR4ZMKflXKb8xcwX9YBD,Having Fans Backstage,spotify:track:7qUR4ZMKflXKb8xcwX9YBD,0.931,0.672,0.43,0.0,0.423,-16.062,0.914,65.84,0.7,14
+Raw and Unfiltered,8,7aZ3bXKwGtZUlQevgpwqkT,Image Working For and Against You,spotify:track:7aZ3bXKwGtZUlQevgpwqkT,0.937,0.631,0.366,0.0,0.56,-16.999,0.918,137.049,0.957,14
+Raw and Unfiltered,9,7uilpc3DYOdTM49VeuQIut,Not Having Guts to Fight The System,spotify:track:7uilpc3DYOdTM49VeuQIut,0.852,0.694,0.469,0.0,0.361,-17.285,0.951,59.466,0.689,14
+Raw and Unfiltered,10,5TcaXTsrBc1sXymFLNgi5o,Punk and Rock,spotify:track:5TcaXTsrBc1sXymFLNgi5o,0.918,0.671,0.466,0.0,0.29,-16.33,0.895,49.73,0.917,15
+Raw and Unfiltered,11,5sGH1STH25LgrqWAWXVwrs,Punk Being Played by Youths,spotify:track:5sGH1STH25LgrqWAWXVwrs,0.954,0.563,0.425,0.0,0.39,-15.18,0.937,206.684,0.505,14
+Raw and Unfiltered,12,5L8QlPe3ERdZxs64U7lkU8,Requiring an Image,spotify:track:5L8QlPe3ERdZxs64U7lkU8,0.914,0.666,0.397,0.0,0.167,-15.477,0.897,60.373,0.73,14
+Raw and Unfiltered,13,1bDwiKj1PzHSxiDyh7mZVC,Salvador Dali Being an Individual,spotify:track:1bDwiKj1PzHSxiDyh7mZVC,0.851,0.762,0.511,0.0,0.213,-14.536,0.885,39.886,0.822,14
+Raw and Unfiltered,14,1EqoE8RiIc5y1RI7BRCljE,Saving Grace of the System,spotify:track:1EqoE8RiIc5y1RI7BRCljE,0.904,0.652,0.457,0.0,0.328,-15.343,0.906,116.254,0.741,14
+Cut The Crap,1,42VkqC1uIWCTJJmuWDReSG,Dictator,spotify:track:42VkqC1uIWCTJJmuWDReSG,0.132,0.553,0.733,0.0,0.343,-11.895,0.0414,146.344,0.808,23
+Cut The Crap,2,1r30Iz6qrNAXJFiQzQh1vH,Dirty Punk,spotify:track:1r30Iz6qrNAXJFiQzQh1vH,0.174,0.361,0.732,0.0,0.157,-12.129,0.0452,75.626,0.362,23
+Cut The Crap,3,2I4WKzFdwTPhLTJCJ1Hpvq,We are the Clash,spotify:track:2I4WKzFdwTPhLTJCJ1Hpvq,0.244,0.475,0.74,0.0,0.0863,-11.687,0.0415,138.701,0.761,24
+Cut The Crap,4,1jML613V7dIWv79HfuGpOT,Are You Red..Y,spotify:track:1jML613V7dIWv79HfuGpOT,0.0603,0.569,0.799,0.000477,0.261,-11.109,0.0395,133.411,0.888,21
+Cut The Crap,5,1GOi3aIb5jsZj3JrnXCn1J,Cool under Heat,spotify:track:1GOi3aIb5jsZj3JrnXCn1J,0.324,0.646,0.675,0.0,0.144,-13.299,0.0518,127.709,0.625,21
+Cut The Crap,6,3q2a2YN8rfRqX9V73brcYk,Movers and Shakers,spotify:track:3q2a2YN8rfRqX9V73brcYk,0.0503,0.56,0.831,0.0,0.149,-9.587,0.0476,146.913,0.771,21
+Cut The Crap,7,7p949cKSO5MDSjajSrAcfI,This is England,spotify:track:7p949cKSO5MDSjajSrAcfI,0.282,0.548,0.646,0.0,0.337,-12.438,0.0465,81.521,0.884,38
+Cut The Crap,8,1JmCnPCO1uwDqKrzGYcrLu,Three Card Trick,spotify:track:1JmCnPCO1uwDqKrzGYcrLu,0.0641,0.714,0.774,2.39e-05,0.164,-10.276,0.0381,145.262,0.974,22
+Cut The Crap,9,08bHqG3tUTdZo5FDZLnRZs,Play to Win,spotify:track:08bHqG3tUTdZo5FDZLnRZs,0.591,0.524,0.769,2.81e-05,0.233,-15.621,0.185,151.713,0.451,20
+Cut The Crap,10,6YwrFzHvj9TqEJwRuZ1Mow,Fingerpoppin',spotify:track:6YwrFzHvj9TqEJwRuZ1Mow,0.0466,0.66,0.837,0.000477,0.365,-9.929,0.0344,138.287,0.926,19
+Cut The Crap,11,0ZlFRuGgIPfBW529zVtO0U,North and South,spotify:track:0ZlFRuGgIPfBW529zVtO0U,0.032,0.566,0.577,0.000365,0.29,-11.53,0.0267,136.451,0.612,20
+Cut The Crap,12,2ZyrJIbyUNuDkfCe1OTtpS,Life is Wild,spotify:track:2ZyrJIbyUNuDkfCe1OTtpS,0.0821,0.507,0.759,0.0,0.0468,-10.603,0.0475,75.379,0.805,19
+Combat Rock,1,14qbIdozoV0jfBPTXRqeJM,Know Your Rights,spotify:track:14qbIdozoV0jfBPTXRqeJM,0.587,0.811,0.885,0.00326,0.305,-12.249,0.0568,110.212,0.465,0
+Combat Rock,2,5gdj6nm6zYppNHXXUZEOPX,Car Jamming,spotify:track:5gdj6nm6zYppNHXXUZEOPX,0.0113,0.685,0.597,0.0,0.0936,-12.674,0.0443,92.262,0.807,0
+Combat Rock,3,5oVd20ddRqp5yenSA0E6u1,Should I Stay or Should I Go,spotify:track:5oVd20ddRqp5yenSA0E6u1,0.259,0.722,0.794,0.0,0.788,-11.009,0.0655,112.61,0.799,21
+Combat Rock,4,4IMvgp0WZqr9mRqpEvDKxI,Rock the Casbah,spotify:track:4IMvgp0WZqr9mRqpEvDKxI,0.329,0.793,0.83,0.0,0.106,-12.055,0.0687,129.046,0.841,4
+Combat Rock,5,4gysftmaRCnwKURHMOexOP,Red Angel Dragnet,spotify:track:4gysftmaRCnwKURHMOexOP,0.117,0.764,0.627,6.73e-06,0.211,-13.454,0.109,137.602,0.768,0
+Combat Rock,6,42BvZoYcrRBCKw7ZHFzttj,Straight to Hell,spotify:track:42BvZoYcrRBCKw7ZHFzttj,0.108,0.642,0.527,1.94e-05,0.113,-15.985,0.118,178.153,0.741,0
+Combat Rock,7,1WvoaGxfnaNW1ojb2BMcEh,Overpowered by Funk,spotify:track:1WvoaGxfnaNW1ojb2BMcEh,0.148,0.755,0.791,0.00715,0.0314,-11.791,0.0432,125.613,0.925,0
+Combat Rock,8,7w0w50Tk1IWTgdRkrEchhe,Atom Tan,spotify:track:7w0w50Tk1IWTgdRkrEchhe,0.474,0.695,0.692,0.0,0.121,-11.889,0.0369,132.773,0.936,0
+Combat Rock,9,7Frj1SfxXfAtG6IvZELlDJ,Sean Flynn,spotify:track:7Frj1SfxXfAtG6IvZELlDJ,0.241,0.372,0.443,0.292,0.0589,-18.099,0.0751,186.449,0.42,0
+Combat Rock,10,6C3AJ5ns6XF2umbY7UgFJF,Ghetto Defendant,spotify:track:6C3AJ5ns6XF2umbY7UgFJF,0.158,0.694,0.518,0.0,0.0642,-13.396,0.055,136.567,0.705,0
+Combat Rock,11,2PvQybTcQcpxmUEKjJ19La,Inoculated City,spotify:track:2PvQybTcQcpxmUEKjJ19La,0.262,0.897,0.734,0.0,0.0611,-13.291,0.0439,131.516,0.905,0
+Combat Rock,12,22nDBu7CpjtGD8yXSAdgpY,Death is a Star,spotify:track:22nDBu7CpjtGD8yXSAdgpY,0.715,0.521,0.181,0.0174,0.695,-23.145,0.0457,118.635,0.489,0
+Combat Rock (Remastered),1,31l6t3Jq09uywRTVGbzant,Know Your Rights - Remastered,spotify:track:31l6t3Jq09uywRTVGbzant,0.22,0.814,0.964,1.77e-05,0.214,-7.538,0.0797,110.904,0.349,45
+Combat Rock (Remastered),2,3QcqUffnkbQGWJlfyaT3yF,Car Jamming - Remastered,spotify:track:3QcqUffnkbQGWJlfyaT3yF,0.00681,0.691,0.729,0.0,0.119,-7.717,0.0412,92.769,0.81,39
+Combat Rock (Remastered),3,39shmbIHICJ2Wxnk1fPSdz,Should I Stay or Should I Go - Remastered,spotify:track:39shmbIHICJ2Wxnk1fPSdz,0.079,0.742,0.833,0.0,0.384,-6.463,0.115,113.375,0.816,78
+Combat Rock (Remastered),4,56KqaFSGTb7ifpt16t5Y1N,Rock the Casbah - Remastered,spotify:track:56KqaFSGTb7ifpt16t5Y1N,0.287,0.796,0.872,0.0,0.284,-6.722,0.0573,129.894,0.866,72
+Combat Rock (Remastered),5,3AySFupxPGQWjauQfFXcr0,Red Angel Dragnet - Remastered,spotify:track:3AySFupxPGQWjauQfFXcr0,0.0323,0.759,0.729,0.0,0.275,-8.654,0.143,138.545,0.681,41
+Combat Rock (Remastered),6,2ax1vei61BzRGsEn6ckEdL,Straight to Hell - Remastered,spotify:track:2ax1vei61BzRGsEn6ckEdL,0.0466,0.802,0.595,1.14e-05,0.0695,-11.662,0.0607,90.273,0.708,57
+Combat Rock (Remastered),7,2KbnkNVzg8ubqK5wAXSxf1,Overpowered by Funk - Remastered,spotify:track:2KbnkNVzg8ubqK5wAXSxf1,0.113,0.778,0.829,0.000204,0.0351,-8.761,0.044,126.443,0.939,39
+Combat Rock (Remastered),8,5rL2E6ZlMJYMdV799HumhZ,Atom Tan - Remastered,spotify:track:5rL2E6ZlMJYMdV799HumhZ,0.382,0.714,0.702,0.0,0.128,-9.021,0.0382,133.658,0.934,36
+Combat Rock (Remastered),9,4AWJmxQP5DK2mpQvKecaUB,Sean Flynn - Remastered,spotify:track:4AWJmxQP5DK2mpQvKecaUB,0.346,0.383,0.471,0.386,0.092,-16.262,0.0829,187.192,0.387,36
+Combat Rock (Remastered),10,4WidRX7HuOreEGkQ6tKBBi,Ghetto Defendant - Remastered,spotify:track:4WidRX7HuOreEGkQ6tKBBi,0.0966,0.7,0.579,0.0,0.0483,-9.813,0.0521,137.379,0.623,42
+Combat Rock (Remastered),11,09dKenoVuQzPRQ8Anoo6we,Inoculated City - Remastered,spotify:track:09dKenoVuQzPRQ8Anoo6we,0.121,0.866,0.726,0.0,0.159,-9.069,0.0609,132.45,0.673,36
+Combat Rock (Remastered),12,4PY3mBItnv6YzN66Sq3Ci4,Death is a Star - Remastered,spotify:track:4PY3mBItnv6YzN66Sq3Ci4,0.723,0.519,0.228,0.00319,0.108,-19.665,0.0426,119.328,0.508,34
+Sandinista! (Remastered),1,3Ro71R8Vpy166E2PuQDSc8,The Magnificent Seven - Remastered,spotify:track:3Ro71R8Vpy166E2PuQDSc8,0.0604,0.799,0.789,0.0,0.0338,-8.208,0.0396,116.081,0.832,54
+Sandinista! (Remastered),2,3F8ddXLIHVLdunzh6fLvKs,Hitsville U.K. - Remastered,spotify:track:3F8ddXLIHVLdunzh6fLvKs,0.0219,0.613,0.957,3.23e-06,0.158,-6.74,0.0388,100.469,0.715,44
+Sandinista! (Remastered),3,3MoCVkwtFocSsZktSMCxBn,Junco Partner - Remastered,spotify:track:3MoCVkwtFocSsZktSMCxBn,0.0914,0.78,0.748,2.54e-05,0.119,-7.791,0.0707,151.625,0.956,36
+Sandinista! (Remastered),4,5AgPt7TyfdqeCYXvDVqqJF,Ivan Meets G.I. Joe - Remastered,spotify:track:5AgPt7TyfdqeCYXvDVqqJF,0.00675,0.485,0.944,0.000321,0.339,-7.235,0.128,134.754,0.514,34
+Sandinista! (Remastered),5,1HEcT04aFqXJt27hdTQ9nB,The Leader - Remastered,spotify:track:1HEcT04aFqXJt27hdTQ9nB,0.255,0.678,0.843,1.91e-06,0.345,-8.669,0.0517,112.328,0.678,34
+Sandinista! (Remastered),6,6vcKP14og5S4RTvPRZcEzJ,Something About England - Remastered,spotify:track:6vcKP14og5S4RTvPRZcEzJ,0.149,0.648,0.72,0.0,0.105,-8.801,0.0402,136.413,0.672,34
+Sandinista! (Remastered),7,1gtM2p4GfNEHKa1QahYEPY,Rebel Waltz - Remastered,spotify:track:1gtM2p4GfNEHKa1QahYEPY,0.77,0.625,0.458,3.41e-05,0.215,-11.896,0.0462,142.871,0.367,35
+Sandinista! (Remastered),8,6DoDrK2FfgtP5cNvifygqL,Look Here - Remastered,spotify:track:6DoDrK2FfgtP5cNvifygqL,0.0379,0.517,0.88,0.37,0.17,-10.337,0.0398,116.24,0.678,31
+Sandinista! (Remastered),9,38g7tXCIzJCHQR72Q1xN40,The Crooked Beat - Remastered,spotify:track:38g7tXCIzJCHQR72Q1xN40,0.128,0.724,0.49,0.00453,0.542,-11.798,0.321,148.653,0.595,32
+Sandinista! (Remastered),10,6izEYubQaf7odJ46scKEzr,Somebody Got Murdered - Remastered,spotify:track:6izEYubQaf7odJ46scKEzr,0.000681,0.486,0.939,0.00468,0.0861,-7.678,0.0612,158.286,0.72,42
+Sandinista! (Remastered),11,14Bh5lF07ELH1gzD5wyV7A,One More Time - Remastered,spotify:track:14Bh5lF07ELH1gzD5wyV7A,0.00551,0.738,0.608,0.0,0.264,-10.077,0.0353,131.886,0.951,35
+Sandinista! (Remastered),12,1yEiS263lJH8kg7PXRf3cM,One More Dub - Remastered,spotify:track:1yEiS263lJH8kg7PXRf3cM,0.000476,0.744,0.569,0.67,0.262,-12.589,0.0326,131.764,0.935,33
+Sandinista! (Remastered),13,4DmbZ96tQFGJKyDfAYe6cQ,Lightning Strikes (Not Once but Twice) - Remastered,spotify:track:4DmbZ96tQFGJKyDfAYe6cQ,0.00945,0.712,0.908,1.49e-06,0.0778,-7.557,0.116,113.371,0.323,32
+Sandinista! (Remastered),14,5GzymV79vAt93PdiXJNCYU,Up In Heaven (Not Only Here) - Remastered,spotify:track:5GzymV79vAt93PdiXJNCYU,0.00179,0.435,0.888,9.38e-05,0.198,-7.408,0.085,151.88,0.579,32
+Sandinista! (Remastered),15,73iY5o9LrQvOSCwsu8NH3D,Corner Soul - Remastered,spotify:track:73iY5o9LrQvOSCwsu8NH3D,0.115,0.664,0.664,0.0,0.441,-7.536,0.0279,135.906,0.85,31
+Sandinista! (Remastered),16,3GVL86AqwHF7jqNotrZnZ8,Let's Go Crazy - Remastered,spotify:track:3GVL86AqwHF7jqNotrZnZ8,0.264,0.518,0.749,1.04e-05,0.0876,-8.984,0.205,144.174,0.965,31
+Sandinista! (Remastered),17,12W29FkcVVWgpu6NdN2mNA,If Music Could Talk - Remastered,spotify:track:12W29FkcVVWgpu6NdN2mNA,0.0394,0.617,0.62,0.0155,0.106,-12.06,0.034,142.383,0.926,31
+Sandinista! (Remastered),18,6A7eM5r5Yt8XyZE67CGhAt,The Sound of Sinners - Remastered,spotify:track:6A7eM5r5Yt8XyZE67CGhAt,0.47,0.487,0.809,0.0,0.108,-8.018,0.0588,97.138,0.453,31
+Sandinista! (Remastered),19,3lILuFinx7CFaYXJ6FWz54,Police On My Back - Remastered,spotify:track:3lILuFinx7CFaYXJ6FWz54,0.000631,0.554,0.853,5.01e-06,0.327,-6.712,0.0406,146.039,0.889,56
+Sandinista! (Remastered),20,1iO8y8VhSpT27nCLwyoGuE,Midnight Log - Remastered,spotify:track:1iO8y8VhSpT27nCLwyoGuE,0.00269,0.518,0.858,8.84e-05,0.0492,-9.679,0.0826,90.661,0.883,30
+Sandinista! (Remastered),21,6DZcSMUBQxw7bDLPPnFPsz,The Equaliser - Remastered,spotify:track:6DZcSMUBQxw7bDLPPnFPsz,0.0377,0.597,0.686,0.00169,0.701,-10.569,0.0738,134.714,0.614,31
+Sandinista! (Remastered),22,1DVZCooCJVp4DmCteQ5XlM,The Call Up - Remastered,spotify:track:1DVZCooCJVp4DmCteQ5XlM,0.0155,0.817,0.911,0.0,0.045,-7.831,0.0346,120.283,0.966,39
+Sandinista! (Remastered),23,6vkYJbpPG8WOxv8MlbDPmw,Washington Bullets - Remastered,spotify:track:6vkYJbpPG8WOxv8MlbDPmw,0.443,0.686,0.688,0.00628,0.0919,-9.747,0.0446,93.094,0.751,34
+Sandinista! (Remastered),24,6olW9Q4qX8ztoSYLr3UXUp,Broadway - Remastered,spotify:track:6olW9Q4qX8ztoSYLr3UXUp,0.336,0.454,0.482,0.000151,0.0783,-10.802,0.101,127.912,0.415,29
+Sandinista! (Remastered),25,0TQwoYnLVBiIEmaMFbzOEc,Lose This Skin - Remastered,spotify:track:0TQwoYnLVBiIEmaMFbzOEc,0.04,0.528,0.925,0.0298,0.233,-7.034,0.0461,120.362,0.602,31
+Sandinista! (Remastered),26,5T4j3Uv33fQO7tsR2lMl4y,Charlie Don't Surf - Remastered,spotify:track:5T4j3Uv33fQO7tsR2lMl4y,0.0976,0.51,0.595,0.0176,0.338,-11.021,0.0378,131.761,0.64,55
+Sandinista! (Remastered),27,2ERZEPRStqa67C53ZRKez6,Mensforth Hill - Remastered,spotify:track:2ERZEPRStqa67C53ZRKez6,0.51,0.282,0.889,0.546,0.151,-11.414,0.422,135.951,0.349,27
+Sandinista! (Remastered),28,7z42uUcxK5Wc1V33cZhEYk,Junkie Slip - Remastered,spotify:track:7z42uUcxK5Wc1V33cZhEYk,0.115,0.614,0.577,0.000203,0.103,-12.287,0.149,177.029,0.72,27
+Sandinista! (Remastered),29,1KmFDz4mysLC5wRCGyQ8yg,Kingston Advice - Remastered,spotify:track:1KmFDz4mysLC5wRCGyQ8yg,0.102,0.692,0.772,2.75e-06,0.337,-8.061,0.053,128.408,0.663,27
+Sandinista! (Remastered),30,1mnGPUix2Pv3dwSuFOM6xN,The Street Parade - Remastered,spotify:track:1mnGPUix2Pv3dwSuFOM6xN,0.198,0.707,0.62,0.829,0.832,-11.033,0.0415,131.059,0.72,28
+Sandinista! (Remastered),31,0GV33Kz4kv09pcI6ns4Jj5,Version City - Remastered,spotify:track:0GV33Kz4kv09pcI6ns4Jj5,0.14,0.667,0.643,0.016,0.104,-10.328,0.0597,117.103,0.632,27
+Sandinista! (Remastered),32,2ZkQ80gcgvq5EZIolFBBIk,Living In Fame - Remastered,spotify:track:2ZkQ80gcgvq5EZIolFBBIk,0.0107,0.628,0.583,0.00172,0.674,-12.058,0.0681,142.963,0.837,27
+Sandinista! (Remastered),33,4sTjmEC9DIxvOGmp4Lebhf,Silicone On Sapphire - Remastered,spotify:track:4sTjmEC9DIxvOGmp4Lebhf,0.0492,0.39,0.895,0.199,0.341,-6.3,0.129,185.286,0.537,26
+Sandinista! (Remastered),34,5E3grtVCBXW9IX5wlSQWQK,Version Pardner - Remastered,spotify:track:5E3grtVCBXW9IX5wlSQWQK,0.0132,0.786,0.597,0.0778,0.502,-10.601,0.115,75.728,0.778,27
+Sandinista! (Remastered),36,42t2PlVSDQQ1DTIZC2IP9V,Shepherds Delight - Remastered,spotify:track:42t2PlVSDQQ1DTIZC2IP9V,0.701,0.646,0.328,0.86,0.112,-14.522,0.0416,124.69,0.661,26
+London Calling (Legacy Edition),1,124Y9LPRCAz3q2OP0iCvcJ,London Calling,spotify:track:124Y9LPRCAz3q2OP0iCvcJ,0.0706,0.654,0.799,0.0,0.0844,-6.92,0.0501,133.731,0.755,39
+London Calling (Legacy Edition),2,7aN5Dd1mTrZei6Tt6ZhzI2,Brand New Cadillac,spotify:track:7aN5Dd1mTrZei6Tt6ZhzI2,0.0088,0.523,0.875,3.87e-05,0.131,-6.234,0.0617,151.586,0.878,34
+London Calling (Legacy Edition),3,1m7FqT4YSx8UxMUlv46ByF,Jimmy Jazz,spotify:track:1m7FqT4YSx8UxMUlv46ByF,0.00172,0.531,0.423,3.55e-06,0.309,-10.872,0.0992,128.754,0.55,33
+London Calling (Legacy Edition),4,09MPuFHtmIcs8OCezfM9JO,Hateful,spotify:track:09MPuFHtmIcs8OCezfM9JO,0.0312,0.606,0.879,0.0,0.394,-6.617,0.0431,114.105,0.786,34
+London Calling (Legacy Edition),5,4ZwPaJ0MtjFQRxJYRWUOjJ,Rudie Can't Fail,spotify:track:4ZwPaJ0MtjFQRxJYRWUOjJ,0.00183,0.642,0.706,1.05e-06,0.156,-8.302,0.0476,96.989,0.702,37
+London Calling (Legacy Edition),6,6aLCZUnreez0cBOjKNeLDH,Spanish Bombs,spotify:track:6aLCZUnreez0cBOjKNeLDH,0.0214,0.616,0.776,0.0,0.178,-7.929,0.0366,149.017,0.731,37
+London Calling (Legacy Edition),7,10MjGkQc2X5FrOcsXjGgnB,The Right Profile,spotify:track:10MjGkQc2X5FrOcsXjGgnB,0.0515,0.546,0.825,0.0,0.222,-6.678,0.0817,140.707,0.83,32
+London Calling (Legacy Edition),8,1GeId1N0DtmTpIfwr9aNQR,Lost in the Supermarket,spotify:track:1GeId1N0DtmTpIfwr9aNQR,0.0219,0.61,0.594,0.00127,0.0592,-10.927,0.0725,147.512,0.798,38
+London Calling (Legacy Edition),9,2OuXl8wNAmR7JK4Sv94xQd,Clampdown,spotify:track:2OuXl8wNAmR7JK4Sv94xQd,0.0397,0.678,0.683,8.13e-05,0.287,-7.995,0.111,145.345,0.833,36
+London Calling (Legacy Edition),10,1d0RJmZXAncCnTYHFlhaj4,The Guns of Brixton,spotify:track:1d0RJmZXAncCnTYHFlhaj4,0.00254,0.745,0.604,0.0492,0.116,-9.311,0.0949,96.514,0.648,37
+London Calling (Legacy Edition),11,5vj1i8kifAFtzrEfWgUPA5,Wrong 'Em Boyo,spotify:track:5vj1i8kifAFtzrEfWgUPA5,0.00563,0.498,0.709,0.0,0.322,-8.328,0.0327,148.108,0.87,31
+London Calling (Legacy Edition),12,42L6ngjyn9f7kAtZwUmHQ9,Death or Glory,spotify:track:42L6ngjyn9f7kAtZwUmHQ9,0.0299,0.676,0.845,0.0,0.161,-7.058,0.0456,137.556,0.784,34
+London Calling (Legacy Edition),13,0HYh2bbw7zbKnfVjRVIDVQ,Koka Kola,spotify:track:0HYh2bbw7zbKnfVjRVIDVQ,0.0823,0.495,0.762,0.0,0.38,-7.558,0.106,162.394,0.943,30
+London Calling (Legacy Edition),14,3E1pzieZ3mm0bRjChBcOc0,The Card Cheat,spotify:track:3E1pzieZ3mm0bRjChBcOc0,0.0722,0.477,0.749,8.26e-05,0.053,-7.378,0.0541,143.452,0.449,30
+London Calling (Legacy Edition),15,5nKoCK2SIO2dE9m09sh58d,Lover's Rock,spotify:track:5nKoCK2SIO2dE9m09sh58d,0.0411,0.565,0.628,0.0,0.0763,-10.504,0.0416,127.394,0.896,29
+London Calling (Legacy Edition),16,2Tr8HkiWwZQLlenqfN5PPW,Four Horsemen,spotify:track:2Tr8HkiWwZQLlenqfN5PPW,0.028,0.478,0.91,0.0,0.453,-6.414,0.0934,141.094,0.766,28
+London Calling (Legacy Edition),17,0kKZHi7RpiZtYeKzuCUsza,I'm Not Down,spotify:track:0kKZHi7RpiZtYeKzuCUsza,0.00362,0.499,0.845,3.98e-05,0.168,-6.941,0.0797,137.24,0.822,30
+London Calling (Legacy Edition),18,2GYlBIwGbI0oPOtljA2Jt4,Revolution Rock,spotify:track:2GYlBIwGbI0oPOtljA2Jt4,0.00291,0.636,0.707,8e-06,0.139,-9.838,0.149,158.324,0.857,30
+London Calling (Legacy Edition),19,1PohsDevUY2TCKuwWknL29,Train in Vain,spotify:track:1PohsDevUY2TCKuwWknL29,0.111,0.768,0.744,5.09e-05,0.0863,-8.474,0.0444,122.772,0.965,38
+London Calling (Legacy Edition),3,2x6cyOuvP4nhQ5hAUU1LhY,Paul's Tune,spotify:track:2x6cyOuvP4nhQ5hAUU1LhY,0.87,0.727,0.195,0.831,0.113,-22.127,0.145,149.154,0.579,23
+London Calling (Legacy Edition),6,5sTGcpa0YIXoLNOubpyICU,"Koka Kola, Advertising & Cocaine",spotify:track:5sTGcpa0YIXoLNOubpyICU,0.821,0.589,0.411,0.0,0.151,-14.454,0.296,147.458,0.622,20
+London Calling (Legacy Edition),9,1HLQiEADv7tcaE6i3eAreU,Lonesome Me,spotify:track:1HLQiEADv7tcaE6i3eAreU,0.754,0.534,0.721,0.0512,0.333,-14.057,0.0545,113.736,0.559,20
+London Calling (Legacy Edition),10,2eOrcW2WFtGnENxK6rcrL8,The Police Walked in 4 Jazz,spotify:track:2eOrcW2WFtGnENxK6rcrL8,0.335,0.712,0.304,0.803,0.102,-20.685,0.119,132.779,0.701,20
+London Calling (Legacy Edition),12,1zvCnVw599fXBmIiw5FVQj,Up-Toon - Instrumental,spotify:track:1zvCnVw599fXBmIiw5FVQj,0.79,0.761,0.342,0.84,0.105,-18.103,0.19,136.632,0.526,19
+London Calling (Legacy Edition),13,0GDs8gVKVYvVqmPjgngGBL,Walking the Slidewalk,spotify:track:0GDs8gVKVYvVqmPjgngGBL,0.867,0.716,0.23,0.849,0.104,-20.367,0.0437,127.261,0.71,19
+London Calling (Legacy Edition),14,6Nf82bYdvVmf0uvckCZjxE,Where You Gonna Go (Soweto),spotify:track:6Nf82bYdvVmf0uvckCZjxE,0.71,0.78,0.139,0.672,0.127,-24.494,0.0595,125.932,0.665,19
+London Calling (Legacy Edition),15,64jpBxE4WWMfrCU2co7gqT,The Man In Me,spotify:track:64jpBxE4WWMfrCU2co7gqT,0.652,0.652,0.254,0.648,0.108,-19.522,0.0562,125.391,0.813,21
+London Calling (Legacy Edition),16,5RMZ1SzEAqm0MwaxhLOS68,Remote Control,spotify:track:5RMZ1SzEAqm0MwaxhLOS68,0.462,0.379,0.404,0.217,0.125,-14.985,0.0276,157.115,0.797,19
+London Calling (Legacy Edition),17,1tQZDYnLhvIku4mEy1c1Ul,Working and Waiting,spotify:track:1tQZDYnLhvIku4mEy1c1Ul,0.542,0.637,0.761,0.85,0.0952,-11.486,0.0382,138.568,0.351,19
+London Calling (Legacy Edition),18,3XPkByciPVfg7izyxn7jo0,Heart and Mind,spotify:track:3XPkByciPVfg7izyxn7jo0,0.0399,0.546,0.679,0.0,0.076,-12.616,0.0461,149.14,0.921,18
+London Calling (Remastered),1,5jzma6gCzYtKB1DbEwFZKH,London Calling - Remastered,spotify:track:5jzma6gCzYtKB1DbEwFZKH,0.123,0.651,0.801,0.0,0.0825,-7.34,0.0513,133.763,0.776,73
+London Calling (Remastered),2,7FYkZkF9fog6WS818wJnhl,Brand New Cadillac - Remastered,spotify:track:7FYkZkF9fog6WS818wJnhl,0.0196,0.52,0.906,7.96e-05,0.0925,-6.534,0.0601,151.606,0.868,50
+London Calling (Remastered),3,06JxwPA4WAg0LWADJtaldL,Jimmy Jazz - Remastered,spotify:track:06JxwPA4WAg0LWADJtaldL,0.00554,0.528,0.397,3.64e-06,0.43,-12.024,0.0927,128.414,0.579,48
+London Calling (Remastered),4,2FNsNZjUQg3bhx5dWW0pRs,Hateful - Remastered,spotify:track:2FNsNZjUQg3bhx5dWW0pRs,0.0119,0.595,0.86,0.0,0.482,-6.723,0.0524,114.112,0.673,47
+London Calling (Remastered),5,4W9zZsQKsqikYbKM9vcN5Q,Rudie Can't Fail - Remastered,spotify:track:4W9zZsQKsqikYbKM9vcN5Q,0.00312,0.636,0.684,0.0,0.0402,-9.37,0.0594,96.988,0.684,51
+London Calling (Remastered),6,6wtmql7FJ7SSLuSw8JD8rX,Spanish Bombs - Remastered,spotify:track:6wtmql7FJ7SSLuSw8JD8rX,0.0459,0.609,0.798,0.0,0.21,-7.902,0.0345,149.047,0.77,53
+London Calling (Remastered),7,33GXePBlErinst4NjAvWuc,The Right Profile - Remastered,spotify:track:33GXePBlErinst4NjAvWuc,0.0605,0.555,0.806,0.0,0.183,-7.534,0.075,140.679,0.818,43
+London Calling (Remastered),8,72boGlgSwUK01n44O2tOCv,Lost in the Supermarket - Remastered,spotify:track:72boGlgSwUK01n44O2tOCv,0.0568,0.608,0.634,0.00568,0.116,-11.24,0.0725,147.514,0.841,58
+London Calling (Remastered),9,66MwdlxiFMZ8TJGLEJnS7x,Clampdown - Remastered,spotify:track:66MwdlxiFMZ8TJGLEJnS7x,0.06,0.676,0.723,8.72e-05,0.317,-7.61,0.0934,145.334,0.889,49
+London Calling (Remastered),10,0jnFDxgNhS156vu6roUVco,The Guns of Brixton - Remastered,spotify:track:0jnFDxgNhS156vu6roUVco,0.00501,0.739,0.613,0.124,0.095,-9.487,0.0856,96.493,0.677,58
+London Calling (Remastered),11,1bzfgbLPF3XTyDhmvoQ6uH,Wrong 'Em Boyo - Remastered,spotify:track:1bzfgbLPF3XTyDhmvoQ6uH,0.0129,0.495,0.735,0.0,0.726,-8.077,0.033,148.191,0.885,43
+London Calling (Remastered),12,3lUVy400HL94NB03paDTyN,Death or Glory - Remastered,spotify:track:3lUVy400HL94NB03paDTyN,0.0572,0.677,0.842,0.0,0.15,-7.28,0.0415,137.589,0.767,51
+London Calling (Remastered),13,1YvbtzUkXtgotCTo6QeqkW,Koka Kola - Remastered,spotify:track:1YvbtzUkXtgotCTo6QeqkW,0.0728,0.495,0.73,0.0,0.379,-8.009,0.107,162.321,0.918,42
+London Calling (Remastered),14,2zAwL5UwmqIh3JoKVkFvd8,The Card Cheat - Remastered,spotify:track:2zAwL5UwmqIh3JoKVkFvd8,0.22,0.485,0.759,6.44e-05,0.0562,-7.743,0.0489,143.409,0.508,43
+London Calling (Remastered),15,4A8jvQQ5EnKlTJIirMhgfA,Lover's Rock - Remastered,spotify:track:4A8jvQQ5EnKlTJIirMhgfA,0.0291,0.555,0.697,4.82e-06,0.0785,-8.615,0.0411,127.302,0.902,41
+London Calling (Remastered),16,2X89n7LOYnkKzfIlvi8sRp,Four Horsemen - Remastered,spotify:track:2X89n7LOYnkKzfIlvi8sRp,0.0585,0.467,0.917,0.0,0.467,-6.813,0.0835,141.069,0.813,40
+London Calling (Remastered),17,1eijsmCG81EUB5YGGAz6Yv,I'm Not Down - Remastered,spotify:track:1eijsmCG81EUB5YGGAz6Yv,0.00751,0.498,0.851,2.17e-05,0.228,-7.251,0.07,137.633,0.847,42
+London Calling (Remastered),18,4HNkcbObzBZnIlxB49GgrC,Revolution Rock - Remastered,spotify:track:4HNkcbObzBZnIlxB49GgrC,0.00306,0.638,0.702,5.68e-06,0.124,-10.341,0.159,158.441,0.863,45
+London Calling (Remastered),19,6ITuEsxEy2qPhqMowdDAeI,Train in Vain - Remastered,spotify:track:6ITuEsxEy2qPhqMowdDAeI,0.0922,0.761,0.722,0.000366,0.132,-8.712,0.0428,122.764,0.966,64
+Give 'Em Enough Rope (Remastered),1,7iiofeVKhJz7ZbcI2jFcPm,Safe European Home - Remastered,spotify:track:7iiofeVKhJz7ZbcI2jFcPm,0.0197,0.249,0.934,0.0,0.109,-6.62,0.0801,180.519,0.668,46
+Give 'Em Enough Rope (Remastered),2,6h54MGmPGmerDMBgHTgIA4,English Civil War - Remastered,spotify:track:6h54MGmPGmerDMBgHTgIA4,0.0392,0.297,0.933,0.0,0.0953,-5.373,0.263,159.636,0.28,41
+Give 'Em Enough Rope (Remastered),3,3ZhMxNCJcoYBj2wrO4VU3l,Tommy Gun - Remastered,spotify:track:3ZhMxNCJcoYBj2wrO4VU3l,0.0144,0.355,0.937,0.0,0.362,-5.737,0.0968,161.971,0.556,44
+Give 'Em Enough Rope (Remastered),4,2rUVY6uXm8J0IEr230B1L1,Julie's Been Working for the Drug Squad - Remastered,spotify:track:2rUVY6uXm8J0IEr230B1L1,0.0722,0.491,0.845,0.000126,0.0684,-5.756,0.185,174.96,0.831,40
+Give 'Em Enough Rope (Remastered),5,6bKE8NF82z1CVMfu0ZN8bu,Last Gang in Town - Remastered,spotify:track:6bKE8NF82z1CVMfu0ZN8bu,0.0174,0.469,0.971,0.0,0.0979,-5.908,0.061,148.691,0.482,32
+Give 'Em Enough Rope (Remastered),6,0FuigsRUH9SPy5MfhHb3TT,Guns On the Roof - Remastered,spotify:track:0FuigsRUH9SPy5MfhHb3TT,0.0347,0.582,0.855,7.42e-05,0.201,-5.818,0.158,145.551,0.723,32
+Give 'Em Enough Rope (Remastered),7,3TrpmIKzmn8BNZDMys2n72,Drug-Stabbing Time - Remastered,spotify:track:3TrpmIKzmn8BNZDMys2n72,0.0351,0.331,0.967,6.02e-06,0.355,-5.155,0.0676,170.847,0.63,31
+Give 'Em Enough Rope (Remastered),8,32rUsiLCvd1yZWr4UFUoiu,Stay Free - Remastered,spotify:track:32rUsiLCvd1yZWr4UFUoiu,0.115,0.517,0.858,0.000244,0.121,-6.03,0.0671,150.644,0.67,44
+Give 'Em Enough Rope (Remastered),9,5f5nnFLNinW5AD5HUgTS7Z,Cheapskates - Remastered,spotify:track:5f5nnFLNinW5AD5HUgTS7Z,0.0663,0.346,0.934,0.0,0.0738,-5.144,0.0981,159.781,0.614,30
+Give 'Em Enough Rope (Remastered),10,153E8CZ5kCe6KkCHS8mZtS,All the Young Punks (New Boots and Contracts) - Remastered,spotify:track:153E8CZ5kCe6KkCHS8mZtS,0.03,0.527,0.895,0.0,0.573,-5.906,0.0628,151.983,0.667,38
+The Clash,3,5y87Hdexzw700WkRnCrDIT,I'm so Bored With the U.S.A.,spotify:track:5y87Hdexzw700WkRnCrDIT,0.00148,0.511,0.838,0.278,0.0826,-7.014,0.0348,98.425,0.575,10
+The Clash,4,0GPx9v0LWsGyEpz4TsuIVD,White Riot,spotify:track:0GPx9v0LWsGyEpz4TsuIVD,0.0027,0.178,0.983,0.939,0.266,-4.046,0.0707,205.206,0.523,13
+The Clash,5,2ZOqfWIwoxyx0m2beNHRmB,Hate & War,spotify:track:2ZOqfWIwoxyx0m2beNHRmB,0.0201,0.462,0.784,1.19e-05,0.17,-6.913,0.0893,150.64,0.704,8
+The Clash,6,6O7YCHPtBW3QvkHb8RRWEO,What's My Name,spotify:track:6O7YCHPtBW3QvkHb8RRWEO,0.00129,0.282,0.725,0.704,0.34,-7.882,0.0634,174.475,0.739,7
+The Clash,7,2sr77BwZxkiDGzG9bXNmZa,Deny,spotify:track:2sr77BwZxkiDGzG9bXNmZa,0.114,0.328,0.91,0.000218,0.276,-7.2,0.0791,164.803,0.724,6
+The Clash,10,3XobfgFo9OSfqNk0mZomgf,Cheat,spotify:track:3XobfgFo9OSfqNk0mZomgf,0.00292,0.349,0.915,0.00827,0.0832,-7.166,0.0796,169.007,0.733,6
+The Clash,11,4Sf2x8jpEjzJSl3w091Zj1,Protex Blue,spotify:track:4Sf2x8jpEjzJSl3w091Zj1,0.114,0.555,0.917,0.000255,0.303,-6.708,0.0802,106.688,0.701,7
+The Clash,13,3HWJqPycscHtH69dwIrAsP,48 Hours,spotify:track:3HWJqPycscHtH69dwIrAsP,0.00277,0.548,0.746,7.26e-05,0.318,-8.664,0.0346,92.908,0.778,6
+The Clash,14,34XkSG9uP5ybv0uVX4YLD5,Garageland,spotify:track:34XkSG9uP5ybv0uVX4YLD5,0.00345,0.403,0.676,9.03e-06,0.351,-7.659,0.0343,161.367,0.848,6
+The Clash (Remastered),1,6ywRlumSQjOOkcSnJYAgHw,Janie Jones - Remastered,spotify:track:6ywRlumSQjOOkcSnJYAgHw,0.0343,0.591,0.826,0.0,0.146,-7.83,0.0418,104.304,0.739,49
+The Clash (Remastered),2,3xicEV8TwGCGtVnqaDhGLj,Remote Control - Remastered,spotify:track:3xicEV8TwGCGtVnqaDhGLj,0.0239,0.546,0.764,0.00013,0.105,-7.27,0.0796,157.522,0.719,44
+The Clash (Remastered),3,6bbQuT0lK4ekunMnK446Bt,I'm so Bored With the U.S.A. - Remastered,spotify:track:6bbQuT0lK4ekunMnK446Bt,0.000454,0.31,0.862,0.0156,0.0481,-6.943,0.0509,196.682,0.599,46
+The Clash (Remastered),4,0brrVj6VnvrG70SjRTnEJA,White Riot - Remastered,spotify:track:0brrVj6VnvrG70SjRTnEJA,0.000609,0.169,0.974,0.774,0.295,-4.863,0.0649,205.278,0.605,51
+The Clash (Remastered),5,1OtO2g2E1rnAW4KjNNeNui,Hate & War - Remastered,spotify:track:1OtO2g2E1rnAW4KjNNeNui,0.0237,0.471,0.77,0.0,0.166,-7.123,0.0935,150.922,0.68,37
+The Clash (Remastered),6,0UASKqdWmzHqzxUDuJNorP,What's My Name - Remastered,spotify:track:0UASKqdWmzHqzxUDuJNorP,0.000529,0.287,0.759,0.00236,0.294,-6.944,0.0718,173.342,0.815,37
+The Clash (Remastered),7,2Oed9gZ5WKs6IJ55G1p3DY,Deny - Remastered,spotify:track:2Oed9gZ5WKs6IJ55G1p3DY,0.0655,0.337,0.929,0.0,0.131,-6.564,0.0683,162.361,0.759,35
+The Clash (Remastered),8,0y8zZOu4u6NmoW7u1jEQzo,London's Burning - Remastered,spotify:track:0y8zZOu4u6NmoW7u1jEQzo,0.0469,0.556,0.821,0.00138,0.101,-6.084,0.121,147.288,0.793,46
+The Clash (Remastered),9,4aKMvmxQgX7J766G4pFlyh,Career Opportunities - Remastered,spotify:track:4aKMvmxQgX7J766G4pFlyh,0.0155,0.381,0.854,0.0,0.0399,-8.056,0.064,187.809,0.962,44
+The Clash (Remastered),10,0tIJ9LcPpRVH2ENDYr1qjF,Cheat - Remastered,spotify:track:0tIJ9LcPpRVH2ENDYr1qjF,0.00157,0.353,0.912,0.00044,0.154,-7.702,0.0893,169.091,0.766,35
+The Clash (Remastered),11,13kmaAS77f3Ly94fmxPZ7j,Protex Blue - Remastered,spotify:track:13kmaAS77f3Ly94fmxPZ7j,0.112,0.565,0.923,2.53e-05,0.161,-7.35,0.0907,106.739,0.684,35
+The Clash (Remastered),12,6IMlcKjsIM3l3yXWykTa3y,Police & Thieves - Remastered,spotify:track:6IMlcKjsIM3l3yXWykTa3y,0.0289,0.721,0.488,0.0379,0.18,-10.294,0.067,152.292,0.884,53
+The Clash (Remastered),13,3nkGF86S0wfh4Qk2yeb0Sw,48 Hours - Remastered,spotify:track:3nkGF86S0wfh4Qk2yeb0Sw,0.00381,0.558,0.778,1.03e-06,0.298,-7.931,0.0343,92.875,0.832,34
+The Clash (Remastered),14,0zRsYMipqgzvSe2rvNt9uH,Garageland - Remastered,spotify:track:0zRsYMipqgzvSe2rvNt9uH,0.00158,0.403,0.674,1.38e-06,0.308,-8.208,0.0351,161.423,0.877,36

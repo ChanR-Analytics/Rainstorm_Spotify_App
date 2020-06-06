@@ -1,0 +1,31 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+THE GOAT,1,3TciLI5wo7RddPtAFhiU9V,Don't Believe The Hype,spotify:track:3TciLI5wo7RddPtAFhiU9V,0.0802,0.622,0.679,0.0,0.112,-6.183,0.29,160.059,0.418,73
+THE GOAT,2,2iP3unJbxZvRuqyrS0ocZy,Heartless (feat. Mustard),spotify:track:2iP3unJbxZvRuqyrS0ocZy,0.149,0.776,0.64,0.0,0.101,-8.058,0.184,160.038,0.326,75
+THE GOAT,3,1VLtjHwRWOVJiE5Py7JxoQ,Martin & Gina,spotify:track:1VLtjHwRWOVJiE5Py7JxoQ,0.345,0.832,0.534,0.0,0.165,-7.813,0.253,93.924,0.116,77
+THE GOAT,4,2QqJTIlGKRLJC3onkavYEz,Flex (feat. Juice WRLD),spotify:track:2QqJTIlGKRLJC3onkavYEz,0.0538,0.752,0.673,0.0,0.133,-5.792,0.153,164.009,0.35,84
+THE GOAT,5,4PklAHGXT5ityno3IA8SKd,Go Stupid,spotify:track:4PklAHGXT5ityno3IA8SKd,0.0277,0.92,0.833,0.0,0.0596,-3.18,0.253,141.034,0.645,78
+THE GOAT,6,3JKgcAa7r07ocVWcV8bS0H,21,spotify:track:3JKgcAa7r07ocVWcV8bS0H,0.149,0.783,0.479,0.0,0.101,-10.646,0.541,176.027,0.533,78
+THE GOAT,7,2iW6Hb6kfrz2K7EhPibFiq,33,spotify:track:2iW6Hb6kfrz2K7EhPibFiq,0.126,0.732,0.462,0.0,0.12,-10.191,0.406,180.067,0.117,75
+THE GOAT,8,40j4RoqmLiivqzRObbQ4BF,I Know,spotify:track:40j4RoqmLiivqzRObbQ4BF,0.0919,0.807,0.665,0.0,0.0788,-5.249,0.276,164.964,0.557,75
+THE GOAT,9,4SIB2yxKoFOrbkjA4zfQbB,Beautiful Pain (Losin My Mind),spotify:track:4SIB2yxKoFOrbkjA4zfQbB,0.137,0.597,0.477,0.0,0.113,-9.638,0.642,80.382,0.512,76
+THE GOAT,10,4dKe8YJZg545pXqWBksYIe,No Matter What,spotify:track:4dKe8YJZg545pXqWBksYIe,0.111,0.539,0.705,0.0,0.093,-6.89,0.284,83.367,0.456,71
+THE GOAT,11,65jw6GhwQW3Db55PxlPEpS,Be Something (feat. Lil Baby),spotify:track:65jw6GhwQW3Db55PxlPEpS,0.0232,0.829,0.52,0.0,0.134,-10.34,0.294,136.103,0.248,80
+THE GOAT,12,1F8yKtk5CQBptos4kM7aO7,Relentless,spotify:track:1F8yKtk5CQBptos4kM7aO7,0.372,0.763,0.558,0.0,0.12,-5.506,0.285,77.026,0.276,71
+THE GOAT,13,58GJNfq2m0Qr5nIUCDbXVQ,DND,spotify:track:58GJNfq2m0Qr5nIUCDbXVQ,0.129,0.779,0.797,0.0,0.118,-4.583,0.356,159.958,0.231,73
+THE GOAT,14,4XLCFFvRG1qQ8kT4uzwYZC,Chinatown,spotify:track:4XLCFFvRG1qQ8kT4uzwYZC,0.106,0.82,0.5,0.0,0.183,-11.1,0.452,89.09,0.729,70
+THE GOAT,15,6V1Jx3o0S2MtBI9yIDXsJS,Trials & Tribulations,spotify:track:6V1Jx3o0S2MtBI9yIDXsJS,0.0829,0.796,0.612,0.0,0.0607,-6.994,0.433,87.542,0.545,71
+THE GOAT,16,192RjH0gN6en7nE6ElN96T,Wishing For A Hero (feat. BJ The Chicago Kid),spotify:track:192RjH0gN6en7nE6ElN96T,0.0679,0.562,0.589,0.0,0.0684,-7.509,0.265,88.903,0.188,75
+Die A Legend,1,26t0xoYPRxyHvIN62P85au,Lost Files,spotify:track:26t0xoYPRxyHvIN62P85au,0.335,0.809,0.723,0.0,0.144,-6.145,0.352,145.067,0.397,59
+Die A Legend,2,2bGEPdcL80FFHQ3VxcYBJQ,Dyin Breed,spotify:track:2bGEPdcL80FFHQ3VxcYBJQ,0.0131,0.77,0.599,0.0,0.0711,-8.663,0.661,159.966,0.427,68
+Die A Legend,3,3NqCEpT8xsHdzpiRlM1kpS,Through Da Storm,spotify:track:3NqCEpT8xsHdzpiRlM1kpS,0.128,0.71,0.49,0.0,0.0942,-9.832,0.246,74.351,0.621,74
+Die A Legend,4,2fyy1r6XBbsiSSpKK20LKX,Effortless,spotify:track:2fyy1r6XBbsiSSpKK20LKX,0.00256,0.792,0.445,0.0,0.108,-7.871,0.544,157.153,0.399,64
+Die A Legend,5,6uFn47ACjqYkc0jADwEdj1,Pop Out (feat. Lil Tjay),spotify:track:6uFn47ACjqYkc0jADwEdj1,0.15,0.772,0.639,0.0,0.0698,-7.119,0.467,168.112,0.261,82
+Die A Legend,6,7caP3UAf8ZtIMVpWfEIA4H,Battle Cry,spotify:track:7caP3UAf8ZtIMVpWfEIA4H,0.212,0.754,0.597,0.0,0.0866,-7.809,0.38,150.089,0.347,64
+Die A Legend,7,4iIfKs9XOb9D2NJnPctPns,BST,spotify:track:4iIfKs9XOb9D2NJnPctPns,0.0188,0.876,0.603,0.0,0.103,-9.148,0.28,143.043,0.633,61
+Die A Legend,8,7oBW80497A8axagr4aC9U6,Finer Things,spotify:track:7oBW80497A8axagr4aC9U6,0.0683,0.506,0.45,0.000225,0.103,-12.565,0.364,177.978,0.131,73
+Die A Legend,9,00TYv5NLZkKXq5KJZ6LMDt,Picture This,spotify:track:00TYv5NLZkKXq5KJZ6LMDt,0.0316,0.831,0.604,0.0,0.091,-6.741,0.273,87.955,0.406,60
+Die A Legend,10,40QrLHWdsxyXLAdjJG4Rxs,Chosen 1,spotify:track:40QrLHWdsxyXLAdjJG4Rxs,0.138,0.77,0.576,0.0,0.08,-11.845,0.339,166.162,0.364,68
+Die A Legend,11,1EXgignL7eG2MHErBEAD5d,Deep Wounds,spotify:track:1EXgignL7eG2MHErBEAD5d,0.0149,0.661,0.572,0.0,0.175,-7.101,0.338,159.961,0.339,66
+Die A Legend,12,1w8XCWRzLN75HARAqNQIRY,Last Strike,spotify:track:1w8XCWRzLN75HARAqNQIRY,0.0249,0.579,0.594,0.0,0.0967,-8.461,0.468,81.539,0.477,58
+Die A Legend,13,1g4zEL3uOnhwvnMEOVAbNM,A King's Nightmare,spotify:track:1g4zEL3uOnhwvnMEOVAbNM,0.156,0.463,0.728,0.0,0.176,-7.994,0.353,81.193,0.321,55
+Die A Legend,14,2VIMXmWUIqhMqg6h5FOFPG,Pop Out Again (feat. Lil Baby & Gunna),spotify:track:2VIMXmWUIqhMqg6h5FOFPG,0.118,0.862,0.689,0.0,0.0729,-5.68,0.323,83.964,0.364,68

@@ -1,0 +1,25 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+Rarest of Birds,1,3ND9iAkZKQ55AXqeJg8OGW,Heavy Crown,spotify:track:3ND9iAkZKQ55AXqeJg8OGW,0.114,0.657,0.831,0.206,0.0543,-6.526,0.0258,88.017,0.526,38
+Rarest of Birds,2,5Js5edLzibx0GcazYl7v85,Spoonful,spotify:track:5Js5edLzibx0GcazYl7v85,0.0905,0.588,0.666,0.0,0.0667,-6.467,0.039,126.753,0.439,50
+Rarest of Birds,3,6i75eyGfVgZNet7ePZCb9f,Black Magic,spotify:track:6i75eyGfVgZNet7ePZCb9f,0.0169,0.712,0.706,0.147,0.137,-7.812,0.0297,115.949,0.79,27
+Rarest of Birds,4,6aPFp3u5q2ME1MYbwSeyxN,Mercy,spotify:track:6aPFp3u5q2ME1MYbwSeyxN,0.00814,0.489,0.799,0.0,0.0669,-6.813,0.0536,132.877,0.378,35
+Rarest of Birds,5,6631n0cKU7Ak9e0QfXSjn9,Believing,spotify:track:6631n0cKU7Ak9e0QfXSjn9,0.165,0.61,0.535,0.000737,0.112,-9.837,0.0663,119.975,0.369,32
+Rarest of Birds,6,45jTImhLuXUQsHnbIu4Z8i,Carmen Sandiego,spotify:track:45jTImhLuXUQsHnbIu4Z8i,0.131,0.675,0.633,0.0434,0.173,-8.148,0.0316,96.011,0.65,25
+Rarest of Birds,7,6hK0SJ7bCPSlmXB9yGVTr5,Shaky in the Knees,spotify:track:6hK0SJ7bCPSlmXB9yGVTr5,0.19,0.591,0.601,0.00263,0.0958,-7.222,0.0269,117.076,0.515,47
+Rarest of Birds,8,4CDlEvdNWydc9nVJ8wZLyl,Daylight,spotify:track:4CDlEvdNWydc9nVJ8wZLyl,0.0239,0.496,0.576,0.000301,0.156,-9.636,0.034,121.238,0.0744,23
+Rarest of Birds,9,68HqoT1HXEJNAuw6VqGGBP,Pretty Penny,spotify:track:68HqoT1HXEJNAuw6VqGGBP,0.152,0.652,0.62,0.000252,0.0977,-7.944,0.0387,78.486,0.319,22
+Rarest of Birds,10,4ofthTbEhz0HfPplzjMHSy,Interlude,spotify:track:4ofthTbEhz0HfPplzjMHSy,0.799,0.519,0.264,0.000282,0.313,-18.289,0.0554,124.719,0.392,0
+Rarest of Birds,11,1W9kaswV9LhaeL60Fv0I10,Hurricane,spotify:track:1W9kaswV9LhaeL60Fv0I10,0.00291,0.544,0.618,0.00544,0.0951,-9.34,0.0359,144.938,0.285,37
+Rarest of Birds,12,6ZXA2t6fnTwPJv6nSa1TDi,Rarest of Birds,spotify:track:6ZXA2t6fnTwPJv6nSa1TDi,0.0349,0.673,0.528,0.000643,0.492,-10.243,0.0325,92.991,0.369,24
+Waking Up The Giants,1,5w2FeR7c1LUwsxKub9iFHC,Into The Barrens,spotify:track:5w2FeR7c1LUwsxKub9iFHC,0.00501,0.518,0.947,0.124,0.315,-4.708,0.0454,127.993,0.362,36
+Waking Up The Giants,2,472mFdP6wkHO6xzKn5F4et,Troublemaker,spotify:track:472mFdP6wkHO6xzKn5F4et,0.00203,0.566,0.819,0.00339,0.0941,-5.246,0.0581,112.91,0.525,47
+Waking Up The Giants,3,02EiS6xZRVvRP6GawpZR65,Hymnals,spotify:track:02EiS6xZRVvRP6GawpZR65,0.0131,0.494,0.911,9.01e-05,0.113,-5.091,0.0724,142.01,0.317,32
+Waking Up The Giants,4,4HSzQXLeBD9fV6U4RVDHg9,The Struggle,spotify:track:4HSzQXLeBD9fV6U4RVDHg9,0.000168,0.553,0.843,0.25,0.335,-4.664,0.0298,112.967,0.67,44
+Waking Up The Giants,5,43a41kwTMZClWCLTONiaqm,Bob Marley,spotify:track:43a41kwTMZClWCLTONiaqm,0.0151,0.562,0.695,0.119,0.122,-4.662,0.0332,118.174,0.446,55
+Waking Up The Giants,6,4yb3ikgJkgBNTSkGm2Lvhz,Waking Up The Giants,spotify:track:4yb3ikgJkgBNTSkGm2Lvhz,0.0442,0.588,0.602,0.00278,0.428,-8.919,0.0322,128.019,0.239,51
+Waking Up The Giants,7,6P0dI2yAf2cmg4UrCcStwE,Waiting For You,spotify:track:6P0dI2yAf2cmg4UrCcStwE,0.000176,0.588,0.894,0.23,0.141,-5.564,0.0403,123.031,0.552,49
+Waking Up The Giants,8,1kdSGyQyX0mxq75KSgcjic,Vagabonds,spotify:track:1kdSGyQyX0mxq75KSgcjic,0.00422,0.522,0.773,3.95e-06,0.104,-5.722,0.0337,128.938,0.378,41
+Waking Up The Giants,9,7rbxwTq9AK7a6jvEU1Gvsz,Bounty On My Head,spotify:track:7rbxwTq9AK7a6jvEU1Gvsz,0.000592,0.499,0.821,7.06e-05,0.257,-3.961,0.0413,150.013,0.358,48
+Waking Up The Giants,10,7BrGokTBaKwDTQOhjW9Hrq,Cosmic Angel,spotify:track:7BrGokTBaKwDTQOhjW9Hrq,0.0111,0.557,0.704,0.000458,0.0883,-5.995,0.0371,120.876,0.294,29
+Waking Up The Giants,11,4IJpSYe4IvgC3VyhY9NEsd,Bohemian Bird,spotify:track:4IJpSYe4IvgC3VyhY9NEsd,0.0294,0.435,0.637,0.00461,0.0971,-8.081,0.0514,145.034,0.173,40
+Waking Up The Giants,12,1SDqL6BVIaBtujdQkUBNIQ,Wide Awake,spotify:track:1SDqL6BVIaBtujdQkUBNIQ,0.00783,0.493,0.816,0.0,0.0456,-4.997,0.0607,127.962,0.364,37

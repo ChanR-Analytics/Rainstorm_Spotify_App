@@ -1,0 +1,30 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+Shelby,1,4ZT9FnbFu1PaBfV3itxiqT,I,spotify:track:4ZT9FnbFu1PaBfV3itxiqT,0.627,0.649,0.453,0.0,0.116,-7.28,0.085,99.183,0.431,80
+Shelby,2,0hCHNYL8ApQCGNwJrYN1FY,Bad Girls (feat. Gucci Mane),spotify:track:0hCHNYL8ApQCGNwJrYN1FY,0.208,0.771,0.761,0.0,0.091,-4.727,0.047,131.01,0.277,63
+Shelby,3,6NGeKy2lLt86dxDjJAtBFk,Breathe,spotify:track:6NGeKy2lLt86dxDjJAtBFk,0.187,0.642,0.741,1.25e-06,0.146,-5.204,0.163,76.016,0.72,59
+Shelby,4,0Goo25lbtpwor5vb0K2r21,Nowadays Pt. 2 (feat. Landon Cube),spotify:track:0Goo25lbtpwor5vb0K2r21,0.0836,0.687,0.829,0.0,0.0986,-3.607,0.0298,152.059,0.349,60
+Shelby,5,6Ur6u4Ici7NYBiuGEEkNMP,Flooded,spotify:track:6Ur6u4Ici7NYBiuGEEkNMP,0.36,0.714,0.636,0.0,0.112,-5.286,0.201,166.049,0.52,57
+Shelby,6,0AKwYorDdgm3NtusTmPlkn,Blue Strips,spotify:track:0AKwYorDdgm3NtusTmPlkn,0.102,0.776,0.776,0.0,0.138,-6.366,0.316,161.983,0.68,57
+Shelby,7,6PXhPHhZy1MpxuTNA1Ad4L,Stop the Madness (feat. Gunna),spotify:track:6PXhPHhZy1MpxuTNA1Ad4L,0.0201,0.651,0.833,0.0,0.109,-5.153,0.0847,80.977,0.594,58
+Shelby,8,0k7Qyc2J6cUryNNhf0pPEL,Ok 4 Now,spotify:track:0k7Qyc2J6cUryNNhf0pPEL,0.103,0.66,0.544,0.000564,0.111,-9.44,0.06,140.103,0.313,58
+Shelby,9,2pzlvIwI67SEfjLwkZISh8,When I'm Wasted,spotify:track:2pzlvIwI67SEfjLwkZISh8,0.0731,0.735,0.639,0.0,0.323,-5.851,0.155,92.946,0.714,56
+Shelby,10,49ImM4CYsEL5KG1hzUaCzq,Mansion,spotify:track:49ImM4CYsEL5KG1hzUaCzq,0.0236,0.71,0.796,0.0,0.152,-6.365,0.261,159.951,0.733,52
+Shelby,11,3XVT8VNy0vpvTbFPQaBSZN,Through the Motions,spotify:track:3XVT8VNy0vpvTbFPQaBSZN,0.0368,0.697,0.618,0.0,0.085,-8.468,0.102,161.964,0.247,54
+Shelby,12,0ZxY3V9miXeKIeKS3hgjCI,Highs and Lows,spotify:track:0ZxY3V9miXeKIeKS3hgjCI,0.0102,0.819,0.756,0.0,0.0952,-6.962,0.345,109.996,0.36,53
+Shelby,13,11p2ty4w5GpoFL4vcK0Cru,Name in the Sand,spotify:track:11p2ty4w5GpoFL4vcK0Cru,0.0949,0.646,0.656,0.0,0.103,-6.798,0.0743,160.065,0.501,66
+Shelby,14,2BTH9RKzclcO36gS09cLjy,No Rainy Days,spotify:track:2BTH9RKzclcO36gS09cLjy,0.000366,0.588,0.658,0.0,0.115,-7.604,0.0631,163.992,0.526,54
+Shelby,13,049ZcqIXhS1Ttdi5gUrqa2,Name In the Sand,spotify:track:049ZcqIXhS1Ttdi5gUrqa2,0.0862,0.653,0.667,0.0,0.0993,-6.762,0.0744,160.012,0.472,25
+Life of a Dark Rose,1,5GpAhJpbHvUi6gY6RG15Ze,Welcome to the Rodeo,spotify:track:5GpAhJpbHvUi6gY6RG15Ze,0.128,0.69,0.881,0.0,0.0927,-4.297,0.284,169.973,0.503,69
+Life of a Dark Rose,2,4n6TxUxKF7VBXZSRLGivAC,The Clique,spotify:track:4n6TxUxKF7VBXZSRLGivAC,0.135,0.615,0.704,0.0,0.132,-6.955,0.345,158.509,0.517,59
+Life of a Dark Rose,3,3ZhTT6yjZwpPph5MIJ53XY,Red Roses (feat. Landon Cube),spotify:track:3ZhTT6yjZwpPph5MIJ53XY,0.547,0.691,0.683,0.0,0.221,-7.335,0.0954,140.002,0.456,75
+Life of a Dark Rose,4,7oJrVhiTPZGBXWPwhxjy9S,Lust,spotify:track:7oJrVhiTPZGBXWPwhxjy9S,0.138,0.718,0.767,0.0,0.114,-5.641,0.166,160.084,0.519,77
+Life of a Dark Rose,5,3Ul6f7ip8dmZ8VuwfB9Xq5,Cloudy Skies,spotify:track:3Ul6f7ip8dmZ8VuwfB9Xq5,0.138,0.708,0.84,0.0,0.227,-4.825,0.181,151.715,0.895,63
+Life of a Dark Rose,6,5EIIvtMRH9qyf5wIyEfT8l,Signs of Jealousy,spotify:track:5EIIvtMRH9qyf5wIyEfT8l,0.39,0.743,0.76,0.0,0.176,-8.484,0.106,142.027,0.787,58
+Life of a Dark Rose,7,3i5h463CsDCWV13a25RgEO,Big Money,spotify:track:3i5h463CsDCWV13a25RgEO,0.000744,0.811,0.642,0.0,0.0981,-6.161,0.0661,160.946,0.546,60
+Life of a Dark Rose,8,6cwXbtVSraasT8kpIKDnJH,Tell My Haters,spotify:track:6cwXbtVSraasT8kpIKDnJH,0.0784,0.793,0.691,0.0,0.116,-6.313,0.152,143.951,0.609,54
+Life of a Dark Rose,9,2J7IDapWgrILBNqwnv0Vr0,Boss Up,spotify:track:2J7IDapWgrILBNqwnv0Vr0,0.0211,0.617,0.672,0.0,0.0881,-6.882,0.0593,160.055,0.428,54
+Life of a Dark Rose,10,3nnfZsKguDexxLNInB4rDR,Garden,spotify:track:3nnfZsKguDexxLNInB4rDR,0.228,0.458,0.688,0.0,0.109,-4.618,0.124,77.934,0.422,52
+Life of a Dark Rose,11,4hnPw0BbVyoI1abKJZPSaS,Lettuce Sandwich,spotify:track:4hnPw0BbVyoI1abKJZPSaS,0.0042,0.712,0.593,0.0,0.114,-7.672,0.0358,149.967,0.549,57
+Life of a Dark Rose,12,1HzE0tqP7fGwS8LWpAVRN6,Strictly Business,spotify:track:1HzE0tqP7fGwS8LWpAVRN6,0.304,0.745,0.834,0.0,0.454,-3.626,0.127,157.057,0.482,57
+Life of a Dark Rose,13,5tnGoXhKnh5WpMX4BfMCiR,Kill4u,spotify:track:5tnGoXhKnh5WpMX4BfMCiR,0.111,0.654,0.763,1.85e-05,0.066,-5.486,0.0638,160.929,0.457,56
+Life of a Dark Rose,14,2u7mxWSeoqTXndK5e08jMp,Nowadays (feat. Landon Cube),spotify:track:2u7mxWSeoqTXndK5e08jMp,0.157,0.745,0.646,0.0,0.338,-6.987,0.17,79.993,0.46,75

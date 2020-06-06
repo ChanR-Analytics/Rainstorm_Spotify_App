@@ -1,31 +1,31 @@
 album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
-Dark Lane Demo Tapes,1,3IvMYBE7A3c7to1aEcfFJk,Deep Pockets,spotify:track:3IvMYBE7A3c7to1aEcfFJk,0.482,0.473,0.824,0.0,0.605,-3.68,0.163,77.888,0.374,78
-Dark Lane Demo Tapes,2,5TCBWmEBrin7etRa4Lswr1,When To Say When,spotify:track:5TCBWmEBrin7etRa4Lswr1,0.252,0.41,0.82,0.0,0.538,-6.808,0.533,170.718,0.526,78
-Dark Lane Demo Tapes,3,4wVOKKEHUJxHCFFNUWDn0B,Chicago Freestyle (feat. Giveon),spotify:track:4wVOKKEHUJxHCFFNUWDn0B,0.629,0.735,0.449,0.0,0.113,-7.507,0.347,122.947,0.0397,87
-Dark Lane Demo Tapes,4,3Q4gttWQ6hxqWOa3tHoTNi,Not You Too (feat. Chris Brown),spotify:track:3Q4gttWQ6hxqWOa3tHoTNi,0.342,0.458,0.452,1.94e-05,0.0703,-9.299,0.047,86.318,0.316,80
-Dark Lane Demo Tapes,5,466cKvZn1j45IpxDdYZqdA,Toosie Slide,spotify:track:466cKvZn1j45IpxDdYZqdA,0.289,0.83,0.49,3.04e-06,0.113,-8.82,0.209,81.604,0.845,86
-Dark Lane Demo Tapes,6,7eYAHC0RbBF9eaqWzT34Aq,Desires (with Future),spotify:track:7eYAHC0RbBF9eaqWzT34Aq,0.281,0.812,0.506,0.0,0.325,-7.706,0.116,145.074,0.554,81
-Dark Lane Demo Tapes,7,5H4mXWKcicuLKDn4Jy0sK7,Time Flies,spotify:track:5H4mXWKcicuLKDn4Jy0sK7,0.201,0.864,0.477,0.0,0.182,-5.786,0.224,86.46,0.5,81
-Dark Lane Demo Tapes,8,3KixNgUEaDtrKJVzdqjU5q,Landed,spotify:track:3KixNgUEaDtrKJVzdqjU5q,0.00606,0.881,0.636,0.0,0.111,-4.629,0.287,163.949,0.715,79
-Dark Lane Demo Tapes,9,5fHrHoJKfCgBd35zwIBmUK,D4L,spotify:track:5fHrHoJKfCgBd35zwIBmUK,0.0128,0.718,0.706,0.0,0.352,-5.709,0.06,170.004,0.815,81
-Dark Lane Demo Tapes,10,6Kj17Afjo1OKJYpf5VzCeo,Pain 1993 (with Playboi Carti),spotify:track:6Kj17Afjo1OKJYpf5VzCeo,0.163,0.825,0.373,0.0,0.368,-5.532,0.108,77.271,0.12,87
-Dark Lane Demo Tapes,11,6fLVTVaHWaEfVKfEgbkf4D,Losses,spotify:track:6fLVTVaHWaEfVKfEgbkf4D,0.28,0.551,0.57,0.0,0.424,-7.385,0.351,85.687,0.505,77
-Dark Lane Demo Tapes,12,0YkUwXxnTkeJBvt5upeEtP,From Florida With Love,spotify:track:0YkUwXxnTkeJBvt5upeEtP,0.768,0.787,0.477,0.0,0.104,-7.837,0.199,80.506,0.476,78
-Dark Lane Demo Tapes,13,05aZ9sAU1YXndHv0FMi9iW,Demons (feat. Fivio Foreign & Sosa Geek),spotify:track:05aZ9sAU1YXndHv0FMi9iW,0.423,0.543,0.766,0.0,0.155,-3.387,0.343,106.869,0.729,81
-Dark Lane Demo Tapes,14,1I55Ea0zVoSKs6MqW7DQ3i,War,spotify:track:1I55Ea0zVoSKs6MqW7DQ3i,0.292,0.749,0.792,0.0,0.109,-4.151,0.0826,144.064,0.239,79
-Care Package,1,1qyFlfPREPbRcS2BNszdYI,Dreams Money Can Buy,spotify:track:1qyFlfPREPbRcS2BNszdYI,0.765,0.423,0.587,0.0,0.114,-6.635,0.529,180.331,0.33,60
-Care Package,2,0Tacxc5lDJ8LwiO1pWNSl8,The Motion,spotify:track:0Tacxc5lDJ8LwiO1pWNSl8,0.371,0.631,0.788,0.000317,0.108,-7.142,0.102,157.769,0.544,65
+Dark Lane Demo Tapes,1,3IvMYBE7A3c7to1aEcfFJk,Deep Pockets,spotify:track:3IvMYBE7A3c7to1aEcfFJk,0.482,0.473,0.824,0.0,0.605,-3.68,0.163,77.888,0.374,76
+Dark Lane Demo Tapes,2,5TCBWmEBrin7etRa4Lswr1,When To Say When,spotify:track:5TCBWmEBrin7etRa4Lswr1,0.252,0.41,0.82,0.0,0.538,-6.808,0.533,170.718,0.526,77
+Dark Lane Demo Tapes,3,4wVOKKEHUJxHCFFNUWDn0B,Chicago Freestyle (feat. Giveon),spotify:track:4wVOKKEHUJxHCFFNUWDn0B,0.629,0.735,0.449,0.0,0.113,-7.507,0.347,122.947,0.0397,88
+Dark Lane Demo Tapes,4,3Q4gttWQ6hxqWOa3tHoTNi,Not You Too (feat. Chris Brown),spotify:track:3Q4gttWQ6hxqWOa3tHoTNi,0.342,0.458,0.452,1.94e-05,0.0703,-9.299,0.047,86.318,0.316,78
+Dark Lane Demo Tapes,5,466cKvZn1j45IpxDdYZqdA,Toosie Slide,spotify:track:466cKvZn1j45IpxDdYZqdA,0.289,0.83,0.49,3.04e-06,0.113,-8.82,0.209,81.604,0.845,87
+Dark Lane Demo Tapes,6,7eYAHC0RbBF9eaqWzT34Aq,Desires (with Future),spotify:track:7eYAHC0RbBF9eaqWzT34Aq,0.281,0.812,0.506,0.0,0.325,-7.706,0.116,145.074,0.554,79
+Dark Lane Demo Tapes,7,5H4mXWKcicuLKDn4Jy0sK7,Time Flies,spotify:track:5H4mXWKcicuLKDn4Jy0sK7,0.201,0.864,0.477,0.0,0.182,-5.786,0.224,86.46,0.5,80
+Dark Lane Demo Tapes,8,3KixNgUEaDtrKJVzdqjU5q,Landed,spotify:track:3KixNgUEaDtrKJVzdqjU5q,0.00606,0.881,0.636,0.0,0.111,-4.629,0.287,163.949,0.715,77
+Dark Lane Demo Tapes,9,5fHrHoJKfCgBd35zwIBmUK,D4L,spotify:track:5fHrHoJKfCgBd35zwIBmUK,0.0128,0.718,0.706,0.0,0.352,-5.709,0.06,170.004,0.815,80
+Dark Lane Demo Tapes,10,6Kj17Afjo1OKJYpf5VzCeo,Pain 1993 (with Playboi Carti),spotify:track:6Kj17Afjo1OKJYpf5VzCeo,0.163,0.825,0.373,0.0,0.368,-5.532,0.108,77.271,0.12,85
+Dark Lane Demo Tapes,11,6fLVTVaHWaEfVKfEgbkf4D,Losses,spotify:track:6fLVTVaHWaEfVKfEgbkf4D,0.28,0.551,0.57,0.0,0.424,-7.385,0.351,85.687,0.505,75
+Dark Lane Demo Tapes,12,0YkUwXxnTkeJBvt5upeEtP,From Florida With Love,spotify:track:0YkUwXxnTkeJBvt5upeEtP,0.768,0.787,0.477,0.0,0.104,-7.837,0.199,80.506,0.476,76
+Dark Lane Demo Tapes,13,05aZ9sAU1YXndHv0FMi9iW,Demons (feat. Fivio Foreign & Sosa Geek),spotify:track:05aZ9sAU1YXndHv0FMi9iW,0.423,0.543,0.766,0.0,0.155,-3.387,0.343,106.869,0.729,80
+Dark Lane Demo Tapes,14,1I55Ea0zVoSKs6MqW7DQ3i,War,spotify:track:1I55Ea0zVoSKs6MqW7DQ3i,0.292,0.749,0.792,0.0,0.109,-4.151,0.0826,144.064,0.239,78
+Care Package,1,1qyFlfPREPbRcS2BNszdYI,Dreams Money Can Buy,spotify:track:1qyFlfPREPbRcS2BNszdYI,0.765,0.423,0.587,0.0,0.114,-6.635,0.529,180.331,0.33,59
+Care Package,2,0Tacxc5lDJ8LwiO1pWNSl8,The Motion,spotify:track:0Tacxc5lDJ8LwiO1pWNSl8,0.371,0.631,0.788,0.000317,0.108,-7.142,0.102,157.769,0.544,64
 Care Package,3,4n4BflhWjCHIxrI4v7Xt9s,How Bout Now,spotify:track:4n4BflhWjCHIxrI4v7Xt9s,0.205,0.789,0.404,0.0,0.219,-8.364,0.23,122.062,0.472,64
-Care Package,4,4Wjhj0WjkyECccfHVIgaTq,Trust Issues,spotify:track:4Wjhj0WjkyECccfHVIgaTq,0.779,0.421,0.539,0.0,0.111,-5.456,0.274,89.177,0.523,69
-Care Package,5,4czcw3NVLY0of5hTD7OufN,Days in The East,spotify:track:4czcw3NVLY0of5hTD7OufN,0.348,0.733,0.361,0.000285,0.0942,-11.129,0.135,94.902,0.0361,58
-Care Package,6,3W3FVHEDetkiRkkGKDmdir,Draft Day,spotify:track:3W3FVHEDetkiRkkGKDmdir,0.0322,0.673,0.81,0.0,0.133,-3.793,0.36,166.084,0.564,56
+Care Package,4,4Wjhj0WjkyECccfHVIgaTq,Trust Issues,spotify:track:4Wjhj0WjkyECccfHVIgaTq,0.779,0.421,0.539,0.0,0.111,-5.456,0.274,89.177,0.523,68
+Care Package,5,4czcw3NVLY0of5hTD7OufN,Days in The East,spotify:track:4czcw3NVLY0of5hTD7OufN,0.348,0.733,0.361,0.000285,0.0942,-11.129,0.135,94.902,0.0361,57
+Care Package,6,3W3FVHEDetkiRkkGKDmdir,Draft Day,spotify:track:3W3FVHEDetkiRkkGKDmdir,0.0322,0.673,0.81,0.0,0.133,-3.793,0.36,166.084,0.564,55
 Care Package,7,6C9SwoZ5OrxcvkntgA5t8s,4pm in Calabasas,spotify:track:6C9SwoZ5OrxcvkntgA5t8s,0.115,0.743,0.66,0.0,0.101,-4.802,0.418,192.031,0.549,59
-Care Package,8,0FnxK9FEAQyPJ284QcieNb,5 Am in Toronto,spotify:track:0FnxK9FEAQyPJ284QcieNb,0.0678,0.555,0.88,0.0,0.0723,-4.325,0.265,87.195,0.391,59
+Care Package,8,0FnxK9FEAQyPJ284QcieNb,5 Am in Toronto,spotify:track:0FnxK9FEAQyPJ284QcieNb,0.0678,0.555,0.88,0.0,0.0723,-4.325,0.265,87.195,0.391,58
 Care Package,9,3sMC6vfTTSa0mMAPTwzDVD,I Get Lonely,spotify:track:3sMC6vfTTSa0mMAPTwzDVD,0.706,0.477,0.501,5.61e-06,0.0953,-9.178,0.0398,81.376,0.689,56
 Care Package,10,4alHkxxwAhvoGg3dJCATKV,My Side,spotify:track:4alHkxxwAhvoGg3dJCATKV,0.603,0.549,0.495,7.26e-06,0.0979,-5.661,0.133,81.012,0.385,53
-Care Package,11,2xUHiyGeGrWmmfv7NbDTWC,Jodeci Freestyle (feat. J. Cole),spotify:track:2xUHiyGeGrWmmfv7NbDTWC,0.0111,0.498,0.844,0.0,0.102,-2.834,0.268,88.435,0.282,55
-Care Package,12,6MR5IBSNfDmiwnrlQpVw4w,Club Paradise,spotify:track:6MR5IBSNfDmiwnrlQpVw4w,0.758,0.338,0.729,3.24e-05,0.18,-6.419,0.102,184.174,0.543,56
-Care Package,13,18t8ypY0HYaQuGBxg2KdT2,Free Spirit (feat. Rick Ross),spotify:track:18t8ypY0HYaQuGBxg2KdT2,0.281,0.508,0.748,0.0,0.168,-4.997,0.33,100.414,0.225,54
+Care Package,11,2xUHiyGeGrWmmfv7NbDTWC,Jodeci Freestyle (feat. J. Cole),spotify:track:2xUHiyGeGrWmmfv7NbDTWC,0.0111,0.498,0.844,0.0,0.102,-2.834,0.268,88.435,0.282,54
+Care Package,12,6MR5IBSNfDmiwnrlQpVw4w,Club Paradise,spotify:track:6MR5IBSNfDmiwnrlQpVw4w,0.758,0.338,0.729,3.24e-05,0.18,-6.419,0.102,184.174,0.543,55
+Care Package,13,18t8ypY0HYaQuGBxg2KdT2,Free Spirit (feat. Rick Ross),spotify:track:18t8ypY0HYaQuGBxg2KdT2,0.281,0.508,0.748,0.0,0.168,-4.997,0.33,100.414,0.225,53
 Care Package,14,27Tqjd2nMW2mIp6Yk1ovwY,Heat Of The Moment,spotify:track:27Tqjd2nMW2mIp6Yk1ovwY,0.179,0.641,0.454,0.000116,0.065,-8.344,0.133,78.036,0.302,51
 Care Package,15,56NDFbD0tCUawnqeU2wcvv,Girls Love Beyoncé (feat. James Fauntleroy),spotify:track:56NDFbD0tCUawnqeU2wcvv,0.782,0.619,0.489,0.0,0.106,-11.25,0.46,126.046,0.328,61
 Care Package,16,73IE87H0g2MBmdn41lkVto,Paris Morton Music,spotify:track:73IE87H0g2MBmdn41lkVto,0.414,0.505,0.494,7.98e-05,0.105,-8.635,0.315,171.978,0.141,56
@@ -37,10 +37,10 @@ So Far Gone,4,3baJKX6yyPUT92zNStX5z6,Let’s Call It Off (feat. Peter Bjorn and 
 So Far Gone,5,2vHmE2q0EYbw0F8asrHPmW,November 18th,spotify:track:2vHmE2q0EYbw0F8asrHPmW,0.588,0.756,0.451,0.0,0.0942,-11.287,0.47,143.864,0.555,19
 So Far Gone,6,2h65kdqlhMRtp5l5qIFA9v,Ignant Shit (feat. Lil Wayne),spotify:track:2h65kdqlhMRtp5l5qIFA9v,0.165,0.622,0.844,0.0,0.455,-3.759,0.269,94.449,0.12,27
 So Far Gone,7,1bMYRdTXYdj7KSu4r0O3IQ,A Night Off (feat. Lloyd),spotify:track:1bMYRdTXYdj7KSu4r0O3IQ,0.362,0.565,0.502,2.32e-06,0.164,-5.594,0.0793,103.418,0.332,15
-So Far Gone,8,2p0KdK06O9KUMCQ0gsFF0P,Say What's Real,spotify:track:2p0KdK06O9KUMCQ0gsFF0P,0.66,0.545,0.755,0.0,0.209,-5.438,0.257,115.029,0.481,15
+So Far Gone,8,2p0KdK06O9KUMCQ0gsFF0P,Say What's Real,spotify:track:2p0KdK06O9KUMCQ0gsFF0P,0.66,0.545,0.755,0.0,0.209,-5.438,0.257,115.029,0.481,16
 So Far Gone,9,1uBaQNOsRatk1bBTBJnKek,Little Bit (feat. Lykke Li),spotify:track:1uBaQNOsRatk1bBTBJnKek,0.107,0.76,0.887,0.0242,0.668,-4.902,0.038,120.396,0.783,22
 So Far Gone,10,4AcScHuxr9xAqqyxxTMAhu,Best I Ever Had,spotify:track:4AcScHuxr9xAqqyxxTMAhu,0.203,0.441,0.929,0.0,0.165,-2.199,0.337,162.395,0.546,42
-So Far Gone,11,3DQb8H8mBaxXtrpwZWfen1,Unstoppable (feat. Santigold & Lil Wayne),spotify:track:3DQb8H8mBaxXtrpwZWfen1,0.159,0.775,0.906,0.0,0.773,-2.806,0.337,150.08,0.841,16
+So Far Gone,11,3DQb8H8mBaxXtrpwZWfen1,Unstoppable (feat. Santigold & Lil Wayne),spotify:track:3DQb8H8mBaxXtrpwZWfen1,0.159,0.775,0.906,0.0,0.773,-2.806,0.337,150.08,0.841,17
 So Far Gone,12,6xTROKXoqNjGhFNIjfoDO2,Uptown (feat. Bun B & Lil Wayne),spotify:track:6xTROKXoqNjGhFNIjfoDO2,0.00371,0.433,0.82,0.0,0.0852,-3.136,0.329,87.076,0.405,29
 So Far Gone,13,12iCwfAxGDFvpU7aTusAle,Sooner Than Later,spotify:track:12iCwfAxGDFvpU7aTusAle,0.191,0.691,0.498,6.73e-06,0.107,-5.716,0.144,94.99,0.534,16
 So Far Gone,14,3x8P00PKvIL9w7Z3XI9zyW,Bria's Interlude (feat. Omarion),spotify:track:3x8P00PKvIL9w7Z3XI9zyW,0.205,0.456,0.509,0.000652,0.122,-6.204,0.0895,147.154,0.239,16
@@ -55,29 +55,29 @@ Scorpion,4,5Psnhdkyanjpgc2P8A5TSM,Emotionless,spotify:track:5Psnhdkyanjpgc2P8A5T
 Scorpion,5,6DCZcSspjsKoFjzjrWoCdn,God's Plan,spotify:track:6DCZcSspjsKoFjzjrWoCdn,0.0332,0.754,0.449,8.29e-05,0.552,-9.211,0.109,77.169,0.357,84
 Scorpion,6,3qN5qMTKyEEmiTZD38BNTT,I'm Upset,spotify:track:3qN5qMTKyEEmiTZD38BNTT,0.279,0.899,0.586,0.0,0.0836,-7.866,0.344,150.001,0.492,72
 Scorpion,7,0zqy3ss4CwD6u4QPksS0nI,8 Out Of 10,spotify:track:0zqy3ss4CwD6u4QPksS0nI,0.161,0.529,0.69,0.0,0.498,-7.87,0.74,170.54,0.311,62
-Scorpion,8,7rC5Pl8rQSX4myONQHYPBK,Mob Ties,spotify:track:7rC5Pl8rQSX4myONQHYPBK,0.0456,0.755,0.575,0.00124,0.276,-8.393,0.0678,85.987,0.49,73
-Scorpion,9,1dUHF4RyMmMTveJ0Rby6Xm,Can’t Take A Joke,spotify:track:1dUHF4RyMmMTveJ0Rby6Xm,0.128,0.761,0.598,0.0,0.0839,-7.249,0.182,173.897,0.447,68
+Scorpion,8,7rC5Pl8rQSX4myONQHYPBK,Mob Ties,spotify:track:7rC5Pl8rQSX4myONQHYPBK,0.0456,0.755,0.575,0.00124,0.276,-8.393,0.0678,85.987,0.49,72
+Scorpion,9,1dUHF4RyMmMTveJ0Rby6Xm,Can’t Take A Joke,spotify:track:1dUHF4RyMmMTveJ0Rby6Xm,0.128,0.761,0.598,0.0,0.0839,-7.249,0.182,173.897,0.447,67
 Scorpion,10,6cblRiEGDRNZgowcm951R3,Sandra’s Rose,spotify:track:6cblRiEGDRNZgowcm951R3,0.0481,0.487,0.849,0.0,0.143,-5.432,0.246,152.093,0.52,64
 Scorpion,11,4ksuI04WMvUnJbHQjgs3L5,Talk Up (feat. Jay-Z),spotify:track:4ksuI04WMvUnJbHQjgs3L5,0.00359,0.758,0.49,6.61e-06,0.292,-9.877,0.139,140.116,0.335,61
-Scorpion,12,1Tnw0ItH1Macok8gblnPPd,Is There More,spotify:track:1Tnw0ItH1Macok8gblnPPd,0.727,0.698,0.547,0.0,0.159,-7.607,0.315,83.801,0.548,59
+Scorpion,12,1Tnw0ItH1Macok8gblnPPd,Is There More,spotify:track:1Tnw0ItH1Macok8gblnPPd,0.727,0.698,0.547,0.0,0.159,-7.607,0.315,83.801,0.548,58
 Scorpion,1,11L064movtyopGdLiX4sVg,Peak,spotify:track:11L064movtyopGdLiX4sVg,0.85,0.686,0.215,0.000123,0.106,-13.54,0.0387,91.998,0.273,61
 Scorpion,2,4HG1YiGBseVKzjyKcmAJen,Summer Games,spotify:track:4HG1YiGBseVKzjyKcmAJen,0.477,0.775,0.482,0.0456,0.11,-11.269,0.0357,136.016,0.134,62
-Scorpion,3,4c2xt1trwYZpMqPWY35Xi9,Jaded,spotify:track:4c2xt1trwYZpMqPWY35Xi9,0.037,0.766,0.271,0.0,0.175,-5.697,0.0412,116.02,0.0371,67
+Scorpion,3,4c2xt1trwYZpMqPWY35Xi9,Jaded,spotify:track:4c2xt1trwYZpMqPWY35Xi9,0.037,0.766,0.271,0.0,0.175,-5.697,0.0412,116.02,0.0371,66
 Scorpion,4,3CA9pLiwRIGtUBiMjbZmRw,Nice For What,spotify:track:3CA9pLiwRIGtUBiMjbZmRw,0.0891,0.586,0.909,0.000109,0.119,-6.474,0.0705,93.394,0.757,80
 Scorpion,5,2WP8G2pdddDmnh1xbfKBOI,Finesse,spotify:track:2WP8G2pdddDmnh1xbfKBOI,0.133,0.807,0.32,0.000328,0.101,-8.152,0.0582,94.99,0.298,71
 Scorpion,6,4SUwJA3eUVNHExxMPEUhQe,Ratchet Happy Birthday,spotify:track:4SUwJA3eUVNHExxMPEUhQe,0.106,0.657,0.571,0.00121,0.0735,-12.519,0.14,167.961,0.626,59
-Scorpion,7,41a7dZcq30Ss5kPMayWRV0,That’s How You Feel,spotify:track:41a7dZcq30Ss5kPMayWRV0,0.117,0.85,0.473,0.0105,0.108,-5.747,0.209,85.454,0.38,65
+Scorpion,7,41a7dZcq30Ss5kPMayWRV0,That’s How You Feel,spotify:track:41a7dZcq30Ss5kPMayWRV0,0.117,0.85,0.473,0.0105,0.108,-5.747,0.209,85.454,0.38,64
 Scorpion,8,4n1bdaKwynQndm47x5HqWX,Blue Tint,spotify:track:4n1bdaKwynQndm47x5HqWX,0.013,0.888,0.372,0.0,0.184,-10.254,0.358,133.998,0.123,64
 Scorpion,9,2G7V7zsVDxg1yRsu7Ew9RJ,In My Feelings,spotify:track:2G7V7zsVDxg1yRsu7Ew9RJ,0.0589,0.835,0.626,6e-05,0.396,-5.833,0.125,91.03,0.35,81
 Scorpion,10,6G8kHiVZ1jW7vHMPVRNZU0,Don’t Matter To Me (with Michael Jackson),spotify:track:6G8kHiVZ1jW7vHMPVRNZU0,0.493,0.826,0.318,0.0131,0.11,-12.391,0.0574,103.002,0.138,73
 Scorpion,11,3mvYQKm8h6M5K5h0nVPY9S,After Dark (feat. Static Major & Ty Dolla $ign),spotify:track:3mvYQKm8h6M5K5h0nVPY9S,0.0414,0.686,0.428,0.0,0.138,-13.072,0.192,141.95,0.329,62
 Scorpion,12,44Du2IM1bGY7dicmLfXbUs,Final Fantasy,spotify:track:44Du2IM1bGY7dicmLfXbUs,0.422,0.5,0.448,8.03e-06,0.115,-10.977,0.442,144.204,0.104,59
 Scorpion,13,09lmraDvzBT3pUQ2rUtJzK,March 14,spotify:track:09lmraDvzBT3pUQ2rUtJzK,0.406,0.558,0.415,0.0,0.36,-7.355,0.358,127.096,0.317,57
-More Life,1,05KOgYg8PGeJyyWBPi5ja8,Free Smoke,spotify:track:05KOgYg8PGeJyyWBPi5ja8,0.0681,0.736,0.491,0.0,0.571,-6.892,0.439,141.979,0.203,64
+More Life,1,05KOgYg8PGeJyyWBPi5ja8,Free Smoke,spotify:track:05KOgYg8PGeJyyWBPi5ja8,0.0681,0.736,0.491,0.0,0.571,-6.892,0.439,141.979,0.203,63
 More Life,2,6CfrYuD3YRDYdYvH9jNtXY,No Long Talk,spotify:track:6CfrYuD3YRDYdYvH9jNtXY,0.0671,0.913,0.608,0.0,0.533,-6.839,0.234,97.063,0.578,60
 More Life,3,5mCPDVBb16L4XQwDdbRUpz,Passionfruit,spotify:track:5mCPDVBb16L4XQwDdbRUpz,0.256,0.809,0.463,0.085,0.109,-11.377,0.0396,111.98,0.364,80
-More Life,4,13e6f8t7RKXuxZ0JdaaJRG,Jorja Interlude,spotify:track:13e6f8t7RKXuxZ0JdaaJRG,0.762,0.735,0.373,0.00202,0.288,-10.478,0.104,123.081,0.237,61
-More Life,5,7y6c07pgjZvtHI9kuMVqk1,Get It Together,spotify:track:7y6c07pgjZvtHI9kuMVqk1,0.0945,0.781,0.721,0.391,0.104,-9.133,0.0514,123.011,0.849,68
+More Life,4,13e6f8t7RKXuxZ0JdaaJRG,Jorja Interlude,spotify:track:13e6f8t7RKXuxZ0JdaaJRG,0.762,0.735,0.373,0.00202,0.288,-10.478,0.104,123.081,0.237,60
+More Life,5,7y6c07pgjZvtHI9kuMVqk1,Get It Together,spotify:track:7y6c07pgjZvtHI9kuMVqk1,0.0945,0.781,0.721,0.391,0.104,-9.133,0.0514,123.011,0.849,69
 More Life,6,76gUmNLXGQVOsGhfcshkFP,Madiba Riddim,spotify:track:76gUmNLXGQVOsGhfcshkFP,0.245,0.839,0.521,0.00545,0.607,-10.45,0.166,105.992,0.33,62
 More Life,7,2XlHu0HcujBCkWMdIAvrqt,Blem,spotify:track:2XlHu0HcujBCkWMdIAvrqt,0.0533,0.726,0.535,1.38e-05,0.0984,-7.804,0.0476,98.067,0.375,64
 More Life,8,2fkeWbM6iqTw7oGHTYm2lw,4422,spotify:track:2fkeWbM6iqTw7oGHTYm2lw,0.558,0.609,0.229,0.0413,0.113,-12.36,0.0333,111.887,0.19,62
@@ -90,10 +90,10 @@ More Life,14,6n3HGiq4v35D6eFOSwqYuo,Teenage Fever,spotify:track:6n3HGiq4v35D6eFO
 More Life,15,2jTujnt0y344ai1rNOywgr,KMT,spotify:track:2jTujnt0y344ai1rNOywgr,0.0189,0.875,0.6,0.0143,0.132,-6.818,0.0435,119.987,0.0906,62
 More Life,16,2Na0z2gfN67Rzf0vp74Wi3,Lose You,spotify:track:2Na0z2gfN67Rzf0vp74Wi3,0.699,0.526,0.583,0.0,0.372,-9.172,0.376,89.837,0.378,58
 More Life,17,5f5r2N4Lp9WoULWPH9zp2W,Can't Have Everything,spotify:track:5f5r2N4Lp9WoULWPH9zp2W,0.0136,0.856,0.572,1.55e-06,0.121,-8.429,0.373,82.445,0.454,59
-More Life,18,28irpKCCK9nn9DZSik2zEx,Glow,spotify:track:28irpKCCK9nn9DZSik2zEx,0.2,0.688,0.384,0.0,0.708,-8.824,0.375,162.098,0.432,57
-More Life,19,5JUu0unA8VwhTZ9LkMWUVI,Since Way Back,spotify:track:5JUu0unA8VwhTZ9LkMWUVI,0.348,0.468,0.266,9.55e-06,0.209,-11.121,0.13,153.294,0.222,58
+More Life,18,28irpKCCK9nn9DZSik2zEx,Glow,spotify:track:28irpKCCK9nn9DZSik2zEx,0.2,0.688,0.384,0.0,0.708,-8.824,0.375,162.098,0.432,56
+More Life,19,5JUu0unA8VwhTZ9LkMWUVI,Since Way Back,spotify:track:5JUu0unA8VwhTZ9LkMWUVI,0.348,0.468,0.266,9.55e-06,0.209,-11.121,0.13,153.294,0.222,57
 More Life,20,343YBumqHu19cGoGARUTsd,Fake Love,spotify:track:343YBumqHu19cGoGARUTsd,0.105,0.928,0.481,0.0,0.176,-9.35,0.287,134.007,0.613,75
-More Life,21,7bJ4mu7MHa3rHiNyKjOoSl,Ice Melts,spotify:track:7bJ4mu7MHa3rHiNyKjOoSl,0.08,0.813,0.551,0.0,0.386,-7.605,0.353,124.957,0.598,61
+More Life,21,7bJ4mu7MHa3rHiNyKjOoSl,Ice Melts,spotify:track:7bJ4mu7MHa3rHiNyKjOoSl,0.08,0.813,0.551,0.0,0.386,-7.605,0.353,124.957,0.598,60
 More Life,22,2KvHC9z14GSl4YpkNMX384,Do Not Disturb,spotify:track:2KvHC9z14GSl4YpkNMX384,0.246,0.618,0.693,0.0,0.112,-5.943,0.45,170.982,0.454,71
 Views,1,7sBwAWyXfiIgrYQ8BaJESH,Keep The Family Close,spotify:track:7sBwAWyXfiIgrYQ8BaJESH,0.148,0.395,0.567,0.0,0.381,-7.687,0.0529,133.403,0.186,58
 Views,2,1C7KSXR2GVxknex6I4ANco,9,spotify:track:1C7KSXR2GVxknex6I4ANco,0.000803,0.689,0.712,0.000601,0.237,-7.184,0.0451,100.004,0.0379,60
@@ -116,13 +116,13 @@ Views,18,4BhGTc3Cgay2U1QcTS7vQe,Fire & Desire,spotify:track:4BhGTc3Cgay2U1QcTS7v
 Views,19,7MjSipTto9QljYzZnloXOn,Views,spotify:track:7MjSipTto9QljYzZnloXOn,0.0657,0.426,0.852,0.0,0.262,-5.896,0.318,78.855,0.11,58
 Views,20,0wwPcA6wtMf6HUMpIRdeP7,Hotline Bling,spotify:track:0wwPcA6wtMf6HUMpIRdeP7,0.00261,0.891,0.625,0.000176,0.0504,-7.861,0.0558,134.967,0.548,76
 What A Time To Be Alive,1,0GR7iJLhj80KD5LkA14ZRn,Digital Dash,spotify:track:0GR7iJLhj80KD5LkA14ZRn,0.00296,0.881,0.546,4.72e-06,0.226,-7.566,0.12,140.032,0.276,60
-What A Time To Be Alive,2,7jslhIiELQkgW9IHeYNOWE,Big Rings,spotify:track:7jslhIiELQkgW9IHeYNOWE,0.00196,0.776,0.675,0.0,0.227,-6.224,0.266,131.984,0.27,62
+What A Time To Be Alive,2,7jslhIiELQkgW9IHeYNOWE,Big Rings,spotify:track:7jslhIiELQkgW9IHeYNOWE,0.00196,0.776,0.675,0.0,0.227,-6.224,0.266,131.984,0.27,61
 What A Time To Be Alive,3,2uTG00P1DkhB97pdITkl2O,Live From The Gutter,spotify:track:2uTG00P1DkhB97pdITkl2O,0.0369,0.824,0.49,1.24e-06,0.0807,-8.391,0.429,165.948,0.307,57
 What A Time To Be Alive,4,2AGottAzfC8bHzF7kEJ3Wa,Diamonds Dancing,spotify:track:2AGottAzfC8bHzF7kEJ3Wa,0.125,0.51,0.358,3.74e-05,0.111,-10.847,0.0467,136.036,0.171,61
 What A Time To Be Alive,5,0B5OTb36fzLayn6XQHg5A1,Scholarships,spotify:track:0B5OTb36fzLayn6XQHg5A1,0.0966,0.739,0.416,1.27e-05,0.1,-9.319,0.285,109.168,0.259,59
 What A Time To Be Alive,6,76kyKtPLsFbQkdQ86QrkF4,Plastic Bag,spotify:track:76kyKtPLsFbQkdQ86QrkF4,0.0104,0.845,0.479,1.79e-06,0.157,-6.065,0.298,170.919,0.35,57
 What A Time To Be Alive,7,6bqtKURdSWkInAJHDkuaL0,I'm The Plug,spotify:track:6bqtKURdSWkInAJHDkuaL0,0.000379,0.828,0.55,0.0016,0.134,-9.158,0.255,160.016,0.254,56
-What A Time To Be Alive,8,4gowy3WT6D1yhMLgRBlf9C,Change Locations,spotify:track:4gowy3WT6D1yhMLgRBlf9C,0.0207,0.787,0.329,2.95e-06,0.118,-9.991,0.391,137.85,0.209,56
+What A Time To Be Alive,8,4gowy3WT6D1yhMLgRBlf9C,Change Locations,spotify:track:4gowy3WT6D1yhMLgRBlf9C,0.0207,0.787,0.329,2.95e-06,0.118,-9.991,0.391,137.85,0.209,55
 What A Time To Be Alive,9,27GmP9AWRs744SzKcpJsTZ,Jumpman,spotify:track:27GmP9AWRs744SzKcpJsTZ,0.0559,0.852,0.553,0.0,0.332,-7.286,0.187,142.079,0.656,74
 What A Time To Be Alive,10,2ACys0pX0SjmpQmQWzp7wt,Jersey,spotify:track:2ACys0pX0SjmpQmQWzp7wt,0.513,0.758,0.526,0.000457,0.0913,-10.81,0.255,146.054,0.312,59
 What A Time To Be Alive,11,1DmnEYXa4WfbdhAPwNzgD8,30 for 30 Freestyle,spotify:track:1DmnEYXa4WfbdhAPwNzgD8,0.671,0.744,0.619,0.0,0.123,-9.143,0.398,89.252,0.317,54
@@ -133,14 +133,14 @@ If You're Reading This It's Too Late,4,5InOp6q2vvx0fShv3bzFLZ,Know Yourself,spot
 If You're Reading This It's Too Late,5,2durxb17bXcmQJHSt8JAdO,No Tellin',spotify:track:2durxb17bXcmQJHSt8JAdO,0.543,0.823,0.467,1.06e-06,0.135,-10.394,0.301,95.026,0.618,61
 If You're Reading This It's Too Late,6,4v7SAP4KD96BFLWiCd1vF0,Madonna,spotify:track:4v7SAP4KD96BFLWiCd1vF0,0.0149,0.905,0.492,3.77e-05,0.371,-8.598,0.0595,110.017,0.142,57
 If You're Reading This It's Too Late,7,3a8tAZFJxlmBwOtrf5L1oC,6 God,spotify:track:3a8tAZFJxlmBwOtrf5L1oC,0.0249,0.868,0.623,0.0,0.125,-8.595,0.101,105.446,0.498,62
-If You're Reading This It's Too Late,8,2mmUoyPxzbxehpfm1TpTRK,Star67,spotify:track:2mmUoyPxzbxehpfm1TpTRK,0.747,0.521,0.392,8.81e-06,0.198,-7.88,0.17,91.939,0.166,60
+If You're Reading This It's Too Late,8,2mmUoyPxzbxehpfm1TpTRK,Star67,spotify:track:2mmUoyPxzbxehpfm1TpTRK,0.747,0.521,0.392,8.81e-06,0.198,-7.88,0.17,91.939,0.166,59
 If You're Reading This It's Too Late,9,1OHoBC4icbuNhpSxP400sv,Preach,spotify:track:1OHoBC4icbuNhpSxP400sv,0.165,0.605,0.51,8.8e-05,0.104,-8.094,0.423,65.255,0.389,60
 If You're Reading This It's Too Late,10,6oLHyWvmk6bKrA91EIYZBp,Wednesday Night Interlude,spotify:track:6oLHyWvmk6bKrA91EIYZBp,0.729,0.312,0.466,7.34e-06,0.215,-8.163,0.0509,135.44,0.195,57
 If You're Reading This It's Too Late,11,63p3Slj0shAFP0Q7dQetj5,Used To,spotify:track:63p3Slj0shAFP0Q7dQetj5,0.0703,0.926,0.427,0.000337,0.0818,-7.584,0.105,96.025,0.304,58
 If You're Reading This It's Too Late,12,4kdfjhj9xNkYU0R8xlDy8k,6 Man,spotify:track:4kdfjhj9xNkYU0R8xlDy8k,0.217,0.568,0.535,0.0,0.114,-9.306,0.513,83.589,0.326,59
 If You're Reading This It's Too Late,13,4zLOwx1yRJXWkHKt1XzF1p,Now & Forever,spotify:track:4zLOwx1yRJXWkHKt1XzF1p,0.124,0.555,0.481,0.0,0.101,-7.419,0.0322,107.793,0.098,58
 If You're Reading This It's Too Late,14,6ImxYXeLDQPIv4qo7bMhSk,Company,spotify:track:6ImxYXeLDQPIv4qo7bMhSk,0.0403,0.651,0.55,0.0,0.165,-8.215,0.0496,107.567,0.119,61
-If You're Reading This It's Too Late,15,2YaDRtIlQiZ5WDDB2YuEOC,You & The 6,spotify:track:2YaDRtIlQiZ5WDDB2YuEOC,0.168,0.545,0.476,0.0,0.13,-7.444,0.284,154.362,0.223,57
+If You're Reading This It's Too Late,15,2YaDRtIlQiZ5WDDB2YuEOC,You & The 6,spotify:track:2YaDRtIlQiZ5WDDB2YuEOC,0.168,0.545,0.476,0.0,0.13,-7.444,0.284,154.362,0.223,56
 If You're Reading This It's Too Late,16,7JXZq0JgG2zTrSOAgY8VMC,Jungle,spotify:track:7JXZq0JgG2zTrSOAgY8VMC,0.62,0.697,0.235,0.000144,0.107,-8.651,0.0534,99.947,0.378,70
 If You're Reading This It's Too Late,17,5mZJwWdxAOR4xUvSGZvvMU,6PM In New York,spotify:track:5mZJwWdxAOR4xUvSGZvvMU,0.107,0.554,0.85,0.0,0.155,-4.155,0.251,128.429,0.383,54
 Nothing Was The Same (Deluxe),1,69gz9onZQNVw55cMQsaYii,Tuscan Leather,spotify:track:69gz9onZQNVw55cMQsaYii,0.114,0.432,0.681,0.0,0.236,-5.4,0.437,77.793,0.296,51
